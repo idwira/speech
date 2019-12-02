@@ -1,4 +1,4 @@
-D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I daily.mlf -S train.scp dict monophones1 
+D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe -A -D -T 1 -l */ -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I daily.mlf -S train.scp dict monophones1 
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
