@@ -14,3 +14,108 @@ HTK Configuration Parameters[10]
 #                 TARGETKIND          MFCC_0_D_N_Z
 
 Read 35 physical / 35 logical HMMs
+Label file will be used to align each file
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_028.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END tuh gua juga bisa SENT-END  ==  [166 frames] -64.4188 [Ac=-10693.5 LM=0.0] (Act=19.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_092.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END pengen part time atau intern ya kata lu mending part time intern SENT-END  ==  [518 frames] -57.8768 [Ac=-29980.2 LM=0.0] (Act=53.2)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_086.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END tentang bank bank juga ya SENT-END  ==  [206 frames] -55.5914 [Ac=-11451.8 LM=0.0] (Act=26.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_014.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END hmm iya gua belom bayar sih SENT-END  ==  [253 frames] -65.4154 [Ac=-16550.1 LM=0.0] (Act=24.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_079.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 2 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END oh iya ya SENT-END  ==  [96 frames] -60.5094 [Ac=-5808.9 LM=0.0] (Act=18.6)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_051.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END asa dari dulu kaya gitu SENT-END  ==  [141 frames] -61.5306 [Ac=-8675.8 LM=0.0] (Act=20.8)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_045.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END product manager nggak mungkin murah edan SENT-END  ==  [327 frames] -61.7672 [Ac=-20197.9 LM=0.0] (Act=33.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_7.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END oke jam tujuh ya SENT-END  ==  [187 frames] -59.7678 [Ac=-11176.6 LM=0.0] (Act=20.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_168.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END kemarin orang tua gua abis dari korea bawain oleh oleh SENT-END  ==  [339 frames] -59.0150 [Ac=-20006.1 LM=0.0] (Act=43.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_140.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END biar cepet seminar gimana ya ini dosennya mau cabut lagi SENT-END  ==  [307 frames] -61.2494 [Ac=-18803.6 LM=0.0] (Act=31.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_202.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END diajak gerak joget semua SENT-END  ==  [226 frames] -65.9688 [Ac=-14908.9 LM=0.0] (Act=33.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_216.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END eh hans ato semuanya deh SENT-END  ==  [249 frames] -68.2043 [Ac=-16982.9 LM=0.0] (Act=25.2)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_154.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END katanya anak mekanik produksinya bisa telat SENT-END  ==  [302 frames] -62.0276 [Ac=-18732.3 LM=0.0] (Act=21.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_183.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END sepuluh menit ternyata lama euy urang kira cepet gitu SENT-END  ==  [322 frames] -59.5369 [Ac=-19170.9 LM=0.0] (Act=36.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_197.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END ta gua tinggal bab tiga sama presentasi aja udah siap seminar nih SENT-END  ==  [410 frames] -60.9155 [Ac=-24975.4 LM=0.0] (Act=24.6)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_34.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END robot kita tuh kontrolnya ada yang delay gak sih SENT-END  ==  [322 frames] -61.6199 [Ac=-19841.6 LM=0.0] (Act=23.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_059.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END ada yang ikut sekitar dua belas orang tapi banyakan kelas sepuluh sih SENT-END  ==  [431 frames] -58.5373 [Ac=-25229.6 LM=0.0] (Act=70.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_20.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END kunci kosan gua masih ngegantung di pintu SENT-END  ==  [329 frames] -60.5130 [Ac=-19908.8 LM=0.0] (Act=24.8)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_065.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+SENT-END sebenarnya potensinya tu bagus SENT-END  ==  [222 frames] -56.9837 [Ac=-12650.4 LM=0.0] (Act=40.2)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_071.mfc
