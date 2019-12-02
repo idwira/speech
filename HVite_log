@@ -1,4 +1,4 @@
-HVite -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I daily.mlf -S train.scp dict_sp monophones1 
+D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I daily.mlf -S train.scp dict_sp monophones1 
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
@@ -17,105 +17,162 @@ Read 35 physical / 35 logical HMMs
 Label file will be used to align each file
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_028.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END tuh gua juga bisa SENT-END  ==  [166 frames] -64.4188 [Ac=-10693.5 LM=0.0] (Act=19.3)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_092.mfc
 Created lattice with 14 nodes / 13 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END pengen part time atau intern ya kata lu mending part time intern SENT-END  ==  [518 frames] -57.8768 [Ac=-29980.2 LM=0.0] (Act=53.2)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_086.mfc
 Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END tentang bank bank juga ya SENT-END  ==  [206 frames] -55.5914 [Ac=-11451.8 LM=0.0] (Act=26.4)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_014.mfc
 Created lattice with 8 nodes / 7 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END hmm iya gua belom bayar sih SENT-END  ==  [253 frames] -65.4154 [Ac=-16550.1 LM=0.0] (Act=24.4)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_079.mfc
 Created lattice with 5 nodes / 4 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 2 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 2 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END oh iya ya SENT-END  ==  [96 frames] -60.5094 [Ac=-5808.9 LM=0.0] (Act=18.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_051.mfc
 Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END asa dari dulu kaya gitu SENT-END  ==  [141 frames] -61.5306 [Ac=-8675.8 LM=0.0] (Act=20.8)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_045.mfc
 Created lattice with 8 nodes / 7 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END product manager nggak mungkin murah edan SENT-END  ==  [327 frames] -61.7672 [Ac=-20197.9 LM=0.0] (Act=33.4)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_7.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END oke jam tujuh ya SENT-END  ==  [187 frames] -59.7678 [Ac=-11176.6 LM=0.0] (Act=20.4)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_168.mfc
 Created lattice with 12 nodes / 11 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END kemarin orang tua gua abis dari korea bawain oleh oleh SENT-END  ==  [339 frames] -59.0150 [Ac=-20006.1 LM=0.0] (Act=43.5)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_140.mfc
 Created lattice with 12 nodes / 11 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END biar cepet seminar gimana ya ini dosennya mau cabut lagi SENT-END  ==  [307 frames] -61.2494 [Ac=-18803.6 LM=0.0] (Act=31.1)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_202.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END diajak gerak joget semua SENT-END  ==  [226 frames] -65.9688 [Ac=-14908.9 LM=0.0] (Act=33.9)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_216.mfc
 Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END eh hans ato semuanya deh SENT-END  ==  [249 frames] -68.2043 [Ac=-16982.9 LM=0.0] (Act=25.2)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_154.mfc
 Created lattice with 8 nodes / 7 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END katanya anak mekanik produksinya bisa telat SENT-END  ==  [302 frames] -62.0276 [Ac=-18732.3 LM=0.0] (Act=21.4)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_183.mfc
 Created lattice with 11 nodes / 10 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END sepuluh menit ternyata lama euy urang kira cepet gitu SENT-END  ==  [322 frames] -59.5369 [Ac=-19170.9 LM=0.0] (Act=36.5)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_197.mfc
 Created lattice with 14 nodes / 13 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END ta gua tinggal bab tiga sama presentasi aja udah siap seminar nih SENT-END  ==  [410 frames] -60.9155 [Ac=-24975.4 LM=0.0] (Act=24.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_34.mfc
 Created lattice with 11 nodes / 10 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END robot kita tuh kontrolnya ada yang delay gak sih SENT-END  ==  [322 frames] -61.6199 [Ac=-19841.6 LM=0.0] (Act=23.9)
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END robot kita tuh kontrolnya ada yang delay gak sih SENT-END  ==  [322 frames] -61.6200 [Ac=-19841.6 LM=0.0] (Act=23.9)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_059.mfc
 Created lattice with 14 nodes / 13 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END ada yang ikut sekitar dua belas orang tapi banyakan kelas sepuluh sih SENT-END  ==  [431 frames] -58.5373 [Ac=-25229.6 LM=0.0] (Act=70.5)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_20.mfc
 Created lattice with 9 nodes / 8 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END kunci kosan gua masih ngegantung di pintu SENT-END  ==  [329 frames] -60.5130 [Ac=-19908.8 LM=0.0] (Act=24.8)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_065.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
 SENT-END sebenarnya potensinya tu bagus SENT-END  ==  [222 frames] -56.9837 [Ac=-12650.4 LM=0.0] (Act=40.2)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_071.mfc
+Created lattice with 28 nodes / 27 arcs from label file
+ WARNING [-8221]  InitPronHolders: Total of 5 duplicate pronunciations removed in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+No tokens survived to final node of network at beam 250.0
+SENT-END jadi kayak apa kayak oh kayak nanti nanti ganti mahasiswanya materinya ini yang dikasih ntar sudut pandangnya ganti lagi gitu oh jadi nggak komprehensif gitu sih SENT-END  ==  [1277 frames] -55.7741 [Ac=-71223.5 LM=0.0] (Act=64.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_148.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END lix nyiapin cadangan ta nggak SENT-END  ==  [235 frames] -66.5612 [Ac=-15641.9 LM=0.0] (Act=21.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_174.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END okei jadinya berapa lembar tuh SENT-END  ==  [296 frames] -64.1658 [Ac=-18993.1 LM=0.0] (Act=23.8)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_160.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END okei malem boleh SENT-END  ==  [185 frames] -60.7287 [Ac=-11234.8 LM=0.0] (Act=21.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_119.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END udah lama gua pengen makanan yang enak SENT-END  ==  [465 frames] -57.4723 [Ac=-26724.6 LM=0.0] (Act=50.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_125.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END udah lah cukup cape lix SENT-END  ==  [216 frames] -62.8817 [Ac=-13582.5 LM=0.0] (Act=19.0)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_131.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END kan bisa dipotong gitu ini nggak ada yang bisa di SENT-END  ==  [323 frames] -59.3576 [Ac=-19172.5 LM=0.0] (Act=34.0)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_130.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END nggak apa apa males SENT-END  ==  [238 frames] -57.1985 [Ac=-13613.2 LM=0.0] (Act=26.6)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_124.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END semangat ayo maba maba SENT-END  ==  [338 frames] -58.5392 [Ac=-19786.3 LM=0.0] (Act=23.7)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_118.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END jauh pesen grab nanti harus diambilnya ke depan SENT-END  ==  [388 frames] -60.6547 [Ac=-23534.0 LM=0.0] (Act=43.0)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_161.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+ WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in D:\ITB\Kuliah\Semester 7\Speech Processing\Tugas\Tubes\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END pr setau gua cuma ml sama speech aja sih SENT-END  ==  [317 frames] -65.6196 [Ac=-20801.4 LM=0.0] (Act=26.7)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_175.mfc
