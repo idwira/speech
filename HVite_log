@@ -1,4 +1,4 @@
-HVite -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I daily.mlf -S train.scp dict_sp monophones1 
+D:\YORA\kuliah\kelas\semester7\Speech\tugas\TUBES1\windows\voxforge\bin\htk\bin.win32\HVite.exe -A -D -T 1 -l * -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I daily.mlf -S train.scp dict_sp monophones1 
 
 HTK Configuration Parameters[10]
   Module/Tool     Parameter                  Value
@@ -17,105 +17,195 @@ Read 35 physical / 35 logical HMMs
 Label file will be used to align each file
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_028.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END tuh gua juga bisa SENT-END  ==  [166 frames] -64.4188 [Ac=-10693.5 LM=0.0] (Act=19.3)
+SENT-END tuh gua juga bisa SENT-END  ==  [166 frames] -64.1553 [Ac=-10649.8 LM=0.0] (Act=20.0)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_092.mfc
 Created lattice with 14 nodes / 13 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END pengen part time atau intern ya kata lu mending part time intern SENT-END  ==  [518 frames] -57.8768 [Ac=-29980.2 LM=0.0] (Act=53.2)
+SENT-END pengen part time atau intern ya kata lu mending part time intern SENT-END  ==  [518 frames] -57.2366 [Ac=-29648.6 LM=0.0] (Act=51.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_086.mfc
 Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END tentang bank bank juga ya SENT-END  ==  [206 frames] -55.5914 [Ac=-11451.8 LM=0.0] (Act=26.4)
+SENT-END tentang bank bank juga ya SENT-END  ==  [206 frames] -54.5014 [Ac=-11227.3 LM=0.0] (Act=26.7)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_014.mfc
 Created lattice with 8 nodes / 7 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END hmm iya gua belom bayar sih SENT-END  ==  [253 frames] -65.4154 [Ac=-16550.1 LM=0.0] (Act=24.4)
+SENT-END hmm iya gua belom bayar sih SENT-END  ==  [253 frames] -65.3307 [Ac=-16528.7 LM=0.0] (Act=24.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_079.mfc
 Created lattice with 5 nodes / 4 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 2 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END oh iya ya SENT-END  ==  [96 frames] -60.5094 [Ac=-5808.9 LM=0.0] (Act=18.6)
+SENT-END oh iya ya SENT-END  ==  [96 frames] -60.1841 [Ac=-5777.7 LM=0.0] (Act=19.3)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_051.mfc
 Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END asa dari dulu kaya gitu SENT-END  ==  [141 frames] -61.5306 [Ac=-8675.8 LM=0.0] (Act=20.8)
+SENT-END asa dari dulu kaya gitu SENT-END  ==  [141 frames] -61.5530 [Ac=-8679.0 LM=0.0] (Act=21.2)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_045.mfc
 Created lattice with 8 nodes / 7 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END product manager nggak mungkin murah edan SENT-END  ==  [327 frames] -61.7672 [Ac=-20197.9 LM=0.0] (Act=33.4)
+SENT-END product manager nggak mungkin murah edan SENT-END  ==  [327 frames] -60.9981 [Ac=-19946.4 LM=0.0] (Act=32.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_7.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END oke jam tujuh ya SENT-END  ==  [187 frames] -59.7678 [Ac=-11176.6 LM=0.0] (Act=20.4)
+SENT-END oke jam tujuh ya SENT-END  ==  [187 frames] -59.0174 [Ac=-11036.3 LM=0.0] (Act=19.0)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_168.mfc
 Created lattice with 12 nodes / 11 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END kemarin orang tua gua abis dari korea bawain oleh oleh SENT-END  ==  [339 frames] -59.0150 [Ac=-20006.1 LM=0.0] (Act=43.5)
+SENT-END kemarin orang tua gua abis dari korea bawain oleh oleh SENT-END  ==  [339 frames] -59.0344 [Ac=-20012.7 LM=0.0] (Act=43.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_140.mfc
 Created lattice with 12 nodes / 11 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END biar cepet seminar gimana ya ini dosennya mau cabut lagi SENT-END  ==  [307 frames] -61.2494 [Ac=-18803.6 LM=0.0] (Act=31.1)
+SENT-END biar cepet seminar gimana ya ini dosennya mau cabut lagi SENT-END  ==  [307 frames] -61.2162 [Ac=-18793.4 LM=0.0] (Act=32.5)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_202.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END diajak gerak joget semua SENT-END  ==  [226 frames] -65.9688 [Ac=-14908.9 LM=0.0] (Act=33.9)
+SENT-END diajak gerak joget semua SENT-END  ==  [226 frames] -65.5943 [Ac=-14824.3 LM=0.0] (Act=33.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_216.mfc
 Created lattice with 7 nodes / 6 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END eh hans ato semuanya deh SENT-END  ==  [249 frames] -68.2043 [Ac=-16982.9 LM=0.0] (Act=25.2)
+SENT-END eh hans ato semuanya deh SENT-END  ==  [249 frames] -67.8018 [Ac=-16882.7 LM=0.0] (Act=24.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_154.mfc
 Created lattice with 8 nodes / 7 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END katanya anak mekanik produksinya bisa telat SENT-END  ==  [302 frames] -62.0276 [Ac=-18732.3 LM=0.0] (Act=21.4)
+SENT-END katanya anak mekanik produksinya bisa telat SENT-END  ==  [302 frames] -61.9586 [Ac=-18711.5 LM=0.0] (Act=21.1)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_183.mfc
 Created lattice with 11 nodes / 10 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END sepuluh menit ternyata lama euy urang kira cepet gitu SENT-END  ==  [322 frames] -59.5369 [Ac=-19170.9 LM=0.0] (Act=36.5)
+SENT-END sepuluh menit ternyata lama euy urang kira cepet gitu SENT-END  ==  [322 frames] -59.5581 [Ac=-19177.7 LM=0.0] (Act=37.1)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_197.mfc
 Created lattice with 14 nodes / 13 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END ta gua tinggal bab tiga sama presentasi aja udah siap seminar nih SENT-END  ==  [410 frames] -60.9155 [Ac=-24975.4 LM=0.0] (Act=24.6)
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\YORA\kuliah\kelas\semester7\Speech\tugas\TUBES1\windows\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END ta gua tinggal bab tiga sama presentasi aja udah siap seminar nih SENT-END  ==  [410 frames] -60.9454 [Ac=-24987.6 LM=0.0] (Act=24.0)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_34.mfc
 Created lattice with 11 nodes / 10 arcs from label file
- WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END robot kita tuh kontrolnya ada yang delay gak sih SENT-END  ==  [322 frames] -61.6199 [Ac=-19841.6 LM=0.0] (Act=23.9)
+SENT-END robot kita tuh kontrolnya ada yang delay gak sih SENT-END  ==  [322 frames] -60.9611 [Ac=-19629.5 LM=0.0] (Act=23.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_059.mfc
 Created lattice with 14 nodes / 13 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END ada yang ikut sekitar dua belas orang tapi banyakan kelas sepuluh sih SENT-END  ==  [431 frames] -58.5373 [Ac=-25229.6 LM=0.0] (Act=70.5)
+ WARNING [-8221]  InitPronHolders: Total of 1 duplicate pronunciations removed in D:\YORA\kuliah\kelas\semester7\Speech\tugas\TUBES1\windows\voxforge\bin\htk\bin.win32\HVite.exe
+SENT-END ada yang ikut sekitar dua belas orang tapi banyakan kelas sepuluh sih SENT-END  ==  [431 frames] -58.5310 [Ac=-25226.8 LM=0.0] (Act=74.3)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_20.mfc
 Created lattice with 9 nodes / 8 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END kunci kosan gua masih ngegantung di pintu SENT-END  ==  [329 frames] -60.5130 [Ac=-19908.8 LM=0.0] (Act=24.8)
+SENT-END kunci kosan gua masih ngegantung di pintu SENT-END  ==  [329 frames] -59.9048 [Ac=-19708.7 LM=0.0] (Act=22.6)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_065.mfc
 Created lattice with 6 nodes / 5 arcs from label file
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
- WARNING [-8232]  ExpandWordNet: Pronunciation 1 of SENT-END is 'tee' word in HVite
-SENT-END sebenarnya potensinya tu bagus SENT-END  ==  [222 frames] -56.9837 [Ac=-12650.4 LM=0.0] (Act=40.2)
+SENT-END sebenarnya potensinya tu bagus SENT-END  ==  [222 frames] -55.9770 [Ac=-12426.9 LM=0.0] (Act=44.4)
 Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_071.mfc
+Created lattice with 28 nodes / 27 arcs from label file
+No tokens survived to final node of network at beam 250.0
+SENT-END jadi kayak apa kayak <oh> kayak nanti nanti ganti mahasiswanya materinya ini yang dikasih ntar sudut pandangnya ganti lagi gitu <oh> jadi nggak komprehensif gitu sih SENT-END  ==  [1277 frames] -55.5744 [Ac=-70968.5 LM=0.0] (Act=64.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_148.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END lix nyiapin cadangan ta nggak SENT-END  ==  [235 frames] -65.9051 [Ac=-15487.7 LM=0.0] (Act=20.0)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_174.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END okei jadinya berapa lembar tuh SENT-END  ==  [296 frames] -63.0638 [Ac=-18666.9 LM=0.0] (Act=21.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_160.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END okei malem boleh SENT-END  ==  [185 frames] -60.7450 [Ac=-11237.8 LM=0.0] (Act=22.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_119.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END udah lama gua pengen makanan yang enak SENT-END  ==  [465 frames] -56.8541 [Ac=-26437.2 LM=0.0] (Act=47.7)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_125.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END udah lah cukup cape lix SENT-END  ==  [216 frames] -62.4451 [Ac=-13488.2 LM=0.0] (Act=19.2)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_131.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END kan bisa dipotong gitu ini nggak ada yang bisa di SENT-END  ==  [323 frames] -59.0522 [Ac=-19073.9 LM=0.0] (Act=34.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_130.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+SENT-END nggak apa apa males SENT-END  ==  [238 frames] -56.7597 [Ac=-13508.8 LM=0.0] (Act=36.0)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_124.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+SENT-END semangat ayo maba maba SENT-END  ==  [338 frames] -58.1230 [Ac=-19645.6 LM=0.0] (Act=25.2)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_118.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END jauh pesen grab nanti harus diambilnya ke depan SENT-END  ==  [388 frames] -60.4185 [Ac=-23442.4 LM=0.0] (Act=42.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_161.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END pr setau gua cuma ml sama speech aja sih SENT-END  ==  [317 frames] -65.6746 [Ac=-20818.9 LM=0.0] (Act=26.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_175.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END kok sedikit kan ada lima enam kemungkinan SENT-END  ==  [313 frames] -64.6055 [Ac=-20221.5 LM=0.0] (Act=29.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_149.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END jadi pilihan dua sampe lima diisi apa SENT-END  ==  [307 frames] -66.4857 [Ac=-20411.1 LM=0.0] (Act=15.8)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_070.mfc
+Created lattice with 32 nodes / 31 arcs from label file
+SENT-END tapi sebenarnya yang kayak kayak apa lembaga lembaga yang kayak pelatihan osn dot com dan seterusnya gitu kebanyakan apanya sumbernya tu dari mahasiswa gitu kan jadi takutnya kurang komprehensif gitu SENT-END  ==  [1742 frames] -55.9626 [Ac=-97486.9 LM=0.0] (Act=64.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_064.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+SENT-END cuman karena apa aja nyo kayak kurang kurang gimana ya SENT-END  ==  [501 frames] -56.8397 [Ac=-28476.7 LM=0.0] (Act=54.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_21.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END tolong kunciin terus simpenin dong SENT-END  ==  [271 frames] -58.6978 [Ac=-15907.1 LM=0.0] (Act=18.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_35.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+SENT-END robot nelpon apaan dah SENT-END  ==  [219 frames] -58.9656 [Ac=-12913.5 LM=0.0] (Act=26.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516045_058.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+No tokens survived to final node of network at beam 250.0
+SENT-END yang ngadain tu matematika ugm seleksi padang seleksinya tu di stkip SENT-END  ==  [640 frames] -58.3944 [Ac=-37372.4 LM=0.0] (Act=91.7)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_196.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END gua skip dulu deh mau nubes SENT-END  ==  [222 frames] -59.0937 [Ac=-13118.8 LM=0.0] (Act=31.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_182.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END belum baru tujuh menitan lebih dikit SENT-END  ==  [213 frames] -60.4124 [Ac=-12867.9 LM=0.0] (Act=22.8)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_217.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+SENT-END ada ide supaya ketua konser bisa dikasih apa ya biar termotivasi bekerja SENT-END  ==  [466 frames] -67.6559 [Ac=-31527.6 LM=0.0] (Act=22.6)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_155.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END kalo dari programming harusnya deadlinenya bisa tercapai SENT-END  ==  [430 frames] -61.8090 [Ac=-26577.9 LM=0.0] (Act=35.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_141.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END laper dah mau gofood ga SENT-END  ==  [179 frames] -58.5433 [Ac=-10479.3 LM=0.0] (Act=30.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_203.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END aku di sini gak main piano nemenin doang SENT-END  ==  [280 frames] -63.7298 [Ac=-17844.3 LM=0.0] (Act=25.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_169.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END besok bisa kerja kelompok ga SENT-END  ==  [203 frames] -60.6991 [Ac=-12321.9 LM=0.0] (Act=27.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_044.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END tapi ini product manager loh SENT-END  ==  [202 frames] -61.7562 [Ac=-12474.8 LM=0.0] (Act=22.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_6.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END boleh nanti sore aja di kosan gua SENT-END  ==  [356 frames] -59.1782 [Ac=-21067.4 LM=0.0] (Act=24.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_050.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END kok agate jadi lumayan sih webnya tapi SENT-END  ==  [337 frames] -58.4177 [Ac=-19686.8 LM=0.0] (Act=30.6)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_078.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+SENT-END itb memang kampus kecil kampus negeri yang paling kecil SENT-END  ==  [384 frames] -61.8995 [Ac=-23769.4 LM=0.0] (Act=50.8)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_087.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+SENT-END tapi ada warming up dulu ada trainingnya dulu SENT-END  ==  [400 frames] -57.7451 [Ac=-23098.0 LM=0.0] (Act=27.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_015.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+SENT-END tapi ini mah sistemnya SENT-END  ==  [177 frames] -67.0686 [Ac=-11871.1 LM=0.0] (Act=11.6)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_001.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+SENT-END eh lix gimana frsnya SENT-END  ==  [305 frames] -60.9405 [Ac=-18586.8 LM=0.0] (Act=14.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_093.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+SENT-END kalau part time kalau lu nggak pengen mengambil tanggung jawab besar intern saja SENT-END  ==  [588 frames] -61.5089 [Ac=-36167.3 LM=0.0] (Act=72.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_029.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+SENT-END soalnya dia mau bahasa jepang SENT-END  ==  [214 frames] -63.5534 [Ac=-13600.4 LM=0.0] (Act=26.7)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_017.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END oh iya SENT-END  ==  [130 frames] -60.2228 [Ac=-7829.0 LM=0.0] (Act=14.5)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_085.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END idenya apa dick SENT-END  ==  [196 frames] -55.8039 [Ac=-10937.6 LM=0.0] (Act=25.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_091.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END kan kita daftar dulu udah itu dia ada pemanasan gitu katanya SENT-END  ==  [639 frames] -58.7458 [Ac=-37538.6 LM=0.0] (Act=27.0)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_003.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END harusnya gampang sih SENT-END  ==  [188 frames] -64.1664 [Ac=-12063.3 LM=0.0] (Act=14.1)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_4.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+SENT-END sama belum juga gua SENT-END  ==  [248 frames] -55.3484 [Ac=-13726.4 LM=0.0] (Act=19.2)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_046.mfc
+Created lattice with 4 nodes / 3 arcs from label file
+SENT-END intern itu SENT-END  ==  [167 frames] -56.5270 [Ac=-9440.0 LM=0.0] (Act=19.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516041_052.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+SENT-END jadi jelek ini infonya nggak kebaca SENT-END  ==  [264 frames] -59.4850 [Ac=-15704.0 LM=0.0] (Act=34.9)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_229.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+SENT-END gerakannya lebih bagus dari kita semua di dua tahun yang lalu SENT-END  ==  [330 frames] -67.0115 [Ac=-22113.8 LM=0.0] (Act=24.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516043_157.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+SENT-END tumben lu ga main futsal hari jumat SENT-END  ==  [242 frames] -59.5456 [Ac=-14410.0 LM=0.0] (Act=26.3)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_215.mfc
+Created lattice with 5 nodes / 4 arcs from label file
+SENT-END eh banyaknya drakor SENT-END  ==  [172 frames] -65.6384 [Ac=-11289.8 LM=0.0] (Act=24.4)
+Aligning File: ../_DATA/Audio/mfcc/K-7/13516047_201.mfc

@@ -359,6 +359,7 @@ begini b @ g i n i sp
 begitu b @ g i t u sp
 bekerja b @ k @ r j a sp
 bela b e l a sp
+belas b @ l a s sp
 belajar b @ l a j a r sp
 belakang b @ l a k a ng sp
 belakangan b @ l a k a ng a n sp
@@ -1117,6 +1118,7 @@ foto f o t o sp
 fotokopi f o t o k o p i sp
 four f o r sp
 front f r o n sp
+frsnya e f e r e s ny a sp
 full f u l sp
 full f u l l sp
 fun f a n sp
@@ -2421,6 +2423,7 @@ negeri n @ g r i sp
 negeri n e g @ r i sp
 nelpon n e l p o n sp
 nembakin n @ m b a k i n sp
+nemenin n @ m @ n i n sp
 nempel n e m p e l sp
 nemu n @ m u sp
 nemuin n @ m u i n sp
@@ -3287,6 +3290,8 @@ sengaja s @ ng a j a sp
 seni s e n i sp
 senin s e n i n sp
 senjata s @ n j a t a sp
+SENT-END sil
+SENT-START sil
 seorang s @ o r a ng sp
 sepatu s @ p a t u sp
 sepatumu s @ p a t u m u sp
@@ -3906,5 +3911,4 @@ zaman j a m a n sp
 zaman z a m a n sp
 zi z i sp
 zombieland z o m b i l e n sp
-SENT-END sp
-SENT-START sp
+
