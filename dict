@@ -1,5 +1,5 @@
-SENT-END sil sp
-SENT-START sil sp
+SENT-END sil
+SENT-START sil
 a a sp
 aa a a sp
 abed a b e t sp
@@ -113,7 +113,7 @@ anti a n t i sp
 antman e n m e n sp
 antri a n t r i sp
 apa a p a sp
-apa-apa a p a a p asp
+apa-apa a p a a p a sp
 apaan a p a a n sp
 apaan a p a sip a n sp
 apah a p a h sp
@@ -434,7 +434,7 @@ bersepeda b @ r s @ p e d a sp
 bersepeda b @ r s e p e d a sp
 bersih b @ r s i h sp
 bersihin b @ r s i h i n sp
-bersipekulasi b @ r s p @ k u l a s i sp
+berspekulasi b @ r s p @ k u l a s i sp
 bersyukur b @ r sy u k u r sp
 bertanggung b @ r t a ng g u ng sp
 bertanya b @ r t a ny a sp
@@ -1050,7 +1050,7 @@ eh e h sp
 ehem e h e m sp
 ekor e k o r sp
 eksekusi e k s e k u s i sp
-eksipektasi @ k s p @ k t a s i sp
+ekspektasi @ k s p @ k t a s i sp
 elektronik e l e k t r o n i k sp
 ellen e l l @ n sp
 elu @ l u sp
@@ -1406,7 +1406,7 @@ inisiasi i n i s i a s i sp
 inisiatif i n i s i a t i f sp
 innovation i n o v e s i @ n sp
 input i n p u t sp
-insipirasi i n s p i r a s i sp
+inspirasi i n s p i r a s i sp
 instagram i n s t a g r a m sp
 install i n s t a l sp
 install i n s t o l sp
@@ -1821,7 +1821,7 @@ ketutup k e t u t u p sp
 kevin k @ f i n sp
 key k i y sp
 kfc k e sip e f s i sp
-khan kh a nsp
+khan kh a n sp
 khas kh a s sp
 khawatir kh a w a t i r sp
 khusus k h u s u s sp
@@ -1871,7 +1871,7 @@ koneksinya k o n e k s i ny a sp
 konsentrasi k o n s e n t r a s i sp
 konsep k o n s e p sp
 konser k o n s e r sp
-konsipirasi k o n s p i r a s i sp
+konspirasi k o n s p i r a s i sp
 kontennya k o n t e n ny a sp
 kontrolnya k o n t r o l ny a sp
 kopi k o p i sp
@@ -2735,8 +2735,8 @@ oreo o r e o sp
 organigram o r g a n i g r a m sp
 osk o sip e s sip k a sp
 osn o sip e s sip e n sp
-osip o sip e s sip p e sp
-osipek o s p e k sp
+osp o sip e s sip p e sp
+ospek o s p e k sp
 otaknya o t a k ny a sp
 otomatis o t o m a t i s sp
 otw o sip t e sip w e sp
@@ -2808,8 +2808,8 @@ pasar p a s a r sp
 pasca p a s c a sp
 pasir p a s i r sp
 paskal p a s k a l sp
-pasipor p a s p o r sp
-pasipornya p a s p o r ny a sp
+paspor p a s p o r sp
+paspornya p a s p o r ny a sp
 pasta p a s t a sp
 pasti p a s t i sp
 pastinya p a s t i ny a sp
@@ -3561,13 +3561,13 @@ sori s o r i sp
 sorry s o r i sp
 sosial s o s i a l sp
 sosok s o s o k sp
-sipeakerin s p e a k @ r i n sp
-sipecificity sip e s i f i s i t i sp
-sipeech s p i c h sp
-sipeech s p i j sp
-sipeknya s p e k ny a sp
-sipesial s p e s y a l sp
-sipoiler s p o i l @ r sp
+speakerin s p e a k @ r i n sp
+specificity sip e s i f i s i t i sp
+speech s p i c h sp
+speech s p i j sp
+speknya s p e k ny a sp
+spesial s p e s y a l sp
+spoiler s p o i l @ r sp
 standar s t a n d a r sp
 stark s t a r @ k sp
 startup s t a r t a p sp
@@ -3867,8 +3867,8 @@ transformasiin t r a n s f o r m a s i i n sp
 transformasinya t r a n s f o r m a s i ny a sp
 transformer t r a n s f o r m @ r sp
 transkrip t r a n s k r i p sp
-transiportasi t r a n s p o r t a s i sp
-transiportasinya t r a n s p o r t a s i ny a sp
+transportasi t r a n s p o r t a s i sp
+transportasinya t r a n s p o r t a s i ny a sp
 traumanya t r a u m a n y a sp
 travel t r e v @ l sp
 traveloka t r a v @ l o k a sp
