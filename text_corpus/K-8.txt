@@ -231,7 +231,7 @@
 <s> tapi kan itu apa ya </s>
 <s> dik cari lomba yang bisnis aja dik </s>
 <s> gua ga sih </s>
-<s> dik TA gimana </s>
+<s> dik ta gimana </s>
 <s> gabut </s>
 <s> kata pak utama aku juli lulusnya </s>
 <s> tentu saja belum </s>
@@ -240,19 +240,19 @@
 <s> mau bimbingan hari ini ga </s>
 <s> iya yang pemain badminton itu mau nonton bareng ga </s>
 <s> iya </s>
-<s> jadi kaya kemarin DSDM </s>
+<s> jadi kaya kemarin dsdm </s>
 <s> dik mau lulus </s>
 <s> iya sih </s>
 <s> ya udah lah utang doang </s>
 <s> kemarin gua waktu meeting sama kuizo si jessin udah apply apa shopee google gojek </s>
 <s> seratus digit keduanya angka satu </s>
-<s> oh iya waktu liburan pun ngerjain TA </s>
+<s> oh iya waktu liburan pun ngerjain ta </s>
 <s> kemarin juga gua chatting sama tirta ko </s>
 <s> emang kalau mau pesan tiket harus ada paspornya dulu </s>
 <s> ko liatnya di situ sih </s>
 <s> iya </s>
 <s> karena ini bukan hackathon bukan data data datathon biasa ya </s>
-<s> KP gimana lix KP </s>
+<s> kp gimana lix kp </s>
 <s> lulus oktober keren </s>
 <s> awalnya gua pake apa ya ngerjain vue </s>
 <s> bisa boleh yuk </s>
@@ -263,16 +263,16 @@
 <s> biar dua puluh lu butuh juga kan dik </s>
 <s> sama </s>
 <s> ya kan kita udah terlanjur jadi ya udah lah </s>
-<s> ya gitu kemarin kan DSDM kan seratus digit yang data pertamanya angka nol pasti </s>
+<s> ya gitu kemarin kan dsdm kan seratus digit yang data pertamanya angka nol pasti </s>
 <s> pa catur kosong setengah jam lagi </s>
 <s> yaudah dikelompokin dulu </s>
 <s> terus kenapa lu masukkin omongan lu yang itu ke sini </s>
-<s> ke URPA yuk pengen ketemu tirta </s>
-<s> KP dulu aja KP dulu </s>
+<s> ke urpa yuk pengen ketemu tirta </s>
+<s> kp dulu aja kp dulu </s>
 <s> oh iya makasih ya </s>
 <s> kata bapanya jangan diburu-buru rumusin masalahnya </s>
 <s> oke </s>
-<s> bentar lagi deadline BRI hackathon </s>
+<s> bentar lagi deadline bri hackathon </s>
 <s> gua langsung gojek ke sini terus pa caturnya juga ga ada lagi rapat </s>
 <s> besok mau ikut pergi ga </s>
 <s> oh oke gua juga deh sekalian </s>
@@ -296,9 +296,9 @@
 <s> kan katanya dua puluh satu tahun baru berhenti </s>
 <s> by the way kenapa searchnya blockchain </s>
 <s> kalo ga banyak pasti ga enak </s>
-<s> ini kan kalau di post di STEI ga keren </s>
+<s> ini kan kalau di post di stei ga keren </s>
 <s> padahal gua kira anak delapan belas tuh capa </s>
-<s> buat ngerjain DSDM </s>
+<s> buat ngerjain dsdm </s>
 <s> gimana tuh </s>
 <s> masa mau diulang lagi </s>
 <s> beda gitu kasusnya </s>
@@ -306,7 +306,7 @@
 <s> tapi maksudnya tidak tidak seindah kata-kata di awal </s>
 <s> yaudah digituin aja iya ga sih </s>
 <s> dik lu udah nyari full time belum </s>
-<s> kan januari kalau URPA turun </s>
+<s> kan januari kalau urpa turun </s>
 <s> berisik </s>
 <s> gabut lah istirahat </s>
 <s> tapi itu semua kebohongan </s>
@@ -318,9 +318,9 @@
 <s> kan indonesia pemerintahan hehe </s>
 <s> halo kenalin gua dicky </s>
 <s> oh iya berenang yuk </s>
-<s> KP gua bentar lagi kelar loh lix </s>
+<s> kp gua bentar lagi kelar loh lix </s>
 <s> lix kapan ikut lomba lagi </s>
-<s> ML udah beres tubesnya </s>
+<s> ml udah beres tubesnya </s>
 <s> kalau kalau lu ganti paspor lu nomornya emang ganti ya </s>
 <s> ini juga udah natural </s>
 <s> felix kamu udah bimbingan sama pa catur </s>
@@ -335,7 +335,7 @@
 <s> by the way lu udah nemu permasalahan yang mau diselesaiin lix </s>
 <s> enakan laptopnya ferdi dielus-elus </s>
 <s> berapa kali bimbingannya </s>
-<s> Felix RPLSD Udah ada Kelompok </s>
+<s> felix rplsd udah ada kelompok </s>
 <s> terus pa dickynya ternyata di lantai dua </s>
 <s> beda gitu maksudnya lu dikasih titik baru gitu </s>
 <s> taichan banyak pecinnya jadi enak </s>
@@ -345,9 +345,9 @@
 <s> yuk sekelompok </s>
 <s> lu lagi kosong ga mungkin kita bisa diskusi dulu sebelum bimbingan </s>
 <s> jalan ke mall yuk </s>
-<s> kan kemarin di DSDM juga udah dibikin </s>
-<s> dia ngechat yang bikin eh postingan di IG URPA tuh anak delapan belas bukan capa </s>
-<s> UAS kapan sih </s>
+<s> kan kemarin di dsdm juga udah dibikin </s>
+<s> dia ngechat yang bikin eh postingan di ig urpa tuh anak delapan belas bukan capa </s>
+<s> uas kapan sih </s>
 <s> oh oke deh </s>
 <s> sekarang dua ribu sembilan belas </s>
 <s> curang ko bisa sih cepet banget </s>
@@ -368,7 +368,7 @@
 <s> ini hari apa sih </s>
 <s> bikin slide gitu ga </s>
 <s> bagus enak dielus-elus </s>
-<s> lebih mudah kalau ada anak STI nya kalau ga ada susah kita ga ngerti apa-apa soalnya </s>
+<s> lebih mudah kalau ada anak sti nya kalau ga ada susah kita ga ngerti apa-apa soalnya </s>
 <s> lu hari ini mau ke mana </s>
 <s> terus kenapa ga menang </s>
 <s> sering loh lu dibandingin gua sering gitu </s>
@@ -380,7 +380,7 @@
 <s> awalnya udah dikelompokin gitu paling atasnya cluster satu paling atasnya cluster dua waktu masuk data tes </s>
 <s> gua lebih memilih css </s>
 <s> kata nicho mendingan potong kecil-kecil pause terus dinamain </s>
-<s> gua kemarin kamis apa ya waktu KP bimbingan KP sebelumnya minta kamis depan terus lupa </s>
+<s> gua kemarin kamis apa ya waktu kp bimbingan kp sebelumnya minta kamis depan terus lupa </s>
 <s> barusan gua kan di apa diculik ricky </s>
 <s> ko gua sering banget denger taichan emang enak </s>
 <s> ya kan mending cuma di update databasenya doang validnya sampai kapan </s>
@@ -405,7 +405,7 @@
 <s> data train dicek akurasinya kan </s>
 <s> terus kemarin ini kan gua di lantai tiga kan ketemu pa eh ketemu habibinya </s>
 <s> tapi dia ngomongnya soal makan terus </s>
-<s> terus tiba-tiba diajak diculik ricky gitu suruh ngerjain DSDM yaudah </s>
+<s> terus tiba-tiba diajak diculik ricky gitu suruh ngerjain dsdm yaudah </s>
 <s> ga tahu bingung </s>
 <s> jadi mungkin pak utama juga kata-katanya tidak seindah kenyataan </s>
 <s> ada kalender pendidikan di sini </s>
@@ -415,7 +415,7 @@
 <s> jam kan itungannya </s>
 <s> dik ayo makan </s>
 <s> dik mau beli macbook </s>
-<s> lu waktu DSDM kan kita disuru nyari specificity sama lupa </s>
+<s> lu waktu dsdm kan kita disuru nyari specificity sama lupa </s>
 <s> makannya ikut lomba ikut lomba </s>
 <s> terus kemarin kata bapanya udah revisi udah kita jadwalkan seminar </s>
 <s> udah ada model cluster jadi ada seratus data yang udah dimasukkin ke cluster misalnya data nol sampai seratus itu cluster satu dan seterusnya </s>
@@ -425,7 +425,7 @@
 <s> juli juli </s>
 <s> diminta baca yang blockchain </s>
 <s> ya yang data sains data sains </s>
-<s> lu udah berantem lagi belum sama si J </s>
+<s> lu udah berantem lagi belum sama si j </s>
 <s> udah dua puluh satu </s>
 <s> juli ga ya </s>
 <s> terus waktu jam dua ditanyain sama erma </s>
@@ -438,7 +438,7 @@
 <s> tirta udah siap-siap turun </s>
 <s> oh belum ah lupa kamu udah </s>
 <s> pindah posisi ke mana emangnya </s>
-<s> terus nih data ke lima ratus satu gimana dia ada di X Y segini </s>
+<s> terus nih data ke lima ratus satu gimana dia ada di x y segini </s>
 <s> jam satu ke sini kan mau rekaman terus ga jadi </s>
 <s> kenapa dia nyalon </s>
 <s> bimbingan udah berapa kali </s>
@@ -451,7 +451,7 @@
 <s> wah asik dong ya </s>
 <s> iya nih </s>
 <s> semua keluarga mas datang nanti </s>
-<s> iya ada yang dari Jakarta Bandung… yang dari jogja juga datang sih nanti rencananya </s>
+<s> iya ada yang dari jakarta bandung… yang dari jogja juga datang sih nanti rencananya </s>
 <s> eh iya selamat ya atas lahiran anak pertamanya minggu lalu </s>
 <s> wah makasih banyak mas </s>
 <s> keren nih jadi ayah juga akhirnya </s>
@@ -459,20 +459,20 @@
 <s> maaf banget ya masih belum sempet nengokin nih </s>
 <s> iya gapapa kok mas </s>
 <s> nama anaknya siapa mas </s>
-<s> Henri putra mas </s>
+<s> henri putra mas </s>
 <s> bagus namanya </s>
 <s> cowok ya </s>
 <s> iya mas </s>
 <s> anak sama istri belum pulang ke rumah </s>
 <s> belom nih mas </s>
-<s> Nanti sabtu saya nengok ya Masih di rumah sakit gak tuh </s>
+<s> nanti sabtu saya nengok ya masih di rumah sakit gak tuh </s>
 <s> masih mas pulangnya kebetulan hari minggu </s>
 <s> oke mas saya jenguk ya nanti </s>
 <s> boleh mas di rumah sakit harapan ilang ya mas </s>
 <s> lantai sama nomor kamarnya bagaimana </s>
 <s> lantai empat nomor kamar empat nol empat ya mas </s>
-<s> E kayaknya nanti di WA aja deh mas </s>
-<s> oh oke deh nanti saya WA mas aja ya </s>
+<s> e kayaknya nanti di wa aja deh mas </s>
+<s> oh oke deh nanti saya wa mas aja ya </s>
 <s> iya mas </s>
 <s> oh iya jadi mau beli apa nih </s>
 <s> rencananya mau masak sop ayam ayam goreng sama tahu tempe sih ayamnya ada </s>
@@ -480,7 +480,7 @@
 <s> ini ayam bukan dari kemarin kan </s>
 <s> nggak nggak ini baru datang dari subuh terus saya potong barusan banget </s>
 <s> iya keliatan kaya bagus banget ini stoknya darimana ya mas </s>
-<s> ini datang langsung dari Jakarta mas makanya bagus </s>
+<s> ini datang langsung dari jakarta mas makanya bagus </s>
 <s> biasa kalo nyetok gitu berapa mas per hari </s>
 <s> kalo saya sih lima belas ekor perhari buat ayam mas kalo yang lain beda lagi </s>
 <s> oh beli dua deh mas </s>
@@ -508,8 +508,8 @@
 <s> serius narkoba gimana maksudnya </s>
 <s> ya make obat-obatan gitu deh saya juga kurang paham sih soalnya gak liat langsung </s>
 <s> ih kok gitu ya ga nyangka </s>
-<s> iya padahal pak Budi kan sering bantu urusan RT gitu </s>
-<s> iya sering main juga sama anak-anak RT keliatan baik banget </s>
+<s> iya padahal pak budi kan sering bantu urusan rt gitu </s>
+<s> iya sering main juga sama anak-anak rt keliatan baik banget </s>
 <s> emang kita ga pernah tau ya apa masalah orang itu </s>
 <s> iya kaget lho saya kemarin sampai ada polisi gitu </s>
 <s> sama saya kira ada shooting apa gitu gataunya malah grebek </s>
@@ -520,7 +520,7 @@
 <s> kasian istri sama anak-anaknya ya </s>
 <s> ya mau gimana lagi sudah nasib ini sudah saya bungkus mau beli apa lagi </s>
 <s> oh iya kalo buat ayamnya berapaan ya </s>
-<s> Ayam satu ekor pat empat puluh ribu aja </s>
+<s> ayam satu ekor pat empat puluh ribu aja </s>
 <s> wah mahal banget mas bisa kurang nggak ya </s>
 <s> ga bisa mas ini udah paling murah saya jual yang di sebelah malah ada yang jual empat lima </s>
 <s> hmm tiga lima deh gimana </s>
@@ -536,14 +536,14 @@
 <s> kok saya baru dengar a ya ada ginian </s>
 <s> emang baru mas baru dari minggu lalu tapi idenya udah dari berapa bulan lalu sih </s>
 <s> kok baru sekarang adanya </s>
-<s> soalnya harus minta izin ketua RT dulu </s>
+<s> soalnya harus minta izin ketua rt dulu </s>
 <s> oh gitu oke deh nanti saya daftar </s>
 <s> mas kalau mau daftar bisa langsung aja datang ke balai kota </s>
 <s> oh di balai kota ya ga di sini </s>
 <s> iya nanti ada salah satu dari kami yang berjaga di sana </s>
 <s> ke siapa ya </s>
-<s> ke Pak Ahmad </s>
-<s> oh Pak Ahmad oke deh </s>
+<s> ke pak ahmad </s>
+<s> oh pak ahmad oke deh </s>
 <s> nanti ada kok tandanya mas </s>
 <s> saya perlu nyiapin apa aja ya </s>
 <s> oh mas cukup nyiapin identitas diri aja kaya ktp terus kk </s>
@@ -553,9 +553,9 @@
 <s> ok jadi dua ekor ya </s>
 <s> iya jadinya beli dua ekor aja </s>
 <s> siap saya bungkusin dulu </s>
-<s> eh iya mas udah denger belom ada tetangga baru di RT kita </s>
-<s> iya si Juminten kan </s>
-<s> iya mas udah nyoba datengin belom rumahnya Kenalan gitu </s>
+<s> eh iya mas udah denger belom ada tetangga baru di rt kita </s>
+<s> iya si juminten kan </s>
+<s> iya mas udah nyoba datengin belom rumahnya kenalan gitu </s>
 <s> belom mas rencananya si sih minggu depan mas udah </s>
 <s> belom juga nih rumahnya yang di jalan cenderawasih nomor delapan itu kan </s>
 <s> iya mas yang gede itu rumahnya </s>
@@ -569,10 +569,10 @@
 <s> nah itu mas mungkin kita ga pernah liat aja </s>
 <s> iya ya emang harus berkunjung sih </s>
 <s> tapi orang kaya dia kerjanya apa ya mas </s>
-<s> saya pernah dengar katanya dia CEO gitu mas </s>
-<s> CEO itu apa mas </s>
-<s> CEO itu kaya pemimpin perusahaan gitu deh </s>
-<s> beneran keren-keren CEO perusahaan apa </s>
+<s> saya pernah dengar katanya dia ceo gitu mas </s>
+<s> ceo itu apa mas </s>
+<s> ceo itu kaya pemimpin perusahaan gitu deh </s>
+<s> beneran keren-keren ceo perusahaan apa </s>
 <s> startup gitu </s>
 <s> startup </s>
 <s> kaya perusahaannya baru dibangun ini di bidang teknologi gitu mas </s>
@@ -588,7 +588,7 @@
 <s> iya </s>
 <s> oh iya di sini jual bumbu kuning bu buat ayam ga ya </s>
 <s> wah kalo bumbu jadi di sini ga dijual mas di sini jualnya yang misah bumbunya </s>
-<s> Oh gitu beli di mana ya kalau mau beli bumbu kuning udah jadi gitu </s>
+<s> oh gitu beli di mana ya kalau mau beli bumbu kuning udah jadi gitu </s>
 <s> itu di toko seberang kalo ga salah mereka jual bumbu jadi gitu banyak </s>
 <s> oke deh saya beli di sana aja </s>
 <s> ada lagi mas </s>

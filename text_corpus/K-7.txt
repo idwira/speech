@@ -60,28 +60,28 @@
 <s> ada traveloka juga tapi product configuration </s>
 <s> kalo udah mulai sore makin aneh ya obrolannya </s>
 <s> hi siri </s>
-<s> ih nggak nyala oh yang di HP nyala </s>
+<s> ih nggak nyala oh yang di hp nyala </s>
 <s> tar bentar ini coba kita lihat lomba lomba </s>
 <s> oh iya kita ngobrol sama siri saja </s>
 <s> jangan </s>
 <s> kita lihat lomba lomba </s>
-<s> ini ada tuh BCA </s>
+<s> ini ada tuh bca </s>
 <s> mm </s>
 <s> masih lama pendaftarannya </s>
 <s> mau coba </s>
-<s> kalo mau yang bisnis PNJ ya lumayan </s>
+<s> kalo mau yang bisnis pnj ya lumayan </s>
 <s> kan tetap ada orang bisnis </s>
 <s> ya biarin saja </s>
 <s> eh kemarin gua undip sebenarnya lumayan ya sebenarnya segitu </s>
 <s> ai sebelumnya kan empat puluh lima terus ini undip ye maksudnya universitas gitu bukan bukan bank bank aneh bank bank aneh bank gede </s>
-<s> tapi kalo dilihat ternyata ITB tuh kecil </s>
-<s> ITB memang kampus kecil kampus negeri yang paling kecil </s>
+<s> tapi kalo dilihat ternyata itb tuh kecil </s>
+<s> itb memang kampus kecil kampus negeri yang paling kecil </s>
 <s> oh iya ya </s>
 <s> iya </s>
 <s> memang puluhan ribu </s>
 <s> yaudah hackaton saja </s>
 <s> gua pengen sakit </s>
-<s> ya itu paling BCA </s>
+<s> ya itu paling bca </s>
 <s> idenya apa dick </s>
 <s> tentang bank bank juga ya </s>
 <s> tapi ada warming up dulu ada trainingnya dulu </s>
@@ -95,21 +95,21 @@
 <s> aduh </s>
 <s> minggu ini apply ah </s>
 <s> apply ke mana </s>
-<s> GDP </s>
-<s> emang GDP buka </s>
+<s> gdp </s>
+<s> emang gdp buka </s>
 <s> nggak tau tapi apply saja </s>
 <s> apply dari mana kalau nggak buka </s>
-<s> email ke on lee onlee at GDP Labs dot co dot id </s>
+<s> email ke on lee onlee at gdp labs dot co dot id </s>
 <s> tapi harus ada temen </s>
-<s> dia kayanya HR gitu deh </s>
+<s> dia kayanya hr gitu deh </s>
 <s> industri four point o </s>
-<s> kita transformasiin HR menggunakan kanvas BCA </s>
+<s> kita transformasiin hr menggunakan kanvas bca </s>
 <s> kanvas </s>
 <s> iya </s>
-<s> apa itu kanvas BCA </s>
+<s> apa itu kanvas bca </s>
 <s> kayanya bisnis kanvas model </s>
 <s> aa </s>
-<s> dick kan waktu masih magang gua coba coba gitu jadi PM buat IIT </s>
+<s> dick kan waktu masih magang gua coba coba gitu jadi pm buat iit </s>
 <s> sekarang belum beres </s>
 <s> hehe guanya keos programmernya keos semua keos </s>
 <s> lix lapar </s>
@@ -142,11 +142,11 @@
 <s> mau nanya saja asisten gimana tadi ngawasin ada yang lucu nggak </s>
 <s> biasa lah gitu kalau praktikum pertama kan biasanya banyak yang error </s>
 <s> sekarang pertama padahal ini kan sudah mau mendekati </s>
-<s> iya emang praktikum MBD kan cuma tiga kali jadi minggu ini minggu depan sama dua minggu lagi </s>
-<s> oh iya aku jadi teringat nggak ikut MB praktikum buat interview lima </s>
+<s> iya emang praktikum mbd kan cuma tiga kali jadi minggu ini minggu depan sama dua minggu lagi </s>
+<s> oh iya aku jadi teringat nggak ikut mb praktikum buat interview lima </s>
 <s> ih basis data </s>
 <s> oh beda ya eh </s>
-<s> MBD kita nggak ada praktikum dulu </s>
+<s> mbd kita nggak ada praktikum dulu </s>
 <s> sekarang ada </s>
 <s> sekarang ada </s>
 <s> tentang apa </s>
@@ -164,15 +164,15 @@
 <s> lu harus melihat sisi positifnya udah nggak hujan lagi jadi cerah </s>
 <s> nggak ada sisi positifnya </s>
 <s> ini kok jadi rapi sih euh labnya apa ya oh papan tulisnya hilang ke mana </s>
-<s> kan ABED jadi rapi deh semuanya </s>
+<s> kan abed jadi rapi deh semuanya </s>
 <s> kenapa rapi itu papan tulisnya dibuang </s>
 <s> karena karena nggak ada di inventorisnya basdat papan tulis itu harusnya </s>
-<s> emang di dicek sama ABED oh ini nggak ada di inventory kamu maling </s>
+<s> emang di dicek sama abed oh ini nggak ada di inventory kamu maling </s>
 <s> nggak tau juga sih </s>
 <s> dick coba ngomong garingan </s>
 <s> nggak mau nggak bisa garingan itu nggak bisa dipaksa dia keluar sendiri </s>
 <s> dikit lagi tiga menit yuk maksimalkan usaha kita </s>
-<s> gimana DSDM udah jadi </s>
+<s> gimana dsdm udah jadi </s>
 <s> udah cicis kan so powerful </s>
 <s> cicis sangat kuat cicis bisa segalanya </s>
 <s> cicis </s>
@@ -180,7 +180,7 @@
 <s> lix udah nonton film baru belum </s>
 <s> ada apa ada apa </s>
 <s> hanya manusia </s>
-<s> oh aku lihat ratu hitam ada di McD ada McD itu </s>
+<s> oh aku lihat ratu hitam ada di mcd ada mcd itu </s>
 <s> terminator yang baru </s>
 <s> aa nggak mau terminator lagi gua udah nggak mau fast and furious udah muak nggak mau terminator udah muak gua </s>
 <s> transformer transformer </s>
@@ -198,17 +198,17 @@
 <s> kok jorok itu bisa dipencet pencet lucu </s>
 <s> belum masih ada semenit lagi </s>
 <s> mau main game online </s>
-<s> SC </s>
+<s> sc </s>
 <s> iya </s>
 <s> iya mau main game online lagi </s>
-<s> nanti sedikit lagi dick sedikit sampai UAS sampai UAS </s>
+<s> nanti sedikit lagi dick sedikit sampai uas sampai uas </s>
 <s> sekarang gua sering nontonin ini loh world of warcraft </s>
 <s> oh cinematicnya bagus </s>
 <s> soalnya itu soalnya yang channel yang gua suka nonton ada warcraftnya sekarang jadi gua nonton juga deh </s>
 <s> oh gameplaynya </s>
 <s> iya </s>
 <s> terus nggak ngerti tapi seru saja </s>
-<s> ih kalau nonton yang dari Blizzard yang cinematic bagus </s>
+<s> ih kalau nonton yang dari blizzard yang cinematic bagus </s>
 <s> pi wix dot com ini apa </s>
 <s> beda ini ini channel game kenapa keluarnya wix dot com coba </s>
 <s> kan gua suka bikin web apps </s>

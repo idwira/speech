@@ -160,149 +160,149 @@
 <s> dulu aku suka banget nonton doraemon </s>
 <s> waktu kecil aku suka banget main komputer </s>
 <s> sekarang aku bosen banget liat laptop </s>
-<s> Aku pulang dulu ya </s>
-<s> Nanti saja </s>
-<s> Sekarang kan lagi hujan </s>
-<s> Iya juga sih </s>
-<s> Tunggu hujannya reda sambil ngerjain tugas aja yuk </s>
-<s> Boleh kamu punya kertas ga </s>
-<s> Punya tapi untuk apa </s>
-<s> Seingatku tugas kita itu dikerjain di kertas selembar </s>
-<s> Oh iya aku tidak tahu kalau perintahnya kayak gitu </s>
+<s> aku pulang dulu ya </s>
+<s> nanti saja </s>
+<s> sekarang kan lagi hujan </s>
+<s> iya juga sih </s>
+<s> tunggu hujannya reda sambil ngerjain tugas aja yuk </s>
+<s> boleh kamu punya kertas ga </s>
+<s> punya tapi untuk apa </s>
+<s> seingatku tugas kita itu dikerjain di kertas selembar </s>
+<s> oh iya aku tidak tahu kalau perintahnya kayak gitu </s>
 <s> iya sepertinya kamu lagi izin keluar saat ibunya ngasih tahu </s>
-<s> Untung kamu kasih tahu makasih ya </s>
+<s> untung kamu kasih tahu makasih ya </s>
 <s> sama sama </s>
-<s> Lihat Dompet siapa ini </s>
-<s> Coba kamu lihat isinya </s>
-<s> Wah ternyata banyak uangnya </s>
-<s> Kita bagi dua saja </s>
-<s> Aku tidak setuju dengan pendapatmu </s>
-<s> Kenapa Kan kita yang menemukan dompet ini </s>
-<s> Memang Tapi uang ini bukan milik kita </s>
-<s> Lebih baik kita laporkan ke polisi </s>
-<s> Kita ambil sedikit saja </s>
-<s> Pokoknya tidak </s>
-<s> Ini bukan hak kita </s>
-<s> Terserah kamu sajalah </s>
-<s> Man kamu sekarang kerja di mana </s>
-<s> Aku kerja di pabrik pembuatan roda </s>
-<s> Kalau kamu kerja di mana </s>
-<s> Aku masih menganggur </s>
-<s> Kamu sudah mencoba mengirim lamaran </s>
-<s> Aku sudah melamar ke banyak perusahaan tapi ditolak </s>
-<s> Kalau di tempat kamu kerja ada lowongan kabari aku ya </s>
-<s> Sebenarnya aku mau keluar dari tempat aku bekerja </s>
-<s> Memangnya kenapa </s>
-<s> Apa nanti kamu tidak menyesal </s>
-<s> Masih banyak yang membutuhkan pekerjaan </s>
+<s> lihat dompet siapa ini </s>
+<s> coba kamu lihat isinya </s>
+<s> wah ternyata banyak uangnya </s>
+<s> kita bagi dua saja </s>
+<s> aku tidak setuju dengan pendapatmu </s>
+<s> kenapa kan kita yang menemukan dompet ini </s>
+<s> memang tapi uang ini bukan milik kita </s>
+<s> lebih baik kita laporkan ke polisi </s>
+<s> kita ambil sedikit saja </s>
+<s> pokoknya tidak </s>
+<s> ini bukan hak kita </s>
+<s> terserah kamu sajalah </s>
+<s> man kamu sekarang kerja di mana </s>
+<s> aku kerja di pabrik pembuatan roda </s>
+<s> kalau kamu kerja di mana </s>
+<s> aku masih menganggur </s>
+<s> kamu sudah mencoba mengirim lamaran </s>
+<s> aku sudah melamar ke banyak perusahaan tapi ditolak </s>
+<s> kalau di tempat kamu kerja ada lowongan kabari aku ya </s>
+<s> sebenarnya aku mau keluar dari tempat aku bekerja </s>
+<s> memangnya kenapa </s>
+<s> apa nanti kamu tidak menyesal </s>
+<s> masih banyak yang membutuhkan pekerjaan </s>
 <s> tapi kamu yang sudah punya pekerjaan malah mau keluar </s>
-<s> Pekerjaannya berat tapi gajinya tidak sesuai dengan harapan </s>
-<s> Bukannya tidak bersyukur </s>
+<s> pekerjaannya berat tapi gajinya tidak sesuai dengan harapan </s>
+<s> bukannya tidak bersyukur </s>
 <s> tapi kalau gaji yang aku dapat cuma buat makan lebih baik aku cari pekerjaan lain </s>
-<s> Benar juga sih </s>
-<s> Hai Jo Apa yang sedang kamu lakukan </s>
-<s> Hai Ton ban sepedaku sepertinya bocor dan butuh ditambal </s>
-<s> Apakah Kamu tahu tempat di mana aku bisa menambal ban sepedaku </s>
-<s> Di sekitar sini jarang ada tempat tambal ban </s>
-<s> Yang terdekat hanya ada di ujung jalan ini jaraknya sekitar satu kilometer </s>
-<s> Wah sepertinya itu lumayan jauh ya </s>
-<s> Ya cukup jauh oleh karena itu mustahil bagimu untuk sampai di sana dengan mendorong sepeda itu </s>
+<s> benar juga sih </s>
+<s> hai jo apa yang sedang kamu lakukan </s>
+<s> hai ton ban sepedaku sepertinya bocor dan butuh ditambal </s>
+<s> apakah kamu tahu tempat di mana aku bisa menambal ban sepedaku </s>
+<s> di sekitar sini jarang ada tempat tambal ban </s>
+<s> yang terdekat hanya ada di ujung jalan ini jaraknya sekitar satu kilometer </s>
+<s> wah sepertinya itu lumayan jauh ya </s>
+<s> ya cukup jauh oleh karena itu mustahil bagimu untuk sampai di sana dengan mendorong sepeda itu </s>
 <s> jangan khawatir aku sudah terbiasa dengan itu </s>
-<s> Sudahlah mari naikkan sepedamu di mobilku </s>
-<s> Aku akan mengantar mu ke sana </s>
-<s> Terimakasih Ton Nasib baik aku bertemu kamu </s>
+<s> sudahlah mari naikkan sepedamu di mobilku </s>
+<s> aku akan mengantar mu ke sana </s>
+<s> terimakasih ton nasib baik aku bertemu kamu </s>
 <s> kalau tidak aku pasti sudah menuntun sepeda ini </s>
-<s> Sepertinya hari ini aku ditakdirkan untuk menjadi penolongmu </s>
+<s> sepertinya hari ini aku ditakdirkan untuk menjadi penolongmu </s>
 <s> memangnya kamu hendak pergi kemana </s>
-<s> Aku hanya ingin berkeliling kota dengan sepedaku ini </s>
-<s> Aku bisa menebaknya pasti hobimu adalah jalan-jalan ya kan </s>
-<s> Tebakanmu hampir benar tapi masih salah </s>
-<s> Hobiku adalah bersepeda mengelilingi tempat-tempat yang indah </s>
-<s> Hobimu bersepeda </s>
-<s> Bukankah bersepeda itu melelahkan </s>
-<s> Tentu saja melelahkan tetapi ada perasaan bahagia di dalam hati yang dapat mengalahkan rasa lelah itu </s>
-<s> Perasaan ketika kamu mengayuhkan sepedamu ke tempat yang belum pernah kau kunjungi sebelumnya </s>
-<s> Tidak hanya itu bersepeda juga bisa membuat tubuh kita sehat </s>
-<s> Ternyata kamu memiliki jiwa petualang </s>
-<s> Tetapi bukankah akan lebih mudah dan cepat jika kamu menggendarai sepeda motor </s>
-<s> Pasti akan sangat cepat tapi kamu tidak akan menemukan sebuah kepuasan karena mengendarai sepeda motor tidak ada tantangannya </s>
-<s> Bahkan bisa menambah polusi udara yang telah terjadi saat ini </s>
-<s> Ada benarnya juga sih </s>
-<s> Memang sulit berargumen tentang hobi seseorang </s>
-<s> Akhirnya kita sudah sampai </s>
-<s> Tunggu sebentar aku akan memarkirkan mobilku </s>
-<s> Terimakasih banyak ya atas bantuannya </s>
-<s> Terimakasih kembali kalau begitu aku akan melanjutkan perjalananku </s>
-<s> Semoga kau bisa kembali melanjutkan hobimu itu </s>
-<s> Sampai ketemu lagi ya </s>
-<s> Sampai jumpa kembali </s>
-<s> Selamat pagi ada yang bisa saya bantu </s>
-<s> Selamat pagi saya sedang mencari sepatu </s>
-<s> Bisa tolong tunjukan saya tempat rak sepatu-sepatu terbaru </s>
-<s> Bisa kalau begitu silahkan ikuti saya </s>
-<s> Sepatu-sepatu keluaran terbaru ada di rak paling depan dekat pintu masuk </s>
-<s> Wah ini adalah sepatu yang aku inginkan </s>
-<s> Silahkan dipilih terlebih dahulu </s>
-<s> Kami menyediakan beberapa macam pilihan sepatu dengan merek dan warna yang beragam </s>
-<s> Pilihan yang banyak ini membuat aku bingung </s>
-<s> Apakah anda bisa membantu saya memilih sepatu yang pas </s>
-<s> Dengan senang hati </s>
-<s> Toko kami menyediakan beberapa macam merek sepatu yang sedang populer saat ini </s>
-<s> Sepatu-sepatu inilah yang sering dikenakan oleh anak muda masa kini dengan menyesuaiakan gaya dan kepribadian mereka </s>
-<s> Menyesuaikan gaya dan kepribadian </s>
-<s> Bisa tolong jelaskan maksud dari kalimat itu </s>
-<s> Maksudnya sepatu-sepatu ini akan sangat cocok dan terlihat lebih pas dengan gaya pemakainya </s>
-<s> Contohnya jika Anda menyukai olahraga sepatu ini menjadi pilihan yang tepat  </s>
+<s> aku hanya ingin berkeliling kota dengan sepedaku ini </s>
+<s> aku bisa menebaknya pasti hobimu adalah jalan-jalan ya kan </s>
+<s> tebakanmu hampir benar tapi masih salah </s>
+<s> hobiku adalah bersepeda mengelilingi tempat-tempat yang indah </s>
+<s> hobimu bersepeda </s>
+<s> bukankah bersepeda itu melelahkan </s>
+<s> tentu saja melelahkan tetapi ada perasaan bahagia di dalam hati yang dapat mengalahkan rasa lelah itu </s>
+<s> perasaan ketika kamu mengayuhkan sepedamu ke tempat yang belum pernah kau kunjungi sebelumnya </s>
+<s> tidak hanya itu bersepeda juga bisa membuat tubuh kita sehat </s>
+<s> ternyata kamu memiliki jiwa petualang </s>
+<s> tetapi bukankah akan lebih mudah dan cepat jika kamu menggendarai sepeda motor </s>
+<s> pasti akan sangat cepat tapi kamu tidak akan menemukan sebuah kepuasan karena mengendarai sepeda motor tidak ada tantangannya </s>
+<s> bahkan bisa menambah polusi udara yang telah terjadi saat ini </s>
+<s> ada benarnya juga sih </s>
+<s> memang sulit berargumen tentang hobi seseorang </s>
+<s> akhirnya kita sudah sampai </s>
+<s> tunggu sebentar aku akan memarkirkan mobilku </s>
+<s> terimakasih banyak ya atas bantuannya </s>
+<s> terimakasih kembali kalau begitu aku akan melanjutkan perjalananku </s>
+<s> semoga kau bisa kembali melanjutkan hobimu itu </s>
+<s> sampai ketemu lagi ya </s>
+<s> sampai jumpa kembali </s>
+<s> selamat pagi ada yang bisa saya bantu </s>
+<s> selamat pagi saya sedang mencari sepatu </s>
+<s> bisa tolong tunjukan saya tempat rak sepatu-sepatu terbaru </s>
+<s> bisa kalau begitu silahkan ikuti saya </s>
+<s> sepatu-sepatu keluaran terbaru ada di rak paling depan dekat pintu masuk </s>
+<s> wah ini adalah sepatu yang aku inginkan </s>
+<s> silahkan dipilih terlebih dahulu </s>
+<s> kami menyediakan beberapa macam pilihan sepatu dengan merek dan warna yang beragam </s>
+<s> pilihan yang banyak ini membuat aku bingung </s>
+<s> apakah anda bisa membantu saya memilih sepatu yang pas </s>
+<s> dengan senang hati </s>
+<s> toko kami menyediakan beberapa macam merek sepatu yang sedang populer saat ini </s>
+<s> sepatu-sepatu inilah yang sering dikenakan oleh anak muda masa kini dengan menyesuaiakan gaya dan kepribadian mereka </s>
+<s> menyesuaikan gaya dan kepribadian </s>
+<s> bisa tolong jelaskan maksud dari kalimat itu </s>
+<s> maksudnya sepatu-sepatu ini akan sangat cocok dan terlihat lebih pas dengan gaya pemakainya </s>
+<s> contohnya jika anda menyukai olahraga sepatu ini menjadi pilihan yang tepat  </s>
 <s> karena selain bisa dipakai untuk berolahraga seperti lari dan bermain bulu tangkis sepatu ini juga bisa dipakai untuk bergaya </s>
 <s> oh begitu </s>
 <s> aku adalah orang yang menyukai kesederhanaan dan petualang </s>
-<s> Apakah ada sepatu yang cocok denganku </s>
-<s> Kalau begitu sepatu jenis ini sangat cocok untuk Anda </s>
-<s> Sepatu ini juga tidak perlu dicuci sesering mungkin </s>
+<s> apakah ada sepatu yang cocok denganku </s>
+<s> kalau begitu sepatu jenis ini sangat cocok untuk anda </s>
+<s> sepatu ini juga tidak perlu dicuci sesering mungkin </s>
 <s> karena pada dasarnya semakin kotor sepatu ini akan terlihat semakin menarik </s>
-<s> Bukankah kotor menyebabkan sepatu terlihat buruk </s>
-<s> Kalimat tadi hanya perumpamaan saja </s>
-<s> Tentunya ada batas kotor yang masih bisa ditoleransi </s>
+<s> bukankah kotor menyebabkan sepatu terlihat buruk </s>
+<s> kalimat tadi hanya perumpamaan saja </s>
+<s> tentunya ada batas kotor yang masih bisa ditoleransi </s>
 <s> dibandingkan dengan sepatu jenis yang itu sepatu itu harus selalu terlihat bersih </s>
-<s> Oleh karena itu sepatu itu tidak cocok untuk jiwa petualang seperti Anda </s>
-<s> Oh aku mengerti </s>
-<s> Baiklah aku akan ambil sepatu yang ini </s>
-<s> Pilihan yang tepat </s>
-<s> Tetapi bagaimana dengan warnanya dan nomor sepatu Anda  </s>
-<s> Hitam sudah cocok dengan seleraku dan berikan aku sepatu nomor 40 </s>
-<s> Ini dia dan silahkan dicoba terlebih dahulu </s>
-<s> Ya sepatu ini pas di kakiku </s>
-<s> Saya sudah yakin akan membeli sepatu ini </s>
-<s> Kalau begitu saya akan mengemasnya dan silahkan ke kasir untuk menyelesaikan pembayarannya </s>
-<s> Baiklah dan terimakasih atas bantuannya </s>
-<s> Terimakasih kembali </s>
-<s> Liburan semester ini kamu akan libur ke mana Din </s>
-<s> Sepertinya aku akan pergi ke rumah kakek di kampung </s>
-<s> Kalau kamu Nam </s>
-<s> Berarti di kampung masih banyak kerbau dan juga sawah-sawah dong </s>
-<s> Rencananya aku dan keluarga akan berlibur ke Pulau Lombok tau kan </s>
-<s> Pulau yang dekat dengan  Pulau Bali </s>
-<s> Meskipun rumah kakek di kampung tapi sudah tidak ada kerbau kok </s>
-<s> Sawah-sawah dibajak menggunakan alat pertanian yang lebih modern </s>
-<s> Sekarang juga sawah-sawah di kampung kakek sudah banyak yang berkurang digantikan dengan bangunan-bangunan rumah </s>
+<s> oleh karena itu sepatu itu tidak cocok untuk jiwa petualang seperti anda </s>
+<s> oh aku mengerti </s>
+<s> baiklah aku akan ambil sepatu yang ini </s>
+<s> pilihan yang tepat </s>
+<s> tetapi bagaimana dengan warnanya dan nomor sepatu anda  </s>
+<s> hitam sudah cocok dengan seleraku dan berikan aku sepatu nomor 40 </s>
+<s> ini dia dan silahkan dicoba terlebih dahulu </s>
+<s> ya sepatu ini pas di kakiku </s>
+<s> saya sudah yakin akan membeli sepatu ini </s>
+<s> kalau begitu saya akan mengemasnya dan silahkan ke kasir untuk menyelesaikan pembayarannya </s>
+<s> baiklah dan terimakasih atas bantuannya </s>
+<s> terimakasih kembali </s>
+<s> liburan semester ini kamu akan libur ke mana din </s>
+<s> sepertinya aku akan pergi ke rumah kakek di kampung </s>
+<s> kalau kamu nam </s>
+<s> berarti di kampung masih banyak kerbau dan juga sawah-sawah dong </s>
+<s> rencananya aku dan keluarga akan berlibur ke pulau lombok tau kan </s>
+<s> pulau yang dekat dengan  pulau bali </s>
+<s> meskipun rumah kakek di kampung tapi sudah tidak ada kerbau kok </s>
+<s> sawah-sawah dibajak menggunakan alat pertanian yang lebih modern </s>
+<s> sekarang juga sawah-sawah di kampung kakek sudah banyak yang berkurang digantikan dengan bangunan-bangunan rumah </s>
 <s> wah sayang sekali ya </s>
-<s> Padahal di kampung akan lebih terasa suasana kampungnya kalau masih banyak sawah dan juga kerbaunya </s>
-<s> Terus selama di kampung kakek kamu punya rencana apa </s>
-<s> Seperti biasanya Nam aku akan membantu kerjaan kakek </s>
-<s> Misalnya saja menanam padi memanen padi dan lainnya </s>
-<s> Terus kamu nanti di Lombok mau ke mana saja </s>
-<s> Aku boleh minta oleh-oleh khas dari Lombok tidak </s>
-<s> Di Lombok nanti aku pergi ke Pulau Gili dan menyelam </s>
-<s> Karena aku suka menyelam </s>
+<s> padahal di kampung akan lebih terasa suasana kampungnya kalau masih banyak sawah dan juga kerbaunya </s>
+<s> terus selama di kampung kakek kamu punya rencana apa </s>
+<s> seperti biasanya nam aku akan membantu kerjaan kakek </s>
+<s> misalnya saja menanam padi memanen padi dan lainnya </s>
+<s> terus kamu nanti di lombok mau ke mana saja </s>
+<s> aku boleh minta oleh-oleh khas dari lombok tidak </s>
+<s> di lombok nanti aku pergi ke pulau gili dan menyelam </s>
+<s> karena aku suka menyelam </s>
 <s> wah pasti seru ya </s>
-<s> Aku boleh minta oleh-oleh khas dari Lombok tidak </s>
-<s> Iya boleh kamu mau minta oleh-oleh apa </s>
-<s> Bawakan aku pasir pantai dan karang laut </s>
-<s> Haha iya nanti aku bawakan sekarung pasir dan karang laut </s>
-<s> Hahaha benar ya aku tunggu </s>
-<s> Semoga liburan kamu menyenangkan ya Nam </s>
-<s> Iya Terima kasih ya Din </s>
-<s> Sama-sama Nam </s>
+<s> aku boleh minta oleh-oleh khas dari lombok tidak </s>
+<s> iya boleh kamu mau minta oleh-oleh apa </s>
+<s> bawakan aku pasir pantai dan karang laut </s>
+<s> haha iya nanti aku bawakan sekarung pasir dan karang laut </s>
+<s> hahaha benar ya aku tunggu </s>
+<s> semoga liburan kamu menyenangkan ya nam </s>
+<s> iya terima kasih ya din </s>
+<s> sama-sama nam </s>
 <s> hai ji mau kemana </s>
 <s> hai yor aku mau ke ctim nih </s>
 <s> ngapain kesana ji </s>
@@ -1037,7 +1037,7 @@
 <s> enak juga ya nasi gorengnya karena sayur yang aku potong ini </s>
 <s> itu karena nasi yang aku masak kali nasinya pulen makanya jadi enak dimasak nasi goreng </s>
 <s> itu karena bumbu rahasia aku kali kalian gak tau aku memakai sembilan bumbu rahasia </s>
-<s> emang kamu kira ini rasa ayam KFC pakai sembilan bumbu bumbu rahasia </s>
+<s> emang kamu kira ini rasa ayam kfc pakai sembilan bumbu bumbu rahasia </s>
 <s> udah udah mending makan </s>
 <s> yang penting enak kan </s>
 <s> kenyang juga ya tadi pas dilihat porsinya kayak sedikit </s>

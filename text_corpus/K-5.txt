@@ -1,12 +1,12 @@
 <s> hai dichi gimana kabarnya </s>
 <s> kayaknya hari ini lancar-lancar aja sih </s>
-<s> iya paling hari ini cuman ada speech terus ada nanti abis ini PAT kan </s>
-<s> PAT ga ada tugas sih </s>
-<s> kalo yang lain ya udah banyak tugas kayaknya ML Lanjut SIL </s>
+<s> iya paling hari ini cuman ada speech terus ada nanti abis ini pat kan </s>
+<s> pat ga ada tugas sih </s>
+<s> kalo yang lain ya udah banyak tugas kayaknya ml lanjut sil </s>
 <s> apa lagi ya </s>
 <s> kayaknya ada beberapa tugas lagi yang yang laen </s>
 <s> sekarang udah mendingan sih labtek lima udah jadi bagus </s>
-<s> perpusnya jadi apa jadi ber AC nya kenceng banget </s>
+<s> perpusnya jadi apa jadi ber ac nya kenceng banget </s>
 <s> terus juga ada tau kan front office yang di depan itu makin keren dah </s>
 <s> nya kalo dulu kan kita butuh ke loket loket yang disana kan kayak bingung gitu ini loket yang mana ada tiga </s>
 <s> tapi biasanya ambil yang paling kanan sih </s>
@@ -35,7 +35,7 @@
 <s> tapi ya harganya lumayan juga bisa dua puluh lima ribu kan </s>
 <s> buat anak kosan kayaknya ya ga bisa tiap hari gitu </s>
 <s> kadang kadang aja kalau lagi pengen </s>
-<s> kalo lagi banyak waktu mending ini mending ke daerah kayak ciwalk atau PVJ </s>
+<s> kalo lagi banyak waktu mending ini mending ke daerah kayak ciwalk atau pvj </s>
 <s> kan disana banyak banyak apa banyak promo promo dari fintech gitu </s>
 <s> kayak bayar pake gopay ovo gitu bisa diskon lima puluh persen lumayan sih </s>
 <s> makanan yang biasanya dua puluh lima ribu jadi dua belas ribu </s>
@@ -46,7 +46,7 @@
 <s> itu juga diskon tuh </s>
 <s> kayak boba-boba gitu kan </s>
 <s> lagi banyak yang buka kan boba hits gitu </s>
-<s> di daerah PVJ kalo ga salah </s>
+<s> di daerah pvj kalo ga salah </s>
 <s> ada yang bikin boba brown sugar gitu </s>
 <s> yang di jakarta rame itu loh </s>
 <s> di bandung sekarang ada </s>
@@ -54,7 +54,7 @@
 <s> itu pada </s>
 <s> orang orang pada lebay aja jadi gara-gara hits pada pengen nyoba </s>
 <s> tapi katanya rasanya </s>
-<s> sebenernya ya just OK </s>
+<s> sebenernya ya just ok </s>
 <s> lu tau ga kalo di bandung kira-kira makan yang enak apa ya </s>
 <s> budgetnya sekitar lima puluh sampe seratus ribu lah </s>
 <s> itu bukannya toko kue </s>
@@ -105,15 +105,15 @@
 <s> tapi begitu keluar hotel semuanya bagus </s>
 <s> yang cuma satu dolar ya </s>
 <s> itu rasanya enak </s>
-<s> dan juga kalau mau naik MRT tinggal turun </s>
-<s> jalan dikit masuk mall udah langsung ada MRT nya </s>
+<s> dan juga kalau mau naik mrt tinggal turun </s>
+<s> jalan dikit masuk mall udah langsung ada mrt nya </s>
 <s> itu sih yang bikin beda jauh sama jakarta </s>
-<s> tapi ya tapi jakarta sekarang udah ada MRT sih </s>
+<s> tapi ya tapi jakarta sekarang udah ada mrt sih </s>
 <s> meskipun cuman satu jalur </s>
 <s> kualitasnya sama kok dibanding di singapur </s>
 <s> itu aja masalahnya cuman cuma satu jalur jadinya engga bisa mencapai berbagai macam tempat </s>
 <s> kayak dari rumah ke kantor atau ke mall misalnya </s>
-<s> itu gabisa langsung kesana jadi harus naik ojek dulu baru naik MRT </s>
+<s> itu gabisa langsung kesana jadi harus naik ojek dulu baru naik mrt </s>
 <s> akhirnya harganya mahal-mahal juga engga jadi murah </s>
 <s> ya apalagi bandung </s>
 <s> bandung engga punya transportasi umum sih </s>

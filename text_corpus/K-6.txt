@@ -221,12 +221,12 @@
 <s> tolong jelaskan lebih rinci </s>
 <s> contohnya </s>
 <s> karna kita bertiga </s>
-<s> kita buat ada A B dan C </s>
-<s> pertama si A bertanya pada B </s>
+<s> kita buat ada a b dan c </s>
+<s> pertama si a bertanya pada b </s>
 <s> ada tugas tidak </s>
-<s> dan si B menjawab </s>
+<s> dan si b menjawab </s>
 <s> ada tugas vin </s>
-<s> lalu si C ikut bergabung </s>
+<s> lalu si c ikut bergabung </s>
 <s> jangan lupa batas akhir upload dua hari lagi </s>
 <s> dan seterusnya </s>
 <s> ooh </s>
