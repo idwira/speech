@@ -24,7 +24,7 @@
 <s> kosan kamu masih ditempat yang dulu kan </s>
 <s> kamu jadi ke kosan aku ga </s>
 <s> biasanya habis pulang kuliah aku baca novel </s>
-<s> kasih aku rekom</s>asi tempat makan yang enak di sekitar sini dong </s>
+<s> kasih aku rekomendasi tempat makan yang enak di sekitar sini dong </s>
 <s> kamu habis darimana tadi </s>
 <s> kira-kira dia udah sampai dimana ya </s>
 <s> kamu mau berangkat jam berapa nanti </s>
@@ -71,7 +71,7 @@
 <s> liburan nanti kamu mau kemana </s>
 <s> coba dengerin lagu terbarunya maudy ayunda deh </s>
 <s> kamu suka nonton konser musik ga </s>
-<s> kasih aku rekom</s>asi film buat ditonton kalau lagi libur dong </s>
+<s> kasih aku rekomendasi film buat ditonton kalau lagi libur dong </s>
 <s> sekarang di bioskop lagi ada film bagus loh </s>
 <s> gimana kalau kita nonton bioskop hari sabtu ini </s>
 <s> akhir pekan ini kamu ada acara ga </s>
@@ -88,7 +88,7 @@
 <s> kamu lagi sibuk apa sekarang </s>
 <s> kayaknya dia lagi sibuk ngerjain tesis deh </s>
 <s> kayaknya dia lagi sibuk kerja deh </s>
-<s> liat deh kucingnya g</s>ut banget </s>
+<s> liat deh kucingnya gendut banget </s>
 <s> kayaknya kucing itu disitu terus deh ga pernah kemana-mana </s>
 <s> aku pengen beli jam tangan deh </s>
 <s> soalnya kalau ujian kadang gak dikasih tau sisa waktunya </s>
@@ -155,7 +155,7 @@
 <s> acara tv favorit kamu apa </s>
 <s> kamu masih suka nonton kartun ga </s>
 <s> kamu suka nonton drama korea ga </s>
-<s> minta rekom</s>asi drama korea dong </s>
+<s> minta rekomendasi drama korea dong </s>
 <s> kamu lebih suka film yang akhirnya sedih atau bahagia </s>
 <s> dulu aku suka banget nonton doraemon </s>
 <s> waktu kecil aku suka banget main komputer </s>
@@ -176,7 +176,7 @@
 <s> Coba kamu lihat isinya </s>
 <s> Wah ternyata banyak uangnya </s>
 <s> Kita bagi dua saja </s>
-<s> Aku tidak setuju dengan p</s>apatmu </s>
+<s> Aku tidak setuju dengan pendapatmu </s>
 <s> Kenapa Kan kita yang menemukan dompet ini </s>
 <s> Memang Tapi uang ini bukan milik kita </s>
 <s> Lebih baik kita laporkan ke polisi </s>
@@ -206,14 +206,14 @@
 <s> Di sekitar sini jarang ada tempat tambal ban </s>
 <s> Yang terdekat hanya ada di ujung jalan ini jaraknya sekitar satu kilometer </s>
 <s> Wah sepertinya itu lumayan jauh ya </s>
-<s> Ya cukup jauh oleh karena itu mustahil bagimu untuk sampai di sana dengan m</s>orong sepeda itu </s>
+<s> Ya cukup jauh oleh karena itu mustahil bagimu untuk sampai di sana dengan mendorong sepeda itu </s>
 <s> jangan khawatir aku sudah terbiasa dengan itu </s>
 <s> Sudahlah mari naikkan sepedamu di mobilku </s>
 <s> Aku akan mengantar mu ke sana </s>
 <s> Terimakasih Ton Nasib baik aku bertemu kamu </s>
 <s> kalau tidak aku pasti sudah menuntun sepeda ini </s>
 <s> Sepertinya hari ini aku ditakdirkan untuk menjadi penolongmu </s>
-<s> memangnya kamu h</s>ak pergi kemana </s>
+<s> memangnya kamu hendak pergi kemana </s>
 <s> Aku hanya ingin berkeliling kota dengan sepedaku ini </s>
 <s> Aku bisa menebaknya pasti hobimu adalah jalan-jalan ya kan </s>
 <s> Tebakanmu hampir benar tapi masih salah </s>
@@ -224,8 +224,8 @@
 <s> Perasaan ketika kamu mengayuhkan sepedamu ke tempat yang belum pernah kau kunjungi sebelumnya </s>
 <s> Tidak hanya itu bersepeda juga bisa membuat tubuh kita sehat </s>
 <s> Ternyata kamu memiliki jiwa petualang </s>
-<s> Tetapi bukankah akan lebih mudah dan cepat jika kamu mengg</s>arai sepeda motor </s>
-<s> Pasti akan sangat cepat tapi kamu tidak akan menemukan sebuah kepuasan karena meng</s>arai sepeda motor tidak ada tantangannya </s>
+<s> Tetapi bukankah akan lebih mudah dan cepat jika kamu menggendarai sepeda motor </s>
+<s> Pasti akan sangat cepat tapi kamu tidak akan menemukan sebuah kepuasan karena mengendarai sepeda motor tidak ada tantangannya </s>
 <s> Bahkan bisa menambah polusi udara yang telah terjadi saat ini </s>
 <s> Ada benarnya juga sih </s>
 <s> Memang sulit berargumen tentang hobi seseorang </s>
@@ -338,9 +338,9 @@
 <s> iya aku pengen ikut tapi susah minta izin nya </s>
 <s> yang ikut kemaren siapa aja ir </s>
 <s> yang ikut itu aku keisya dela bela dan tiara </s>
-<s> wah dikit juga ya ternyata yang ikut kalian ga ribet apa m</s>iriin t</s>anya </s>
+<s> wah dikit juga ya ternyata yang ikut kalian ga ribet apa mendiriin tendanya </s>
 <s> iya ribet apalagi kami sampai di tempat kemahnya udah malam </s>
-<s> berarti kalian m</s>irikan t</s>anya dikegelapan dong </s>
+<s> berarti kalian mendirikan tendanya dikegelapan dong </s>
 <s> iya untungnya yang kemah disana bukan cuma kami aja  </s>
 <s> jadinya kami bisa minta bantuan ke orang lain </s>
 <s> wah syukurlah </s>
@@ -361,7 +361,7 @@
 <s> expert atau paranormal </s>
 <s> kita murni cuma sharing pengalaman pribadi kita </s>
 <s> dan kita juga tidak memaksa kalian untuk percaya dengan story kami </s>
-<s> di part hari ini aku bakal tanyain ke kakak ku s</s>iri </s>
+<s> di part hari ini aku bakal tanyain ke kakak ku sendiri </s>
 <s> perasaan dia gimana </s>
 <s> dan pengalaman pertama dia </s>
 <s> ngalamin hal mistis itu kayak apa sih gitu </s>
@@ -388,7 +388,7 @@
 <s> ngelihatnya itu lokasinya di mana sih </s>
 <s> pertama kalinya ngelihatnya itu justru itu bukan di mana mana sih  </s>
 <s> bukan di luar ya </s>
-<s> itu di rumah kita s</s>iri </s>
+<s> itu di rumah kita sendiri </s>
 <s> itu tapi lu enggak tau soalnya </s>
 <s> lu masih umur kayak  </s>
 <s> satu dua tahun </s>
@@ -438,7 +438,7 @@
 <s> bombastis ngerinya gitu </s>
 <s> jadi em </s>
 <s> itu ngelihatnya di kamar </s>
-<s> kamar s</s>iri </s>
+<s> kamar sendiri </s>
 <s> tengah malam sih </s>
 <s> ngerasain nge feel nya itu </s>
 <s> pasti ngeri ya  </s>
@@ -456,15 +456,15 @@
 <s> eum </s>
 <s> adik yang cowok </s>
 <s> terus </s>
-<s> di sini ada j</s>ela kecil </s>
-<s> j</s>elanya itu  </s>
+<s> di sini ada jendela kecil </s>
+<s> jendelanya itu  </s>
 <s> dari kamar itu </s>
 <s> menghadap ke ruang belakang </s>
 <s> jadi ke ruang belakang itu ada tempat makan </s>
 <s> dapur  </s>
 <s> dapur ya </s>
 <s> seperti itu jadi </s>
-<s> aku ngelihatnya itu tepat di samping j</s>ela </s>
+<s> aku ngelihatnya itu tepat di samping jendela </s>
 <s> oke jadi pertama kali aku lihat </s>
 <s> itu </s>
 <s> itu ghost ya </s>
@@ -479,19 +479,19 @@
 <s> kepala </s>
 <s> tepat di sampingnya  </s>
 <s> atau </s>
-<s> di samping j</s>ela </s>
-<s> maksudnya pas j</s>elanya memang kebuka gitu ya </s>
+<s> di samping jendela </s>
+<s> maksudnya pas jendelanya memang kebuka gitu ya </s>
 <s> atau </s>
-<s> j</s>elanya kan bukan masih yang kayu kayu kan </s>
+<s> jendelanya kan bukan masih yang kayu kayu kan </s>
 <s> enggak </s>
-<s> yang biasanya aja yang maksudnya j</s>elanya itu bukan </s>
+<s> yang biasanya aja yang maksudnya jendelanya itu bukan </s>
 <s> mengarah keluar rumah loh </s>
 <s> dari kamar mengarah ke ruang dapur aja </s>
 <s> tapi bukan ke luar gitu </s>
-<s> jadi kalau dari j</s>ela kita ngintip ke luar </s>
+<s> jadi kalau dari jendela kita ngintip ke luar </s>
 <s> itu ya ruang makan gitu </s>
 <s> segala macem </s>
-<s> tapi aku lihatnya itu di samping j</s>ela </s>
+<s> tapi aku lihatnya itu di samping jendela </s>
 <s> berarti kan  </s>
 <s> itu ngeri banget karena tidak berkepala </s>
 <s> hem </s>
@@ -563,7 +563,7 @@
 <s> aku sama ceceku </s>
 <s> tidur di sini </s>
 <s> ini adikku yang cowok </s>
-<s> j</s>elanya tepat </s>
+<s> jendelanya tepat </s>
 <s> adikku cowok yang tidur itu dempet ke tembok </s>
 <s> ngerti nggak </s>
 <s> jadi em </s>
@@ -794,10 +794,10 @@
 <s> gua juga nih </s>
 <s> sama nih </s>
 <s> oh iya lo sis </s>
-<s> hmm gak deh gue bisa beli s</s>iri aja nanti </s>
+<s> hmm gak deh gue bisa beli sendiri aja nanti </s>
 <s> omg ya ampun ribet banget sih lo sekalian aja napa </s>
 <s> gak lah  </s>
-<s> huh ya udah lo s</s>iri mau pesan apa  </s>
+<s> huh ya udah lo sendiri mau pesan apa  </s>
 <s> gue gak deh gak haus </s>
 <s> nih duitnya  </s>
 <s> oh iya buruan gak pake lama </s>
@@ -811,7 +811,7 @@
 <s> woi santai aja dong  </s>
 <s> apa apaan lo ngedorong teman gue </s>
 <s> terus emang kenapa </s>
-<s> eh lo g</s>ut udik jangan songong deh </s>
+<s> eh lo gendut udik jangan songong deh </s>
 <s> emang kenapa  </s>
 <s> lo pikir gue takut sama lo lo pada </s>
 <s> ya ampun udah dong woi  </s>
@@ -839,7 +839,7 @@
 <s> soalnya aku ada urusan bentar </s>
 <s> oh gitu oke deh </s>
 <s> eh si cupu tengil  </s>
-<s> s</s>irian aja </s>
+<s> sendirian aja </s>
 <s> sini main dulu sama kita kita </s>
 <s> gak ah aku mau pulang aja </s>
 <s> o mau pulang ya </s>
@@ -870,7 +870,7 @@
 <s> heh lempar aja tuh ke bawah biar mati sekalian </s>
 <s> woi gila lo pada ya </s>
 <s> eh lo diam aja deh </s>
-<s> tapi sebelum itu m</s>ing kita pretelin muka sok cantiknya ini nih anak </s>
+<s> tapi sebelum itu mending kita pretelin muka sok cantiknya ini nih anak </s>
 <s> caranya </s>
 <s> itu soal gampang  </s>
 <s> nih gue ada senjata ampuh </s>
@@ -905,7 +905,7 @@
 <s> apaan sih lo sis  </s>
 <s> gak ada hubungannya tau </s>
 <s> iya kan siapa tau penghuni di sini juga ikutan marah trus neror kita </s>
-<s> gimana nih woi pasti ini teror balas d</s>am </s>
+<s> gimana nih woi pasti ini teror balas dendam </s>
 <s> udahlah nop jangan berfikir buruk </s>
 <s> bisa jadi nop mungkin dia gak terima dengan perlakuan kalian kemaren </s>
 <s> duh gimana nih </s>
@@ -985,14 +985,14 @@
 <s> udah la jaman gini masih berantem aja </s>
 <s> apa rencana kalian untuk akhir minggu ini </s>
 <s> aku bebas  </s>
-<s> kau s</s>iri ingin gimana </s>
+<s> kau sendiri ingin gimana </s>
 <s> gimana kalau main ke rumahku </s>
 <s> kita undang teman-teman kita yang lain juga </s>
 <s> boleh tuh dari pada gak ada kerjaan di kos  </s>
 <s> yang lain gimana  </s>
 <s> pada mau </s>
 <s> yuk boleh aku ikut  </s>
-<s> m</s>ingan kita berempat aja tambah ramai makin susah nyesuaiin waktunya </s>
+<s> mendingan kita berempat aja tambah ramai makin susah nyesuaiin waktunya </s>
 <s> ide bagus dari pada gak jadi  </s>
 <s> ok sampai ketemu </s>
 <s> udah gak sabar nih </s>
@@ -1007,7 +1007,7 @@
 <s> jadi kita mau ngapain aja hari ini </s>
 <s> ngapain ya santai kayak gini sambil ngobrol juga gak papa </s>
 <s> bosan gak sih cuma duduk aja </s>
-<s> m</s>ing kita cari aktivitas </s>
+<s> mending kita cari aktivitas </s>
 <s> aku ada ide gimana kalau kita masak bareng lapar nih belum makan </s>
 <s> waduh ini anak udah telat pikirannya cuman ada makanan aja </s>
 <s> kamu ngapain aja sampai udah telat tapi gak sempat makan </s>
@@ -1019,8 +1019,8 @@
 <s> mie instan sih udah paling top gampang cepat enak </s>
 <s> jangan mie instan dong aku kemarin baru makan mie instan dua bungkus </s>
 <s> wah makan gak ngajak ngajak nih tiba sekarang lapar baru ngajak </s>
-<s> masa kau mau ke rumahku demi makan mie instan ongkos ke rumahku aja lebih mahal dari pada kau masak mie instan s</s>iri </s>
-<s> benar juga ya demi makanan murah meriah tapi enak m</s>ing aku masak s</s>iri di rumah </s>
+<s> masa kau mau ke rumahku demi makan mie instan ongkos ke rumahku aja lebih mahal dari pada kau masak mie instan sendiri </s>
+<s> benar juga ya demi makanan murah meriah tapi enak mending aku masak sendiri di rumah </s>
 <s> masak nasi goreng gimana </s>
 <s> aku bagian potong sayur </s>
 <s> aku bagian makan aja deh </s>
@@ -1038,18 +1038,18 @@
 <s> itu karena nasi yang aku masak kali nasinya pulen makanya jadi enak dimasak nasi goreng </s>
 <s> itu karena bumbu rahasia aku kali kalian gak tau aku memakai sembilan bumbu rahasia </s>
 <s> emang kamu kira ini rasa ayam KFC pakai sembilan bumbu bumbu rahasia </s>
-<s> udah udah m</s>ing makan </s>
+<s> udah udah mending makan </s>
 <s> yang penting enak kan </s>
 <s> kenyang juga ya tadi pas dilihat porsinya kayak sedikit </s>
 <s> kamu aja yang terlalu rakus </s>
 <s> kamu yang numpang makan ayo cuci piring </s>
-<s> iya-iya ini mau nyuci kalian duduk aja biar pada g</s>ut  </s>
+<s> iya-iya ini mau nyuci kalian duduk aja biar pada gendut  </s>
 <s> aku beres makan mah sukanya berdiri sih </s>
 <s> makanya pilih cuci piring aja cerdas gak </s>
 <s> cerdas banget yang penting kamu senang deh </s>
 <s> jadi ceritanya udah kuhasut tapi gak ada yang mau bantuin </s>
 <s> sudah kuduga ide liciknya </s>
-<s> cuci s</s>iri </s>
+<s> cuci sendiri </s>
 <s> iya-iya ini lagi nyuci </s>
 <s> piring-piring itu masih basah harus kau keringin dulu baru disimpan kalau enggak nanti jadi berbintik-bintik </s>
 <s> biasanya aku di rumah langsung disimpan aja </s>
@@ -1065,12 +1065,12 @@
 <s> yuk lagi pengen nonton juga nih </s>
 <s> ke mall yang dekat aja kali ya </s>
 <s> tapi di sana parkirnya sering penuh </s>
-<s> m</s>ing gimana </s>
+<s> mending gimana </s>
 <s> gak apa apa la kita cobain aja rezeki anak soleh siapa tau dapet </s>
 <s> yuk langsung berangkat aja </s>
 <s> eh pelanin pelanin ada tempat parkir kosong disana </s>
 <s> hari ini rencananya selain nonton mau ngapain aja kita </s>
-<s> m</s>ing ngapain aja menurutmu </s>
+<s> mending ngapain aja menurutmu </s>
 <s> ih kok nanya balik </s>
 <s> belum ada rencana soalnya aku juga gak tau </s>
 <s> gimana kalau kita setelah ke bioskop makan dan karaoke </s>
@@ -1090,7 +1090,7 @@
 <s> banyak banget emang bakal habis </s>
 <s> kan ada kalian kalau gak habis tinggal kalian yang makan </s>
 <s> enak aja siapa yang pesan siapa yang harus makan </s>
-<s> padahal s</s>irinya juga senang </s>
+<s> padahal sendirinya juga senang </s>
 <s> terus mau nonton apa nanti </s>
 <s> oh my god ya nonton film yang lagi hitz sekarang dong </s>
 <s> aku bayarin deh nontonnya  </s>
@@ -1103,7 +1103,7 @@
 <s> terus setelah itu kita pergi karaoke terus nanti kita nyanyi nyanyiin lagu disney </s>
 <s> emang itu tujuannya dong </s>
 <s> kalau gak mau dengar tutup telinga aja kali  </s>
-<s> yang penting temanin karaoke aja biar pergi karaokenya gak s</s>iri s</s>iri amat </s>
+<s> yang penting temanin karaoke aja biar pergi karaokenya gak sendiri sendiri amat </s>
 <s> seenaknya aku juga mau nyanyi kali </s>
 <s> aku nyanyi lagu hallowen </s>
 <s> apapula lagu hallowen coba contoh kan </s>

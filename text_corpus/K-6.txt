@@ -127,7 +127,7 @@
 <s> jaraknya sekitar satu kilometer </s>
 <s> wah sepertinya itu lumayan jauh ya </s>
 <s> ya cukup jauh </s>
-<s> oleh karna itu mustahil bagimu untuk sampai disana dengan m</s>orong sepeda itu </s>
+<s> oleh karna itu mustahil bagimu untuk sampai disana dengan mendorong sepeda itu </s>
 <s> ah jangan khawatir aku sudah terbiasa dengan itu </s>
 <s> sudahlah </s>
 <s> mari naikkan sepedamu di mobilku </s>
@@ -153,9 +153,9 @@
 <s> tidak hanya itu </s>
 <s> bersepeda juga membuat tubuh kita sehat </s>
 <s> ternyata kau ini memiliki jiwa petualang </s>
-<s> tapi bukankah akan lebih mudah dan cepat jika kamu meng</s>arai sepeda motor </s>
+<s> tapi bukankah akan lebih mudah dan cepat jika kamu mengendarai sepeda motor </s>
 <s> pasti akan sangat cepat </s>
-<s> tetapi kau tidak akan menemukan sebuah kepuasan karena meng</s>arai sepeda motor </s>
+<s> tetapi kau tidak akan menemukan sebuah kepuasan karena mengendarai sepeda motor </s>
 <s> tidak ada tantangannya </s>
 <s> bahkan bisa menambah polusi udara yang telah terjadi saat ini </s>
 <s> ada benarnya juga sih </s>
@@ -281,7 +281,7 @@
 <s> menurut aku nyai an nyai ontosoroh ini sangat keren </s>
 <s> dia bisa memainkan karakter wanita jawa yang sangat berani dalam menghadapi fase-fase sulit hidupnya </s>
 <s> keras namun terus berjuang demi hak-haknya sebagai seorang manusia dan wanita </s>
-<s> walaupun dia dianggap memiliki status sosial yang r</s>ah atau dibilang gundik </s>
+<s> walaupun dia dianggap memiliki status sosial yang rendah atau dibilang gundik </s>
 <s> dia malah membuat kagum si minke </s>
 <s> eh film ini kan bisa pakai komunikasi tiga bahasa gitu </s>
 <s> kamu ada ngerasain kurang paham gitu gak sih selama nonton </s>
@@ -294,16 +294,16 @@
 <s> mulai dari transportasi gedung rumah nama lokasi benar-benar kayak disesuaiin pas jaman dulu gitu </s>
 <s> kamu bisa ngeliat gak sih di filmnya itu kayak ada pergolakan antara pribumi juga gitu </s>
 <s> saat para belanda ini memaksa masuk ke rumah nyai </s>
-<s> itu pribumi anak buahnya belanda malah nembakin pribumi yang secara itu adalah saudara setanah air mereka s</s>iri </s>
+<s> itu pribumi anak buahnya belanda malah nembakin pribumi yang secara itu adalah saudara setanah air mereka sendiri </s>
 <s> iya sih itu kesel banget </s>
 <s> karena menurut aku mereka itu udah jadi nurut sama belanda  </s>
 <s> karena hanya pengen hidup enak </s>
-<s> jadinya mereka nurut walaupun harus memerangi saudara mereka s</s>iri </s>
+<s> jadinya mereka nurut walaupun harus memerangi saudara mereka sendiri </s>
 <s> kalo dari sisi annelies itu kamu liatnya gimana sih  </s>
 <s> kok aku kayak ngeliatnya annelies ini agak cengeng gitu ya di awal-awal mereka dapet masalah </s>
 <s> sama </s>
 <s> anak mama banget gak sih </s>
-<s> hahaha tapi karena keluguan annelies dan kebanggannya terhadap pribumi yang bikin dia punya daya tarik s</s>iri </s>
+<s> hahaha tapi karena keluguan annelies dan kebanggannya terhadap pribumi yang bikin dia punya daya tarik sendiri </s>
 <s> tapi dia juga kasihan ya </s>
 <s> harus pisah dari ibu dan suaminya karena gak diakui oleh pengadilan sah </s>
 <s> padahal mereka punya cukup bukti </s>
@@ -360,13 +360,13 @@
 <s> bumi manusia memang bukan film terbaik hanung bramantyo </s>
 <s> namun dari bumi manusia kamu bisa melihat banyak sudut pandang yang baru dalam dunia sebuah film </s>
 <s> iqbal yang tak lagi bermain sebagai seorang remaja berandalan dengan motornya </s>
-<s> atau m</s>apatkan narasi baru tentang bagaimana perjuangan seseorang untuk m</s>apatkan hak yang setara dengan manusia lainnya </s>
+<s> atau mendapatkan narasi baru tentang bagaimana perjuangan seseorang untuk mendapatkan hak yang setara dengan manusia lainnya </s>
 <s> oh iya setuju setuju </s>
 <s> aku berharapnya di buku keduanya itu masih lanjutin cerita perjuangan minke dan anna annelies </s>
 <s> tapi ternyata engga </s>
 <s> di awal buku kedua itu diceritain si annelies meninggal di kapal dalam perjalanan ke belanda karena sakit </s>
 <s> oh iya sedih banget </s>
-<s> tapi perjuangan mereka jadi inspirasi banget gimana memperjuangkan keadilan di tanah kelahirannya s</s>iri </s>
+<s> tapi perjuangan mereka jadi inspirasi banget gimana memperjuangkan keadilan di tanah kelahirannya sendiri </s>
 <s> iya kalo disuruh ngasih nilai film ini kamu bakal ngasih berapa </s>
 <s> kalo aku sih sepuluh per sepuluh karena sekeren itu </s>
 <s> dan di akhir film ada lagu ibu pertiwi jadi tambah nasionalis aja rasanya hahaha </s>
@@ -394,13 +394,13 @@
 <s> ah iya nih susah banget </s>
 <s> aku sih kalau bisa enggak mau ingat-ingat lagi ujian kemaren </s>
 <s> bisa dapat lima puluh aja udah bersyukur banget </s>
-<s> ah kamu mer</s>ah banget sih </s>
+<s> ah kamu merendah banget sih </s>
 <s> banyak juga yang lebih enggak bisa daripada kamu </s>
 <s> paling nanti kamu juga dapat nilai a </s>
 <s> bukan begitu </s>
 <s> aku takut aja dapat jelek nih </s>
 <s> ah salah aku tanya ujian kemaren ke kamu </s>
-<s> kamu malah langsung mer</s>ah gitu </s>
+<s> kamu malah langsung merendah gitu </s>
 <s> ngomong-ngomong sore ini jalan bareng yuk sama harry </s>
 <s> dia ajak kita jalan-jalan ke mall dekat itb </s>
 <s> kamu bisa ikut enggak </s>
@@ -423,7 +423,7 @@
 <s> oh ya kalau di restoran itu ada apa aja ya </s>
 <s> mantap </s>
 <s> eh jangan makan dulu ya supaya tidak kenyang langsung waktu baru makan nanti </s>
-<s> kalau di restoran itu s</s>iri sih kamu bisa pilih daging sapi apa aja </s>
+<s> kalau di restoran itu sendiri sih kamu bisa pilih daging sapi apa aja </s>
 <s> ada juga ayam mi salad ikan dan tentunya ada es krim </s>
 <s> pokoknya enak banget deh </s>
 <s> kamu bisa panggang atau gak bisa bikin sup dan semacamnya </s>
@@ -570,7 +570,7 @@
 <s> yang kau makan itu mungkin durian murah </s>
 <s> makan tuh yang jenisnya musang king </s>
 <s> enak banget itu </s>
-<s> tapi kan musang king mahal ton m</s>ing pisang </s>
+<s> tapi kan musang king mahal ton mending pisang </s>
 <s> udah murah enak semua orang juga suka </s>
 <s> kata siapa </s>
 <s> buat aku kurang ah apalagi rasanya kadang suka asem </s>
@@ -582,7 +582,7 @@
 <s> pisang kan enggak cocok kalau dibikin es parut hehe </s>
 <s> kata siapa cocok kok lagian durian itu baunya menyengat banget </s>
 <s> eh kok kita jadi berantem soal buah </s>
-<s> m</s>ing kita habisin dulu rotinya </s>
+<s> mending kita habisin dulu rotinya </s>
 <s> benar juga kamu sih yang mulai duluan bud </s>
 <s> loh kok aku  </s>
 <s> bukannya kamu </s>
@@ -614,7 +614,7 @@
 <s> eh aku mau cumi dong sama udang deh </s>
 <s> oke aku pesenin ya </s>
 <s> sip </s>
-<s> ngomong-ngomong kamu udah nonton film avengers </s>game belum </s>
+<s> ngomong-ngomong kamu udah nonton film avengers endgame belum </s>
 <s> gila seru banget loh itu </s>
 <s> udah dong </s>
 <s> iya emang seru banget tuh </s>
@@ -647,7 +647,7 @@
 <s> eh tapi di beberapa tempat yang orangnya tersisa orang jahat kotanya jadi ancur banget tuh </s>
 <s> mereka menguasai tempat itu dengan kejahatan </s>
 <s> terus ada adegan ga disangka lagi nih </s>
-<s> ternyata si hawkeye jadi assasin gitu p</s>ekar bersamurai </s>
+<s> ternyata si hawkeye jadi assasin gitu pendekar bersamurai </s>
 <s> yaelah ronin kali maksudnya </s>
 <s> oh iya ronin bener maksudnya </s>
 <s> intinya dia kayak semacam membasmi kejahatan di daerah jepang gitu kan </s>
@@ -687,11 +687,11 @@
 <s> kok celananya basah </s>
 <s> siapa yang pipis haha </s>
 <s> haha iya itu lucu banget </s>
-<s> padahal yang pipis kan diri dia s</s>iri waktu bayi haha </s>
+<s> padahal yang pipis kan diri dia sendiri waktu bayi haha </s>
 <s> meskipun gagal avenger yang dipimpin kapten amerika ga nyerah nih </s>
 <s> mereka akhirnya pergi ke rumah tony untuk minta bantuan karena dia yang paling jenius diantara avenger lainnya </s>
 <s> bukannya kapten amerika itu lagi musuhan ya sama tony </s>
-<s> iya fis tapi kapten amerika lebih ngedepanin kepentingan banyak orang dibanding kepentingan dia s</s>iri </s>
+<s> iya fis tapi kapten amerika lebih ngedepanin kepentingan banyak orang dibanding kepentingan dia sendiri </s>
 <s> singkat cerita dengan berbagai drama yang terjadi tuh tony akhirnya mau  </s>
 <s> akhirnya dibuat deh alat perjalanan waktunya sama tony stark </s>
 <s> terus sukses kan alatnya tony </s>
@@ -706,7 +706,7 @@
 <s> aku inget tuh yang tony stark ke tahun 2013 </s>
 <s> mereka sempat gagal disitu kan karena ulahnya loki </s>
 <s> terus mereka balik lagi tuh ke masa perang dunia dua  </s>
-<s> uniknya waktu perjalanan itu tony ketemu sama bapaknya s</s>iri </s>
+<s> uniknya waktu perjalanan itu tony ketemu sama bapaknya sendiri </s>
 <s> kikuk gitu sih haha </s>
 <s> singkat cerita mereka berhasil nih dapet semua batu tak terhingga dan berhasil ngembaliin semua makhluk hidup yang kena efek snap </s>
 <s> sukses sih gi tapi kalau ga salah ternyata thanos dan kawan-kawannya itu mengetahui loh rencananya avenger </s>
@@ -720,7 +720,7 @@
 <s> kapten amerika ternyata bisa ngangkat palunya thor </s>
 <s> padahal kan waktu dulu ga bisa ya </s>
 <s> eh iya kenapa kapten amerika bisa ngangkat ya </s>
-<s> menurut teori konspirasi yang aku baca sih ya ternyata kapten amerika udah jujur sama tony bahwa yang bunuh ayahnya tony adalah sahabatnya kapten amerika s</s>iri </s>
+<s> menurut teori konspirasi yang aku baca sih ya ternyata kapten amerika udah jujur sama tony bahwa yang bunuh ayahnya tony adalah sahabatnya kapten amerika sendiri </s>
 <s> oh iya bener </s>
 <s> eh sorry sorry aku lanjut lagi nih ya ke ceritanya </s>
 <s> klimaks dari cerita ini wah itu sih yang paling ga terduga dari semua adegan yang ada </s>
@@ -734,8 +734,8 @@
 <s> eh kalian udah selese makan ya </s>
 <s> maap nih baru selesai kelas </s>
 <s> santai kita makannya lama kok </s>
-<s> kebanyakan bahas film </s>game tadi </s>
-<s> wah pengen juga dong bahas film </s>game </s>
+<s> kebanyakan bahas film endgame tadi </s>
+<s> wah pengen juga dong bahas film endgame </s>
 <s> haduh telat sih do </s>
 <s> udah selesai ceritanya hahahaha </s>
 <s> hem yaudah deh aku gabung makan aja ya </s>

@@ -7,7 +7,7 @@
 <s> bangun jam berapa lu </s>
 <s> ya ini barusan baru bangun nih </s>
 <s> ohh betulin jam tidur lu cuy </s>
-<s> iya ini lagi berusaha ini untuk betulin jam tidur gua s</s>iri </s>
+<s> iya ini lagi berusaha ini untuk betulin jam tidur gua sendiri </s>
 <s> hem perasaan dari taun lalu juga gini </s>
 <s> ya gimana ya kan pro gaming bukan programming </s>
 <s> atur aja lah atur </s>
@@ -22,13 +22,13 @@
 <s> temanya ditentuin gitu harus rekam apanya </s>
 <s> itu ada temanya di grup kelas </s>
 <s> coba deh buka line </s>
-<s> wah itu rekamnya harus suara s</s>iri atau boleh orang lain juga </s>
+<s> wah itu rekamnya harus suara sendiri atau boleh orang lain juga </s>
 <s> boleh bareng orang lain juga sih katanya kemaren boleh ada temen bicaranya gitu </s>
 <s> ohh mo bantuin gua ga nik </s>
 <s> ga tapi kalo ditraktir makan dulu boleh lah </s>
 <s> sabi jadi mo makan apa ni </s>
 <s> serius lo traktir all you can eat wagyu kan </s>
-<s> wah kalo traktir all you can eat wagyu m</s>ingan gua loss dah </s>
+<s> wah kalo traktir all you can eat wagyu mendingan gua loss dah </s>
 <s> ah cewa </s>
 <s> serius mo makan apa gua laper nih sekarang </s>
 <s> iya ni gua juga </s>
@@ -89,7 +89,7 @@
 <s> iya yang promo lima </s>
 <s> ohh hem boleh juga tuh </s>
 <s> abisnya yang lain juga belum pada ngabarin nih </s>
-<s> m</s>ingan beli buat berdua dulu </s>
+<s> mendingan beli buat berdua dulu </s>
 <s> okelah jadi fix nih mau makan yang pasta </s>
 <s> iya dah bole boleh </s>
 <s> siapa nih yang pesen </s>
@@ -100,7 +100,7 @@
 <s> ngomong-ngomong itu rame-rame dateng ke sini mo ngapain </s>
 <s> lah kan mo turnamen lu ikut juga kan </s>
 <s> hah turnamen apaan </s>
-<s> itu loh turnamen mobil leg</s>aris </s>
+<s> itu loh turnamen mobil legendaris </s>
 <s> oh lomba mole emang hari ini ya </s>
 <s> iya woi hari ini jam delapan </s>
 <s> tunggu tunggu tapi kan yang lomba bukan gua </s>
@@ -135,7 +135,7 @@
 <s> wah boleh tuh mau pesen martabak apa </s>
 <s> hem di deket sini martabak mana si yang enak </s>
 <s> kalo martabak mah rasanya sama sama aja sih </s>
-<s> m</s>ingan cari yang ada promo </s>
+<s> mendingan cari yang ada promo </s>
 <s> wah martabak mertua lagi diskon nih </s>
 <s> wah emang ni ellen gercep ye kalo soal pesen makanan </s>
 <s> ya daripada kita debat debat terus ga mesen mesen </s>
@@ -159,7 +159,7 @@
 <s> lah oreo kan coklat pa </s>
 <s> lah bukan mit oreo itu oreo beda itu </s>
 <s> ya di mata gua oreo itu coklat </s>
-<s> wah cobain dulu mit siapa tau mulut lu berbeda p</s>apat sama mata lu </s>
+<s> wah cobain dulu mit siapa tau mulut lu berbeda pendapat sama mata lu </s>
 <s> jadi pengen nasi telornya upnormal yah </s>
 <s> iya nih kaya yang enak ya udah lama </s>
 <s> skuy pesen </s>
@@ -375,15 +375,15 @@
 <s> kayanya senang deh selalu senang kalau turun </s>
 <s> ko ga diselametin di mana-mana sih </s>
 <s> masih ada hutang gua </s>
-<s> ferdi p</s>ek ya </s>
+<s> ferdi pendek ya </s>
 <s> jadi udah boleh seminar lu </s>
 <s> awalnya udah dikelompokin gitu paling atasnya cluster satu paling atasnya cluster dua waktu masuk data tes </s>
 <s> gua lebih memilih css </s>
-<s> kata nicho m</s>ingan potong kecil-kecil pause terus dinamain </s>
+<s> kata nicho mendingan potong kecil-kecil pause terus dinamain </s>
 <s> gua kemarin kamis apa ya waktu KP bimbingan KP sebelumnya minta kamis depan terus lupa </s>
 <s> barusan gua kan di apa diculik ricky </s>
 <s> ko gua sering banget denger taichan emang enak </s>
-<s> ya kan m</s>ing cuma di update databasenya doang validnya sampai kapan </s>
+<s> ya kan mending cuma di update databasenya doang validnya sampai kapan </s>
 <s> tapi gua dosennya pa dicky gitu </s>
 <s> gua juga kesiangan sih </s>
 <s> tadi pagi ga jadi </s>
@@ -408,7 +408,7 @@
 <s> terus tiba-tiba diajak diculik ricky gitu suruh ngerjain DSDM yaudah </s>
 <s> ga tahu bingung </s>
 <s> jadi mungkin pak utama juga kata-katanya tidak seindah kenyataan </s>
-<s> ada kal</s>er p</s>idikan di sini </s>
+<s> ada kalender pendidikan di sini </s>
 <s> oh lu kerjain bagian deskripsi aja ya </s>
 <s> dik kenapa waktu berjalan cepat </s>
 <s> gua gua pokonya udah pindah posisi aja </s>
@@ -421,7 +421,7 @@
 <s> udah ada model cluster jadi ada seratus data yang udah dimasukkin ke cluster misalnya data nol sampai seratus itu cluster satu dan seterusnya </s>
 <s> ya gimana ya udah abis masa pertumbuhannya ferdi </s>
 <s> kan biasa bangun juga jam sembilan </s>
-<s> biasanya gini lu aja yang ga m</s>engarkan </s>
+<s> biasanya gini lu aja yang ga mendengarkan </s>
 <s> juli juli </s>
 <s> diminta baca yang blockchain </s>
 <s> ya yang data sains data sains </s>
@@ -445,7 +445,7 @@
 <s> diarahin ke blockchain </s>
 <s> selamat pagi mas </s>
 <s> pagi mas gimana kabar </s>
-<s> oh baik kok mas s</s>iri gimana </s>
+<s> oh baik kok mas sendiri gimana </s>
 <s> baik juga tumben dateng jam 7 biasanya jam 9 </s>
 <s> iya nih soalnya nanti ada acara keluarga besar gitu di rumah jadi ya harus masak dari pagi </s>
 <s> wah asik dong ya </s>
@@ -557,15 +557,15 @@
 <s> iya si Juminten kan </s>
 <s> iya mas udah nyoba datengin belom rumahnya Kenalan gitu </s>
 <s> belom mas rencananya si sih minggu depan mas udah </s>
-<s> belom juga nih rumahnya yang di jalan c</s>erawasih nomor delapan itu kan </s>
+<s> belom juga nih rumahnya yang di jalan cenderawasih nomor delapan itu kan </s>
 <s> iya mas yang gede itu rumahnya </s>
 <s> orang kaya ya dia </s>
 <s> kayanya sih mas </s>
-<s> dia tinggal s</s>iri apa gimana sih di rumah segede itu </s>
-<s> denger-denger nggak s</s>iri sih </s>
+<s> dia tinggal sendiri apa gimana sih di rumah segede itu </s>
+<s> denger-denger nggak sendiri sih </s>
 <s> oh iya tapi kok saya ga pernah ngeliat orang keluar dari rumah itu selain dia ya </s>
 <s> wah saya kurang tau mas kalo itu mah tapi dia punya mobil dua kan </s>
-<s> iya sih masa mobil dua dipake s</s>iri </s>
+<s> iya sih masa mobil dua dipake sendiri </s>
 <s> nah itu mas mungkin kita ga pernah liat aja </s>
 <s> iya ya emang harus berkunjung sih </s>
 <s> tapi orang kaya dia kerjanya apa ya mas </s>
@@ -573,8 +573,8 @@
 <s> CEO itu apa mas </s>
 <s> CEO itu kaya pemimpin perusahaan gitu deh </s>
 <s> beneran keren-keren CEO perusahaan apa </s>
-<s> <s>up gitu </s>
-<s> <s>up </s>
+<s> startup gitu </s>
+<s> startup </s>
 <s> kaya perusahaannya baru dibangun ini di bidang teknologi gitu mas </s>
 <s> oh kaya jualan hp gitu-gitu ya mas </s>
 <s> bukan mas perusahaan yang make teknologi gitu </s>
@@ -640,7 +640,7 @@
 <s> lama nih nggak ketemu </s>
 <s> gimana kabarnya </s>
 <s> baik andi </s>
-<s> kamu s</s>iri gimana </s>
+<s> kamu sendiri gimana </s>
 <s> wah udah dua minggu ya nggak ketemu </s>
 <s> aku juga baik </s>
 <s> iya nih dua minggu kemarin kamu kemana aja </s>
@@ -656,7 +656,7 @@
 <s> kamu mau kemana liburan nanti </s>
 <s> kemana ya </s>
 <s> ah paling ke rumah nenek kakek aja </s>
-<s> kamu s</s>iri ada acara apa liburan nanti </s>
+<s> kamu sendiri ada acara apa liburan nanti </s>
 <s> aku malah belum punya rencana </s>
 <s> eh gimana kalo akhir bulan nanti kita ke puncak aja </s>
 <s> wah boleh juga tuh </s>
@@ -691,7 +691,7 @@
 <s> sampaikan salamku untuknya </s>
 <s> akan kusampaikan </s>
 <s> sedang sibuk apa sekarang </s>
-<s> masih mengurus bisnis <s>up yang kurintis </s>
+<s> masih mengurus bisnis startup yang kurintis </s>
 <s> semoga semuanya baik-baik saja </s>
 <s> kamu juga </s>
 <s> halo apa rencanamu di akhir pekan </s>
@@ -727,9 +727,9 @@
 <s> rasanya enak banget </s>
 <s> aku ingin mencoba membuatnya juga </s>
 <s> haruskah aku mengikuti kelas sepertimu juga </s>
-<s> iya aku akan membantumu m</s>aftar </s>
+<s> iya aku akan membantumu mendaftar </s>
 <s> benarkah </s>
-<s> bisakah kita m</s>aftar besok </s>
+<s> bisakah kita mendaftar besok </s>
 <s> bisa </s>
 <s> aku akan menjemputmu jam sepuluh </s>
 <s> halo alghi </s>
@@ -742,7 +742,7 @@
 <s> ini seperti burung beneran </s>
 <s> tidak aku tidak bisa melukis sebaik itu </s>
 <s> kamu salah lihat kali </s>
-<s> aku beneran jujur lukisanmu itu seperti b</s>a aslinya </s>
+<s> aku beneran jujur lukisanmu itu seperti benda aslinya </s>
 <s> iya terserah kamu deh raf </s>
 <s> niza aku mau memperkenalkan kamu pada salah satu teman lamaku namanya pram </s>
 <s> halo niza aku pram </s>

@@ -37,7 +37,7 @@
 <s> disuruh ngapain sih quality assurance </s>
 <s> testing </s>
 <s> testing </s>
-<s> ngecek ngecek yang kaya corner case gitu jadi harus jago m</s>efinisikan skenario </s>
+<s> ngecek ngecek yang kaya corner case gitu jadi harus jago mendefinisikan skenario </s>
 <s> aku itu apa ya ngerusak hari orang lain </s>
 <s> ini ada agate lix </s>
 <s> oh lima ratus ribu </s>
@@ -67,7 +67,7 @@
 <s> kita lihat lomba lomba </s>
 <s> ini ada tuh BCA </s>
 <s> mm </s>
-<s> masih lama p</s>aftarannya </s>
+<s> masih lama pendaftarannya </s>
 <s> mau coba </s>
 <s> kalo mau yang bisnis PNJ ya lumayan </s>
 <s> kan tetap ada orang bisnis </s>
@@ -89,7 +89,7 @@
 <s> iya </s>
 <s> jadi mulainya itu tiga puluh </s>
 <s> kan kita daftar dulu udah itu dia ada pemanasan gitu katanya </s>
-<s> pengen part time atau intern ya kata lu m</s>ing part time intern </s>
+<s> pengen part time atau intern ya kata lu mending part time intern </s>
 <s> kalau part time kalau lu nggak pengen mengambil tanggung jawab besar intern saja </s>
 <s> kalau part time kan kalau lu salah lu bisa dikeluarin bisa dipecat secara tidak hormat kalau intern kan yaudah gitu masih magang memang bukan saatnya bertanggung jawab </s>
 <s> aduh </s>
@@ -123,7 +123,7 @@
 <s> sekarang sudah dua puluh tiga menit </s>
 <s> semangat ayo maba maba </s>
 <s> udah lah cukup cape lix </s>
-<s> nanti kalau kurang tambah tambahin saja lagi s</s>iri monologue saja </s>
+<s> nanti kalau kurang tambah tambahin saja lagi sendiri monologue saja </s>
 <s> mm sebelum makin aneh </s>
 <s> terakhir terakhir </s>
 <s> nggak dipause dulu itunya </s>
@@ -141,7 +141,7 @@
 <s> kemarin ini ada ide sih dua </s>
 <s> mau nanya saja asisten gimana tadi ngawasin ada yang lucu nggak </s>
 <s> biasa lah gitu kalau praktikum pertama kan biasanya banyak yang error </s>
-<s> sekarang pertama padahal ini kan sudah mau m</s>ekati </s>
+<s> sekarang pertama padahal ini kan sudah mau mendekati </s>
 <s> iya emang praktikum MBD kan cuma tiga kali jadi minggu ini minggu depan sama dua minggu lagi </s>
 <s> oh iya aku jadi teringat nggak ikut MB praktikum buat interview lima </s>
 <s> ih basis data </s>
@@ -156,7 +156,7 @@
 <s> tapi kan belajar gua nggak belajar </s>
 <s> cape lix udah </s>
 <s> sebentar ini kan banyak bolong bolong jadi harus </s>
-<s> tambahin s</s>iri nanti </s>
+<s> tambahin sendiri nanti </s>
 <s> sampe sampe tiga puluh menit lima menit lagi </s>
 <s> halo apa kabar </s>
 <s> aku baik cuacanya cerah ya gelap </s>
@@ -170,7 +170,7 @@
 <s> emang di dicek sama ABED oh ini nggak ada di inventory kamu maling </s>
 <s> nggak tau juga sih </s>
 <s> dick coba ngomong garingan </s>
-<s> nggak mau nggak bisa garingan itu nggak bisa dipaksa dia keluar s</s>iri </s>
+<s> nggak mau nggak bisa garingan itu nggak bisa dipaksa dia keluar sendiri </s>
 <s> dikit lagi tiga menit yuk maksimalkan usaha kita </s>
 <s> gimana DSDM udah jadi </s>
 <s> udah cicis kan so powerful </s>
@@ -260,7 +260,7 @@
 <s> belom tau kalo internet gimana </s>
 <s> kalo pake lokal ga ada masalah </s>
 <s> memungkinkan kan sebenernya </s>
-<s> ribet gak sih kalo mau bisa dik</s>alikan pake internet </s>
+<s> ribet gak sih kalo mau bisa dikendalikan pake internet </s>
 <s> udah ada kan punya azis </s>
 <s> harusnya cukup </s>
 <s> berarti buat ta bisa kan ya </s>
@@ -351,13 +351,13 @@
 <s> kalo dari aku emang ga ada sih </s>
 <s> kalo dari panitia ada yang menyediakan ga </s>
 <s> pengen banget sih sebelum lulus s1 </s>
-<s> eh summer school udah buka p</s>aftaran </s>
+<s> eh summer school udah buka pendaftaran </s>
 <s> perlu transkrip tapi terus jauh juga di jerman </s>
 <s> ketiduran gua kemarin baru inget jam tujuh ada deadline </s>
 <s> kemarin lembar bimbingan ditaruh mana </s>
 <s> kalo itu juga gua gatau </s>
 <s> coba lu tanya dosen lu deh </s>
-<s> lembar bimbingan gua juga cuma ditandatangan sih terus isi s</s>iri </s>
+<s> lembar bimbingan gua juga cuma ditandatangan sih terus isi sendiri </s>
 <s> biar cepet seminar gimana ya ini dosennya mau cabut lagi </s>
 <s> laper dah mau gofood ga </s>
 <s> sekalian deh ini kerjain biar besok udah ga ada kerjaan lagi </s>
@@ -394,7 +394,7 @@
 <s> kamu kemarin habis dari mana </s>
 <s> eh ini ngapain diginiin ga usah ga perlu </s>
 <s> itu gampang ga sih tinggal diginiin aja </s>
-<s> coba teken teken terus deh tombolnya ntar dia muncul s</s>iri </s>
+<s> coba teken teken terus deh tombolnya ntar dia muncul sendiri </s>
 <s> ih repot banget sama dosen itu </s>
 <s> revisinya banyak banget yang harus diganti </s>
 <s> pake bahasa inggris ngga boleh </s>
@@ -410,7 +410,7 @@
 <s> oh iya bener </s>
 <s> ngurus visa us berapa lama sih </s>
 <s> kalo beli di traveloka sama aja sebenernya </s>
-<s> m</s>ing nanti aja summer bulan juli gitu berangkatnya </s>
+<s> mending nanti aja summer bulan juli gitu berangkatnya </s>
 <s> pinginnya sih ya bulan juli lulusnya wisudanya </s>
 <s> pinginnya sih ya lulusnya juli wisudanya </s>
 <s> pada mau makan di mana </s>
@@ -475,7 +475,7 @@
 <s> sekarang smanten bidang apa nih yang lagi ngebut </s>
 <s> kalau buat sekarang ehem debat deh kayaknya  </s>
 <s> kelompok kelompok debat terus bahasa english tu lumayan  </s>
-<s> kalau untuk olimpiade s</s>iri a untuk semester ini tu belum belum terlalu ini lah  </s>
+<s> kalau untuk olimpiade sendiri a untuk semester ini tu belum belum terlalu ini lah  </s>
 <s> walaupun kita udah mengikuti banyak event lomba tapi pesertanya banyak ikutnya dari kelas dua gitu  </s>
 <s> iya </s>
 <s> belum ada yang terlalu mencetak gitu lah  </s>
@@ -572,7 +572,7 @@
 <s> trus diajakin louis juga </s>
 <s> hmm gua lagi di kuota sih </s>
 <s> tentang apa lagunya </s>
-<s> rekom</s>asi dari orang itu ya pasti </s>
+<s> rekomendasi dari orang itu ya pasti </s>
 <s> dia gak wibu </s>
 <s> ow </s>
 <s> sukanya korea </s>
@@ -693,7 +693,7 @@
 <s> ini daftar pilihan topik ta gua coba liat </s>
 <s> kalo lu apa aja lix </s>
 <s> lu banyaknya ngambil sister ai sama software engineering ya </s>
-<s> hah judulnya bikin s</s>iri </s>
+<s> hah judulnya bikin sendiri </s>
 <s> wow kreatif banget ide baru ya </s>
 <s> kalo sama ibu itu kenapa harus udah bikin bab dua </s>
 <s> btw lix yang speech mau ngerjain malem </s>
@@ -710,8 +710,8 @@
 <s> loh gua mau bikin paragraf baru oh udah </s>
 <s> udah mau kaya gini aja bingung nih mau nambahin apa lagi </s>
 <s> wew kan gak usah hard copy udah disebut </s>
-<s> lu itung semuanya s</s>iri tapi pake komputer jadi gak pake program </s>
-<s> waw jadi semuanya diturunin s</s>iri </s>
+<s> lu itung semuanya sendiri tapi pake komputer jadi gak pake program </s>
+<s> waw jadi semuanya diturunin sendiri </s>
 <s> okei jadinya berapa lembar tuh </s>
 <s> kok sedikit kan ada 56 kemungkinan </s>
 <s> efeknya super signifikan ya bedanya jauh lix </s>
@@ -734,7 +734,7 @@
 <s> rasanya udah deh satu gym sisanya kantor </s>
 <s> boleh deh demi ricat apa sih yang nggak </s>
 <s> btw dengerinnya gak harus full kan ya </s>
-<s> okei m</s>ingan jangan dengerin dulu dong </s>
+<s> okei mendingan jangan dengerin dulu dong </s>
 <s> surveynya panjang nggak </s>
 <s> oh berarti minimal dua halaman ya </s>
 <s> nat ini kebaktian di marnat ternyata sekolah minggu gabungan </s>
