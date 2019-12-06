@@ -11,8 +11,8 @@
 # !!!!!! 
 
 # VoxForge configurations:
--dfa sample.dfa     # finite state automaton grammar file
--v sample.dict      # pronunciation dictionary
+-dfa bg1    # finite state automaton grammar file
+-v dict-wsp      # pronunciation dictionary
 -h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
 -hlist tiedlist     # HMMList to map logical phone to physical
 -smpFreq 16000	    # sampling rate (Hz)

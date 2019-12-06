@@ -251,6 +251,7 @@ TB 350 "ST_p_2_" {("p","*-p+*","p+*","*-p").state[2]}
 TB 350 "ST_r_2_" {("r","*-r+*","r+*","*-r").state[2]}
 TB 350 "ST_s_2_" {("s","*-s+*","s+*","*-s").state[2]}
 TB 350 "ST_sil_2_" {("sil","*-sil+*","sil+*","*-sil").state[2]}
+TB 350 "ST_sip_2_" {("sip","*-sip+*","sip+*","*-sip").state[2]}
 TB 350 "ST_sy_2_" {("sy","*-sy+*","sy+*","*-sy").state[2]}
 TB 350 "ST_t_2_" {("t","*-t+*","t+*","*-t").state[2]}
 TB 350 "ST_u_2_" {("u","*-u+*","u+*","*-u").state[2]}
@@ -285,6 +286,7 @@ TB 350 "ST_p_3_" {("p","*-p+*","p+*","*-p").state[3]}
 TB 350 "ST_r_3_" {("r","*-r+*","r+*","*-r").state[3]}
 TB 350 "ST_s_3_" {("s","*-s+*","s+*","*-s").state[3]}
 TB 350 "ST_sil_3_" {("sil","*-sil+*","sil+*","*-sil").state[3]}
+TB 350 "ST_sip_3_" {("sip","*-sip+*","sip+*","*-sip").state[3]}
 TB 350 "ST_sy_3_" {("sy","*-sy+*","sy+*","*-sy").state[3]}
 TB 350 "ST_t_3_" {("t","*-t+*","t+*","*-t").state[3]}
 TB 350 "ST_u_3_" {("u","*-u+*","u+*","*-u").state[3]}
@@ -319,6 +321,7 @@ TB 350 "ST_p_4_" {("p","*-p+*","p+*","*-p").state[4]}
 TB 350 "ST_r_4_" {("r","*-r+*","r+*","*-r").state[4]}
 TB 350 "ST_s_4_" {("s","*-s+*","s+*","*-s").state[4]}
 TB 350 "ST_sil_4_" {("sil","*-sil+*","sil+*","*-sil").state[4]}
+TB 350 "ST_sip_4_" {("sip","*-sip+*","sip+*","*-sip").state[4]}
 TB 350 "ST_sy_4_" {("sy","*-sy+*","sy+*","*-sy").state[4]}
 TB 350 "ST_t_4_" {("t","*-t+*","t+*","*-t").state[4]}
 TB 350 "ST_u_4_" {("u","*-u+*","u+*","*-u").state[4]}

@@ -33,4 +33,5 @@ TI T_w {(*-w+*,w+*,*-w).transP}
 TI T_y {(*-y+*,y+*,*-y).transP}
 TI T_z {(*-z+*,z+*,*-z).transP}
 TI T_sil {(*-sil+*,sil+*,*-sil).transP}
+TI T_sip {(*-sip+*,sip+*,*-sip).transP}
 TI T_sp {(*-sp+*,sp+*,*-sp).transP}
