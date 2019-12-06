@@ -1,0 +1,3830 @@
+BIGRAM: method Katz, cutoff 1
+  coef[7]: 0.000000 0.470152 0.703409 0.688770 0.666581 0.974982 0.660269
+
+\data\
+ngram 1=3569
+ngram 2~3731
+
+\1-grams:
+-1.7384	!!UNK	-0.2291
+-0.8635	</s>	-0.2758
+-3.5804	<a>
+-4.4834	<aku>
+-4.4834	<an>
+-4.4834	<anna>
+-4.4834	<bawa>
+-4.4834	<belar>
+-4.1824	<bu>
+-4.4834	<bur>
+-4.4834	<dam>
+-4.4834	<diga>
+-4.4834	<digantik>
+-4.4834	<ding>
+-4.4834	<dizni>
+-4.4834	<dura>
+-4.4834	<e>
+-4.4834	<eh>
+-4.4834	<ehem>
+-4.4834	<eu>
+-4.0063	<eum>
+-4.4834	<heeh>
+-4.1824	<hem>
+-4.4834	<hm>
+-4.4834	<ih>
+-4.4834	<jika>
+-4.4834	<kantu>
+-4.4834	<kayak>
+-4.1824	<kenapa>
+-4.4834	<kerjakn>
+-4.1824	<kita>
+-4.4834	<komputil>
+-4.4834	<lib>
+-4.4834	<lo>
+-4.4834	<misalnya>
+-4.1824	<na>
+-4.4834	<nyai>
+-4.0063	<oh>
+-4.4834	<per>
+-4.4834	<perusaan>
+-4.4834	<ru>
+-99.9900	<s>	-0.4123
+-4.4834	<sapa>
+-4.4834	<se>
+-4.4834	<sen>
+-4.4834	<ta>
+-4.4834	<tata>
+-4.4834	<teb>
+-4.4834	<terkonn>
+-4.4834	<tidak>
+-4.4834	<u>
+-4.4834	<ui>
+-4.4834	<ya>
+-3.7845	a	-0.0265
+-4.1824	aa
+-4.4834	abed
+-4.4834	abet
+-3.1824	abis	-0.0656
+-4.4834	abisnya
+-4.4834	ac
+-3.3695	acara	+0.0313
+-3.8814	acaranya
+-1.9406	ada	-0.1793
+-3.2282	adalah	-0.0477
+-4.1824	adanya
+-4.4834	adblocker
+-3.7053	adegan	-0.0672
+-4.0063	adik
+-4.4834	adiku
+-4.4834	adonannya
+-4.4834	adu
+-3.7053	aduh
+-4.4834	aduk
+-3.4043	agak	-0.1271
+-4.1824	agama	-0.2119
+-4.1824	agate
+-4.1824	agustus	-0.2119
+-2.9921	ah	-0.0650
+-4.4834	ahelah
+-4.4834	ahmad
+-4.4834	ahsiap
+-4.0063	ai
+-3.8814	aing
+-4.0063	air
+-2.0151	aja	-0.3093
+-4.4834	ajaibnya
+-3.7053	ajak
+-4.1824	ajang	-0.2758
+-4.1824	ajarin
+-2.7592	akan	-0.1257
+-3.1612	akhir	-0.2638
+-4.4834	akhir-akhir
+-3.5292	akhirnya
+-4.4834	akriliknya
+-4.4834	aksinya
+-4.4834	aktif
+-4.4834	aktivitas
+-4.4834	aktor
+-1.8216	aku	-0.2124
+-4.4834	akurasinya
+-4.4834	akut
+-4.1824	ala
+-4.4834	alam
+-4.4834	alamatnya
+-4.4834	alasan
+-3.7053	alat	-0.1632
+-4.1824	alatnya
+-3.8814	alghi	-0.0524
+-4.4834	alhamdulillah
+-4.1824	alias
+-4.4834	alif
+-4.4834	aljabar
+-4.1824	all	-0.2758
+-4.1824	allah	-0.2757
+-4.4834	alternatif
+-3.7845	alur	-0.4087
+-4.4834	alurnya
+-4.4834	ama
+-4.1824	aman
+-4.1824	amat	-0.2119
+-3.3074	ambil	-0.0280
+-4.4834	ambilin
+-3.4834	amerika
+-4.4834	amin
+-4.4834	ampuh
+-3.5292	ampun	-0.1761
+-4.4834	amri
+-2.9921	anak	-0.0263
+-3.7845	anak-anak
+-4.4834	anak-anaknya
+-4.1824	anaknya
+-4.4834	analisa
+-4.1824	analisis
+-4.4834	analisisnya
+-4.4834	anatomi
+-4.4834	ancur
+-4.4834	and
+-4.4834	anda
+-4.4834	andi
+-3.4421	aneh	-0.1137
+-4.4834	angga
+-4.4834	anggap
+-4.4834	anggota
+-4.1824	angka
+-4.4834	angkasa
+-3.4421	angkot	-0.0719
+-4.0063	angkotnya
+-4.4834	angle
+-4.4834	anjay
+-4.4834	ann
+-3.3695	annelies	-0.0478
+-4.4834	antar
+-3.6383	antara
+-4.4834	anti
+-3.5292	antman	-0.0334
+-4.4834	antri
+-2.1450	apa	-0.3791
+-3.7845	apa-apa	-0.0265
+-3.3074	apaan	-0.0911
+-4.4834	apah
+-3.7845	apakah	-0.4731
+-3.4421	apalagi	-0.0789
+-4.1824	apalah	-0.2119
+-3.7845	apanya
+-4.4834	apapula
+-4.4834	apapun
+-4.4834	api
+-4.4834	apks
+-4.0063	aplikasi	-0.1633
+-3.7845	aplikasinya
+-3.7845	apply
+-4.4834	apps
+-4.4834	april
+-4.4834	ar
+-4.4834	arak-arakan
+-4.4834	arsitektur
+-4.4834	artifisial
+-4.4834	artikelnya
+-4.4834	artinya
+-4.4834	artis
+-4.1824	artisnya
+-4.4834	asa
+-4.0063	asal
+-4.1824	asalmu	-0.2119
+-4.4834	asem
+-4.4834	asgard
+-4.4834	asia
+-3.7053	asik	-0.0735
+-4.4834	asiknya
+-4.1824	asin
+-4.4834	asisten
+-4.4834	asli
+-4.0063	aslinya
+-4.4834	assalamualaikum
+-4.4834	assasin
+-4.4834	assembly
+-4.4834	assurance
+-4.4834	asus
+-4.4834	at
+-3.6383	atas	-0.1558
+-4.1824	atasnya	-0.2758
+-2.7932	atau	-0.0182
+-3.5804	ato
+-3.7053	atur	-0.0945
+-3.6383	aturan	-0.2482
+-4.4834	aufa
+-4.4834	automatic
+-3.7845	avenger	-0.0265
+-4.4834	avengers
+-4.4834	avrg
+-3.7845	awal
+-4.1824	awal-awal
+-3.8814	awalnya
+-4.4834	awan
+-4.4834	awas
+-4.4834	ayah
+-4.1824	ayahku	-0.2119
+-4.4834	ayahmu
+-4.4834	ayahnya
+-3.3074	ayam	-0.0658
+-4.1824	ayamnya
+-3.1410	ayo	-0.1206
+-4.0063	ayok
+-4.4834	ayrton
+-4.1824	ayuk	-0.2119
+-4.4834	ayunda
+-4.4834	azis
+-4.1824	b
+-4.1824	bab
+-3.3373	baca	-0.2320
+-4.4834	baca-baca
+-4.4834	bacanya
+-4.4834	backpacker
+-4.0063	badan
+-4.4834	badannya
+-4.1824	badminton	-0.2707
+-3.2530	bagaimana	-0.2414
+-4.0063	bagi
+-4.0063	bagi-bagi
+-3.3373	bagian	-0.0610
+-4.4834	bagianku
+-4.1824	bagimu	-0.2753
+-2.8500	bagus	-0.2191
+-4.4834	bagusnya
+-3.8814	bahagia	-0.1109
+-4.4834	bahan
+-3.6383	bahas	-0.0619
+-3.2793	bahasa	-0.1955
+-4.4834	bahaya
+-3.4834	bahkan	-0.1006
+-4.1824	bahwa
+-2.9394	baik	-0.2468
+-3.8814	baik-baik	-0.3249
+-3.5804	baiklah	-0.2032
+-4.1824	baiknya
+-3.5804	baju	-0.1325
+-4.4834	bajunya
+-4.4834	bak
+-3.2047	bakal	-0.0170
+-4.1824	bakalan
+-4.0063	bakar	-0.1579
+-4.4834	bakat
+-4.4834	bakatnya
+-4.1824	balai	-0.2757
+-4.4834	balas
+-3.6383	bali	-0.0919
+-3.3074	balik	-0.4732
+-4.4834	bambang
+-3.6383	ban	-0.2619
+-4.4834	bandar
+-4.4834	bandara
+-3.3695	bandung	-0.0395
+-2.3762	banget	-0.3439
+-3.1824	bangun	-0.2846
+-4.4834	bangunan
+-4.1824	bangunan-bangunan	-0.2753
+-3.6383	bank	-0.2483
+-3.6383	bantu	+0.0013
+-3.8814	bantuan
+-4.0063	bantuannya	-0.4639
+-3.7845	bantuin
+-2.5390	banyak	-0.1297
+-4.1824	banyak-banyak
+-3.8814	banyakan
+-4.1824	banyaknya
+-4.4834	bapa
+-4.0063	bapak
+-4.4834	bapaknya
+-4.1824	bapanya
+-4.1824	barang
+-4.4834	barang-barang
+-4.0063	barat
+-3.0855	bareng	-0.0753
+-3.8814	bareng-bareng	-0.0524
+-4.1824	barengan
+-4.4834	barnes
+-2.6026	baru	-0.0714
+-3.8814	barusan
+-3.8814	basah	-0.0524
+-4.4834	basdat
+-4.4834	basecamp
+-4.4834	basi
+-4.1824	basic
+-4.1824	basis	-0.2755
+-4.4834	basjep
+-4.4834	batan
+-4.0063	batas	-0.1630
+-4.4834	batere
+-4.4834	batik
+-4.4834	battery
+-3.8814	batu	-0.3256
+-4.4834	bau
+-4.4834	baunya
+-3.5292	bawa	-0.0479
+-3.7053	bawah
+-4.4834	bawain
+-3.7053	bawakan	-0.1630
+-3.4834	bawang	-0.1579
+-3.5804	bayar	-0.1826
+-3.7053	bayarin	-0.1549
+-4.4834	bayarnya
+-4.1824	bayi
+-4.4834	bbm
+-4.4834	bca
+-4.4834	bea
+-4.1824	beasiswa
+-4.4834	beb
+-3.7845	bebas	-0.0265
+-4.4834	bebek
+-3.2793	beberapa	-0.0830
+-4.4834	bec
+-4.4834	becanda-becanda
+-3.3074	beda	-0.0484
+-4.1824	beda-beda
+-4.1824	bedanya
+-4.0063	begini	-0.0994
+-3.1824	begitu	-0.1838
+-3.8814	bekerja	-0.0524
+-4.4834	bela
+-3.4834	belajar	-0.0246
+-3.5292	belakang	-0.0521
+-4.4834	belakangan
+-4.4834	belakangnya
+-3.5292	belanda	+0.0160
+-4.0063	belanja
+-4.4834	belanjaannya
+-3.2047	belas	-0.0371
+-2.8924	beli	-0.1685
+-3.7845	beliau	-0.0904
+-4.4834	beliin
+-4.1824	belinya
+-3.0855	belom	-0.0578
+-2.5439	belum	-0.1798
+-3.2282	benar	-0.2043
+-4.1824	benar-benar
+-4.1824	benaran
+-3.8814	benarkah	-0.2617
+-4.1824	benarnya	-0.2721
+-4.4834	benda
+-3.1032	bener	-0.1767
+-4.0063	bener-bener	-0.1598
+-3.6383	beneran
+-4.1824	benerin
+-4.4834	benerinnya
+-4.4834	bengkelnya
+-4.4834	bensin
+-3.3373	bentar	-0.4769
+-4.0063	ber	-0.0994
+-4.0063	berada	-0.1579
+-4.4834	beragam
+-4.4834	berandalan
+-3.4834	berangkat	-0.0407
+-4.0063	berangkatnya
+-3.7053	berani
+-3.8814	berantem
+-2.7932	berapa	-0.2175
+-4.1824	berapaan
+-4.1824	berargumen
+-3.3074	berarti	-0.0264
+-4.1824	berasa
+-4.4834	berasal
+-4.1824	berat
+-4.1824	berawan
+-3.8814	berbagai	-0.1163
+-4.0063	berbeda
+-4.4834	berbintik-bintik
+-4.4834	berbuat
+-4.4834	berburu
+-4.1824	bercanda
+-4.4834	bercerita
+-4.4834	berdekatan
+-3.8814	berdiri	-0.3202
+-3.4834	berdua	-0.0939
+-4.4834	berempat
+-4.1824	berenang	-0.2750
+-4.4834	berenti
+-3.8814	beres
+-4.4834	berfikir
+-4.4834	berfikiran
+-4.4834	bergabung
+-4.1824	bergaya
+-4.4834	bergerak
+-4.4834	berharapnya
+-3.8814	berhasil
+-4.4834	berhenti
+-4.4834	berhubungan
+-4.4834	berikan
+-4.4834	beringas
+-4.1824	berisik
+-4.4834	beristirahat
+-4.1824	berita
+-4.4834	beritahu
+-4.4834	berjaga
+-4.1824	berjalan
+-4.4834	berjam-jam
+-4.1824	berjuang
+-4.4834	berkabar
+-4.4834	berkata
+-4.1824	berkeliling	-0.2757
+-4.4834	berkemah
+-4.0063	berkesan
+-4.0063	berkunjung	-0.1604
+-4.1824	berkurang
+-4.4834	berlatar
+-3.7845	berlebihan	-0.1742
+-4.0063	berlibur	-0.5249
+-3.8814	bermain
+-4.4834	berolahraga
+-4.4834	berperasaan
+-4.4834	berpikiran
+-4.0063	bersama	-0.0994
+-4.1824	bersama-sama	-0.2119
+-4.4834	bersamaan
+-4.4834	bersamurai
+-4.4834	bersaudara
+-3.5804	bersepeda	-0.2014
+-4.1824	bersih
+-4.4834	bersihin
+-4.4834	berspekulasi
+-4.1824	bersyukur
+-4.4834	bertanggung
+-4.4834	bertanya
+-4.4834	bertele-tele
+-3.4834	bertemu	-0.1964
+-4.1824	bertiga
+-4.4834	bertukar
+-4.4834	berturut
+-4.4834	berturut-turut
+-4.4834	berubah
+-4.4834	berulang
+-4.1824	beruntung
+-4.4834	beruntungnya
+-4.4834	berusaha
+-4.4834	berwibawa
+-3.6383	besar	-0.0919
+-4.4834	besarku
+-4.4834	besarnya
+-2.9921	besok	-0.1025
+-4.1824	betul
+-4.1824	betulin	-0.2748
+-3.1824	biar	-0.0208
+-4.1824	biarin
+-3.1612	biasa	-0.0702
+-2.9152	biasanya	-0.0749
+-4.4834	bibit
+-4.0063	bicara
+-4.4834	bicarain
+-4.4834	bicaranya
+-3.7845	bidang
+-4.4834	bidangnya
+-4.4834	biji
+-4.4834	bijinya
+-2.9921	bikin	-0.0230
+-3.1824	bilang	-0.0043
+-3.3074	bimbingan	-0.0637
+-4.0063	bimbingannya
+-3.1032	bingung	-0.1945
+-4.0063	biologi
+-3.8814	bioskop
+-2.2739	bisa	-0.0258
+-4.4834	bisa-bisa
+-4.0063	bisakah	-0.1604
+-4.4834	bisalah
+-3.7053	bisnis
+-4.4834	black
+-4.0063	blibli
+-4.4834	blizzard
+-4.0063	blockchain	-0.4639
+-4.1824	boba
+-4.4834	boba-boba
+-4.4834	bocah
+-4.1824	bocor	-0.2742
+-4.4834	bogor
+-3.8814	bohong	-0.2617
+-4.4834	boi
+-4.1824	bola
+-4.4834	bolak-balik
+-4.0063	bole
+-4.4834	bole-bole
+-4.4834	bolee
+-2.5150	boleh	-0.2972
+-4.4834	bolehkah
+-4.1824	bolong
+-3.5292	booking	-0.2729
+-4.1824	bookmyshow
+-4.1824	borju
+-4.4834	borma
+-4.4834	bos
+-4.4834	bosan
+-3.7845	bosen
+-4.1824	bramantyo
+-4.4834	bri
+-3.7845	bro	-0.1742
+-4.4834	brown
+-3.8814	btw
+-3.4834	buah	-0.0916
+-4.4834	buahnya
+-2.6705	buat	-0.0571
+-4.4834	buatin
+-4.1824	bubar
+-3.7053	bud	-0.1243
+-4.0063	budaya
+-4.4834	budgetnya
+-4.4834	budi
+-3.2047	buka	-0.0242
+-3.8814	bukain	-0.1162
+-2.9520	bukan	+0.0365
+-4.0063	bukankah	-0.1626
+-3.7053	bukannya
+-4.4834	bukanya
+-4.4834	bukittinggi
+-4.4834	bukti
+-2.9783	buku	-0.1708
+-3.6383	bukunya	-0.1533
+-3.6383	bulan	-0.0625
+-4.4834	bulu
+-3.4421	bumbu	-0.3478
+-4.1824	bumbunya
+-3.7053	bumi	-0.1881
+-4.4834	bunga
+-4.1824	bunganya
+-4.0063	bungkus
+-4.1824	bungkusan
+-4.4834	bunuh
+-4.4834	bunyi
+-4.4834	burger
+-4.4834	buru-buru
+-3.8814	buruan
+-4.0063	buruk	-0.4639
+-4.1824	burung
+-4.4834	busway
+-3.4421	butuh
+-4.1824	by	-0.2758
+-4.4834	bye
+-4.1824	c
+-4.1824	cabut
+-4.4834	cacat
+-4.0063	cadangan	-0.0994
+-4.4834	calon
+-4.4834	camping
+-4.1824	campur
+-4.1824	can	-0.2758
+-4.1824	canggih
+-4.1824	cantik
+-4.4834	cantiknya
+-4.1824	capa	-0.2119
+-4.4834	capcay
+-3.6383	cape	-0.0623
+-4.1824	capek
+-4.1824	cara
+-3.8814	caranya
+-3.7053	cari
+-4.4834	case
+-4.4834	cat
+-3.8814	catatan
+-4.0063	catur
+-4.4834	caturnya
+-3.7053	cek	-0.0740
+-4.4834	celananya
+-4.4834	cemas
+-4.1824	cemilan
+-4.4834	cenderawasih
+-4.4834	cengeng
+-4.4834	ceo
+-3.5292	cepat	-0.0378
+-4.1824	cepat-cepat
+-3.5292	cepet	-0.0521
+-4.0063	cerah
+-4.0063	cerdas
+-3.3074	cerita	-0.1529
+-4.1824	ceritain
+-4.4834	ceritakan
+-3.4043	ceritanya	-0.0493
+-4.4834	cewa
+-4.4834	cewek
+-4.4834	changing
+-4.0063	channel
+-4.1824	chaos
+-4.0063	charada	-0.1591
+-3.7845	chat	-0.0888
+-4.4834	chatbot
+-4.4834	chatime
+-4.4834	chatnya
+-4.4834	chatting
+-4.4834	check
+-4.4834	chef
+-4.4834	chefnya
+-4.4834	chicken
+-4.4834	cia
+-3.8814	cicis
+-4.4834	cinematic
+-4.4834	cinematicnya
+-4.4834	cisitu
+-4.1824	citra
+-4.4834	cium
+-4.1824	ciwalk
+-3.7053	cluster	-0.0729
+-4.4834	clustering
+-4.4834	co
+-2.9152	coba	-0.0201
+-3.7845	cobain
+-4.4834	cobainnya
+-4.4834	coco
+-3.4834	cocok	-0.0424
+-4.4834	code
+-4.4834	coffee
+-4.1824	cokelat	-0.2757
+-3.7053	coklat	-0.1243
+-3.8814	com
+-4.4834	conductornya
+-4.4834	configuration
+-4.4834	constraint
+-3.8814	contoh
+-4.4834	contohnya
+-4.4834	copy
+-4.4834	corgi
+-4.4834	corner
+-3.6383	cowok	-0.1533
+-4.4834	cowoknya
+-4.4834	crcs
+-4.4834	css
+-4.4834	ctim
+-4.4834	cuaca
+-4.1824	cuacanya
+-3.8814	cuci	-0.3256
+-4.0063	cui	-0.0994
+-4.4834	cukainya
+-3.2793	cukup	-0.0276
+-2.8707	cuma	-0.0461
+-2.9921	cuman	-0.0719
+-4.4834	cumi
+-4.0063	cup
+-3.5804	cupu	-0.1194
+-4.1824	curang
+-4.4834	custom
+-4.4834	d
+-4.4834	dadak
+-3.5804	daerah
+-3.5292	daftar
+-4.4834	dagangan
+-4.4834	daging
+-4.4834	dago
+-3.2793	dah	-0.2371
+-4.1824	dahulu	-0.2119
+-3.1824	dalam	-0.1968
+-4.4834	dalem
+-2.4304	dan	-0.0465
+-4.1824	dana	-0.2119
+-4.4834	dananya
+-4.4834	dandanannya
+-4.4834	daniel
+-3.3695	dapat	-0.0672
+-4.4834	dapatkan
+-4.4834	dapatnya
+-3.2282	dapet	+0.0407
+-4.4834	dapetin
+-4.4834	dapurnya
+-2.4227	dari	-0.1303
+-4.1824	darimana
+-4.0063	daripada
+-3.7053	dasar	-0.2631
+-4.4834	dasarnya
+-3.1032	data	-0.1097
+-4.4834	databasenya
+-3.3373	datang	-0.0393
+-4.1824	datangnya
+-4.1824	datathon
+-3.2793	dateng	-0.2879
+-4.4834	dateng-dateng
+-4.4834	datengin
+-4.4834	datengnya
+-3.8814	daun	-0.5068
+-4.0063	daya
+-4.4834	dayang
+-3.7053	deadline
+-3.8814	deadlinenya
+-4.4834	deadliner
+-3.6383	debat	-0.0610
+-4.4834	debatnya
+-4.4834	debo
+-2.3074	deh	-0.3195
+-3.4043	dekat	-0.0346
+-3.7053	deket	-0.0730
+-4.1824	deket-deket
+-4.4834	dela
+-3.5292	delapan	-0.1155
+-4.4834	delay
+-3.8814	delivery
+-4.4834	deliverynya
+-4.4834	demam
+-3.7845	demi
+-4.4834	dendam
+-2.6911	dengan	-0.0811
+-4.4834	denganku
+-3.8814	denganmu	-0.0524
+-3.7845	dengar	-0.0888
+-3.5804	denger	-0.0498
+-4.4834	denger-denger
+-4.1824	dengerin
+-4.4834	dengerinnya
+-2.9783	depan	-0.0334
+-4.4834	depannya
+-4.1824	depok
+-4.1824	desa	-0.2119
+-3.7845	desain	-0.0836
+-3.7845	desember
+-4.4834	designer
+-4.1824	deskripsi
+-4.0063	detail
+-4.0063	detik
+-1.9048	di	-0.3255
+-2.3563	dia	-0.0955
+-4.4834	diacungi
+-4.0063	diagram
+-4.4834	diagramnya
+-4.0063	diajak
+-4.4834	diajakin
+-4.1824	diajar	-0.2733
+-4.4834	diakui
+-4.1824	dialog-dialog
+-4.1824	diam	-0.2716
+-4.1824	diambil
+-4.4834	diambilnya
+-4.4834	dianggap
+-4.1824	diantara
+-4.4834	dianterin
+-4.4834	dianya
+-4.4834	diapain
+-4.4834	diarahin
+-4.4834	dibaca
+-4.0063	dibajak	-0.1633
+-4.0063	dibanding
+-4.4834	dibandingin
+-4.4834	dibandingkan
+-4.4834	dibangun
+-4.4834	dibawain
+-4.4834	dibawakan
+-4.4834	dibebasin
+-4.4834	dibersihin
+-4.4834	dibiarin
+-3.7845	dibikin	-0.0904
+-4.0063	dibilang
+-4.4834	dibuang
+-4.1824	dibuat
+-4.4834	dibujuk
+-4.4834	dibuka
+-4.4834	dibungkus
+-4.4834	diburu-buru
+-4.4834	dibutu
+-4.1824	dicek
+-4.4834	diceritain
+-4.4834	diceritakan
+-4.4834	dichi
+-4.4834	dicintai
+-3.4421	dick	-0.0613
+-3.7845	dicky	-0.0265
+-4.4834	dickynya
+-4.0063	dicoba
+-4.4834	dicobain
+-4.4834	dicuci
+-4.1824	diculik	-0.2757
+-4.4834	didrop
+-4.1824	dielus-elus	-0.2119
+-4.4834	difilmkan
+-4.1824	digabung	-0.2119
+-4.1824	digabungin
+-4.1824	digambarin
+-4.0063	diganti	-0.0994
+-4.1824	digantikan	-0.2750
+-4.1824	diginiin
+-4.1824	digit
+-4.4834	digital
+-4.4834	digituin
+-4.4834	dih
+-4.4834	diilangin
+-4.4834	diimplementasiin
+-4.4834	diindonesiakan
+-4.0063	diisi	-0.1602
+-4.4834	diitungin
+-4.1824	dijalanin
+-4.1824	dijual
+-3.3373	dik	-0.0653
+-3.4834	dikasih	-0.0418
+-4.4834	dikatain
+-4.4834	dikegelapan
+-4.1824	dikelompokin
+-4.4834	dikeluarin
+-4.4834	dikenakan
+-4.4834	dikendalikan
+-3.8814	dikerjain	-0.0524
+-4.4834	dikerjakan
+-4.4834	dikirim
+-3.4043	dikit	-0.1208
+-4.4834	dikombinasikan
+-4.4834	dikopi
+-4.4834	dikumpul
+-3.7845	dikumpulin
+-4.4834	dikunci
+-4.4834	dikunyah
+-4.4834	dilain
+-4.4834	dilakuin
+-4.1824	dilakukan	-0.2756
+-4.1824	dilan
+-4.4834	dilarang
+-4.4834	dilatih
+-4.4834	dilepas
+-3.8814	dilihat	-0.1147
+-4.4834	diluar
+-3.1612	dimana	-0.0907
+-4.0063	dimarahin
+-4.0063	dimas
+-4.4834	dimasak
+-4.0063	dimasukin
+-4.4834	dimasukkin
+-4.4834	diminta
+-4.4834	dimulai
+-3.6383	din	-0.3411
+-4.4834	dinamain
+-4.4834	dinda
+-4.4834	dingin
+-4.4834	dinikmati
+-4.4834	diomongin
+-3.7053	dion
+-4.1824	dipakai	-0.2753
+-4.1824	dipake
+-4.4834	dipaksa
+-4.4834	dipasang
+-4.4834	dipause
+-4.4834	dipecah
+-4.4834	dipecat
+-4.4834	dipencet
+-4.4834	diperintah
+-4.4834	dipermasalah
+-4.4834	diperpanjang
+-4.4834	dipersiapkan
+-4.4834	dipesen
+-4.4834	dipilih
+-4.4834	dipimpin
+-4.0063	dipotong	-0.0994
+-4.4834	dipotong-potong
+-4.4834	diramalin
+-4.4834	dirapatkan
+-4.4834	dirapihin
+-4.4834	dirasakan
+-4.4834	director
+-4.1824	diri
+-4.1824	dirimu
+-4.4834	dirusakin
+-4.4834	disain
+-3.4834	disana	-0.1312
+-4.4834	disangka
+-4.4834	disangka-sangka
+-4.4834	disaranin
+-4.4834	disebar
+-4.4834	diselamatin
+-4.4834	diselamatkan
+-4.4834	diselametin
+-4.4834	diselesaiin
+-4.4834	diselingi
+-4.4834	disengaja
+-4.4834	disesuaiin
+-4.4834	disiapkan
+-4.1824	disimpan
+-4.1824	disini
+-4.4834	disisipi
+-3.8814	disitu
+-3.7845	diskon
+-4.4834	diskon-diskon
+-4.4834	diskusi
+-4.4834	diskusi-diskusi
+-3.8814	disney	-0.0524
+-4.1824	disubmit	-0.2119
+-4.4834	disuguhin
+-4.0063	disuru
+-3.5804	disuruh
+-4.1824	ditakdirkan	-0.2753
+-4.4834	ditambah
+-4.1824	ditambahin
+-4.1824	ditambal	-0.2119
+-4.4834	ditampilkan
+-4.4834	ditandatangan
+-4.1824	ditanya
+-4.1824	ditanyain
+-4.4834	ditaruh
+-4.4834	ditentuin
+-4.4834	ditiruin
+-4.4834	ditolak
+-4.4834	ditoleransi
+-4.4834	ditolongin
+-4.4834	ditonton
+-4.4834	ditrain
+-3.8814	ditraktir
+-4.4834	ditujunya
+-4.4834	ditunda
+-4.4834	diturunin
+-4.4834	diulang
+-4.4834	diundur
+-4.4834	diving
+-4.1824	dkv	-0.2758
+-4.4834	do
+-4.4834	doain
+-3.3074	doang	-0.3340
+-4.0063	dokter
+-4.1824	dokumen
+-4.4834	dokumentasi
+-4.1824	dokumentasinya
+-4.4834	dolar
+-3.8814	domino	-0.0524
+-4.4834	dompet
+-2.7932	dong	-0.4738
+-4.4834	doraemon
+-3.2530	dosen	-0.1876
+-3.5292	dosennya	-0.0474
+-4.4834	doswal
+-3.6383	dot	-0.2172
+-4.4834	dp
+-4.4834	draft
+-4.4834	drakor
+-3.8814	drama	-0.1163
+-4.4834	drive
+-4.4834	drivernya
+-4.4834	drop
+-3.8814	dsdm
+-2.4834	dua	-0.2206
+-3.7053	dua-duanya	-0.0101
+-3.5804	duduk	-0.2594
+-4.1824	duh	-0.2744
+-3.8814	duit
+-4.1824	duitnya
+-2.5197	dulu	-0.2309
+-3.5292	duluan	+0.0160
+-3.2282	dunia	-0.1690
+-4.4834	durasinya
+-3.4421	durian	-0.1078
+-4.4834	dwbi
+-3.6383	e	-0.0919
+-4.1824	eat	-0.2758
+-4.1824	ebook
+-4.4834	edan
+-3.8814	editan
+-3.8814	efek	-0.3256
+-4.4834	efeknya
+-4.4834	efektif
+-4.4834	egg
+-2.5390	eh	-0.0522
+-3.8814	ekor
+-4.4834	ekspektasi
+-4.4834	elektronik
+-4.0063	ellen
+-4.1824	elu
+-3.7845	em	-0.0265
+-3.7845	email	-0.1361
+-2.6773	emang	-0.0443
+-3.4834	emangnya	-0.1343
+-4.4834	emm
+-3.0855	empat	-0.1993
+-4.4834	empatan
+-2.6084	enak	-0.2201
+-4.1824	enak-enak
+-4.0063	enakan
+-4.0063	enaknya
+-3.6383	enam	-0.0626
+-4.0063	endgame
+-4.1824	enem
+-4.4834	energinya
+-2.8814	engga	-0.0684
+-2.9520	enggak	-0.1599
+-4.4834	english
+-4.4834	enrollment
+-4.1824	entah
+-3.7845	entar
+-4.4834	episode
+-4.4834	erma
+-4.4834	error
+-3.4421	es	-0.2788
+-4.4834	escobar
+-4.4834	esei
+-4.0063	euh
+-4.4834	euy
+-4.4834	event
+-4.0063	fa	-0.0994
+-4.1824	fadil
+-4.4834	faldi
+-4.4834	fantasinya
+-4.4834	fase-fase
+-4.4834	fasilitas
+-4.4834	fast
+-3.8814	favorit	-0.3218
+-4.1824	februari
+-4.0063	felix
+-3.8814	ferdi	-0.0524
+-4.4834	festival
+-4.4834	fillet
+-2.7932	film	-0.2767
+-4.4834	film-film
+-3.5292	filmnya	+0.0160
+-4.1824	final
+-4.4834	fintech
+-3.8814	fis	-0.2617
+-4.4834	fisik
+-4.4834	fisika
+-4.0063	fix	-0.1608
+-4.4834	fizi
+-4.4834	fokus
+-4.4834	food
+-4.4834	format
+-4.4834	formatnya
+-4.4834	formnya
+-4.1824	forum
+-4.4834	forward
+-4.4834	foto
+-4.1824	fotokopi
+-4.4834	four
+-4.4834	front
+-3.7845	full	-0.2380
+-4.4834	fun
+-4.4834	fundamentalnya
+-4.4834	furious
+-4.4834	futsal
+-2.0961	ga	-0.2996
+-3.7845	gaada	-0.0897
+-4.1824	gabisa
+-4.4834	gabu
+-4.1824	gabung
+-4.4834	gabungang
+-4.4834	gabunging
+-4.0063	gabut
+-3.8814	gagal
+-4.4834	gajelas
+-4.1824	gaji
+-4.4834	gajinya
+-2.2713	gak	-0.3165
+-4.4834	galak
+-4.4834	galau
+-4.4834	gamau
+-4.4834	gambarnya
+-3.5292	game	-0.0378
+-4.4834	gamenya
+-4.4834	gameplaynya
+-4.4834	gaming
+-4.4834	gamma
+-3.4421	gampang	+0.0251
+-4.4834	ganteng
+-3.4834	ganti
+-4.4834	ganyang
+-3.7053	gapapa	-0.1872
+-4.4834	gapernah
+-4.0063	gara-gara
+-4.1824	garingan
+-3.7053	gatau	-0.0101
+-4.4834	gataunya
+-4.4834	gausah
+-3.7845	gaya	-0.2365
+-4.4834	gdp
+-3.5804	gede	+0.0097
+-4.4834	gedean
+-4.0063	gedung
+-4.4834	geek
+-3.7053	gelap	-0.0101
+-4.4834	gelut
+-4.0063	gendut
+-4.0063	geprek
+-4.1824	gerak
+-4.4834	gerakannya
+-4.4834	gerbang
+-4.4834	gercep
+-4.4834	gereja
+-4.4834	gestur
+-3.5804	gi	-0.1701
+-3.7053	gila	-0.0695
+-4.4834	gili
+-2.4664	gimana	-0.3988
+-3.1410	gini	-0.1730
+-4.1824	ginian	-0.2119
+-2.1032	gitu	-0.2960
+-3.7845	gitu-gitu	-0.0863
+-4.1824	gitulah
+-4.4834	go-food
+-4.4834	goang
+-4.1824	god
+-4.1824	gofood
+-4.0063	gojek
+-4.4834	gombalnya
+-3.8814	google
+-4.4834	googling
+-4.0063	gopay
+-3.8814	goreng
+-4.1824	gorengnya
+-3.5292	grab
+-4.4834	grabfood
+-4.4834	gramedia
+-4.4834	gratis
+-4.4834	grebek
+-3.7053	grup	-0.0984
+-2.1293	gua	-0.1868
+-4.4834	guanya
+-2.9271	gue	-0.1957
+-4.4834	gundik
+-4.1824	gunung
+-3.8814	guru	-0.1163
+-4.4834	guys
+-4.0063	ha
+-4.4834	habibi
+-4.4834	habibinya
+-3.0210	habis	-0.1153
+-4.4834	habisin
+-4.0063	hackathon
+-3.7845	hackaton
+-4.4834	hadiahnya
+-4.4834	haduh
+-3.4043	hah
+-3.4834	haha	-0.9066
+-3.5804	hahaha	-0.1701
+-4.4834	hahahaha
+-3.4421	hai
+-4.0063	hak
+-4.4834	hak-haknya
+-3.5804	hal	-0.1261
+-4.1824	halah
+-3.8814	halaman	-0.0524
+-4.0063	hallo
+-4.1824	hallowen
+-3.2530	halo	-0.0544
+-4.4834	halu
+-3.8814	hampir	-0.1161
+-4.4834	hancur
+-4.4834	hank
+-4.1824	hans
+-4.4834	hansnya
+-4.1824	hanung	-0.2758
+-3.2530	hanya	-0.1376
+-3.7845	hape	-0.1998
+-4.1824	harapan
+-4.4834	hard
+-4.4834	harga
+-3.5292	harganya	-0.0475
+-2.7276	hari	-0.4012
+-3.7053	harry
+-2.7126	harus	-0.0275
+-4.4834	haruskah
+-3.1824	harusnya	-0.0997
+-4.1824	hasil
+-4.4834	hasilnya
+-3.7845	hati	-0.1330
+-4.4834	haus
+-4.4834	hawkeye
+-4.0063	heboh
+-3.8814	hedon
+-4.4834	heh
+-3.2047	hehe	-0.5158
+-4.4834	hehehehehe
+-4.4834	hei
+-4.4834	helm
+-3.6383	hem	-0.0624
+-4.1824	hemat
+-4.4834	hendak
+-4.4834	henri
+-4.0063	hey
+-4.4834	hi
+-3.7053	hidup	-0.0686
+-4.0063	hidupnya
+-4.4834	hih
+-3.8814	hilang	-0.2617
+-4.4834	himpunan
+-4.1824	hingga
+-4.4834	hire
+-4.4834	hiruk-pikuk
+-4.4834	hitam
+-4.0063	hits
+-4.4834	hitung
+-4.1824	hitz
+-4.4834	hmif
+-3.3074	hmm	-0.0213
+-3.1410	hmmm
+-4.1824	hobi	-0.2758
+-4.4834	hobiku
+-3.7845	hobimu	-0.1995
+-4.4834	hoo
+-4.4834	hormat
+-3.7845	horor	-0.0265
+-4.1824	hotel
+-3.7845	hp	-0.0863
+-4.4834	hr
+-4.4834	hubungannya
+-3.7845	huh
+-3.5292	hujan	-0.1122
+-4.1824	hujannya
+-3.8814	hulk
+-4.4834	hungergames
+-3.7053	hut	-0.0101
+-4.4834	hutang
+-4.4834	i
+-4.1824	ia
+-4.1824	ibaratnya
+-3.5292	ibu	-0.1586
+-4.4834	ibuku
+-4.1824	ibunya
+-4.4834	id
+-3.3695	ide	-0.0642
+-4.4834	identification
+-4.4834	identifikasi
+-4.4834	identitas
+-4.0063	idenya
+-4.4834	if50xx
+-4.4834	ig
+-3.2793	ih	-0.0899
+-4.4834	iit
+-4.1824	ijin
+-4.4834	ijo
+-4.4834	ikan
+-2.7674	ikut	-0.1154
+-4.1824	ikut-ikut
+-4.0063	ikutan
+-4.4834	ikuti
+-4.1824	ikutnya
+-4.1824	ilang
+-4.4834	ilegal
+-4.4834	ilmu
+-4.4834	ilustrasinya
+-4.0063	imagine	-0.5278
+-4.4834	imajinasinya
+-4.4834	imigrasi
+-4.4834	implementasinya
+-4.4834	incredible
+-4.0063	indah	-0.4639
+-3.7845	india	-0.0265
+-4.4834	indianya
+-4.4834	indomaret
+-3.4421	indonesia	-0.0160
+-4.1824	industri
+-4.1824	info	-0.2690
+-4.4834	infonya
+-4.4834	informasi
+-4.4834	informasinya
+-4.1824	informatika	-0.2119
+-3.7845	ingat
+-4.4834	ingat-ingat
+-3.4043	inget	-0.1257
+-4.0063	inggris
+-3.5804	ingin	-0.0543
+-4.4834	inginkan
+-4.4834	inginku
+-2.0586	ini	-0.0749
+-4.4834	inilah
+-4.4834	inisiasi
+-4.4834	inisiatif
+-4.4834	innovation
+-4.4834	input
+-4.4834	inspirasi
+-4.4834	instagram
+-4.4834	install
+-3.6383	instan
+-4.4834	institut
+-4.1824	insya	-0.2758
+-4.4834	insyaallah
+-4.4834	integrity
+-4.4834	interaksi
+-3.4421	intern	-0.0928
+-3.8814	internet	-0.0524
+-4.4834	interview
+-4.0063	intinya
+-4.4834	inventorisnya
+-4.4834	inventory
+-4.1824	investasi
+-4.4834	iphone
+-3.7845	iqbal
+-4.0063	ir	-0.1594
+-4.4834	iri
+-4.4834	iron
+-4.0063	iseng
+-3.4834	isi
+-4.4834	isiin
+-4.0063	isinya
+-4.4834	iso
+-4.4834	istirahat
+-4.0063	istri
+-4.4834	istriku
+-3.8814	itb
+-1.9271	itu	-0.1376
+-4.4834	itu-itu
+-4.1824	itung
+-4.4834	itungannya
+-4.4834	itunya
+-4.1824	ivan
+-2.0718	iya	-0.1852
+-4.1824	iya-iya	-0.2720
+-4.4834	iyalah
+-4.1824	iye
+-3.6383	izin
+-4.4834	j
+-2.1142	jadi	+0.0142
+-4.4834	jadiin
+-3.5292	jadinya
+-4.1824	jadwal
+-4.4834	jadwalkan
+-4.4834	jadwalnya
+-4.1824	jaga
+-4.4834	jaga-jaga
+-4.4834	jaganya
+-4.4834	jago
+-4.1824	jahat
+-3.3695	jakarta	-0.0647
+-3.0210	jalan	-0.1824
+-3.5292	jalan-jalan	-0.0886
+-4.0063	jalanan
+-4.4834	jalanin
+-4.4834	jalannya
+-4.1824	jalur
+-4.4834	jalurnya
+-2.6026	jam	-0.3644
+-3.8814	jaman	-0.3253
+-4.1824	jamin
+-4.4834	jamnya
+-3.0210	jangan	-0.0794
+-4.4834	janganlah
+-4.4834	janjian
+-3.5804	januari	-0.1194
+-4.1824	jaraknya	-0.2755
+-3.5804	jarang	-0.2017
+-4.1824	jarang-jarang
+-4.4834	jason
+-4.4834	jato
+-4.0063	jatuh
+-4.4834	jatuhi
+-3.2047	jauh	-0.0351
+-4.0063	jauh-jauh	-0.0994
+-4.0063	jawa	-0.1617
+-3.7845	jawab	-0.0265
+-4.4834	jawabnya
+-4.1824	jebol
+-3.7845	jelas
+-4.1824	jelasin
+-3.7845	jelaskan
+-4.4834	jelaslah
+-3.7845	jelek	-0.0880
+-4.4834	jem
+-4.4834	jempol
+-4.1824	jen	-0.2119
+-4.0063	jenguk
+-4.1824	jenis
+-4.1824	jenisnya
+-4.4834	jenius
+-4.4834	jenjang
+-3.8814	jepang
+-4.4834	jerman
+-4.1824	jessin
+-3.5804	ji	-0.1975
+-3.7845	jika	-0.0866
+-4.4834	jinak
+-4.4834	jingga
+-3.8814	jiwa	-0.3256
+-4.4834	jo
+-4.4834	joget
+-4.1824	jogja
+-4.0063	joker
+-3.4421	joni	-0.1486
+-4.1824	jorok
+-4.4834	josep
+-3.7845	jual	-0.0903
+-3.4834	jualan	-0.3406
+-4.4834	jualnya
+-4.4834	juara
+-4.0063	judul
+-4.4834	judulnya
+-2.0618	juga	-0.1880
+-4.1824	jujur
+-3.5292	juli	-0.1158
+-4.4834	julitin
+-3.4834	jumat	-0.0760
+-4.4834	juminten
+-3.7845	jumpa	-0.2017
+-3.7053	jurusan	-0.0709
+-4.0063	jus
+-4.4834	just
+-4.0063	justru
+-4.4834	justus
+-4.0063	juta
+-4.4834	jutaan
+-3.5804	kabar	-0.1194
+-4.4834	kabar-kabarin
+-4.1824	kabari
+-4.0063	kabarin
+-4.4834	kabarmu
+-4.0063	kabarnya	-0.0994
+-4.4834	kabur
+-4.4834	kacang
+-4.1824	kacau
+-3.4421	kadang	-0.0780
+-4.4834	kadang-kadang
+-4.0063	kado	-0.1565
+-4.4834	kafe
+-4.0063	kaga
+-3.8814	kaget	-0.0524
+-4.1824	kagum
+-4.1824	kak
+-3.7845	kakak	-0.0903
+-4.4834	kakap
+-3.4043	kakek	-0.1957
+-4.4834	kakek-kakek
+-3.7053	kaki	-0.0985
+-4.4834	kakiku
+-4.4834	kalah
+-2.3074	kalau	-0.1686
+-4.4834	kalender
+-2.9271	kali	-0.1413
+-2.8924	kalian	-0.0780
+-4.4834	kalibr
+-4.1824	kalimat
+-4.4834	kalimatnya
+-4.4834	kalkulus
+-2.2848	kalo	-0.2049
+-3.4834	kamar	-0.0949
+-4.1824	kamarnya
+-4.4834	kamera
+-3.1612	kami	+0.0034
+-3.8814	kamis
+-4.4834	kampong
+-3.3373	kampung	-0.3232
+-4.1824	kampungnya	-0.2737
+-3.1612	kampus	-0.1574
+-2.0505	kamu	-0.1431
+-1.9865	kan	-0.1466
+-4.1824	kanan
+-4.4834	kangen
+-3.7845	kantin	-0.0265
+-3.8814	kantor
+-3.8814	kanvas	-0.1084
+-4.4834	kapal
+-3.1032	kapan	-0.0425
+-4.0063	kapan-kapan
+-4.1824	kapok
+-3.5292	kapten	-0.4178
+-3.7053	karakter	-0.1880
+-3.8814	karang	-0.5068
+-4.4834	karangan
+-3.5804	karaoke	-0.0690
+-4.4834	karaokenya
+-2.6911	karena	-0.0470
+-4.4834	karet
+-3.5292	karna
+-4.1824	kartu
+-4.4834	kartun
+-4.4834	karya
+-4.0063	kasar	-0.0994
+-3.8814	kasian
+-3.1410	kasih	-0.1356
+-3.7845	kasihan
+-4.4834	kasir
+-4.0063	kasus
+-4.4834	kasusnya
+-3.2793	kata	-0.1239
+-4.4834	kata-kata
+-4.1824	kata-katanya
+-2.9520	katanya	-0.1087
+-4.4834	katsu
+-3.2530	kau	-0.0757
+-4.4834	kawan-kawannya
+-2.8707	kaya	-0.0340
+-2.6322	kayak	-0.1390
+-2.9783	kayaknya	-0.0474
+-3.1824	kayanya	-0.0673
+-2.1675	ke	-0.2655
+-4.1824	keadaan
+-4.4834	keadaannya
+-4.4834	keadilan
+-4.1824	keakraban
+-4.4834	kebaca
+-4.4834	kebagian
+-4.1824	kebaktian
+-4.4834	kebanggannya
+-3.5804	kebanyakan
+-4.4834	kebawah
+-4.0063	kebayang
+-3.6383	kebetulan
+-4.4834	kebohongan
+-4.4834	kebon
+-4.4834	kecantikanmu
+-4.4834	kecepatan
+-3.4043	kecil	-0.1473
+-4.4834	kecil-kecil
+-4.4834	kecuali
+-4.4834	kedengarannya
+-3.8814	kediri
+-4.0063	kedua
+-4.1824	keduanya
+-4.4834	kegedean
+-4.0063	kegiatan	-0.1626
+-4.4834	kehadiran
+-3.8814	kehidupan
+-4.4834	kehilangan
+-4.4834	keisengan
+-4.4834	keisya
+-3.4834	kejadian	-0.0893
+-4.1824	kejahatan
+-4.4834	kejar
+-4.4834	kejaran
+-4.4834	kejebak
+-4.0063	keju
+-4.4834	keju-keju
+-4.4834	kekalutan
+-4.1824	kekuatan
+-4.4834	kelahirannya
+-3.5292	kelar	+0.0160
+-4.4834	kelarin
+-2.7276	kelas	-0.0957
+-3.5804	kelasnya	-0.1831
+-4.4834	kelemahannya
+-4.4834	kelewat
+-3.8814	kelewatan	-0.1146
+-3.8814	keliatan
+-3.7845	kelihatan	-0.0265
+-4.1824	kelihatannya
+-3.2282	kelompok	-0.0166
+-4.4834	kelompoknya
+-3.3695	keluar	-0.0503
+-4.4834	keluar-keluar
+-4.4834	keluaran
+-3.3373	keluarga	-0.1191
+-4.4834	keluargaku
+-4.1824	keluarganya
+-4.4834	keluarin
+-4.4834	keluarnya
+-4.4834	keluguan
+-4.0063	kemah	-0.1627
+-4.4834	kemahalan
+-4.4834	kemahasiswaan
+-4.4834	kemahnya
+-3.0363	kemana	-0.3608
+-4.1824	kemana-mana
+-3.0363	kemaren	-0.1326
+-2.8022	kemarin	-0.0980
+-3.5804	kembali	-0.2051
+-4.4834	kembalinya
+-4.4834	kemudian
+-4.1824	kemungkinan
+-3.4834	kena	-0.2893
+-4.1824	kenal	-0.2119
+-4.4834	kenalan
+-4.1824	kenalin
+-2.8022	kenapa	-0.2052
+-4.4834	kenceng
+-4.4834	kening
+-3.7053	kentang
+-4.0063	kenyang
+-4.4834	kenyataan
+-4.0063	keos
+-4.4834	kepada
+-4.0063	kepentingan
+-4.4834	kepikiran
+-4.4834	kepolisian
+-4.1824	kepribadian
+-4.1824	kepuasan	-0.2750
+-4.1824	keras
+-4.4834	kerasa
+-3.8814	kerbau	-0.2732
+-4.1824	kerbaunya	-0.2119
+-3.2530	keren	-0.1015
+-3.8814	keren-keren
+-3.8814	kereta
+-4.1824	keringin
+-3.3074	kerja	-0.1702
+-3.5804	kerjaan	-0.0541
+-4.4834	kerjaanmu
+-4.4834	kerjaannya
+-3.5292	kerjain	-0.1792
+-4.0063	kerjakan
+-4.4834	kerjanya
+-4.1824	kertas
+-4.4834	kerusakan
+-4.1824	kesalahan
+-3.2530	kesana	-0.0204
+-4.4834	kesederhanaan
+-4.4834	kesedihannya
+-4.1824	kesel
+-4.1824	keseluruhan
+-4.4834	keseluruhannya
+-4.4834	kesempatan
+-4.4834	kesepian
+-4.4834	kesiangan
+-4.0063	kesini
+-4.1824	ketagihan
+-4.4834	ketawa
+-4.4834	ketempat
+-3.0855	ketemu	-0.2335
+-4.1824	ketemuan
+-4.4834	ketemuannya
+-4.0063	ketiduran
+-4.0063	ketiga
+-4.1824	ketika	-0.2720
+-4.4834	ketinggalan
+-4.1824	ketua
+-4.4834	ketuker
+-4.4834	kevin
+-4.4834	key
+-3.8814	khas	-0.5053
+-4.0063	khawatir	-0.1567
+-4.4834	khusus
+-4.4834	kiamat
+-4.4834	kikuk
+-4.4834	kilo
+-4.1824	kilometer	-0.2119
+-4.1824	king
+-4.1824	kini
+-3.3074	kira	-0.0984
+-3.4421	kira-kira	-0.0285
+-4.4834	kirain
+-4.4834	kirana
+-4.4834	kiri
+-4.1824	kit	-0.2119
+-2.1781	kita	-0.1094
+-4.4834	kk
+-4.4834	klimaks
+-3.6383	ko	+0.0013
+-4.4834	kobe
+-4.4834	kocak
+-4.4834	kode-kodenya
+-4.4834	kodenya
+-4.4834	koding
+-2.6383	kok	-0.1674
+-4.4834	kolam
+-4.4834	kolonial
+-4.1824	kolonialisme
+-4.4834	kom
+-4.4834	kombinasi
+-4.4834	komedi
+-4.1824	komik
+-4.1824	komite
+-4.1824	komposisi
+-4.1824	komprehensif	-0.2724
+-4.4834	komputasi
+-4.0063	komputer	-0.0994
+-4.4834	komunikasi
+-4.1824	kondisi
+-4.4834	koneksinya
+-4.4834	konsentrasi
+-4.4834	konsep
+-4.1824	konser
+-4.4834	konspirasi
+-4.4834	kontennya
+-4.4834	kontrolnya
+-4.0063	kopi
+-4.4834	kopinya
+-3.8814	korea
+-4.4834	kos
+-3.1824	kosan	-0.1851
+-3.7053	kosong	-0.0101
+-3.5804	kota	-0.1238
+-4.4834	kotak
+-4.1824	kotanya
+-3.8814	kotor
+-3.7053	kp	-0.0690
+-4.4834	kpnya
+-4.4834	kreatif
+-3.7845	krim	-0.0265
+-4.1824	krimnya	-0.2119
+-4.4834	kru
+-4.4834	ktp
+-3.5292	ku	-0.0399
+-4.4834	kuah
+-4.4834	kualitasnya
+-3.8814	kuantum	-0.1112
+-4.4834	kuantumnya
+-3.7053	kuat
+-4.0063	kucing
+-4.4834	kucingnya
+-4.4834	kuduga
+-3.8814	kue	-0.0524
+-4.4834	kuhasut
+-4.4834	kuizo
+-4.4834	kukabari
+-4.4834	kukira
+-3.1824	kuliah	-0.0987
+-4.1824	kuliahan	-0.2724
+-4.4834	kulit
+-4.1824	kumpul
+-4.1824	kumpulin
+-4.1824	kunci
+-4.4834	kunciin
+-4.1824	kuning
+-4.4834	kunjungan
+-4.1824	kunjungi	-0.2757
+-4.1824	kuota
+-3.0521	kurang	-0.1333
+-4.4834	kurintis
+-4.1824	kursus
+-4.4834	kusampaikan
+-4.4834	kutipan
+-3.7053	la
+-4.4834	lab
+-4.4834	label
+-4.4834	labnya
+-4.4834	labs
+-4.1824	labtek	-0.2752
+-4.4834	laen
+-2.1510	lagi	-0.1497
+-3.7845	lagian	-0.0860
+-3.7053	lagu	-0.0740
+-4.4834	lagunya
+-2.5341	lah	-0.2364
+-4.4834	lahiran
+-2.9921	lain	-0.0823
+-3.7845	lainnya	-0.4131
+-4.1824	lakuin
+-3.8814	lakukan	-0.2617
+-3.2047	lalu	-0.3041
+-3.0521	lama	-0.0741
+-4.4834	lamaku
+-4.4834	lamaran
+-4.0063	lambat	-0.0994
+-4.1824	lambung	-0.2119
+-4.1824	lancar-lancar	-0.2716
+-4.4834	langitnya
+-2.9649	langsung	-0.0252
+-3.7053	lanjut	-0.0709
+-4.4834	lanjutannya
+-4.1824	lanjutin
+-3.8814	lantai
+-4.4834	lantas
+-4.4834	lapan
+-4.4834	lapangan
+-3.7845	lapar	-0.0880
+-3.4421	laper	-0.2922
+-3.6383	laporan
+-4.0063	laporannya	-0.0994
+-4.4834	laporkan
+-3.4043	laptop	-0.0024
+-4.0063	laptopnya
+-4.4834	larangan
+-4.4834	large
+-4.0063	lari
+-4.4834	lari-lari
+-4.4834	larut
+-4.4834	latar
+-3.7845	latian	-0.0892
+-4.1824	latihan
+-4.1824	latihannya
+-4.1824	lauknya	-0.2754
+-3.7845	laut	-0.4131
+-4.4834	lautnya
+-4.4834	lebay
+-2.7845	lebih	-0.1266
+-4.4834	lee
+-4.4834	legal
+-4.4834	legendaris
+-4.4834	leher
+-4.4834	lehernya
+-4.4834	leksikonnya
+-4.1824	lelah	-0.2707
+-4.4834	lelet
+-4.1824	lembaga
+-4.1824	lembang
+-3.7053	lembar	-0.1631
+-4.4834	lempar
+-3.8814	len	-0.2617
+-4.4834	lengkap
+-4.4834	level
+-3.7845	lewat
+-4.4834	lezat
+-4.1824	lho
+-4.4834	li
+-3.3074	liat	-0.1118
+-4.4834	liat-liat
+-4.0063	liatnya	-0.1579
+-4.4834	libu
+-3.7053	libur
+-3.0521	liburan	-0.2101
+-4.4834	liciknya
+-2.9394	lihat	-0.1114
+-4.4834	lihatlah
+-2.8302	lima	-0.2667
+-4.4834	lin
+-3.8814	line	-0.0524
+-4.4834	link
+-4.1824	list
+-3.1612	lix	-0.2516
+-2.8022	lo	-0.0593
+-4.4834	logact
+-4.4834	logika
+-2.7932	loh	-0.2173
+-4.4834	lokal
+-4.4834	lokasi
+-4.0063	loket	-0.1565
+-4.4834	loki
+-2.9520	lomba	-0.1240
+-3.8814	lombanya
+-3.7845	lombok	-0.0870
+-4.0063	loss
+-4.1824	louis
+-4.4834	lowongan
+-2.3831	lu	-0.0926
+-3.5292	luar	-0.1586
+-4.4834	luarnya
+-4.0063	luas
+-4.4834	lubuk
+-3.2793	lucu	-0.1088
+-4.4834	luka
+-4.4834	lukisanmu
+-3.5804	lulus	-0.0690
+-4.0063	lulusnya
+-3.0521	lumayan	-0.1584
+-4.4834	lunak
+-3.1612	lupa	-0.1103
+-4.0063	m
+-3.6383	ma
+-3.3695	maaf	-0.1679
+-4.1824	maafin
+-3.7845	maap
+-4.1824	maba
+-3.7053	macam
+-4.4834	macbook
+-4.1824	macem	-0.2119
+-4.1824	macem-macem
+-3.5804	macet	-0.1373
+-4.4834	macet-macetan
+-4.1824	macetnya	-0.2119
+-4.0063	magang
+-4.0063	mager
+-3.2793	mah	-0.0228
+-3.2793	mahal	-0.0235
+-4.1824	mahal-mahal
+-4.0063	mahasiswa
+-4.4834	mahasiswanya
+-4.4834	mahkamah
+-3.1410	main	-0.0386
+-4.4834	mainstream
+-4.1824	maka	-0.2751
+-4.4834	makalah
+-2.4342	makan	-0.2101
+-3.7053	makan-makan	-0.0101
+-2.9921	makanan	-0.1253
+-3.5804	makanannya	-0.2643
+-3.7845	makannya
+-3.4043	makanya
+-3.5292	makasih	-0.1946
+-3.7845	make	-0.0904
+-4.0063	makhluk	-0.1632
+-3.3074	makin	-0.1337
+-4.4834	maksa-maksa
+-4.1824	maksimal
+-4.4834	maksimalkan
+-3.7845	maksud	-0.2374
+-4.4834	maksudku
+-3.2047	maksudnya	-0.0571
+-3.2530	malah	-0.0542
+-3.1217	malam	-0.0436
+-4.1824	malamnya
+-4.4834	malas
+-3.3074	malem	-0.1507
+-3.6383	males	-0.0667
+-4.4834	maling
+-3.7053	mall
+-4.4834	malunya
+-3.5804	mama	-0.1264
+-3.8814	mamanya	-0.1162
+-3.8814	mampir	-0.1134
+-4.4834	mampu
+-4.4834	man
+-2.7759	mana	-0.2839
+-4.4834	mana-mana
+-4.1824	manager
+-4.4834	maneh
+-4.1824	manggil
+-3.7053	manis
+-3.4834	mantap	-0.1121
+-4.4834	mantep
+-3.4834	manusia
+-3.7845	mao
+-4.4834	mapo
+-3.6383	marah	-0.0592
+-4.4834	maret
+-4.0063	mari	-0.1633
+-4.1824	mark	-0.2119
+-4.4834	marnat
+-3.4043	martabak	-0.0598
+-4.4834	martabaknya
+-4.1824	marvel
+-2.5750	mas	-0.2909
+-3.0363	masa	-0.1355
+-3.4834	masak
+-4.1824	masakan
+-4.4834	masako
+-4.4834	masala
+-3.3695	masalah	-0.0395
+-4.0063	masalahnya
+-2.5858	masih	-0.1831
+-4.4834	masing
+-3.7845	masing-masing	-0.0890
+-3.1824	masuk	-0.1106
+-4.4834	masukannya
+-4.1824	masukin
+-4.4834	masukkin
+-4.4834	masukkinnya
+-4.4834	masyarakat
+-3.4421	mata	-0.2132
+-4.1824	matah
+-4.4834	matahari
+-3.8814	matematik
+-3.7845	matematika	-0.0904
+-3.8814	materi
+-4.4834	materialnya
+-4.4834	materinya
+-3.5804	mati
+-4.0063	matkul
+-2.1142	mau	-0.1666
+-4.4834	maudy
+-4.4834	maunya
+-4.4834	mayan
+-4.4834	mb
+-4.4834	mbd
+-4.4834	mcd
+-4.4834	media
+-4.4834	meeting
+-4.4834	megang
+-4.4834	mekanik
+-4.0063	melakukan
+-4.4834	melalui
+-4.4834	melamar
+-3.8814	melanjutkan	-0.2757
+-3.8814	melelahkan	-0.2617
+-4.4834	meleleh
+-4.4834	melempar
+-3.7845	melihat	-0.0886
+-4.4834	melingkupi
+-4.0063	melukis
+-4.4834	memainkan
+-4.4834	memakai
+-4.1824	memaksa
+-3.3373	memanah	-0.2002
+-4.4834	memancing
+-4.1824	memanen	-0.2758
+-3.2047	memang	-0.0732
+-3.5292	memangnya	-0.0333
+-4.4834	memaparkan
+-4.1824	memarkirkan	-0.2758
+-4.4834	membahas
+-3.7845	membantu	-0.0904
+-4.4834	membantumu
+-4.4834	membasmi
+-4.4834	membawakan
+-4.4834	membeli
+-4.0063	member
+-4.1824	memberi
+-4.4834	membernya
+-4.4834	membicarakan
+-3.3074	membuat	-0.1339
+-4.1824	membuatnya
+-4.4834	membutuhkan
+-4.4834	memenangkan
+-4.4834	memerangi
+-4.4834	memerintah
+-4.1824	memilih
+-3.8814	memiliki	-0.1163
+-4.4834	mempelajari
+-4.4834	mempelajarinya
+-4.4834	memperjuangkan
+-4.4834	memperkenalkan
+-4.4834	memperlihatkan
+-4.4834	mempertahankan
+-4.4834	memuaskan
+-4.4834	memungkinkan
+-4.4834	memvisualisasikan
+-4.1824	menambah	-0.2758
+-4.1824	menambal	-0.2757
+-4.0063	menanam	-0.1633
+-4.1824	menang
+-3.2530	menarik	-0.1686
+-4.4834	mencapai
+-4.4834	mencari
+-4.4834	menceritakan
+-4.4834	mencetak
+-4.0063	mencoba
+-4.1824	mendadak
+-4.1824	mendaftar
+-4.1824	mendapatkan
+-4.4834	mendefinisikan
+-4.4834	mendekati
+-4.4834	mendengarkan
+-3.3074	mending	-0.0942
+-3.6383	mendingan
+-4.4834	mendiriin
+-4.4834	mendirikan
+-4.1824	mendorong	-0.2757
+-4.1824	menebaknya
+-3.8814	menemukan	-0.1163
+-4.0063	mengajar
+-4.4834	mengalah
+-4.1824	mengalahkan	-0.2756
+-4.4834	mengalami
+-4.1824	mengambil
+-4.4834	menganggap
+-4.4834	menganggur
+-4.1824	mengantar
+-4.4834	mengantarmu
+-4.4834	mengarahkan
+-4.1824	mengayuhkan	-0.2758
+-4.1824	mengelilingi	-0.2758
+-4.4834	mengemasnya
+-4.4834	mengemudi
+-4.4834	mengenai
+-4.4834	mengenalkan
+-4.0063	mengendarai	-0.5277
+-3.7845	mengerjakan	-0.2044
+-4.4834	mengerti
+-4.4834	mengetahui
+-4.4834	menggambarkan
+-4.4834	menggeliat
+-4.4834	menggelinding
+-3.8814	menggunakan	-0.1163
+-4.4834	menghabiskan
+-4.4834	menghadapi
+-4.4834	menghasilkan
+-4.1824	mengikuti
+-4.4834	mengingatkan
+-4.4834	menginjak
+-4.4834	mengirim
+-4.1824	menguap
+-4.1824	menguasai
+-4.4834	mengucapkan
+-4.4834	mengunjungi
+-4.4834	menguras
+-4.4834	mengurus
+-4.1824	menikah
+-4.4834	menikmati
+-4.4834	meninggal
+-4.4834	meninggalkan
+-3.1217	menit	-0.2100
+-4.4834	menitan
+-3.7053	menjadi
+-4.4834	menjadikan
+-4.4834	menjalani
+-4.4834	menjawab
+-4.4834	menjemputmu
+-4.1824	menjenguk	-0.2757
+-4.1824	menonton
+-4.4834	menontonnya
+-4.1824	mentok-mentok
+-4.4834	mentor
+-4.4834	mentornya
+-4.4834	menu
+-4.1824	menunggu
+-4.4834	menunjukkan
+-4.1824	menuntun	-0.2757
+-4.4834	menunya
+-4.4834	menuruni
+-3.3373	menurut	-0.4077
+-4.1824	menurutku
+-4.4834	menurutmu
+-4.4834	menyapa
+-4.4834	menyarankan
+-4.4834	menyatu
+-4.4834	menyebabkan
+-4.1824	menyebalkan
+-4.0063	menyediakan	-0.1631
+-3.8814	menyelam	-0.2617
+-4.4834	menyelesaikan
+-3.8814	menyenangkan	-0.1101
+-4.4834	menyengat
+-4.4834	menyesal
+-4.4834	menyesuaiakan
+-4.4834	menyiapkan
+-4.1824	menyukai
+-4.4834	mepet
+-4.0063	merah
+-4.4834	merahnya
+-4.4834	merasa
+-4.4834	merayakan
+-4.1824	merek
+-2.8924	mereka	-0.0047
+-4.1824	merendah
+-4.4834	merepotkan
+-4.4834	meriah
+-4.4834	mertua
+-3.7845	mesen	-0.0265
+-4.1824	mesennya	-0.2119
+-4.4834	mesinnya
+-3.5292	meskipun
+-4.1824	metode
+-4.4834	mewah
+-4.4834	mewek
+-4.4834	mi
+-4.4834	microsoft
+-3.5804	mie	-0.3743
+-4.4834	mikir
+-4.1824	mikirnya
+-4.4834	milea
+-4.0063	milih
+-4.4834	milik
+-4.4834	milimeter
+-4.4834	mimpi
+-4.4834	ming
+-2.8814	minggu	-0.4803
+-4.0063	mini	-0.1632
+-4.4834	minimal
+-3.8814	mining
+-4.4834	minjem
+-3.2793	minke	-0.0855
+-3.0685	minta	-0.3526
+-4.0063	minum	-0.1598
+-4.4834	minuman
+-3.8814	mirip
+-4.4834	misah
+-4.4834	misal
+-3.8814	misalkan
+-3.3074	misalnya	-0.0844
+-4.4834	misi
+-4.0063	miss	-0.1632
+-3.5804	mit	+0.0097
+-4.4834	ml
+-4.1824	mm
+-2.8814	mo	-0.2558
+-3.7845	mobil	-0.2002
+-3.8814	mobilku	-0.4430
+-4.0063	model
+-4.4834	modelnya
+-4.1824	modern	-0.2119
+-4.4834	modis
+-4.4834	moga-moga
+-4.4834	mole
+-4.4834	molor
+-4.4834	monologue
+-3.5804	motor	-0.1701
+-4.4834	motornya
+-4.1824	mouse
+-4.4834	mrt
+-4.4834	mtsn
+-3.8814	mu	-0.0524
+-4.0063	muak
+-4.4834	muat
+-4.1824	muda
+-3.8814	mudah	-0.1148
+-4.4834	mudahan
+-4.4834	muka
+-3.3074	mulai	+0.0061
+-4.4834	mulainya
+-4.4834	multichatnya
+-4.4834	mulu
+-4.1824	mulut
+-4.4834	mumpung
+-4.1824	muncul
+-3.0210	mungkin	-0.0627
+-4.4834	mungkinkan
+-3.2793	murah	-0.1740
+-4.4834	murid
+-4.1824	musang	-0.2758
+-4.4834	music
+-3.8814	musik	-0.3222
+-3.8814	musim	-0.1163
+-4.1824	mustahil	-0.2758
+-3.4043	musti	-0.0354
+-4.4834	musuhan
+-4.1824	mutar
+-4.1824	my	-0.2758
+-4.1824	na
+-4.4834	nabrak
+-4.4834	nada
+-3.8814	naek	-0.1162
+-3.0521	nah	-0.1297
+-3.2282	naik	-0.1215
+-4.1824	naikkan	-0.2758
+-4.1824	nak
+-4.4834	nakal
+-3.8814	nam	-0.4430
+-3.6383	nama	-0.0618
+-4.4834	namaku
+-3.4421	namanya	-0.0727
+-4.4834	nambah
+-4.4834	nambahin
+-3.8814	namun
+-4.1824	nana
+-4.4834	nangis
+-4.4834	nanny's
+-2.3935	nanti	-0.2440
+-3.5804	nanya	+0.0097
+-4.1824	napa	-0.2119
+-4.4834	narasi
+-3.8814	narcos	-0.1162
+-4.1824	narik
+-4.0063	narkoba
+-3.2047	nasi	-0.1603
+-4.1824	nasib
+-4.4834	nasinya
+-4.0063	nasional	-0.0994
+-4.1824	nasionalis
+-4.4834	nasionalisme
+-4.4834	nasjep
+-4.4834	naskor
+-4.4834	nat
+-4.1824	natural
+-4.4834	nawarin
+-4.1824	ndi
+-4.4834	nebeng
+-3.8814	nebula
+-3.7845	negeri	-0.1742
+-4.4834	nelpon
+-4.4834	nembakin
+-4.4834	nempel
+-4.4834	nemu
+-4.4834	nemuin
+-4.1824	nenek
+-3.8814	nengok
+-4.0063	nengokin	-0.1614
+-4.4834	nengoknya
+-4.4834	nentang
+-4.0063	nentu
+-4.4834	nentuin
+-4.4834	neror
+-4.0063	netflix	-0.0994
+-4.1824	next
+-4.0063	ngabarin
+-4.4834	ngabisin
+-3.7845	ngadain	-0.0900
+-3.7845	ngajak
+-4.4834	ngajar
+-4.4834	ngalahin
+-3.7845	ngambil
+-4.1824	ngangkat
+-3.7845	ngantri
+-4.4834	ngantri-ngantri
+-4.4834	ngantrinya
+-4.1824	ngantuk
+-4.4834	ngantuknya
+-4.1824	ngapa-ngapain
+-2.9783	ngapain	-0.4358
+-4.1824	ngarepin
+-4.4834	ngaruh
+-3.7845	ngasih
+-4.4834	ngatur
+-4.4834	ngawasin
+-4.4834	ngayal
+-4.0063	nge
+-4.4834	ngebelain
+-4.4834	ngebosenin
+-4.4834	ngebully
+-4.4834	ngebut
+-4.1824	ngecek
+-4.4834	ngechat
+-4.4834	ngedepanin
+-4.4834	ngedorong
+-4.4834	ngefek
+-4.1824	ngeforge
+-4.4834	ngegantung
+-4.1824	ngelakuin
+-4.1824	ngeliat
+-4.4834	ngeliatnya
+-3.4043	ngelihat	-0.1473
+-4.1824	ngembaliin	-0.2754
+-4.1824	ngerasa
+-4.0063	ngerasain
+-4.4834	ngerayain
+-4.1824	ngerekam
+-4.4834	ngerem
+-3.1612	ngerjain	-0.3128
+-4.1824	ngerjainnya
+-3.3074	ngerti	-0.1150
+-4.1824	ngerusak
+-4.4834	ngetem
+-4.4834	ngetemnya
+-4.4834	ngetroll
+-3.2530	ngga	+0.0392
+-2.6383	nggak	-0.1727
+-4.4834	ngide
+-4.1824	ngikutin
+-4.4834	ngilang
+-4.4834	ngilangin
+-4.4834	ngiler
+-4.0063	nginep	-0.5224
+-4.4834	nginepnya
+-4.4834	ngira
+-4.1824	ngobrol
+-4.1824	ngobrol-ngobrol
+-4.4834	ngoding
+-3.4043	ngomong	-0.0065
+-3.4043	ngomong-ngomong	-0.0686
+-4.4834	ngomonginnya
+-4.0063	ngomongnya
+-4.1824	ngondak
+-4.4834	ngontak
+-4.1824	ngumpul
+-4.4834	ngumpul-ngumpul
+-4.4834	ngumpulinnya
+-4.1824	ngurus
+-4.4834	ngurusin
+-3.1824	ni	-0.0004
+-4.4834	nicho
+-2.2379	nih	-0.2508
+-4.1824	nik	-0.2119
+-4.4834	niko
+-4.1824	nilai
+-4.1824	nindya
+-4.4834	ninggalin
+-4.4834	nisa
+-4.0063	nitip	-0.1628
+-4.0063	niza	-0.1567
+-3.6383	nlp	-0.1558
+-4.1824	no
+-3.7845	nol	-0.0890
+-4.4834	nomer
+-3.4421	nomor
+-4.4834	nomornya
+-2.9037	nonton	-0.2146
+-4.4834	nontonin
+-4.4834	nontonnya
+-3.6383	nop	-0.0622
+-4.4834	normal
+-4.4834	notifikasi
+-4.4834	novel
+-3.1217	ntar	-0.0090
+-4.4834	nubes
+-4.0063	nugas
+-4.4834	nulis
+-4.4834	numerik
+-4.4834	numpang
+-4.1824	nunggu
+-4.0063	nungguin
+-4.1824	nurut
+-2.7845	nya	-0.1533
+-3.8814	nyai	-0.3256
+-4.1824	nyala
+-4.0063	nyalahin
+-4.4834	nyalain
+-4.4834	nyalon
+-4.1824	nyambung
+-3.7053	nyampe
+-4.1824	nyampenya
+-4.1824	nyangka
+-3.7053	nyanyi
+-4.4834	nyanyian
+-4.4834	nyanyiin
+-3.7845	nyari
+-4.0063	nyata
+-4.4834	nyebelin
+-4.4834	nyediain
+-4.4834	nyelesaiin
+-4.1824	nyenggol
+-4.1824	nyerah	-0.2733
+-4.4834	nyeremin
+-4.4834	nyesuaiin
+-4.4834	nyetok
+-4.0063	nyiapin
+-4.4834	nyicil
+-4.4834	nyo
+-3.7053	nyoba	-0.0101
+-4.1824	nyuci
+-4.4834	nyusulnya
+-3.7845	o	-0.2344
+-4.4834	oalah
+-4.4834	obat-obatan
+-4.4834	obrolannya
+-4.1824	obrolin
+-4.4834	of
+-4.4834	office
+-2.2931	oh	-0.2681
+-4.4834	oiya
+-4.1824	ojek
+-3.6383	ok	+0.0013
+-4.4834	okay
+-2.5341	oke	-0.2684
+-3.7053	okei
+-4.1824	okelah
+-4.0063	oktober
+-4.0063	olahraga
+-3.7053	oleh
+-3.7053	oleh-oleh	-0.4124
+-3.8814	olimpiade	-0.1129
+-4.4834	omg
+-4.1824	omong
+-4.4834	omong-omong
+-4.4834	omongan
+-4.4834	omongin
+-4.4834	omonginnya
+-4.1824	on
+-4.4834	onel
+-4.4834	ongkos
+-4.4834	ongkosnya
+-4.4834	onlee
+-4.0063	online
+-4.0063	ontosoroh
+-3.7053	ooh
+-4.4834	operasiin
+-2.7759	orang	-0.1323
+-3.8814	orang-orang
+-3.5804	orangnya	+0.0097
+-4.4834	orangtua
+-4.4834	orchard
+-4.1824	order
+-3.5804	oreo	-0.0491
+-4.4834	organigram
+-3.7053	osk
+-3.8814	osn	-0.1163
+-4.1824	osp
+-4.1824	ospek
+-4.0063	otaknya	-0.1633
+-4.4834	otomatis
+-4.4834	otw
+-4.4834	outputnya
+-4.1824	ovaltine
+-3.7845	ovo
+-4.1824	ow
+-4.4834	oyah
+-3.4834	pa	-0.0798
+-4.4834	pab
+-4.4834	pablo
+-4.4834	pabrik
+-4.4834	pacar
+-2.9921	pada	+0.0107
+-3.2793	padahal	-0.0729
+-3.8814	padang
+-3.8814	padi	-0.2742
+-4.4834	pagaruyung
+-3.3373	pagi	-0.0929
+-4.4834	paginya
+-3.7845	paham	-0.0860
+-4.4834	pajajaran
+-3.5292	pak	-0.0378
+-4.0063	pakai
+-4.1824	pakde
+-3.0521	pake	-0.0637
+-4.1824	pakmin
+-2.8022	paling	-0.1043
+-4.1824	palingan
+-4.4834	palunya
+-4.4834	pamer
+-3.8814	pameran	-0.2753
+-4.4834	pamit
+-4.4834	panahan
+-4.4834	panas
+-4.1824	pandai
+-4.1824	pandan
+-3.7845	pandang	-0.0900
+-4.4834	pandangnya
+-4.4834	panduannya
+-4.0063	panggang
+-4.0063	panggangnya	-0.0994
+-4.4834	panitia
+-3.6383	panjang	-0.0919
+-4.4834	panjangnya
+-4.0063	pantai	-0.1617
+-4.4834	pantat
+-4.4834	pantes
+-3.5804	papa	-0.1701
+-4.0063	papan	-0.1633
+-4.4834	paparon
+-4.0063	paper	-0.1633
+-4.1824	para
+-4.1824	paragraf
+-3.8814	parkir
+-4.4834	parkiran
+-4.4834	parkirnya
+-3.7053	part	-0.2668
+-4.4834	partikelnya
+-4.1824	parut
+-3.1032	pas	-0.0471
+-4.4834	pasar
+-4.4834	pasca
+-3.8814	pasir	-0.2742
+-4.4834	paskal
+-4.4834	paspor
+-4.1824	paspornya	-0.2745
+-3.7845	pasta
+-2.9783	pasti	-0.0262
+-4.1824	pastinya
+-4.4834	pasukannya
+-4.1824	pat
+-4.4834	patut
+-4.4834	pause
+-4.4834	payday
+-4.0063	payung
+-4.4834	pc
+-4.4834	pecahin
+-4.4834	pecinnya
+-4.4834	pedagang
+-3.8814	pegang
+-3.7053	pekan
+-3.8814	pekerjaan
+-4.4834	pekerjaannya
+-3.8814	pelajaran
+-4.1824	pelanin
+-3.8814	pelatihan
+-4.4834	pelatihannya
+-4.4834	pelengkap
+-4.4834	peluang
+-3.8814	pemain	-0.1164
+-4.4834	pemainnya
+-4.4834	pemakainya
+-4.4834	pemanasan
+-4.4834	pemandangannya
+-4.4834	pembahasan
+-4.4834	pembayarannya
+-4.4834	pembicara
+-3.7053	pembimbing	-0.0949
+-4.4834	pembuatan
+-4.4834	pembulian
+-4.4834	pemecahan
+-4.1824	pemeran
+-4.4834	pemerintah
+-4.4834	pemerintahan
+-4.4834	pemikiran
+-4.4834	pemimpin
+-4.4834	pemrosesan
+-4.1824	penangkaran	-0.2758
+-4.1824	pencarian
+-4.4834	pencet
+-4.4834	pendaftaran
+-4.4834	pendaftarannya
+-4.4834	pendapat
+-4.4834	pendapatmu
+-4.1824	pendek
+-4.4834	pendek-pendek
+-4.4834	pendekar
+-4.4834	pendidikan
+-4.1824	penemuan
+-4.1824	pengadilan
+-4.1824	pengarang	-0.2758
+-4.4834	pengaruh
+-4.1824	pengcit	-0.2119
+-4.1824	pengembangan	-0.2758
+-2.9649	pengen	-0.0917
+-4.4834	pengertian
+-4.1824	pengesahan
+-4.1824	pengganti
+-4.1824	penggunaan
+-4.4834	penghuni
+-4.1824	pengolahan	-0.2758
+-4.1824	pengumpulan	-0.2758
+-4.4834	pengunjung
+-4.4834	penilaiannya
+-4.1824	penolongmu	-0.2119
+-4.1824	penonton
+-3.4043	penting	+0.0285
+-4.4834	penuh
+-4.4834	penulis
+-4.4834	penurunan
+-4.4834	penyisihan
+-4.4834	pepper
+-4.0063	per	-0.1630
+-4.4834	perahu
+-4.4834	peran
+-4.4834	perang
+-4.4834	perangkat
+-3.3373	perasaan	-0.0301
+-4.4834	perayaan
+-4.4834	perbaiki
+-3.6383	percakapan
+-3.8814	percaya
+-4.4834	perempuanku
+-4.4834	perfeksionis
+-3.0363	pergi	-0.2324
+-4.4834	pergolakan
+-4.4834	perhari
+-4.4834	perhatian
+-4.4834	perihnya
+-4.4834	perintah
+-4.4834	perintahnya
+-3.7053	perjalanan	-0.1876
+-4.1824	perjalananku	-0.2119
+-4.4834	perjalanannya
+-3.8814	perjuangan
+-4.4834	perkemahan
+-4.4834	perkumpulan
+-4.4834	perlakuan
+-3.4421	perlu	+0.0251
+-4.4834	permasalahan
+-4.4834	permen
+-3.0855	pernah	+0.0172
+-3.8814	pernikahan
+-4.1824	perpus
+-4.4834	perpusnya
+-3.7053	perpustakaan	-1.5975
+-3.8814	persen
+-4.1824	persiapan
+-4.4834	personal
+-3.0855	pertama	-0.2300
+-3.7845	pertamanya	-0.0265
+-4.0063	pertanian	-0.1565
+-4.4834	pertemuan
+-4.4834	pertigaan
+-4.4834	pertiwi
+-4.4834	pertumbuhannya
+-4.4834	perumpamaan
+-3.7845	perusahaan
+-4.0063	perusahaannya
+-4.0063	perwalian
+-3.7845	pesan
+-2.9394	pesen	-0.1219
+-4.4834	pesenin
+-4.1824	pesennya
+-4.1824	peserta
+-4.4834	pesertanya
+-4.1824	pesta
+-3.8814	petualang	-0.2617
+-4.4834	phd
+-4.4834	pi
+-4.1824	piala
+-4.4834	piano
+-4.4834	pihak
+-4.0063	pikir
+-4.4834	pikir-pikir
+-4.1824	pikiran
+-4.1824	pikirannya
+-3.8814	pilih
+-3.7053	pilihan
+-4.0063	pilihannya
+-4.4834	pilihnya
+-3.7053	pindah	-0.3054
+-3.7845	pingin	-0.2376
+-4.1824	pinginnya	-0.2713
+-4.4834	pinjam
+-4.1824	pinjem
+-4.4834	pinter
+-3.4421	pintu	-0.0613
+-4.1824	pintunya
+-4.1824	pipis
+-4.0063	piring	-0.1591
+-4.4834	piring-piring
+-3.7845	pisah
+-4.0063	pisang	-0.0994
+-4.4834	pitchingnya
+-3.4834	pizza	-0.3819
+-4.4834	pizzanya
+-4.4834	pkn
+-4.4834	plagiat
+-4.4834	plan
+-4.4834	plot
+-4.4834	plus
+-4.4834	pm
+-4.4834	pnj
+-4.4834	point
+-3.5804	pokoknya	-0.0491
+-4.4834	pokonya
+-4.4834	polanya
+-4.1824	polisi
+-4.1824	polusi	-0.2758
+-4.4834	pong
+-4.1824	populer
+-4.1824	porsi
+-4.4834	porsinya
+-4.1824	posisi
+-4.1824	positifnya
+-4.4834	post
+-4.4834	postingan
+-4.4834	postur
+-4.4834	pot
+-4.4834	potensinya
+-3.8814	potong
+-4.4834	powerful
+-3.8814	pr
+-4.1824	pra
+-3.7845	praktikum
+-3.8814	pram	-0.2617
+-4.4834	pramuka
+-4.4834	prasmanan
+-4.4834	prasmanannya
+-4.4834	prasyarat
+-4.4834	prasyaratnya
+-4.1824	predict
+-4.0063	prepare
+-4.0063	presentasi	-0.0994
+-4.4834	pretelin
+-4.1824	pribadi
+-3.7845	pribumi	-0.0836
+-4.4834	prnya
+-4.1824	pro
+-4.0063	product	-0.1633
+-4.1824	produksi
+-4.4834	produksinya
+-4.4834	profesional
+-4.4834	profesor
+-4.0063	professor	-0.5278
+-4.1824	program
+-4.4834	programmernya
+-4.1824	programming
+-3.8814	programnya
+-4.4834	progress
+-4.4834	progressnya
+-3.3074	promo	-0.0667
+-3.6383	promonya	+0.0013
+-4.4834	promosi
+-4.4834	pronounciation
+-4.0063	proyek
+-4.4834	proyekan
+-4.4834	prs
+-4.1824	puas
+-4.4834	pula
+-3.0210	pulang	-0.1061
+-4.1824	pulangnya
+-3.7845	pulau	-0.0904
+-4.4834	pulen
+-2.8022	puluh	-0.2474
+-3.5804	puluhan	-0.0509
+-3.4834	pun
+-4.1824	puncak
+-4.4834	puncaknya
+-4.4834	punclut
+-4.4834	pundi
+-2.9394	punya	-0.1231
+-4.4834	punyaku
+-4.1824	pusing	-0.2119
+-3.5292	putih	-0.1013
+-4.4834	putra
+-4.4834	pvj
+-4.4834	pvjnya
+-4.4834	pymes
+-4.4834	qih
+-4.4834	quality
+-4.0063	quantum
+-4.4834	query
+-4.4834	rabu
+-3.7845	rada	-0.0904
+-4.4834	rada-rada
+-4.4834	radiasi
+-4.1824	raf	-0.2119
+-4.4834	rafi
+-4.1824	rafli	-0.2119
+-3.7845	rahasia	-0.1742
+-4.4834	rajin
+-4.1824	rak
+-4.4834	rakus
+-4.4834	rama
+-4.4834	ramadhan
+-3.4834	ramai	-0.0705
+-4.4834	ramalan
+-4.1824	rambut
+-4.1824	rambutmu
+-3.8814	rame	-0.1112
+-4.0063	rame-rame
+-4.4834	rangka
+-4.1824	rapat
+-3.7845	rapi
+-4.4834	rapih
+-4.4834	rapihin
+-3.2793	rasa	-0.2052
+-3.2793	rasanya	-0.0267
+-4.1824	rasis
+-4.4834	rata-rata
+-4.1824	ratih
+-4.4834	ratu
+-4.0063	ratus
+-4.4834	rayakan
+-4.4834	rayuan-rayuan
+-4.0063	real	-0.1615
+-4.4834	realm
+-4.4834	recehnya
+-4.4834	recognitionnya
+-3.8814	red	-0.5069
+-4.4834	reda
+-4.1824	referensi
+-4.4834	regulatornya
+-3.7053	rekam	-0.1628
+-4.4834	rekaman
+-4.1824	rekamannya
+-4.4834	rekamnya
+-3.8814	rekomendasi
+-4.4834	rektor
+-4.4834	release
+-4.4834	relevan
+-4.1824	remaja
+-3.1824	rencana	-0.1057
+-4.4834	rencanain
+-4.4834	rencanaku
+-4.1824	rencanamu
+-3.4043	rencananya
+-4.4834	rendah
+-4.4834	report
+-4.4834	repot
+-4.1824	reservasi
+-4.4834	resminya
+-3.4043	restoran	-0.1822
+-3.8814	restorannya
+-4.4834	review
+-4.4834	revisi
+-4.0063	revisinya
+-4.4834	rezeki
+-3.7053	ribet
+-2.9783	ribu	-0.1708
+-4.1824	ribuan
+-4.4834	ribunya
+-4.4834	ribut
+-3.6383	ricky	+0.0013
+-4.4834	rido
+-3.8814	rik
+-4.4834	rinci
+-4.4834	rindi
+-4.1824	ringan
+-4.4834	risalah
+-4.1824	robot
+-4.4834	robotnya
+-4.4834	roda
+-4.4834	romansa
+-4.4834	romantis
+-4.4834	romantisme
+-4.1824	ronin
+-3.2530	roti	-0.1812
+-4.4834	rotinya
+-4.4834	rplsd
+-4.4834	rt
+-3.7053	ruang	-0.1616
+-4.4834	rugi
+-2.9271	rumah	-0.1130
+-3.7053	rumahku	-0.0945
+-4.4834	rumahmu
+-3.4834	rumahnya	-0.0931
+-4.4834	rumusin
+-4.1824	rusa
+-3.6383	rusak	-0.1533
+-4.4834	rusanya
+-4.4834	rutin
+-4.4834	rutinitas
+-4.4834	s1
+-4.1824	s3	-0.2119
+-4.4834	sa
+-3.4043	saat	-0.0802
+-4.4834	saatnya
+-3.8814	sabar
+-4.4834	sabar-sabar
+-4.0063	sabi
+-3.4421	sabtu	-0.0387
+-4.0063	sabuga	-0.0994
+-4.4834	sad
+-4.1824	sadar
+-4.0063	sah	-0.0994
+-4.4834	sahabat
+-4.4834	sahabatnya
+-4.4834	saingannya
+-4.1824	sains
+-2.7511	saja	-0.4102
+-4.4834	sajalah
+-4.4834	saking
+-3.0685	sakit	-0.2941
+-4.1824	saku	-0.2119
+-4.4834	salad
+-2.8400	salah	-0.2223
+-4.4834	salam
+-4.4834	salamku
+-4.4834	saldo
+-4.4834	saldonya
+-4.4834	saling
+-4.4834	salon
+-4.4834	salted
+-2.2355	sama	-0.0743
+-3.7845	sama-sama	-0.0265
+-4.1824	sambal	-0.2758
+-4.4834	sambelnya
+-3.5292	sambil	-0.0475
+-4.4834	sampah
+-2.8302	sampai	-0.0764
+-4.4834	sampaikan
+-3.2530	sampe
+-4.4834	sampingan
+-4.4834	sampingku
+-4.4834	sampingmu
+-2.9921	sana	-0.2233
+-3.4421	sangat	-0.1283
+-4.4834	sanggup
+-3.6383	santai	-0.1516
+-4.1824	sapi
+-4.4834	saraga
+-4.4834	sarah
+-4.0063	sarapan
+-4.4834	sate
+-2.5914	satu	-0.0822
+-3.8814	satunya	-0.1133
+-4.1824	saudara
+-4.4834	saver
+-4.0063	sawah	-0.1617
+-3.7845	sawah-sawah	-0.1988
+-2.6911	saya	-0.0065
+-3.8814	sayang	-0.3255
+-4.1824	sayangnya
+-4.1824	sayur
+-4.4834	sayur-sayuran
+-4.1824	sayuran
+-4.4834	sc
+-4.4834	school
+-4.4834	scoring
+-3.7845	sd	-0.0265
+-4.4834	seakan
+-4.4834	searchnya
+-4.4834	season
+-3.6383	sebagai	-0.0626
+-4.4834	sebagian
+-4.4834	sebaik
+-4.4834	sebangku
+-4.1824	sebanyak
+-4.4834	sebeda
+-4.4834	sebel
+-4.0063	sebelah
+-3.7845	sebelas
+-4.0063	sebelom	-0.1632
+-3.4421	sebelum	-0.0756
+-4.4834	sebelum-sebelumnya
+-3.5804	sebelumnya	-0.1394
+-3.5292	sebenarnya
+-3.4421	sebenernya	-0.0285
+-3.5292	sebentar	-0.1556
+-4.4834	seberang
+-4.4834	seberapa
+-4.4834	seblak
+-3.8814	sebuah	-0.1164
+-4.0063	sebut	-0.0994
+-4.4834	secanggih
+-3.7053	secara	-0.0740
+-3.3373	sedang	-0.0671
+-4.4834	sedeng
+-3.5804	sedih	-0.1312
+-3.3373	sedikit	-0.0392
+-4.4834	sedunia
+-4.1824	seenaknya
+-3.7845	segala	-0.2048
+-4.4834	segalanya
+-4.4834	segaring
+-4.4834	segede
+-4.1824	segini	-0.2119
+-4.1824	segitu
+-4.4834	segituan
+-4.4834	segreget
+-4.1824	sehabis
+-4.4834	sehari
+-4.4834	seharusnya
+-3.8814	sehat	-0.2617
+-4.4834	sei
+-4.1824	seindah
+-4.4834	seingatku
+-4.4834	seinget
+-4.1824	sejarah
+-4.1824	sejauh	-0.2720
+-3.4043	sekali	-0.1007
+-4.1824	sekali-sekali
+-3.5292	sekalian	-0.0330
+-2.6142	sekarang	-0.1369
+-4.4834	sekarat
+-4.1824	sekarung	-0.2758
+-4.0063	sekelompok	-0.0994
+-4.4834	sekelompoknya
+-4.4834	sekeren
+-4.4834	sekip
+-3.0521	sekitar	-0.2622
+-4.1824	sekitaran
+-3.2047	sekolah	+0.0071
+-4.4834	sekre
+-3.7845	selain
+-4.0063	selalu
+-3.4834	selama	-0.1367
+-3.6383	selamat	-0.1294
+-4.4834	selang
+-4.4834	selanjutnya
+-4.1824	selasa
+-4.4834	seleksi
+-4.4834	seleksinya
+-4.4834	selembar
+-4.4834	seleraku
+-3.1824	selesai	-0.1211
+-4.4834	selese
+-4.4834	selevel
+-4.4834	selidiki
+-4.1824	semacam
+-4.4834	semacamnya
+-4.1824	semakin
+-3.8814	semalam	-0.1098
+-3.8814	semangat
+-4.4834	semangatnya
+-4.4834	sembarangan
+-3.2793	sembilan	-0.0860
+-4.4834	sembuh
+-4.4834	sembunyi
+-4.4834	semenit
+-4.4834	semenjak
+-3.2530	semester	-0.2147
+-3.5804	seminar
+-3.7053	semoga
+-3.8814	sempat
+-3.6383	sempet
+-4.1824	sempit
+-4.4834	sempurna
+-2.9649	semua	-0.0293
+-3.3695	semuanya	-0.0130
+-4.4834	semudah
+-3.4043	senang	-0.2848
+-2.8707	sendiri	-0.3084
+-4.4834	sendirian
+-4.4834	sendirinya
+-3.5804	sengaja	-0.1194
+-4.1824	seni
+-4.4834	senin
+-4.4834	senjata
+-4.0063	seorang
+-3.2047	sepatu	-0.2434
+-4.4834	sepatumu
+-3.5292	sepeda	-0.3052
+-3.7053	sepedaku	-0.2072
+-3.8814	sepedamu	-0.2674
+-3.1824	seperti	-0.1085
+-4.4834	sepertimu
+-3.2793	sepertinya	-0.1127
+-4.4834	sepi
+-4.4834	sepinter
+-4.4834	seporsinya
+-4.4834	sepuasnya
+-4.1824	sepulang	-0.2756
+-3.1824	sepuluh	-0.1158
+-4.0063	seram
+-3.3695	seratus	-0.1573
+-4.4834	serba
+-4.4834	serem
+-4.4834	seri
+-4.4834	serial
+-4.4834	seribu
+-3.3373	sering	-0.0286
+-3.5292	serius	-0.0474
+-3.3074	seru	-0.1147
+-4.4834	servis
+-4.0063	seseorang	-0.0994
+-4.4834	sesering
+-4.4834	sesi
+-4.1824	sesuai
+-3.8814	sesuatu
+-4.0063	set	-0.1632
+-4.1824	setahun
+-4.4834	setanah
+-4.4834	setara
+-3.7845	setau	-0.4738
+-3.4834	setelah
+-3.7845	setengah
+-4.4834	setengahnya
+-4.0063	seterusnya	-0.0994
+-3.8814	setiap
+-4.4834	setidaknya
+-3.5292	setuju	-0.0948
+-4.4834	seumuran
+-3.8814	sewa
+-4.4834	shit
+-4.1824	shock
+-4.4834	shooting
+-4.1824	shopee
+-2.8814	si	-0.2908
+-4.4834	sial
+-3.5292	siang	-0.1109
+-3.3695	siap	-0.1268
+-4.0063	siap-siap
+-2.9271	siapa	-0.2513
+-3.4834	sibuk	-0.0398
+-4.4834	sibuk-sibuknya
+-4.1824	sidang
+-4.4834	signature
+-4.4834	signifikan
+-1.9851	sih	-0.3130
+-4.4834	sikaping
+-4.4834	sil
+-3.8814	silahkan
+-4.4834	sim
+-4.1824	simpenin
+-4.4834	simulasi
+-4.4834	simulasinya
+-4.4834	sinematografi
+-3.8814	singa
+-4.4834	singapore
+-4.0063	singapur
+-4.0063	singkat	-0.5276
+-2.6911	sini	-0.1454
+-4.4834	sini-sini
+-4.4834	sinopsis
+-4.1824	sinyal
+-4.4834	sinyalnya
+-3.7053	sip	-0.2420
+-4.1824	siri
+-3.7053	sis	-0.2882
+-4.1824	sisa	-0.2758
+-3.7845	sisi	-0.0904
+-4.1824	siska
+-4.1824	sistem
+-4.4834	sistemnya
+-4.1824	sister
+-3.4421	situ	-0.1086
+-4.4834	situasi
+-4.4834	situs
+-4.4834	skenario
+-4.4834	skip
+-3.5804	sks	-0.1701
+-4.1824	skuy
+-4.4834	slide
+-3.4421	sma	-0.1125
+-4.0063	smanten
+-4.4834	smapsic
+-4.4834	smp
+-4.4834	sms
+-3.7053	snap	-0.0101
+-4.4834	snapnya
+-4.1824	snek
+-4.4834	so
+-3.0685	soal	-0.1446
+-2.7932	soalnya	-0.1810
+-3.7845	sok	-0.0904
+-4.4834	soleh
+-4.4834	songong
+-4.4834	sop
+-4.4834	sopnya
+-3.4043	sore	-0.1473
+-4.4834	sori
+-4.1824	sorry
+-3.8814	sosial	-0.1095
+-4.1824	sosok
+-4.4834	speakerin
+-4.4834	specificity
+-3.4421	speech	-0.0370
+-3.8814	speknya	-0.3211
+-4.4834	spesial
+-4.4834	spoiler
+-4.4834	standar
+-3.5292	stark	+0.0160
+-4.0063	startup
+-4.4834	statistik
+-4.1824	status	-0.2758
+-4.4834	steak
+-4.4834	stei
+-3.7845	steven	-0.0265
+-4.1824	sti
+-4.4834	stkip
+-4.4834	stoknya
+-4.4834	strange
+-4.4834	studi
+-4.4834	studinya
+-4.4834	suami
+-4.4834	suaminya
+-3.6383	suara
+-3.7845	suasana	-0.0904
+-4.4834	subbab
+-4.4834	subjektif
+-4.0063	subuh
+-4.1824	suci
+-2.7932	sudah	-0.0369
+-4.1824	sudahlah
+-3.7053	sudut	-0.3520
+-4.4834	sugar
+-2.9271	suka	-0.1518
+-4.1824	sukajadi
+-4.1824	sukanya
+-4.0063	sukses
+-4.4834	sukur
+-4.0063	sulit	-0.1633
+-4.4834	sumbar
+-4.1824	sumber	-0.2758
+-4.4834	sumbernya
+-4.4834	sumbi
+-4.1824	summer
+-3.6383	sumpah	-0.1545
+-4.1824	sup
+-4.0063	supaya
+-3.7845	super
+-4.4834	supirnya
+-4.0063	surabaya
+-3.8814	surat	-0.1164
+-4.4834	surhof
+-4.0063	suruh
+-4.4834	surveynya
+-3.1217	susah	-0.1062
+-4.1824	susanti
+-4.1824	susi	-0.2758
+-4.0063	sutradara
+-4.4834	sutradaranya
+-4.4834	syarat
+-4.4834	syukurlah
+-4.4834	t
+-3.5804	ta	-0.0511
+-4.4834	tab
+-2.8302	tadi	-0.0987
+-4.4834	tagihin
+-4.0063	tah	-0.0994
+-4.4834	tahap
+-3.2047	tahu	-0.0697
+-2.8814	tahun	-0.1288
+-4.1824	tahunku
+-4.1824	tahunmu
+-4.1824	tahunnya
+-4.4834	tahunya
+-4.1824	taichan
+-3.7845	tak	-0.2381
+-4.4834	taksi
+-3.1824	takut	-0.0195
+-4.1824	takutnya
+-4.4834	talang
+-4.4834	taman
+-3.5804	tambah
+-4.0063	tambahin
+-4.1824	tambal	-0.2757
+-4.1824	tamfest	-0.2119
+-4.4834	tampil
+-4.4834	tanah
+-3.8814	tanda	-0.5068
+-4.4834	tandanya
+-4.4834	tanding
+-3.5804	tangan
+-4.1824	tangga
+-3.4421	tanggal	-0.0794
+-4.0063	tanggung	-0.5278
+-4.4834	tangkis
+-4.4834	tangkuban
+-4.0063	tanpa
+-4.1824	tantangannya	-0.2119
+-3.6383	tanya
+-4.1824	tanyain
+-4.4834	tanyakan
+-2.2186	tapi	-0.0703
+-3.5292	tar	-0.0447
+-4.4834	target
+-4.4834	tarik
+-4.4834	tarung
+-4.4834	tarungnya
+-4.4834	tata
+-4.4834	tatanan
+-2.6142	tau	-0.0748
+-4.1824	taun
+-4.1824	tautan
+-4.4834	tayang
+-4.1824	tbd
+-4.4834	tebak
+-4.4834	tebakanmu
+-4.4834	tebel
+-4.1824	teh	-0.2758
+-4.1824	teken
+-4.4834	teknik
+-3.7053	teknologi	-0.0706
+-4.4834	teks
+-4.0063	telah	-0.1632
+-3.4834	telat	-0.0390
+-4.4834	telinga
+-4.4834	telkomsel
+-4.0063	telor
+-4.4834	telornya
+-4.4834	telpon
+-4.1824	tema
+-3.4834	teman	-0.0379
+-4.0063	teman-teman
+-4.4834	teman-temanku
+-4.4834	temani
+-4.1824	temanin
+-4.0063	temanya
+-4.4834	tembak
+-3.3695	temen	-0.1063
+-3.8814	temen-temen
+-4.4834	temen-temennya
+-4.1824	temenin
+-4.4834	temennya
+-2.8400	tempat	-0.2215
+-4.0063	tempat-tempat	-0.1565
+-3.5292	tempatnya
+-4.0063	tempe
+-3.8814	template
+-4.4834	tenaga
+-3.7845	tenang
+-4.1824	tendanya
+-3.4421	tengah	-0.3052
+-4.4834	tengil
+-3.8814	tensai	-0.0524
+-4.4834	tensainya
+-3.2282	tentang	-0.0966
+-3.6383	tentu	-0.7836
+-4.4834	tentukan
+-4.1824	tentunya
+-4.4834	teori
+-3.7053	tepat	-0.2381
+-3.3373	terakhir	-0.0070
+-3.8814	terasa	-0.1163
+-4.4834	terbaik
+-3.8814	terbaru
+-4.0063	terbarunya
+-4.4834	terbatas
+-4.4834	terbenam
+-4.1824	terbiasa	-0.2750
+-4.4834	terbuka
+-4.4834	tercapai
+-4.0063	terdekat	-0.1631
+-4.1824	terdistribusi	-0.2119
+-4.1824	terduga
+-4.4834	terenak
+-4.4834	tergantung
+-4.4834	terhadap
+-4.0063	terhingga
+-3.4421	terima	-1.0411
+-4.4834	terimakasih
+-4.4834	teringat
+-3.6383	terjadi	-0.0625
+-4.4834	terjatuh
+-4.4834	terkagum
+-4.4834	terkenal
+-4.1824	terkenalnya
+-4.4834	terkesan
+-4.4834	terkilir
+-4.4834	terkumpul
+-4.4834	terkurungnya
+-3.2047	terlalu	-0.0437
+-4.4834	terlanjur
+-4.1824	terlebih	-0.2758
+-4.4834	terlibat
+-3.6383	terlihat
+-4.1824	termacet
+-4.4834	termerdu
+-4.4834	terminat
+-3.4834	terminator	-0.0690
+-4.4834	termotivasi
+-3.0363	ternyata	+0.0179
+-4.4834	terombang-ambing
+-4.1824	teror
+-4.4834	teroris
+-4.4834	terperangkap
+-4.0063	terserah	-0.1594
+-4.4834	terserahlah
+-4.1824	tersinkronisasi
+-4.4834	tersisa
+-3.6383	tertarik
+-4.4834	tertata
+-4.0063	tertentu	-0.0994
+-2.4342	terus	-0.0109
+-3.7845	tes
+-4.4834	tesis
+-4.1824	testing	-0.2119
+-4.4834	tetangga
+-3.8814	tetap
+-4.1824	tetapi
+-3.8814	tetep
+-4.0063	text
+-4.4834	textbook
+-3.7845	thanos	-0.0265
+-4.0063	the	-0.1633
+-4.4834	thor
+-4.0063	tiap
+-4.4834	tiara
+-3.7845	tiba	-0.0904
+-4.4834	tiba-tiba
+-2.6911	tidak	-0.1297
+-3.0855	tidur	-0.2433
+-2.8207	tiga	-0.2777
+-4.4834	tigaan
+-3.7053	tiket	-0.0727
+-3.8814	tikus
+-4.1824	tim
+-3.6383	time
+-3.2530	tinggal	-0.0193
+-4.4834	tinggi
+-4.1824	tingkat
+-4.1824	tipe
+-3.7053	tirta	-0.1243
+-4.4834	tisu
+-4.0063	titik
+-4.4834	titip
+-4.4834	toffee
+-4.1824	toh
+-4.0063	toko
+-4.4834	tokoh
+-4.4834	tokonya
+-3.4834	tolong	-0.1029
+-4.4834	tomat
+-4.4834	tombolnya
+-3.6383	ton	+0.0013
+-4.4834	tonton
+-3.2047	tony	-0.3050
+-4.1824	top
+-4.0063	topik
+-4.1824	topiknya
+-4.0063	totalnya	-0.1600
+-4.4834	toyota
+-4.4834	tradisi
+-4.0063	trailer
+-4.4834	train
+-4.4834	trainingnya
+-3.5804	traktir	-0.1445
+-4.4834	transformasiin
+-4.4834	transformasinya
+-4.0063	transformer
+-4.4834	transkrip
+-4.0063	transportasi
+-4.0063	transportasinya	-0.4639
+-4.4834	travel
+-4.1824	traveloka
+-4.4834	trigger
+-4.4834	trigonometri
+-3.3695	trus
+-2.8400	tu	-0.0223
+-3.7845	tua
+-4.4834	tubes
+-4.4834	tubesnya
+-4.0063	tubuh	-0.1604
+-4.4834	tubuhnya
+-2.9783	tugas	-0.0409
+-3.7053	tugasnya
+-2.5914	tuh	-0.1442
+-4.4834	tujuannya
+-3.3373	tujuh	-0.1448
+-4.1824	tulang
+-4.4834	tulis
+-4.4834	tulisan-tulisan
+-4.1824	tulisnya
+-3.6383	tumben	-0.0608
+-4.4834	tunda
+-3.3074	tunggu	-0.1055
+-4.1824	tungguin
+-4.4834	tunggunya
+-4.4834	tunjukan
+-4.1824	tunjukin
+-3.7845	turnamen	-0.0265
+-3.7845	turun	-0.2838
+-4.4834	turut
+-4.4834	tutorial
+-4.4834	tutup
+-3.8814	tv
+-4.0063	uang	-0.1633
+-4.4834	uang-uangnya
+-4.0063	uangnya	-0.0994
+-4.4834	uas
+-4.4834	ucapan
+-4.4834	uda
+-2.0943	udah	-0.0776
+-4.4834	udahan
+-3.7053	udahlah	-0.3515
+-4.4834	udang
+-4.1824	udara	-0.2690
+-4.1824	udik
+-4.4834	uduk
+-4.1824	ugm
+-3.4043	ujian	-0.0519
+-4.4834	ujiannya
+-4.1824	ujung	-0.2754
+-4.4834	uks
+-4.4834	ulahnya
+-3.3074	ulang	-0.5606
+-4.0063	ulasan
+-4.4834	ulfa
+-4.4834	ulwan
+-4.1824	umum
+-4.4834	umumnya
+-4.1824	umur
+-4.4834	unand
+-4.4834	undang
+-4.4834	undangan
+-4.4834	undead
+-4.1824	undip
+-4.4834	unggun
+-4.4834	uniknya
+-3.6383	unit	-0.1305
+-4.0063	universitas
+-4.4834	unp
+-2.9152	untuk	-0.0105
+-4.4834	untuknya
+-4.1824	untung
+-3.8814	untungnya
+-4.4834	up
+-4.1824	update
+-4.1824	upload
+-4.1824	upnormal
+-4.4834	urang
+-4.4834	urpa
+-4.0063	urusan
+-4.4834	us
+-3.6383	usah
+-4.4834	usaha
+-3.8814	utama
+-4.4834	utamanya
+-4.4834	utang
+-4.4834	uts
+-4.4834	validnya
+-4.4834	van
+-4.4834	variasi
+-3.8814	velvet
+-3.8814	ven
+-4.4834	vi
+-4.4834	villa
+-3.8814	vin	-0.0524
+-4.4834	vintage
+-4.4834	visa
+-4.4834	visualisasi
+-4.1824	vocabnya
+-4.4834	voltage
+-4.4834	vormir
+-4.4834	vue
+-4.1824	wa
+-4.4834	waalaikumsalam
+-3.6383	waduh	-0.0919
+-4.4834	wagila
+-4.1824	wagyu
+-2.5804	wah	-0.0988
+-2.8113	waktu	-0.0571
+-3.7053	waktunya	-0.0101
+-3.5804	walaupun
+-3.3695	wan	-0.2567
+-3.5804	wanda	-0.1701
+-4.1824	wandanya	-0.2119
+-4.0063	wanita
+-4.4834	wanitanya
+-4.4834	warcraft
+-4.4834	warcraftnya
+-4.4834	warming
+-4.1824	warna	-0.2690
+-4.4834	warnanya
+-4.1824	warteg
+-4.0063	waw
+-4.1824	way
+-4.1824	web
+-4.4834	webmd
+-4.1824	webnya
+-4.1824	website
+-4.1824	weh
+-4.0063	well	-0.1633
+-4.4834	wew
+-4.4834	what
+-4.1824	wibu
+-4.1824	wifi
+-4.4834	wiki
+-4.4834	windows
+-4.4834	winternship
+-4.4834	wisata
+-4.4834	wisokto
+-3.5804	wisuda	-0.0489
+-4.4834	wisudaan
+-4.4834	wisudaannya
+-4.1824	wisudanya	-0.2119
+-4.1824	wisudawan
+-4.1824	wix	-0.2757
+-3.2793	woi	-0.2371
+-4.1824	world
+-4.0063	wortel	-0.1633
+-4.4834	wortelnya
+-4.4834	wow
+-4.4834	x
+-4.4834	y
+-1.8430	ya	-0.3372
+-4.4834	yaelah
+-2.7511	yah	-0.2207
+-4.4834	yaitu
+-4.4834	yak
+-3.8814	yakin
+-4.1824	yan
+-1.8058	yang	-0.1553
+-4.0063	yasudah
+-3.8814	yauda	-0.1131
+-3.0063	yaudah	-0.0439
+-4.4834	yaudalah
+-4.1824	ye
+-4.4834	yey
+-4.4834	yoga
+-4.1824	yok
+-3.4834	yon	-0.2054
+-4.4834	yonas
+-3.7053	yor	-0.0917
+-4.1824	you	-0.2758
+-4.1824	yu
+-4.4834	yuds
+-2.7053	yuk	-0.3515
+-4.4834	za
+-4.0063	zaman	-0.1620
+-4.4834	zi
+-4.4834	zombieland
+
+\2-grams:
+ ¿u±Ù   ¿"m   À9a  ? À„%  U À1eH  Z ¿ĞÈê  c À1eH   À1eH  Ê À1eH  ü À1eH  À1eH Q À1eH ´ À1eH Ğ À1eH à Àí€ õ À„% › ¿ëÆ( Û Àí€ Ü À1eH š ¿å9ş ¶ À1eH  À1eH  À1eH D À1eH E ¿Õ<  G À1eH [ À1eH  À„% ï ¿ÈÔt  Àí€  À1eH  ¿ı,· i À1eH — Àí€ › ¿å9ş ¡ ¿ß^œ ¢ À9a Ê À1eH  À9a ^ Àí€ ³ Àí€ · À1eH i À1eH q À1eH z À1eH Ÿ À1eH  À„% 	  À1eH 	~ À1eH 
+ À1eH  Àí€  À1eH + À„% 1 À1eH @ Àí€ ó À1eH ù À9a M À9a  ¿ı,·  À1eH ) À1eH L À1eH _ Àí€ f À"è × ¿ĞÈê Ş ¾§Ğf  * ¿ª†… *  Àid” *  ÀRìÌ *  Àid” *  Àid” * 7 Àid” * : ¿ú‡õ * ? À6•¨ * H Àid” * J Àj‡ * N Àid” * [ Àid” * ] ¿¿î= * c ÀKƒq * € Àid” * — Àˆ *  ÀKƒq * Ÿ ÀF8­ * ¡ ÀF8­ * ¢ Àid” * « Àid” * · ÀRìÌ * ¼ À-â` * Ê Àid” * Ì Àid” * Õ À%m * Ş Àid” * á À'®š * í ÀF8­ * ó ÀF8­ * ú ÀKƒq * ü ÀF8­ * ş ÀRìÌ *  Àid” * À"L * ÀF8­ *) ÀKƒq *M ÀRìÌ *\ ÀRìÌ *] À="4 *` À6Á *a À="4 *b ÀKƒq *e Àid” *h ÀRìÌ *o Àid” *x À="4 *{ ÀM *Ê ÀF8­ *Í À="4 *Ï À*œK *Ğ Àid” *Û ÀKƒq *İ À="4 *à ÀRìÌ *â Àid” *æ Àˆ *õ ÀKƒq * ÀKƒq * ÀKƒq * ÀF8­ * ÀRìÌ * Àid” * ÀRìÌ *( Àid” *) ÀRìÌ *8 Àid” *b À%m *l Àid” *ˆ À*œK *‰ À cÁ *Š À# *› À'®š *¦ ÀKƒq *© ÀRìÌ *« ÀRìÌ *° ÀRìÌ *¾ Àid” *¿ ÀKƒq *É À® *Û ÀQ/ *Ü ÀKƒq * À'®š *" ÀRìÌ * ÀRìÌ *¤ Àid” *¥ ÀKƒq *° Àid” *³ Àid” *¶ Àid” *º Àid” *¼ ¿İ- *Å Àid” *Ë Àîî *Í ÀKƒq *Î À6•¨ *Ò Àid” *Ô ÀKƒq *Ú ÀKƒq *Û Àid” *æ Àid” *ò À"L * Àid” * ÀY9 * ÀRìÌ *. Àid” *7 ÀRìÌ *B ÀX8 *D Àid” *E À*œK *G ¿ø*K *[ À6•¨ *] ÀRìÌ *e À"L *k Àid” *l ÀF8­ *m À%m *o Àid” *s Àid” *u Àîî *w ÀKƒq * Àid” *„ À-â` *… À="4 *‡ À*œK *‰ À="4 *’ À6•¨ *– Àid” *š Àid” * Àid” *Ÿ Ài† *© ÀÄY *ª ÀF8­ *µ Àid” *Ã ÀTq *Ê ÀRìÌ *Ï ¿şG¶ *ï Àid” *ş Àid” * Àid” * ¿ì±í * ¿¶¤æ * Àid” * ¿Ô›V * Àid” *! ÀF8­ *+ À6•¨ *2 À*œK *6 Àid” *K Àid” *X Àid” *k ÀRìÌ *€ Àid” *‡ ¿ùUç * À*œK *’ ¿á " *— ÀKƒq *› ¿×¿ *¡ À vÀ *¢ ÀKƒq *© Àid” *ª ÀY9 *² ÀRìÌ *´ ÀRìÌ *º À'®š *¿ À*œK *Â ÀF8­ *Ä À="4 *Æ À*œK *Ç ÀM *È À="4 *É À6•¨ *Ê ÀF8­ *Ó Àid” *Ö Àid” *õ Àid” *ı Àid” * À-â` * ÀM * Àid” * À'®š * ÀKƒq *) Àid” *. À="4 *Y ÀE *^ ÀRìÌ *a ÀM *g Àid” *u ÀKƒq * Àid” * ÀKƒq *§ À-â` *³ ÀKƒq *´ À cÁ *· Àid” *É ÀRìÌ *Ò ÀF8­ *á Àid” *õ ÀRìÌ *ú ÀRìÌ *ü Àid” *ş À6•¨ * À6•¨ * À"L * À^ * Àid” * ÀKƒq * ÀRìÌ *  ÀF8­ *! Àid” *" ÀRìÌ */ Àid” *6 ÀF8­ *8 ÀKƒq *: À="4 *= Àid” *> Àid” *E ÀF8­ *G ÀKƒq *V ÀRìÌ *\ Àid” *c ÀF8­ *i À*œK *j À"L *q À<" *„ À6•¨ *Ÿ ÀKƒq *  À="4 *Î ÀRìÌ *Ï ÀKƒq * Àid” * À*œK *( À-â` *0 À6•¨ *? Àid” *E Àid” *O Àid” *Q À6•¨ *R À*œK *p Àid” *} À6Á * ÀRìÌ *‡ Àid” *Œ ÀªÚ * Àid” *” ÀF8­ *Ã ÀKƒq *à ÀRìÌ *ç Ài† *è À'®š *õ À6•¨ *	 Àid” *	 À6•¨ *	 ÀKƒq *	= ¿ºS± *	D À6•¨ *	G ¿è,M *	I ÀF8­ *	J Àid” *	K À6•¨ *	^ Àid” *	` Àid” *	r Àid” *	y À%m *	z ÀRìÌ *	~ ÀRìÌ *	… À"L *	‡ Àid” *	¨ À%m *	° À="4 *	é Àid” *	í À="4 *
+  Àid” *
+ Àid” *
+ Àid” *
+ À6•¨ *
+  Àid” *
+! Àid” *
+@ Àid” *
+B ÀKƒq *
+X Àid” *
+j ÀKƒq *
+À Àid” *
+Ğ À6•¨ *
+İ ÀRìÌ *
+ğ Àid” *
+õ Àid” * ÀRìÌ *  ÀRìÌ *# À× *+ ÀRìÌ *, ÀRìÌ *1 ÀRìÌ *3 ÀRìÌ *: ÀRìÌ *@ À="4 *F Àid” *G ÀKƒq *` Àid” *a À6•¨ *b Àid” *l ÀÄY *… ÀRìÌ *Œ ÀF8­ *“ ÀRìÌ *¢ Àid” *£ ÀF8­ *­ ÀRìÌ *² ÀRìÌ *µ ÀKƒq *Ã À6•¨ *Å ÀRìÌ *Ë ÀRìÌ *Í ÀF8­ *Ô Àid” *Õ Àid” *á Àid” *å Àid” *î Àid” *ñ À-â` *ó ÀRìÌ * ÀKƒq * ÀRìÌ * Àid” * ÀÄY *& ÀRìÌ *' Àid” *9 Àid” *> Àid” *M Àid” *N Àid” *Q Àid” *T ÀKƒq *\ ÀKƒq *f À cÁ *p Àid” *} ¿Ñ¢$ *• À="4 *– ÀF8­ * Àid” *· Àid” *¹ Àid” *¾ ÀKƒq *À Àid” *Â ÀRìÌ *Ä ÀF8­ *Æ ÀRìÌ *Ê À6•¨ *Ë Àid” *Ï Àid” *Ğ À-â` *á ÀF8­ *÷ ¿ëÂ¿ * Àid” * Àid” * Àid” * À="4 * Àid” * Àid” * ÀKƒq * ÀKƒq *) Àid” *. À="4 *C ÀKƒq *L Àid” *S ÀKƒq *U ¿îœ³ *f ÀRìÌ *h ÀRìÌ *s ÀKƒq *š À6•¨ *§ ¿İ- *ª À="4 *« À6•¨ *­ ÀRìÌ *® ÀRìÌ *¹ Àid” *Ğ ¿ê×„ *× À] *Ù À
+¬ *Ş ÀRìÌ *ß Àid” *à Àj‡ *á Àid” *æ Ài† *í ¿9Ç™ 6  ¿©ô :  ¿©ô :ï ¿\cª : ¿©ô :8 ¿’¥ =  ¿²Æû ?  ¿¡Í ?  ¿ãIi ? = ¿ËV¯ ?  À$s  ? ª À$s  ? Ü ÀûÙ ? À$s  ?J ¿§ûô ?Û À$s  ?° À$s  ?ö À$s  ?[ À’~ ?Ã ÀûÙ ?2 ÀG¹ ?i À$s  ?¢ ¿Å{N ?õ À$s  ?' À$s  ?. ÀûÙ ?g ¿ãIi ?³ ÀûÙ ? À’~ ?: À’~ ?o À$s  ?„ À’~ ?	 À$s  ?	` À$s  ?	® À$s  ?
+  ¿ãIi ?
+‡ ÀûÙ ?
+ˆ À’~ ?
+Ù ÀûÙ ?@ À$s  ?ù À$s  ?‘ À’~ ?¹ ¿ãIi ?¾ À$s  ? À$s  ? À’~ ?J À$s  ?L À$s  ?Ä À$s  ?Ê À’~ ?× ¿y€ğ ?Ş ¿¤¸ @´ ¿¤¸ @, ¿NÒ CŞ ¿ J ¿A> JM ¾§Ğf K  ¾§Ğf M  ¿•aU N  ¿•aU N c ¿†Ÿ N ¿ÂPã N¡ ¿ÂPã Nj ÀÎ> U  ¿Úc U  ÀÎ> U ? ÀÎ> UÍ ¿•j§ U½ ÀÎ> UÛ À¯` U" ¿ùó UD À¯` UG À¯` U… À¯` U‰ À¯` U À	7™ U ÀÎ> U‘ ÀÎ> U— À¯` U¡ À	7™ U¢ ¿ÙÀé U^ À¯` Ug À¯` U· À¯` U( ¿ùó U À¯` U’ ÀÎ> U	 À	7™ U	 ¿±Ğ2 Uù À¯` UL À¯` Uf ¿±Ğ2 U× ¿ÈZZ UŞ ¿æÚ Uí ¾§Ğf X	Ù ¿à! Z c ¿à! Zª ¿¤^Á Zá ¿à! Z8 ¿à! Z’ ¿à! Z¢ ¿à! Z¤ ¿à! ZÔ ¿¤^Á Z
+ ¿³1v Z8 ¿¬ªn [? ¿¬ªn [	  ¿- [	½ ¿¬ªn [u ¿¬ªn [Š ¿Ê“« c  ¿áÓ c  Àå6 c ? À, c U ¿± c Z À, c y À™V c æ À™V c ğ À/û c ü À, c À/û c À/û c) À, c= À™V c@ À™V ca À, c¼ À™V cİ ¿áÓ cà À/û cõ À, cO À™V c‰ À™V c› À, cÌ À/û cÛ À, c€ À, cÚ Àå6 cÛ ¿Ô¶G c ¿Ê“« c Àå6 ce À™V c Àå6 c‡ ¿ÿ{ cÏ À™V cê ¿ò„b c À, c4 ¿´	‚ ci À™V c¢ À™V cÊ À, cG ¿ÿ{ c³ À™V cÅ À, cá ¿áÓ cü ¿ÿ{ c À, cH À, ck Àå6 cq ¿¾, c„ À™V c– À, cE À™V cÙ À, c	« À, c	° À™V c	é À, c
+– À, c
+Ô ¿Ú‘© c+ À™V cj À, cç ¿Âô cù ¿ò„b cM ¿ò„b cQ À, ct À/û c} À™V c’ À, c ¿ò„b c À, c À/û cU ¿ÿ{ cf À, c« À, c× ¿Ú‘© cŞ ¿NÒ j
+ ¿NÒ j
+" ¿ ø€ l  ¾§Ğf qê ¾§Ğf r9 ¾¿Ğõ tN ¿9Ç™ tQ ¾§Ğf x  ¿™ö yp ¿!B ~f ¿{!" ~¯ ¿•aU €  ¿ÂPã € € ¿ÂPã €Â ¿ÂPã €Û ¿ÂPã €e ¿ì Œ  ¿ˆ¸N Œ ¿ˆ¸N ’  ¿7‘~ ’¢ ¿J$, —  ¿’¥ —i ¿{!" ›  ¿{!" ›ï ¿#µc   ¿Š¥Æ  U ¿É ¦   À_? Í À_? [ À_?  À çw w ¿òü9 ¡ À çw Ç À_? g ¿±-ì ³ À_? p À_?  ¿òü9 	 À_? … ¿Ö9¿ ù À çw L ¿h7: × ¿Ó1 Ş ¿9Ç™   ¿™ö Ÿ  ¿™ö Ÿ— ¿<g® Ÿù ¾4_ï ¡¡ ¿ˆ¸N ¢ ¿ˆ¸N ¢	¨ ¾§Ğf £  ¿ ü„ ©Û ¾§Ğf ¸  ¿NÒ ¼Ú ¿Q  È ¾§Ğf Éi ¿ÛÄK Ê  ¿®Ô¼ Ê  ¿ÛÄK ÊÛ ¿ÛÄK ÊÚ ¿®Ô¼ ÊÛ ¿ÛÄK ÊR ¿®Ô¼ Êç ¿NÒ Ì  ¿NÒ Ì U ¿Q  Í Í ¿_0> Í™ ¿9Ç™ Ğ  ¾§Ğf Ù  ¿Z Ü: ¿QÑL Ş· ¿‚Pæ Ş8 ¾§Ğf á  ¿Ran æ ¿4¼ æ ¿– F æn ¾§Ğf ì ¿JR í  ¾í5Ó íÉ ¿– F ğØ ¿– F ğ8 ¾§Ğf ò„ ¾ù„¯ ó  ¿Ôq ó  ¿)£ ó ¿Ôq ó¦ ¿Ôq óù ¿Ôq ó× ¿Ôq óŞ ¿ ø€ õÛ ¿_0> ÷ö ¿C”’ øá ¿a9ı øë ¿Œ øC ¿,øÈ úà ¿ ¯U ü  ¿M´ ü c ¿œ j ü ¿Éø üi ¿Éø ü^ ¿Éø ü	 ¾2Å ı ¾í‰ ş  ¿nÎ ş ¿)° ] ¿§& ? ¿ ü„Û ¾§Ğfƒ ¿Q 
+  ¿<g®  ¿ZÊ ¾Ña³ ¿_0>  ¾ÏWjÁ ¿,~Á  ¾ÈL<  ¿Õb½½ À’Í À’ À’ï ¿Õb½	 ¿ÊÍ3+ ¿ˆl³ù ¿ä5rL ¿¸ C× À’Ş ¾±"  ¿z	³ ¾§Ğf ¿_0> Œ ¿Q  ¿_0>  ¾uš  ¿µøó  ¿–²ê ¿üPÂ  ¿üPÂÜ ¿üPÂr ¿üPÂ ¿À}i ¿üPÂ' ¿Ïa3	` ¿üPÂ
+‡ ¿üPÂD ¿üPÂJ ¿üPÂ× ¿T:Ş ¿¶[¥%  ¿‰l% U ¿‰l% ¿‰l%í ¿ ø€&  ¿Œ›)  ¿¸h.) U ¿Ç:ä)à ¿Ç:ä) ¿ô*s)Í ¿ô*s)G ¿ô*s)[ ¿ô*s)ê ¿ô*s) ¿ô*s)8 ¿ô*s)
+ ¿ô*s)… ¿Ç:ä)› ¿Ç:ä)× ¿ ø€+  ¾§Ğf0« ¿ ü„3 [ ¾2Å7{ ¿{!":	· ¿NÒ=
+ü ¿NÒ=‡ ¿ƒkó># ¿,øÈ>
+ ¿nÎ?	I ¿nÎ?	… ¿nÎ?ù ¿NÒ@½ ¿NÒ@× ¿9Ç™H  ¿ŒJ‘ ¿ŒJ% ¿ŒJ¾ ¿™öMG ¿™öM× ¿ ü„P  ¿¬ƒQ  ¿z	Q c ¿©ôQ} ¿ ø€R  ¿ƒkóT  ¿ƒkóT¦ ¿!BU  ¿{!"X  ¿§&[  ¿§&[	` ¿tU-[
+ê ¿Ïô\  ¿Ïô\" ¿“Q°\Û ¿¢$e\° ¿“Q°\: ¿“Q°\
+ü ¿Ïô\ ¿9Ç™]Õ ¿¶[¥`  ¿¶[¥` ? ¿u2Â`8 ¿¶[¥`
+ ¿¶[¥` ¿)'ğa  ¿„©·a ? ¿û®aà ¿û®a£ ¿û®ai ¿û®a8 ¿µVOa	 ¿Î¾a
+ ¿û®a® ¿Î¾aù ¿û®a ¿nRRb  ¿¤¸bb ¿P¬æbi ¿P¬æb× ¾2Åe  ¾§Ğffi ¿7#ïh  ¿‡''h ¿´¶hh ¿p¨ãhi ¿ ü„i ¿Rano  ¾Â	·o³ ¿Rano× ¿ ü„p  ¿ ü„qÛ ¿ƒkót½ ¿Hx  ¿ÛÄKx ¿®Ô¼x‘ ¿®Ô¼x¾ ¿ÛÄKx ¿•l}xù ¿ÛÄKx× ¿™ö{ ¿ ø€€% ¾2ÅˆÛ ¿,øÈ‰  ¿ƒkó‰ø ¾§Ğf‹í ¾§Ğf£ƒ ¿ ü„¦Ê ¾¿Ğõ©  ¾ušªÊ ¿ ü„¯  ¾§Ğf°  ¿nÎ´  ¿nÎ´ ¿nÎ´i ¿nÎ´à ¿S]¼Ë ¿ƒkó¼¡ ¿Q Ç  ¿ÂPãÊ  ¿•aUÊ ? ¿†ŸÊà ¿ÂPãÊ ¿ÂPãÊ[ ¿ÂPãÊ2 ¿•aUÊÿ ¾§ĞfÌ2 ¿©ôÍK ¿¬ªnÏ  ¿u¿Ï U ¿aĞSÏ· ¿Ÿ7:Ğ ? ¿Ì&ÉĞ— ¿Ì&ÉĞ¢ ¿d„ĞD ¿ÂPãÙ¡ ¿ÂPãÙ
+Ù ¿©ôÚ  ¿z	Ú  ¿ZÛ  ¿™öÛ[ ¿™öÛ+ ¿[}Ïİ  ¿p¨ãİG ¿‡''İ¢ ¿´¶İ„ ¿‡''İ	 ¿•…à  À«à ? À«àÙ ¿â{à  À«àÛ À«àL À«à| À«à° À«à ¿Å¸—à À«à2 ¿ñMÇà¢ À«à À«à^ À«à4 À«à8 À«à¾ À«à¿ À«àÓ À«à: À«à{ À«à¼ À«à
+ À«àF À«àÃ ¿â{àù ¿ñMÇà× ¿ ü„â^ ¾ušè  ¾§Ğfì› ¾2Åî  ¿JÚ/õ  ¿Òs¤õ U ¿ÿc3õ c ¿ÿc3õ Ş ¿ˆ^Ìõõ ¿Ã îõ½ ¿ÿc3õ ¿Òs¤õi ¿ÿc3õ¡ ¿Òs¤õ· ¿ÿc3õ„ ¿™Å[õE ¿ÿc3õ ¿Òs¤õ	 ¿™Å[õù ¿¹dõL ¿Òs¤õí ¿!Bø¶ ¿!Bø¾ ¾¿Ğõ  ¿,øÈ  ¿ƒkó½ ¿ëy~  ¿¾‰ï c ¿ëy~ Ü ¿¾‰ï\ ¿ëy~¡ ¿¾‰ï^ ¿ëy~… ¿ëy~Î ¾è[g	  ¿§&  ¿tU-  ¿§& U ¿ ø€
+F ¿Çss  ¿ÇssÛ ¿Çss[ ¿ ü„ Z ¿—%% c ¿Wë ¿Ä´Û ¿Ä´n ¿ˆRoŞ ¾ÏWj  ¿_0>k ¿7‘~Ş ¿ˆ¸N ¿ˆ¸N£ ¿7‘~
+® ¾è[g^ ¾uš%  ¾§Ğf) ¿ ü„.  ¾§Ğf2½ ¾§Ğf6  ¿_0>8 ¿NÒB ¿{!"I  ¿{!"IX ¿!BK  ¿™öN( ¿™öNÊ ¿<g®NŞ ¿#˜–Q  ¿ ü„W U ¿9Ç™X¦ ¿NÒi@ ¿Ì&Él  ¿Ÿ7:l U ¿Ì&Él W ¿Ì&Él½ ¿Ì&Élõ ¿Ì&Él ¿Ì&ÉlŞ ¿ƒkóp„ ¾§Ğfs	f ¾è[gt  ¾ÏWj~  ¾2Å…
+I ¿ ü„†  ¿Œˆ  ¿a9ıˆA ¿ÑÛ¦‰  ¿ÑÛ¦‰ c ¿–b‰° ¿ÑÛ¦‰@ ¿†ŸŠ ? ¿ÂPãŠÛ ¿ÂPãŠ[ ¿ÂPãŠ§ ¾í‰  ¾š ›—  ¾§Ğf˜  ¿z	™¸ ¿©ô™ö ¿©ô™Œ ¿G8–™œ À›  À›  À› c À›I À›Ò ¿“2Ò› ¿“2Ò›i ¿Îtõ›® ¿İGª› À›# À›º ¿İGª›ä À›ü À› ¾§Ğfœ  ¿’¥ × ¿’¥ ¾ ¿¤¸£  ¿¥“¦  À˜s¦ À˜s¦ù À˜s¦ À˜s¦¤ ¿ŞAV¦ö ¿ŞAV¦˜ À˜s¦^ À˜s¦ ¿ŞAV¦ ¿ÄÙ¦V À˜s¦	` ¿ŞAV¦	y À˜s¦	~ À˜s¦ ¿Ïn¡¦7 ¿ÄÙ¦ À˜s¦² ¾­‘©¡ ¿‡''«  ¿p¨ã«B ¿´¶« ¿‡''« ¿Ran­  ¿– F­Ê ¿Œ°  ¾š ›°Ê ¾%Ïİ´> ¿_0>º ¾±½  Àû½ c ¿íŒ½õ Àû½{ ¿Ş3×½D ¿íŒ½[ Àû½ ¿íŒ½Ê ¿íŒ½i ¿Ş3×½ Àû½F Àû½Ş ¿¾É ¿NÒ¿g ¿{!"Â  ¿!BÂ[ ¿èÙ
+É  ¿»é{É ü ¿èÙ
+É ¿èÙ
+É€ ¿èÙ
+É1 ¿èÙ
+É ¿»é{É¡ ¿èÙ
+ÉÒ ¿èÙ
+Éµ ¿èÙ
+ÉÁ ¿èÙ
+É± ¿ ø€Ë  ¿9Ç™Ì¦ ¿nÎÍù ¿WëÑ  ¿Ä´Ñ  ¿Ä´Ñõ ¾§ĞfÔ  ¿9Ç™ÕŞ ¿¯ğ?Û  ÀFŸÛ [ À&¾fÛ { À&¾fÛ  À&¾fÛ Ó À&¾fÛ Ô À&¾fÛ ğ À&¾fÛ
+ ÀİDÛ ÀİDÛ; À&¾fÛU À&¾fÛÕ À&¾fÛB À’Û’ À’Û™ À&¾fÛ¿ ¿ÊÚÛÑ À&¾fÛÔ ¿çŞõÛ¸ À&¾fÛÌ ÀİDÛö À&¾fÛ! À’ÛZ À&¾fÛ[ À&¾fÛ… À&¾fÛ À’Û* ÀİDÛ+ À&¾fÛp À&¾fÛ˜ ¿»{'Û ¿çŞõÛ  ÀFŸÛõ ¿çŞõÛ À&¾fÛÉ ÀFŸÛÒ À&¾fÛ À&¾fÛ ¿©dÛV À&¾fÛj À&¾fÛ~ À&¾fÛT À&¾fÛ	 À&¾fÛ
+ ÀFŸÛ
+F ¿ôøÛ
+ã ¿ÄÄÛ À&¾fÛ ÀFŸÛ ¿¬‘€Û7 À&¾fÛZ ÀİDÛŒ À&¾fÛ ¿™fÛ ¿ÖxeÛ ÀFŸÛ¾ ÀFŸÛÆ À&¾fÛ5 À&¾fÛN À&¾fÛp À	ØvÜ  ¿¯FÜ  À	ØvÜ ? À	ØvÜ À	ØvÜİ ¿æÁ\Üà À	ØvÜ‰ ¿æÁ\Ü ¿×î§Ü ¿ÍYÜi À	ØvÜ¢ ¿ÍYÜ³ À	ØvÜÅ À	ØvÜ ¿ÍYÜq ¿×î§ÜÙ À	ØvÜ
+ ¿×î§Ü
+– À	ØvÜ
+› ¿æÁ\Ü  À	ØvÜ¶ À	ØvÜ ¿×î§ÜD À	ØvÜf À	ØvÜŞ ¾§Ğfâ+ ¾§Ğfå U ¿ ü„ïì ¿9Ç™ùq ¿ì  ¿9Ç™  ¾§Ğf
+î ¾§Ğf  ¾§Ğf  ¿ ü„  ¾§ĞfÉ ¿ ü„  ¿4¼"  ¿– F"„ ¿ƒkó# ¿ ø€*  ¿- ¿A>-³ ¾§Ğf6™ ¿ ø€;¦ ¿(K_=  ¿¬ªn=Í ¿¬ªn=ù ¾¥CE  ¿_0>Ei ¾§ĞfL„ ¿ ü„[  ¿S]f  ¿ƒkóf¢ ¿ ø€{  ¾§Ğf|  ¾§Ğf€„ ¾§Ğfƒ  ¾§Ğf— ¾c,Pš  ¿ ø€   ¾=|º¢  ¿ÛÄK¢ c ¿®Ô¼¢Ğ ¿5&ı¤  ¿ ëM¤ ¿5&ı¤	Î ¿{!"¥ó ¾ÏWj§u ¿ ø€« ¿Î°  Àµù° M ¿Ç©®°[ Àµù°Æ Àµù°t Àµù°… Àµù°2 Àµù°‘ ¿ªç4°? Àµù°	` ¿ªz°
+” Àµù°
+ê ¿Ö|d°1 ¿Ö|d°u ¿NÒ±  ¿nÎ² U ¾í‰²Û ¾§Ğf³D ¿AÚ¶  ¿¦Dš¶ U ¿ÑÙÊ¶) ¿şÉY¶G ¿Ã¶¢ ¿şÉY¶ ¿şÉY¶f ¿‡Äò¶× ¿{!"·  ¿P¬æ¸‘ ¿nRR¸	. ¿¤¸¸
+¥ ¿ìº  ¿ˆ¸Nº ¿Q ¼  ¾§Ğf½© ¾2ÅÁ! ¿Ïa3Å  ¿À}Å c ¿üPÂÅ ¿üPÂÅ	 ¿üPÂÅD ¿üPÂÅï ¿£ÌÅ ¿üPÂÅ’ ¿Ïa3Å¡ ¿üPÂÅ ¿üPÂÅ ¿üPÂÅõ ¿–²êÅ• ¿9Ç™Ë  ¿9Ç™Ì  ¿9Ç™Ì U ¿’Í  ¿êœÛÍ ? ¿êœÛÍx ¿êœÛÍÛ ¿®Ú–Í ¿êœÛÍ‡ ¿½­LÍ ¿®Ú–Í ¿êœÛÍ„ ¿S]Î  ¿ƒkóÎ ¿¶[¥Ğ[ ¿;­ÎĞ
+” ¿u2ÂĞ
+ê ¿¶[¥Ğ ¿%PÒ  ¿ómõÒ U ¿ómõÒ  ¿šé6Ò ¿ómõÒ› ¿·«°ÒÛ ¿ómõÒ ¿ĞÒi ¿ómõÒ¢ ¿ómõÒ ¿ómõÒ	 ¿ómõÒù ¿ómõÒ• ¿Æ~fÒ× ¿_0>Ö	 ¿2ï³Ú  ¿Ğ|@Úà ¿Ğ|@Ú# ¿Ğ|@Ú ¿ Û  ¿šƒäÛà ¿ÇssÛ	 ¿ÇssÛ# ¿ÀÿãŠ ¿ˆ¸Nã‹ ¿ˆ¸Nã	§ ¿ ü„é  ¾2Åğ¡ ¿ ø€ó  ¿ÛÄKö  ¿ÛÄKö ó ¿ÛÄKöÉ ¿ÛÄKö× ¿ ö° ¿œ`öï ¿lLçöŞ ¿{!"ø  ¾2Åû  ¿ ü„ş	 ¾¿Ğõ ¿.©  ¿…Á| ? À€ø  À€øt ¿½ıŠà À€øõ À€ø¦ À	1Û À	1Ò À€ø( À€øG ¿ù?¬ À	1õ À€ø À	1o À€ø„ À€øp À€ø° À€øâ ¿ù?¬
+ À	1
+› ¿§sa# À€ø3 À	1¹ ¿§saù À€øQ À	1 À€øÜ ¿±•ıí À€ø À	1× ¿9Ç™õ ¿›(÷  ¿›(÷ ? ÀJu N ÀJu Z ÀJu ÀJuQ ¿âÒ¥v ¿ˆt¤à ¿ñ¥[î ÀJu  ¿ñ¥[½ ÀJuÒ ¿âÒ¥ ÀJuû ¿§ƒ„ ÀJuÛ ¿¸÷â ÀJu	… ¿¸÷	œ ÀJu ÀJu# ÀJug ¿ñ¥[¹ ¿‘Zù ¿¡X ¿ñ¥[ ¿{!"!  ¿{!"!	\ ¿ˆ¸N&  ¾è[g*g ¿NÒ.  ¾¿Ğõ1› ¿nÎ3  ¿NÒ7  ¾Â²bA  ¿NÒBù ÀÍD  ¾ò(‚D  ÀÍD; ÀÍDw ÀÍD| ¿­ZD ¿É×ÔD— ¿É×ÔD³ ÀÍDG ¿ˆ	ˆD	 ¿ØªŠDù ¿ØªŠDL ¿•²D× ¿E9E  ¿fü`E U ¿¯@uE¢ ¾§ĞfF  ¾×£“G  À[G U ¿í¾èG½ À[GÛ À[G ¿øTqGG À[G‡ À[Gï À[G ¿„ÖAG¢ À[G À[G^ ¿øTqG· À[G À[G À““Gi À[G	I À[G
+, À““G+ ¿½OGù À[GD ¿Û‘÷G× À[GÙ À[GŞ ¿9Ç™H U ¿NÒZ  ¿NÒZõ ¿£0Ğ[  ¿Ë!ˆ[ ? ¿êg‘[ U À_°[ W À_°[ y À_°[) Àçè[` Àçè[l À_°[‰ À_°[Û ¿³.Î[ À_°[. Àçè[Ï Àçè[ ¿l8ÿ[i À_°[ ¿ôı[X À_°[§ À_°[Å Àçè[ À_°[8 Àçè[q À_°[„ À_°[	é Àçè[
+ Àçè[
+, À_°[@ À_°[a Àçè[Ó ¿­Sm[ù À_°[Q ¿êg‘[ ¿³.Î[f ¿ôı[Ş ¿Ê Ş] ? ¿ ›] ¿Ê Ş] ¿±P]i ¿Ê Ş]} ¿ ø€`ğ ¿pˆ eï ¿¾›Îe ¿¾›Îe8 ¿‘¬@e
+ ½ÆxÁl  ¿ƒkól ¾Â²bm  ¿)°rŞ ¿ ø€t  ¿g÷{w  ¿ ø€yb ¾§Ğf~ÿ ¿ ëM ? ¿g÷{ì ¿ ëM ¿ ëM ¿9Ç™€[ ¿9Ç™€ ¿{!"„ ¿·<æ…  ¾"…ï ¿}:…m ¿ä,u…³ ¿ä,u… ¿ªTö‡ ? ¿æ:‡J ¿æ:‡Ê ¿z	‰  ¿G8–‰à ¿©ô‰? ¿9Ç™Œ  ¿9Ç™ŒŞ ¾Îÿ’  ¿_0>–
+  ¿NÒœÛ ¾2ÅŸ  ¿™ö©  ¿™ö©— ¿™ö©	D ¾§Ğf«× ¿9Ç™­ @ ¿9Ç™­ ¿9Ç™°  ¿9Ç™² U ¿!B¶  ¿{!"¶³ ¿NÒº  ¿œ™¿¼ ¿’¥Ã ó ¿’¥Ã³ ¿ŒÊg ¿a9ıÊè ¿ßòÏ  ¿ßòÏ U ¿ßòÏ¢ ¿ßòÏ ¿ßòÏi ¿˜º$Ï¡ ¿ßòÏõ ¿ßòÏ ¿ßòÏ· ¿rè5Ï ¿£O®Ï ¾ušØŒ ¾ušİ  ¿9Ç™Ş  ¿ˆ¸Ná  ¿ˆ¸Náa ¾§ĞfãŞ ¾§Ğfç  ¿A>êÚ ¿ê2 ¿nÎì£ Àç<ï  ¿/<¢ï  ¿ÂÊï ? Àouï @ Àç<ï U Àç<ï Z ¿áIºï c Àç<ï € Àç<ï  Àç<ï  ¿ş4ï) Àç<ïà Àç<ï Àç<ïÛ Àç<ïÜ Àç<ïö Àç<ï ¿ş4ïi Àç<ï— ¿ş4ï¡ ¿óvªï¢ ¿ş4ï^ Àouïg ¿óvªï³ Àç<ïq ¿óvªï„ Àç<ïè Àç<ï	 Àç<ï8 Àç<ïĞ ¿óvªïf ¿ş4ïŞ ¾§Ğfú r ¿Àÿş  ¿ ø€ÿ  ¿ ü„¡ ¿½O  ¿E^w  ¿å ? À%Po @ À%Po U ¿Ç4ì c ÀoM  À%Po ó À%Po) À%Po© À%Po À%Po ¿Ç4ìÛ À%PoÀ ÀoM ÀØ¨[ À%Po À%Po6 ¿Óœxi À%Po ¿´€™¢ ÀoM² À%PoÇ À%Po^ ÀØ¨³ ¿Óœx ÀØ¨ ÀØ¨ ÀØ¨q À%Po„ À%Po“ À%Pop À%Pox À%Po	‡ À$ˆ
+  À%Po
+– À%Po À%Po À%Po+ À%Po` À%Pol À%PoŒ À%Po¾ À%Poî À%Poù À%Po• À%Po À%PoD À%PoL À$ˆf ¿Óœx× ÀoMŞ ¿üY£  ¿zò  Àô ? ¿¯c™ c ¿¦Bh Àôõ ÀôÜ Àô¢ ÀôÍ Àô ¿üY£[ ¿ñÄï ¿ñÄ À–, À–, À–,i Àô À–,— Àô› ¿üY£¡ ¿üY£¢ À–, À–,^ À–,· Àô ÀôG ¿Ò~i Àô„ ¿üY£ ¿‹qy	 Àôç ¿ªXù ¿ñÄ• ¿Á€× ¿ñÄŞ ¾§Ğfï Àßm  ¿ ¬Å  ÀW5 ? ÀW5 c Àßm  ÀW5a ÀW5Û ÀW5Ü ¿Ú)«° ÀW5Ë ÀW5Ò Àßm ÀßmE ÀW5G ÀW5[ Àßm‡ ÀW5Ï Àßmï ¿ìVœ ÀW56 ¿öì% ÀW5› ÀW5¢ ÀW5Æ ¿öì%Ç ÀW5Ê ¿öì%^ ÀßmÎ ÀW5á ÀW5 ÀW5„ ¿öì%R Àßmè Àßm	é ÀW5
+. ÀW5
+¼ Àßm@ ÀW5f ¿öì%× ÀßmŞ ¿S­*  ¿1ûí+  ¿¾›Î+- ¿¾›Î+ï ¿‘¬@+Œ ¿‘¬@+Ê ¿¾›Î+ş ¿{!",  ¿{!",Ê ¿{!",× ¿¸h.2  ¿-;Ë2x ¿Œ›2° ¿ô*s2Ğ ¿­Ò¥2³ ¿Ç:ä2@ ¿ô*s2[ ¿­Ò¥2¦ ¿Ç:ä2Ë ¿ô*s2 ¿¸h.2 ¿­Ò¥2N ¾2Å3E ¿‘¬@6P ¿‚ÙŠ6 ¾í‰9  ¾§Ğf:Œ ¿)°; ? ¿nÎ; ¿§&Ai ¿§&A× ¿ ü„B  ¿ ü„C› ¿9Ç™D  ¿9Ç™K	 ¾§ĞfN  ¾í‰W  ¿nÎW c ¿9Ç™X¡ ¾2Å[
+2 ¿Àÿ`  ¿ˆ¸N` ¿9Ç™c ¿,øÈd: ¾ôP’d
+ü À±ˆi  ¿Zx‘i  ¿µ÷i ? À9Ái` ¿»Ò€ia À±ˆiİ ¿àŞRià À9Ái½ À9ÁiÛ À9ÁiÚ ¿ÓÅ9i ¿óCi À±ˆiG ¿óCi[ À±ˆi ¿ÓÅ9i¢ À±ˆi( À±ˆi§ À±ˆi· À9Ái À±ˆi\ ¿ı Ìi„ ¿óCi	 À±ˆi
+ À±ˆi+ ¿ı ÌiE ¿§aliù À±ˆi• À9Ái À9ÁiL ¿àŞRif ¿«Ô‚i× ¿óCiÙ ¿!Bk  ¿{!"k ¿S]m  ¿9Ç™o ¿9Ç™o³ ¿NÒp  ¾í‰w  ¿ ü„|  ¿ˆ¸N€[ ¿ˆ¸N€€ ¿ ü„‚Ş ¿ ø€…  ¿9Ç™ˆ ¿Š  ¿#˜–ŠÛ ¿Š¡ ¿ŠM ¿NÒŒ  ¿NÒŒ	  ¿ÓM  Àû ? ¿ÓM c ¿ÓMQ ¿íŒ ¿Áq]Û Àûù ¿íŒÛ ¿´XD ¿íŒ ¿Ş3×G Àûï ¿Áq]¡ ¿¢ñµ^ ¿íŒ³ ¿ÓM Àûq ¿ÓM„ ¿Ş3×L Àû	¥ Àû
+´ Àû ¿íŒ„ ÀûŞ ¿Ê Ş‘  ¿i×‘  ¿Ê Ş‘ï ¿Şš‘× ¿“Q°’  ¿“Q°’‰ ¿¢$e’ ¿¢$e’„ ¿Ïô’f ¿Ïô’„ ÀlÆ— ? ¿·;³— c ÀlÆ—Q ÀlÆ—t ÀlÆ— ¿áG—¦ ¿ïéü—Û ÀlÆ—Ú ¿‚ãp— ¿†¹F—G ¿Ö½—[ ÀlÆ— ¿ïéü—¡ ¿ïéü—^ ¿ïéü—³ ¿ïéü— ÀlÆ—: ¿Ö½—„ ÀlÆ—R ¿ïéü—ç ÀlÆ—	… ÀlÆ—
+N ÀlÆ—+ ÀlÆ—F ¿ïéü—% ¿ïéü—f ¿ïéü—Ş ¿,øÈ˜  ¿¬ªn›  ¿¬ªn› Z ¿¬ªn›) ¿4¼  ¿– F Z ¿4¼Š ¿– Fq ¿– F• ¾§ĞfŸ ¿-   ¿aĞS  c Àk¾¡  ¿–¾Å¡  ¿ÿ8¡ ? Àó÷¡ U Àó÷¡ Z Àk¾¡ y Àó÷¡  Àó÷¡ Àk¾¡\ ¿·kŠ¡à Àk¾¡l Àk¾¡Í ¿ô®¡Û Àk¾¡¢ Àk¾¡Ò Àk¾¡ Àk¾¡ Àk¾¡ ¿Õ9¥¡D ¿ÿ8¡e Àó÷¡Ï Àó÷¡ Àó÷¡i Àk¾¡¢ Àk¾¡© Àó÷¡Ê Àk¾¡ Àk¾¡- Àk¾¡1 Àó÷¡œ Àó÷¡³ Àk¾¡8 Àó÷¡q ¿ áa¡„ Àk¾¡ß Àk¾¡ Àk¾¡ Àk¾¡Ã ¿Õ9¥¡
+› Àó÷¡ Àk¾¡# Àk¾¡j Àk¾¡¶ Àk¾¡ó ¿ÿ8¡M ¿ÃÓ¡Q ¿ô®¡ Àk¾¡  Àk¾¡ Àk¾¡ ¿·kŠ¡f ¿ÿ8¡Ş À¢‰¢  ¿Hb¢  ¿ê‚˜¢ ? ¿ü¯ˆ¢ c À!ƒ«¢  À!ƒ«¢ À!ƒ«¢` À!ƒ«¢Ï ¿İi¢Ğ Àä¢à Àä¢‰ À!ƒ«¢¦ À!ƒ«¢Û Àä¢Ü À!ƒ«¢Ú À¢‰¢ Àä¢ À¢‰¢[ À!ƒ«¢… À!ƒ«¢‡ Àä¢ À!ƒ«¢ À¢‰¢i ¿İi¢ À!ƒ«¢¡ À!ƒ«¢² À!ƒ«¢Â Àä¢Ç À!ƒ«¢ ¿ê‚˜¢^ À!ƒ«¢³ ¿ü¯ˆ¢ À!ƒ«¢) À!ƒ«¢; À!ƒ«¢„ Àä¢R Àä¢
+› Àä¢+ À!ƒ«¢M À¢‰¢f À!ƒ«¢« ¿İi¢× ¿ü¯ˆ¢Ş ¿9Ç™¥  ¿ ø€§  ¿[}Ï©  ¿‡''©ù ¾”/J¬ { ¿{!"¬h ¾è[g­D ¾%Ïİ®Ş ¿)°°  ¿­Å²  ¿»é{²  ¿­Å²Ü ¿ƒ;2² ¿èÙ
+²å ¿èÙ
+²² ¿ ü„¸  ¿¯@uº c ¿‚Pæºt ¿QÑLº× ¿Œ¿! ¿Œ¿	‚ ¿a9ı¿ó ¿‹±/Â  ¿ÇssÂÜ ¿ÇssÂÒ ¿ÇssÂR ¿‹±/Â  ¿¥Âù ¿ ëMÄà ¿ ëMÄ¼ ¿ ëMÄM ¿–bÆG ¿ÑÛ¦Æf ¿ğaüÇ  ¿´Ÿ·Ç ? ¿ŠÄ$Ç  ¿ª
+-Ç¦ ¿ğaüÇÛ ¿ğaüÇE ¿—İ=ÇG ¿ğaüÇ ¿ğaüÇÇ ¿ğaüÇ@ ¿ğaüÇŸ ¿{yËÈ  ¿Ä´È c ¿Ä´ÈÜ ¿—%%È… ¿Ä´È× ¿©ôÉÒ ¿z	É ¿´ÙDÊ  ÀîÕÊ
+ ÀîÕÊx ÀîÕÊß ¿şîÊÑ ¿å…ÜÊ* ¿´ÙDÊ  ¿şîÊ¥ ¿ğfÊõ ¿şîÊ ¿şîÊ ¿å…ÜÊO ¿ÓXìÊV ¿şîÊj ÀîÕÊD ÀîÕÊ	‹ ÀîÕÊ
+ ¿şîÊ
+ ÀîÕÊ
+F ¿şîÊ
+’ ÀîÕÊ
+— ÀîÕÊ
+ã ¿şîÊ  ¿OÊ ¿ğfÊ ¿å…ÜÊ ¿å…ÜÊ7 ÀîÕÊ¬ ¿QÊ ÀîÕÊa ÀîÕÊu ¿å…ÜÊ¾ ¾Ô'CÛ  ¿ ü„ã	  ¿ƒkóé! ¿ƒkóéL ¿{!"ó  ¿Aõ  ¿ä,uõa ¿ä,uõ° ¿ä,uõ¶ ¿ä,uõ ¿ä,uõ ¿·<æõ¢ ¿ä,uõ	 ¿ä,uõ	è ¿ä,uõË ¾í‰ö› ¿ ø€ù ¿9Ç™û  ¿nRRı  ¿¤¸ı‡ ¿’¥ÿ  ¿J$,ÿ¦ ¿– F  ¿Ran Z ¿– FÇ ¿– F¡ ¿ ü„? ¾¼gt  ¿¼¨l U ¿¼¨lÍ ¿¼¨lú ¿¼¨l	 ¿¸Ş× ¿.)  ¿¸Ş c ¿€æ(ù ¿­¯N  ¿‚ c ¿­¯N) ¿ÚİÛ ¿­¯N[ ¿Ü˜ï ¿Úİ¡ ¿Úİ¢ ¿Úİÿ ¾í‰  ¿nÎ’ ¿,øÈÁ ¿S]a ¾§Ğf  ¿:o  ¿­¯N ¿Úİ‡ ¿ÚİF ¿j
+ù ¾§Ğf$² ¿ ø€'› ¿ ø€'g ¾§Ğf(  ¿5&ı)  ¿g÷{) ¿™ö-  ¿Z-Û ¿'<š-ı ¿nÎ.Š ¿{!"1 ğ ¿!B1% ¿g÷{7  ¿ ëM7¶ ¿!{œD  ¿¶[¥D¤ ¿u2ÂD³ ¿¶[¥D+ ¿‰lD  ¾§ĞfI¡ ¾%ÏİO¦ ¿ ü„P c ¾§ĞfU  ¿™öXK ¿ZXX ¿7‘~Y  ¾§Ğf]  ¿ı’%^  ¿œó$^  À@Ú^ Z À@Ú^= ¿ı’%^à À@Ú^“ À@Ú^Û ¿ı’%^ ¿î¿o^ ¿³}M^‡ À@Ú^ ¿ı’%^ ¿ÄãÜ^i À@Ú^º ¿§Á^Ê À@Ú^1 ¿ı’%^2 À@Ú^D À@Ú^^ ¿ı’%^Å À@Ú^ü À@Ú^4 ¿î¿o^8 À@Ú^S À@Ú^q À@Ú^t ¿³}M^„ À@Ú^
+ À@Ú^{ À@Ú^M ¿î¿o^U ¿ÄãÜ^f ¿ı’%^Ş ¿_0>a  ¿Hg  ¿ï˜g ? ¿³ÕÛg c ¿ï˜gà ¿ï˜g ¿ï˜g^ ¿Â¨gH ¿ï˜gi ¿ï˜g	‡ ¿ï˜gF ¾§ĞfqG ¿ ü„s  ¿©ô  ¿\cª c ¿z	[ ¿G8–¡ ¿NÒ‚  ¿nÎƒ  ¿nÎƒÉ ¿nÎƒò ¿NÒ‡ ? ¿9Ç™Š  ¾§Ğf‹  ¿{!"  ¿ ø€‘ ¿ ø€—  ¿G8–œÛ ¿©ôœĞ ¾§ĞfG ¾§Ğf¥_ ¿º¢à§Ò ¿³Q§á ¿³Q§	€ ¿³Q§ ¾§Ğf±ş ¿°‹³  ¿°hº³ ? Àü¥³ c À „Ş³ Àü¥³— Àü¥³½ Àü¥³É ¿ò7³Û Àü¥³§ À „Ş³¶ Àü¥³2 Àü¥³¢ À „Ş³Ê Àü¥³ù Àü¥³ Àü¥³„ À „Ş³Ã ¿ç¡}³	 ¿ÕtŒ³	é Àü¥³
+A ¿ç¡}³ô Àü¥³ù ¿ÕtŒ³× ¿9Ç™´¢ ¿NÒµv ¾Ã+·  ¿¶™Á·¢ ¿üñ·^ ¿Á/K·× ¿Ğ ·Ù ¿S˜J¹  ¿†Ÿ¹i ¿•aU¹Ş ¾4_ïº  ¾2Å¼  ¾¸Ê½  ¿§&½i ¿*
+¾  ¿º¢à¾ ¿º¢à¾Û ¿ ü„Á  ¾§ĞfÂ  ¾§ĞfÃ U ¿ÅÊÅ  ¿˜ÛÅ  ¿ÅÊÅ U ¿ÅÊÅ7 ¿˜ÛÅ
+ ¿NÒÆ³ ¿9Ç™Í	 ¿7‘~Î ¿ÀÿÎ	 ¿ ü„Ğ  ¿Ò  ¿Ò c ¿9Ç™Ú¶ ¾§ĞfİŠ ¾4_ïŞ  ¿¡!ˆá ó ¿ÜãÌá ü ¿ÜãÌáÆ ¿ÜãÌáW ¿¯ô=áf ¿ÜãÌá	é ¿¯ô=áQ ¿¯ô=áÑ ¾§Ğfè ¿NÒìÛ ¿NÒì	ë ¾2Åî  ¿Zõ  ¿Zõ U ¿™öõ½ ¿ ü„÷Û ¿º¢àú¡ ¿}Á8ú ¿º¢àú„ ¿h–$ú ¿}Á8ú« ¿‚¸*ü  ¿Éøü ? ¿œ jü U ¿ÉøüÛ ¿Éøüï ¿œ jü ¿Éøü” ¿Éøü ¿ÉøüL ¿›F&ş  ¿°œş[ ¿ªÜşş ¿bÕ&ş
+” ¿ªÜş
+• ¿×jş
+Å ¿›F&ş
+ê ¿×jşO ¿°œşu ¿ ø€   ¾¤ùí  ¿¬ªnf ¿‚  ¿Úİå ¿Úİ ¿Úİ ¿Úİ„ ¿Úİ	y ¿Úİ
+8 ¿­¯N ¾ëcú  ¿ÛÄKÛ ¿ÛÄKÍ ¿•l}g ¿®Ô¼Ş ¿ ü„
+Ş ¿ Ş  ¿Çss ¿¥ ¿9Ç™ À"r  ¿·À%  ¿ãUU ? À"rl ¿Éí À"r‡ ¿Ô‚ŸÏ À"ri À"r À"r À"r7 À"rú À"r< ¿ãUUq ¿Éí„ ¿·À%R À"r» À"r+ ¿ãUUQ ¿ŒØñf ¿Ô‚ŸŞ ¿œ™¥ ¿C”’ ¿ŒG ¿)°  ¿}Á8  ¿}Á8Ò ¿º¢àA ¿D<Dù ¿L¥@  ¿u¿: ¿¬ªn¡ ¿¬ªn× ¿,~Á!  ¿,~Á! c ¾§Ğf'  ¿)°)  ¿nÎ)× ¾§Ğf+  ¿Œ. ¿a9ı/  ¿Œ/i ¿¯@u4! ¿¯@u4v ¾§Ğf6	  ¿_…=8  ¿Íöu8 U ¿±3û8  ÀÜ]8E ¿’´S8Û ¿ÜÉ+8= ¿Ã`ë8¶ ¿Íöu8· ¿Ã`ë8I ÀÜ]86 ¿Ã`ë8— ÀÜ]8
+ü ¿ÜÉ+8ğ ÀÜ]8× ¿¤â8Ş ¿NÒ9  ¿ÂPã:  ¿ÂPã:  ¿•aU:$ ¿wò+:Û ¿ÂPã: ¿ÂPã:
+ó ¿†Ÿ:Ş ¾í‰;Ò ¿nÎ;i ¾Üã>× ¿9Ç™?€ ¿ ü„@œ ¿™öA Œ ¿™öA) ¿ZAf ¾¿ĞõE ¿*ÎG  ¿g÷{H ¿kíI  ¿±¹I c ¿±¹I¢ ¿±¹IÎ ¾ÑaL  ¿_0>M  ¿_0>Mù ¿)°Q c ¿ ø€R` ¿ ø€SÊ ¾ÅL¶V  ¿İıœV ¸ ¿±V	 ¿±Vù ¿¢;WV× ¾ôP’\  ¿_0>aG ¿ ü„cƒ ¾§Ğfd  ¿A>f  ¿f  ¾œã¾i  ¿÷µ0i) ¿÷µ0iÛ ¿ÊÅ¡i— ¿ÊÅ¡if ¿÷µ0iŞ ¿¼¨ljW ¿.)j½ ¿¼¨ljù ¿,~Áo  ¿öQeq  ¿q§q ? ¿öQeq U ¿³q ¿ÉaÖqÛ ¿ÉaÖqÛ ¿öQeq, ¿ÉaÖq„ ¿º q  ¿öQeq# ¿öQeqO ¿öQeq ¿öQeqy ¿öQeqŞ ¿9Ç™s° ¿\cªtÊ ¿©ôt ¿©ôt ¿Àÿzœ ¿ˆ¸Nz	À ¿9Ç™~m ÀW5„  ¿Ú)«„  Àßm„  Àßm„ ¿Ú)«„\ ÀW5„t ÀW5„x ÀW5„Û ÀW5„° ÀW5„Û Àßm„ ÀW5„D ¿»ª„Ï ¿»ª„Ê ÀW5„ÿ ¿ ¬Å„ ÀW5„- Àßm„ú Àßm„ ¿ìVœ„4 ¿©ö„8 ÀW5„9 ÀW5„k ÀW5„E ÀW5„‘ ¿»ª„Ã ¿ìVœ„à ÀW5„è ÀW5„ô ÀW5„ú Àßm„	 ¿ìVœ„	 ÀW5„	 ¿öì%„
+ ÀW5„
++ ¿öì%„
+, ¿ìVœ„
+ ÀW5„ˆ ÀW5„õ ¿ ø€’­ ¿ ø€’
+ ¾2Å“  ¿9Ç™–Ü ¾önœ  ¿– FœÉ ¿– Fœ ¾§Ğf	| ¿tU-Ÿ ¿§&Ÿ ¿{!"   ¿{!" ¡ ¾§Ğf¢T ¿9Ç™¤. ¿™ö­ı ¿Z­
+ ¿™ö­H ¿ ø€´[ ¾§Ğf¾
+\ ¾§Ğf¿ ¿ ü„À	| ¿5&ıÂ  ¿ ëMÂ„ ¿ ëMÂ	 ¿g÷{Âù ¿ZÎ^ ¿™öÎ8 ¾§ĞfÒÀ ¿ ø€Ôf ¾§Ğf×
+¿ ¾§ĞfßÂ ¾§Ğfà¿ ¾ušåÀ ¿9Ç™æ
+j ¿9Ç™æJ ¿ ø€ì j ¾Ğ¡ëş  ¿±¹ş³ ¿±¹şş ¾§Ğf` ¾§ĞfÀ ¿– F c ¿– F] ¾Â	·¡ ¿– F ¿ ü„J ¾2Å  ¿ ø€× ¿¢$e(  ¿Ïô( ] ¿¢$e(i ¿Ïô(¶ ¿9Ç™-  ¾§Ğf.  ¾sıA6ø ¿”¹ü?  ¿%×^?Ñ ¿‡ä?ï ¿Ğ|@? ¿£Œ±?³ ¿£Œ±?½ ¿Ğ|@?F ¿ ü„@! ¿C”’D  ¿a9ıDŞ ¿‹š=E ¿¸‰ÌE ¿yE! ¿¸‰ÌE	 ¿%×èE	O ¿¸‰ÌE‡ ¿¸‰ÌE) ¿ ü„F ¿™öL ? ¿™öLÕ ¿™öLÇ ¿ ü„NE ¿nÎO  ¿Ğ|@RÊ ¿Ğ|@RÚ ¿‡äR8 ¿Ğ|@RÃ ¿Š$rR
+, ¿Ğ|@RZ ¿9Ç™S° ¿9Ç™S[ ¾%ÏİT  ¾§ĞfW  ¾Â²b]  ¿ ø€b  ¿ ø€f› ¿™öi  ¿™öit ¿‚ÙŠp  ¿‘¬@p² ¿‘¬@p^ ¿¾›Îp× ¾ßº×r  ¿Œr› ¾§ĞftV ¾2Åv ¿ ø€wÔ ¾§Ğfx ò ¿y	 ¾§Ğf|L ¿ ø€€ ’ ¿³Qï ¿h–$ ¿³Q ¿¤¸‚  ¿¤¸‚  ¿P¬æ‚ ’ ¿¤¸‚S ¿¤¸‚] ¾§ĞfƒÂ ¾%Ïİ†  ¿_0>‡F ¿7‘~‰  ¿ˆ¸N‰i ¿\R  ¿Ó+± ? ¿Ó+± U Àvû Z ¿†5¨ c ¿áşgÛ ¿È–'[ ¿Ó+± Àvû2 ¿áşg ¿Ó+±¡ ¿_f^ ÀvûI ¿áşgL Àvûi ¿È–'„ ÀvûF Àvû, ¿nÎ‘  ¾§Ğf’  ¿ ø€”Q ¿§&— ¿§&—S ¿§&—T ¿§&—	{ ¿tU-—® ¿ ü„š  ¾¿Ğõ¥  ¿ ü„­Ü ¿ ü„³  ¿9Ç™· ¾Ú“Ã  ¿ ›Ã U ¿—%%Ãù ¾Ô'CÙ  ¾§ĞfÚ² ¿u¿à  ¿¬ªnà  ¾Ö˜àJ ¿'<šâ  ¿™öâ³ ¿™öâ	 ¿ ëMç  ¿dè  ¿‰úGè ? ¿ï˜è  ¿ï˜èt ¿³ÕÛèà ¿Â¨èõ ¿ï˜èD ¿©@Qè„ ¿©@Qèè ¿Â¨è ¾ušîÛ ¿ô  ¿ô  ¿õD ¿õ¡ ¿\cªÿ  Àlt	  ¾·Ñ¹	  Àlt	 c ¿ç¤	 € Àlt	) Àlt	° ¿ç¤	[ Àlt	^ Àlt	i ¿ç¤	„ Àlt	] Àlt	… ¿õéZ	Ğ ¿ç¤	× ¿ç¤	Ş ¾§Ğf	  ¿ ü„	\ ¿ ü„		 c ¿Q 	
+ ¿9Ç™	° ¿ ²½	 U ¿Í¢L	  ¿Í¢L	ğ ¿ #v	ö ¿Í¢L	_ ¿Í¢L	i ¿Í¢L	Ş ¿_0>	6 ¿±¹	  ¿±¹	Ü ¿±¹	 ¿±¹	L ¿‡	   ¿¯ô=	  ? ¿¯ô=	 Ú ¿ÜãÌ	 ¢ ¿ÜãÌ	 î ¿ÜãÌ	 × ¾2Å	!	] ¾§Ğf	3	 ¿NÒ	:  ¾¿Ğõ	= Àä_	D  ¿îÙ.	D  Àä_	D ? Àä_	D ş Àä_	DQ ¿ÃCş	Dõ Àä_	DÛ Àä_	D ¿8,	DG ¾æbW	D Àä_	D— Àä_	D Àä_	D| ¿ÃCş	D	I Àä_	DF ¿àx	D× ¿îÙ.	DÙ Àä_	DŞ ¿îÙ.	Dá ¿_0>	G  ¿~Áı	I  ¿Á/K	I c ¿üñ	I ß ¿üñ	Iõ ¿ B	I½ ¿Á/K	I[ ¿Ğ 	I— ¿üñ	I^ ¿Ğ 	Ii ¿üñ	I ¿üñ	I1 ¿Á/K	Iñ ¿üñ	I ¿Ğ 	I• ¿NÒ	O  ¾­‘	OO ¿ ø€	PG ¿…xİ	`  ¿İıœ	`Ş ¿İıœ	` ¿¢;W	`Æ ¿p¿ˆ	`¹ ¿İıœ	`	` ¿İıœ	`E ¿¢;W	`Ş ¿nÎ	b  ¿nÎ	f ¿ ø€	i§ ¿ ü„	l¤ ¿ƒkó	t  ¿ƒkó	t@ ¿ƒkó	t ¿ÂPã	y  ¿ÂPã	y ¿•aU	y„ ¿Œ	z[ ¿Œ	z¢ ¿Œ	zf ¿ ø€	|› ¿ ø€	| ¿ï	~  ¿– F	~i ¿9Ç™	€ù ¿{!"	‚  ¿{!"	‚’ ¿}Á8	… ø ¿º¢à	…1 ¿Úİ	‡ É ¿­¯N	‡¥ ¿Úİ	‡Ñ ¿Ü˜	‡Ò ¿Úİ	‡Ç ¿Úİ	‡ ¿Úİ	‡	 ¿Úİ	‡/ ¿ ø€	‹
+ ¿ ø€	‹ ¿9Ç™	‘¹ ¿ ü„	•  ¿Q 	—  ¿ ü„	™› ¾Â²b	œ  ¿ ü„	R ¿ ü„	Ÿ	ï ¾­‘	¥ ¿´¶	¨  ¿´¶	¨Û ¿‡''	¨[ ¿´¶	¨D ¿´¶	¨D ¿ ø€	«› ¿ ø€	«	™ ¾§Ğf	®¶ ¿Ä´	°  ¿Ä´	°­ ¿Ä´	°¢ ¿—%%	°Õ ¿Ä´	°M ¿Ä´	°× ¿ ø€	Æ ì ¿NÒ	Î  ¿NÒ	Î¡ ¾§Ğf	Ø ¾§Ğf	åè ¾§Ğf	ç  ¾§Ğf	è © ¿ÅÊ	é æ ¿ÅÊ	é\ ¿ŠX	é8 ¿ÅÊ	é: ¿ÅÊ	é ¾§Ğf	ïf ¾§Ğf	ğK ¾§Ğf	ó  ¿	õ  ¿ ü„	ûË ¿– F
+  õ ¿¸Ş
+  ¾äñå
+Ê ¿¼¨l
+ ¿¼¨l
+ú ¾è[g
+« ¾§Ğf
+  ¿ˆ¸N
+  ¿¶[¥
+  ¿¶[¥
+ø ¿¶[¥
+ù ¼4Hv
+ U ¿;­Î
+   ¿‰l
+   ¿!{œ
+ ‘ ¿9Ç™
+!  ¿ ü„
+"Ş ¿M´
+,  ¿M´
+,  ¿Éø
+,U ¿œ j
+,: ¿‚¸*
+,f ¿Éø
+,Ş ¾2Å
+2  ¾è[g
+@Ê ¿NÒ
+@
+a ¾¿Ğõ
+A	 ¾§Ğf
+Bù ¿ì
+F  ¿ ü„
+I U ¿ ü„
+L  ¾npØ
+Nº ¿nÎ
+X ¾§Ğf
+\j ¾2Å
+m  ¿ ü„
+u  ¿9Ç™
+xŞ ¿ ü„
+{X ¾uš
+€¸ ¿Z
+‡  ¿™ö
+‡ş ¿™ö
+‡	 ¿_0>
+ˆ  ¿‘¬@
+  ¿‘¬@
+ U ¿L. 
+Ê ¿¾›Î
+œ ¿9Ç™
+’
+ ¿Ü˜
+”  ¿Úİ
+”° ¿Úİ
+”9 ¿Ü˜
+”ş ¿”G
+”ş ¿Úİ
+”
+ ¿G4ë
+”
+ê ¿”G
+”@ ¿Úİ
+”¦ ¿Úİ
+” ¿nÎ
+•G ¿Éø
+›Ã ¿FäA
+›
+Ù ¿Éø
+›X ¿Éø
+›` ¾§Ğf
+  ¿{!"
+Ğ ¿{!"
+
+ ¿9Ç™
+¨
+¨ ¾§Ğf
+«  ¾§Ğf
+­  ¾¿Ğõ
+®  ¿ƒkó
+´  ¿ƒkó
+´ ¿ƒkó
+´× ¿ ø€
+¸ ¿a9ı
+¿  ¿Œ
+¿s ¿a9ı
+¿º ¿Œ
+¿è ¿Œ
+À  ¿a9ı
+ÀÒ ¿ ü„
+È ¾%Ïİ
+Ì™ ¿NÒ
+Ğ Ÿ ¿NÒ
+Ğ« ¿\cª
+Ù  ¿©ô
+Ù  ¿©ô
+Ù  ¿z	
+Ùù ¿
+ãï ¿m‚
+ã ¿F
+ê  ¿—%%
+ê> ¿Ä´
+êi ¿Ä´
+ê· ¿Ä´
+ê× ¿_0>
+î  ¿JR
+üã ¿ ëM
+ü	” ¿g÷{
+ü	• ¿NÒ U ¿NÒ 8 ¿J  ¿Ê Ş ¿ŞšŠ ¿Ê Ş^ ¿±P  ¿NÒ  ¿NÒ U ¿,øÈ  ¿ƒkóí ¾ÏWj  ¾§Ğf  ¿A>ï ¿ˆ¸N ¿ ü„  ¿ ü„  ¾M¼   ¿á+“ ¿á+À ¾¿E÷   ¿y   ¿¸‰Ì Â ¾§Ğf!  ¿$¹P#  ¿ÕÈ›#Ü ¿=ˆi#@ ¿šV#ù ¿½‹²+  ¿Ÿ½—+  ¿¥˜ø+ U ¿çgE+ c À”Å+É ¿ö9û+¤ À”Å+° ¿çgE+† ¿ö9û+¿ À”Å+ À”Å+¬ À”Å+^ ¿ö9û+ À”Å+Q ¿ö9û+	` À”Å+	b À”Å+	t ¿ö9û++ ¿ö9û+‚ ¿ÜÑ»+î À”Å+ó À”Å+p À”Å+t À”Å+¹ ¿çgE+. ¿çgE+Ş ¿9Ç™,  ¾§Ğf-{ ¿{!"/+ ¿›F&1  ¿×j1  ¿×j1 c ¿×j1Û ¿ªÜ12 ¿›F&1o ¿×j1D ¿×j1… ¿ªÜ1 ¾¡k!7  ¿ˆ¸N8I ¿ˆ¸N8p ¿ˆ¸N8“ ¿Q : U ¿d`O@  ¿õœ@X ¿õœ@¦ ¿õœ@° ¿õœ@ï ¿õœ@0 ¿¹ÙÖ@2 ¿õœ@Ê ¿õœ@U ¿õœ@ƒ ¿¯DL@³ ¿õœ@u ¿õœ@Ş ¿ ø€A³ ¿ ü„D› ¿9Ç™EÛ ¿9Ç™E¢ ¿»é{F  ¿­ÅF  ¿èÙ
+F ¿»é{F¦ ¿èÙ
+F ¿èÙ
+Fi ¿èÙ
+F§ ¿èÙ
+F ¾2ÅG‚ ¿9Ç™O  ¿_0>S½ ¿ ü„\ö ¿ˆ¸N]Ê ¿ˆ¸N]^ ¿)°_  ¿nÎ_¢ ¿7‘~a  ¿œ™b³ ¿ ø€f$ ¿ ü„g  ¿NÒi; ¿Ranj¡ ¿)°l ¿Ranm  ¿– Fm³ ¿9Ç™p% ¿9Ç™p' ¾§Ğft  ¾2Å{  ¾§Ğfï ¿A>‚  ¿‚³ ¿‚× ¿{!"„  ¿{!"„ U ¿1q§…  ¿Å¿`… ? ¿Å¿`… c ¿Å¿`…Ü ¿Å¿`…i ¿ò®ï…^ ¿ò®ï…ÿ ¿ò®ï…M ¿ò®ï…D ¿¬W!…f ¾§Ğf‡	« ¿ ü„ˆ  ¿³QŒ° ¿³QŒ2 ¿³QŒ  ¿³QŒ@ ¿³QŒË ¿º¢àŒ ¿º¢àŒ ¿§&  ¿§& U ¿§&Ş ¿ƒkó’Û ¿ƒkó’q ¿ƒkó’ ¿_0>“	~ ¿_0>“× ¿G8–›  ¿©ô›2 ¿©ô›õ ¿©ô›+ ¿©ô›	 ¿ ø€¢ c ¿Œ¦  ¿Œ¦[ ¿Œ¦ ¿Œ¦
+• ¿Œ¦
+ê ¿g÷{«Ñ ¿Í«ï ¿~å²  ¿˜Û²7 ¿ÅÊ²@ ¿J$,³  ¿#˜–µ¼ ¿µ½ ¿A>µŒ ¾ŠlÇ¶  ¿ÑÛ¦¶D ¿ÑÛ¦¶ù ¾í‰¹  ¿A„¯¾ï ¿§&¾ ¿§&¾P ¿A„¯¾Ş ¿{!"Àï ¿{!"À ¿œ™À] ¿NÒÁ  ¿NÒÁï ¿NÒÁÅ ¿ ø€ÂÛ ¿ ø€ÂÊ ¿©ôÃÏ ¿\cªÃ ¿©ôÃ( ¿a9ıÅ c ¿ŒÅì ¿ŒÅ ¾§ĞfÊ ¿©ôË  ¿¬ƒËş ¿’¥Í ¿J$,Í° ¿’¥Í
+ê ¿– FÓ8 ¿{!"ÔR ¿<g®Õ ¿™öÕ× ¿ ü„×  ¿ ü„ÜÕ ¾4_ïà[ ¿ ü„ä  ¿œ™ç  ¿U¼Ğî  ¿£Œ±î  ¿£Œ±î 6 ¿U¼Ğî › ¿Ğ|@î ä ¿Ğ|@î+ ¿£Œ±î ¿Ğ|@îÉ ¿Ğ|@îV ¿Ğ|@îD ¿!Bğ  ¿{!"ğ U ¾åóšñ  ¿i×ó  ¿Ê Şó U ¿Ê Şó	 ¿Şšó ¿d8?óŞ ¿ƒkóô  ¾®¬ù  À!šKùJ À!šKùa À!šKù‰ À!šKùŠ À¹)ùÛ À!šKù À"„ùA À"„ù[ À!šKùl À!šKù‰ À"„ù À!šKù À!šKù À!šKù À"„ù— À"„ù¡ ¿üÜÉùÂ À!šKùá À¹)ù À!šKùi À¹)ù„ À"„ù À"„ù+ À!šKù& À"„ùQ ¿Å¤ù• À!šKù À!šKùf À¹)ù× ¿Ì00ùŞ ¾ušN ¿	€¥  ¿èÙ
+ c ¿»é{¶ ¿èÙ
+ ¿èÙ
+¢ ¿»é{³ ¿èÙ
+„ ¾è[g  ¿NÒ½ ¾‚ºi  ¾§Ğf¬ ¿9Ç™
+b ¿ì  ¿ˆ¸Nù ¾Â²b  ¿ˆ¸N  ¿ì@ ¿NÒ!  ¿¸‰Ì%Ü ¿@
+%% ¿‹š=%Ş ¿…M&  ¿®Ô¼& c ¿ÛÄK&Û ¿ÛÄK& ¿ƒ?&¢ ¿ÛÄK&D ¿9Ç™'L ¾Ô'C,  ¿ ø€/Ş ¿ˆ¸N3 ¾2Å4ù ¿{!"8  ¾§Ğf;/ ¿9Ç™>  ¿9Ç™HŸ ¿®Ô¼M  ¿ÛÄKM ¿ÛÄKMx ¿ÛÄKMæ ¿ÛÄKM ¿ÛÄKMi ¿ÛÄKM1 ¿ÛÄKMñ ¿ÛÄKM× ¿ÛÄKM ¾‚ºiO	‘ ¿Ê ŞQ æ ¿„IQ ¿Ê ŞQt ¿Ê ŞQ ¿d8?Q	 ¿ ü„Vz ¾§ĞfXµ ¿Q \· ¿ ø€bÌ ¿2hšf  ¿„É}f ¿±¹fG ¾§Ğfhg ¿nÎn[ ¿@p  ¿×jp¢ ¿×jpI ¿×jpL ¿›F&p	~ ¿×jp	¨ ¿ ü„r  ¿tU-tÁ ¿§&t× ¿Ğ|@u  ¿U¼Ğu  ¿£Œ±u) ¿Ğ|@uÑ ¿£Œ±u½ ¿£Œ±uş ¿Ğ|@u× ¿Ğ|@uŞ ¾¿Ğõ{à ¿\cª}  ¿©ô}¢ ¾§Ğfƒ ¾§Ğf„  ¾%Ïİ‡Š ¿ˆ¸NŒ° ¿ˆ¸NŒş ¾ušD ¾§Ğf‘  ¿øañ•  ¿øañ• ? ¿“OÛ• c ¿¿³¨•Û ¿Şù²•Ü À¨À•Î À¨À•Ò À¨À• ¿øañ• ¿øañ•D ¿Şù²•[ ¿øañ•‡ À¨À•ï ¿øañ• ¿øañ•— À¨À•¡ ¿1:•¢ À¨À•² À¨À•Â À¨À•Ç À¨À•^ À¨À• ¿øañ•q À¨À•] À¨À•M À¨À•f À¨À•÷ ¿é;•× ¿øañ•Ş ¿{!"–[ ¿  ¿Å¿` c ¿ò®ïÜ ¿Å¿` ¿ò®ï2 ¿Å¿` ¿ò®ï— ¿¬W!¢ ¿ò®ïÊ ¿ò®ïß ¿ò®ï· ¿¶ì«ù ¿ò®ï• ¾§Ğf¥[ ¿NÒ¨G ¿ ü„ªä ¿,øÈ«  ¿ƒkó² ? ¿J$,¹ c ¿’¥¹[ ¿¨Ù¾ ¿ÕÈ›¾d ¿ÕÈ›¾i ¿pÍ¾¹ ¿¨Ù¾8 ¿ÕÈ›¾	¢ ¿ÕÈ›¾ƒ ¿šV¾ ¿z‡¹¾Ş ¿ ü„¿Ş ¿ˆ¸NÆ+ ¾ÀÎ=ÆI ¿ ø€È  ¿nRRÊ  ¿¤¸Ê ¿¤¸Ê¡ ½Ÿ¤tË ¾è[gÏ  ¿NÒÏÛ ¿RanĞ  ¿ ø€ÑH ¾§Ğf×É ¿ ü„Ú ¾§ĞfÛ  ½)‹]áº ¿_0>ä ¿§&í ¿§&íf ¾§Ğfï˜ ¿ƒkóõ  ¿ƒkóõ+ ¿ƒkóõŞ ¿¸Ş÷  ¿¼¨l÷ ¿ ü„ü¡ ¿ ü„  ¿ÜÉ+  ¿Œ((  ¿Ã`ë ? ÀÜ]½ ÀÜ] ÀÜ][ ÀÜ]ï ÀÜ]i ÀÜ]¡ ÀÜ] ÀÜ] ÀÜ]^ ÀÜ]( ÀÜ] ÀÜ]	 ÀÜ]	t ÀÜ] ÀÜ]f ÀÜ]« ¾§Ğf  ¿9Ç™  ¿ ü„º ¿9Ç™ ¿TK  ¿TK ? ¿èÙ
+ Z ¿»é{ c ¿èÙ
+p ¿¢<à ¿­Åt ¿èÙ
+
+ ¿­Å
+› ¿èÙ
+} ¾ã,Q  ¿¶[¥Û ¿¶[¥2 ¿‰l³ ¿œ~î  ¿ØA3ö ¿«Q¤… ¿«Q¤2 ¿«Q¤ş ¿«Q¤ş ¿«Q¤	` ¿5aC
+” ¿«Q¤
+ê ¿NÒ¶ ¿ ëMÛ ¾è[g   ¿,øÈ)I ¿_0>,  ¿§&.  ¿§&. ] ¾¦&Q.8 ¿ ü„2 ¿)°8  ¿nÎ8 q ¾uš>  ¿ÕÈ›D  ¿ÕÈ›D ? ¿ÕÈ›Da ¿ÕÈ›D¦ ¿ÕÈ›DÛ ¿¨ÙDÇ ¿ÕÈ›D³ ¿ÕÈ›DA ¿ÕÈ›Dç ¿ ü„H^ ¿ˆRoJ  ¿Ä´J [ ¿Ä´JÛ ¿Ä´J^ ¿Ä´J3 ¿Ä´J ¾ıÔL  ¿õœL¦ ¿È¬ŒL¢ ¿õœLÊ ¿¹ÙÖLŞ ¿RanN[ ¿– FNÖ ¿– FNu ¿_0>S ¿ZU  ¿™öUÛ ¿ZU× ¿9Ç™Z  ¾„†[  ¿ ü„`! ¿ ü„b  Àf  ¿¾7¾f  Àf : ¿¾7¾f ? À&Kf Àfx Àf À&KfÙ Àf­ À&Kf½ À&KfÛ ¿ùyàf¢ ¿ùyàf° À&Kf ¿îäVf ¿ùyàfG Àf ¿ùyàf Àf+ ¿ùyàfó Àf^ ¿ùyàf· ¿îäVf¾ ÀfÎ À&Kf ¿îäVf8 ¿ÏMf„ À&KfE Àfc ¿ÏMfi Àfè ¿ùyàf	 Àf	y Àf	‡ ¿ùyàf
+ Àf1 ¿îäVf› Àf} Àf À&Kf« Àf ÀfE ¾­‘h  ¿NÒh	 ¾§ĞfjŞ ¿n  ¿n ¿nš ¾§Ğfp+ ¾c,Psu ¿™ösv ¿™ösw ¿_0> ¿_0>œ ¿Ì&É„1 ¿ ø€  ¿Q §  ¿ÊØª  ¿÷gª ¼ ¿÷gªà ¿¨ªõ ¿÷gªï ¿»B"ª ¿ÊØª ¿»B"ª— ¿÷gªÈ ¿÷gª/ ¿€  ªÂ ¿÷gªF ¿Ùs@«  ¿Ùs@«  ¿Ùs@« — ¿Ùs@« ¿Dİ³« ¿Ùs@« ¿NÒ¬  ¾±5®  ¿’¥®® ¾Â²b¯  ¾§Ğf°  ¾§Ğf¶Ş ¿ ü„ÀÀ ¿nÎÊÛ ¾§ĞfÍ  ¾§ĞfÏ§ ¾š ›Ğ  ¿ ü„Ò´ ¿ïÉg×  ¾¥ü×  À*³Ÿ× ? À*³Ÿ× c ¿×Ö­× ~ À;Ø× È À*³Ÿ×¦ À‡¸×Û À*³Ÿ×Í ÀÒ}× À;Ø×D À;Ø×G À;Ø×„ À‡¸×ï À;Ø× À‡¸× À;Ø× ÀÒ}×— ¿üâ€×¢ À*³Ÿ×Ê À*³Ÿ× ¿ÇØ¯×i À*³Ÿ×q À*³Ÿ× À*³Ÿ×— À*³Ÿ×	 À‡¸×+ À*³Ÿ×1 À;Ø×… À*³Ÿ×M À‡¸×• À*³Ÿ×÷ À*³Ÿ×ş ¿ŞbØ×f À;Ø×h ÀÒ}×Ş ¾èC†Ù  ¿á+Ùõ ¿´;xÙG ¿´;xÙ[ ¿á+Ù ¿á+Ù ¿á+Ùf ¿ô‰îŞ  À Ñ„Ş ? ¿È&!Ş c À Ñ„Ş ó À-ãŞ ü À2ÁŞ À	çüŞ) ÀœŞ? À-ãŞa À-ãŞ§ À-ãŞĞ À2ÁŞÙ À-ãŞÚ ¿ô‰îŞà À-ãŞä À-ãŞp À2ÁŞ~ À-ãŞ  À	çüŞ¦ À-ãŞ« ÀœŞ¾ ¿ÑoxŞÛ ÀœŞ¶ À-ãŞ¸ ¿Ö»ÓŞÒ ÀœŞ ÀœŞ À Ñ„Ş‡ À2ÁŞÏ À-ãŞİ ÀœŞï ¿Ü—5Ş À-ãŞQ À-ãŞc ¿ô‰îŞd À-ãŞ¡ À-ãŞÄ À	çüŞÇ ÀœŞÊ À-ãŞ À-ãŞ) À-ãŞ³ ¿Ì™7Ş¹ À-ãŞ½ À	çüŞá À-ãŞ À-ãŞ8 À2ÁŞV ÀœŞq À	çüŞ„ À-ãŞŸ ÀœŞr À-ãŞy À-ãŞ· À-ãŞô ¿Ö»ÓŞ	‡ À-ãŞ	— À-ãŞ	Æ ¿Ü—5Ş	õ À	çüŞ
+  À-ãŞ
+, À-ãŞ
+H À-ãŞ
+‡ À2ÁŞ
+› ÀœŞ+ À-ãŞ@ ¿ô‰îŞj À-ãŞ3 À-ãŞM À-ãŞ À-ãŞª À-ãŞÏ À-ãŞĞ ÀœŞä À-ãŞí ÀœŞ À-ãŞ8 À	çüŞf ÀœŞs À-ãŞ« À-ãŞŞ ¿ ø€à[ ¿“³á  ¿Oóá½ ¾«œÑç  ¿NÒé  ¿NÒé c ¾§Ğfê2 ¾‹ÆÒí  ¿çií^ ¿ºÚíÅ ¿ºÚí/ ¿ ü„ï¶  
+\end\
