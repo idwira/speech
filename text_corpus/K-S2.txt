@@ -1,0 +1,1164 @@
+<s> tadi kamu jadi ketemu dosen pembimbing </s>
+<s> kamu udah berapa kali ketemu dosen pembimbing </s>
+<s> kamu seminar kapan </s>
+<s> nanti dateng ke seminar aku ya </s>
+<s> dateng ke seminar minggu depan yuk </s>
+<s> pembicara di seminar tadi keren semua deh </s>
+<s> kamu tertarik ikut kursus bahasa ga </s>
+<s> kamu suka main musik ga </s>
+<s> kamu bisa main musik ga </s>
+<s> tadi aku habis nyoba bikin kue loh </s>
+<s> mau nyoba kue pertama aku ga </s>
+<s> besok ada pameran budaya loh di gedung sate </s>
+<s> besok pergi ke pameran budaya yuk </s>
+<s> kapan-kapan pergi ke taman yang baru dibuka itu yuk </s>
+<s> besok lari di saraga yuk </s>
+<s> besok ada yang mau olahraga ga </s>
+<s> kayanya aku harus olahraga deh </s>
+<s> aku udah lama ga naik sepeda </s>
+<s> ngerjain tugas bareng di perpus yuk </s>
+<s> hari ini kita jadi kerja kelompok kan </s>
+<s> kita mau kerja kelompok jam berapa </s>
+<s> kita mau kerja kelompok dimana </s>
+<s> kosan kamu dimana sih </s>
+<s> kosan kamu masih ditempat yang dulu kan </s>
+<s> kamu jadi ke kosan aku ga </s>
+<s> biasanya habis pulang kuliah aku baca novel </s>
+<s> kasih aku rekom</s>asi tempat makan yang enak di sekitar sini dong </s>
+<s> kamu habis darimana tadi </s>
+<s> kira-kira dia udah sampai dimana ya </s>
+<s> kamu mau berangkat jam berapa nanti </s>
+<s> nanti berangkatnya bareng ya </s>
+<s> kita mau berangkat lewat mana </s>
+<s> tadi malem aku ketiduran </s>
+<s> tadi malem kamu tidur jam berapa </s>
+<s> kemarin aku habis ngerjain tugas sampai malem </s>
+<s> kemarin aku ga jadi ngerjain tugas </s>
+<s> mau makan apa nanti siang </s>
+<s> kamu makan apa tadi siang </s>
+<s> makanan favorit kamu apa </s>
+<s> masakan ibu emang paling enak ya </s>
+<s> tadi pagi aku ga sempet sarapan </s>
+<s> makan nasi bakar di depan kampus yuk </s>
+<s> katanya nasi bakar di depan kampus enak loh </s>
+<s> kamu mau makan di sini atau dibungkus </s>
+<s> harga seporsinya berapa sih </s>
+<s> aku mau beli makanan nih </s>
+<s> ada yang mau nitip beli makanan ga </s>
+<s> mau nitip beli makanan dong </s>
+<s> lagi hujan gini kayanya enak ya kalau makan seblak </s>
+<s> aku lagi pengen makan roti bakar deh </s>
+<s> beli es buah yuk </s>
+<s> kemarin ada banyak promo loh kalau bayar pake dana </s>
+<s> aku malas kuliah deh apalagi kalau lagi hujan </s>
+<s> jangan lupa bawa payung ya sekarang udah musim hujan soalnya </s>
+<s> kemarin payung aku ketinggalan di kampus </s>
+<s> besok temen aku ulang tahun </s>
+<s> kira-kira kado yang bagus apa ya </s>
+<s> semalam aku mimpi kalau pengumpulan tugasnya diundur ke bulan depan </s>
+<s> kemarin aku habis pergi ke pameran buku </s>
+<s> di pameran buku ada banyak banget buku yang dijual murah </s>
+<s> aku pengen pulang ke rumah deh </s>
+<s> minggu ini aku mau pulang ke rumah </s>
+<s> kamu kapan terakhir kali pulang kampung </s>
+<s> rumah kamu di daerah mana </s>
+<s> aku mau pulang ke rumah naik kereta </s>
+<s> minggu depan temen sebangku aku waktu sekolah mau menikah </s>
+<s> aku bingung mau dateng ke pernikahan temen aku sama siapa </s>
+<s> dateng ke pernikahan dia bareng yuk </s>
+<s> minta nomor kamu dong </s>
+<s> sebentar lagi libur tahun baru loh </s>
+<s> liburan nanti kamu mau kemana </s>
+<s> coba dengerin lagu terbarunya maudy ayunda deh </s>
+<s> kamu suka nonton konser musik ga </s>
+<s> kasih aku rekom</s>asi film buat ditonton kalau lagi libur dong </s>
+<s> sekarang di bioskop lagi ada film bagus loh </s>
+<s> gimana kalau kita nonton bioskop hari sabtu ini </s>
+<s> akhir pekan ini kamu ada acara ga </s>
+<s> kamu habis kuliah mau langsung pulang atau masih ada acara </s>
+<s> kamu mau pulang naik angkot atau jalan kaki </s>
+<s> kemarin aku ga sengaja ketemu sama adik kamu </s>
+<s> gimana kabar keluarga kamu </s>
+<s> kamu berapa bersaudara </s>
+<s> kamu anak ke berapa </s>
+<s> titip salam buat keluarga kamu ya </s>
+<s> kamu kuliah dimana sekarang </s>
+<s> kamu kuliah di jurusan apa </s>
+<s> kamu ambil berapa mata kuliah semester ini </s>
+<s> kamu lagi sibuk apa sekarang </s>
+<s> kayaknya dia lagi sibuk ngerjain tesis deh </s>
+<s> kayaknya dia lagi sibuk kerja deh </s>
+<s> liat deh kucingnya g</s>ut banget </s>
+<s> kayaknya kucing itu disitu terus deh ga pernah kemana-mana </s>
+<s> aku pengen beli jam tangan deh </s>
+<s> soalnya kalau ujian kadang gak dikasih tau sisa waktunya </s>
+<s> kayaknya hari ini jalanan macet deh </s>
+<s> hari ini ada wisuda di sabuga </s>
+<s> kado yang bagus buat wisudawan apa ya </s>
+<s> beli kado buat wisudawan yuk </s>
+<s> kamu mau dateng ke wisuda besok ga </s>
+<s> kamu bawa tisu basah ga </s>
+<s> boleh minta air minum ga </s>
+<s> kemaren kamu dateng ke debat terbuka calon rektor ga </s>
+<s> sinyal aku lagi jelek nih </s>
+<s> habis pulang kuliah kita berburu promo yuk </s>
+<s> baju kamu bagus banget </s>
+<s> kamu beli baju dimana </s>
+<s> kok tumben pake baju batik </s>
+<s> kamu mau kemana rapi banget </s>
+<s> kamu ga lupa bawa laptop kan </s>
+<s> laptop aku rusak </s>
+<s> kemarin yang bantu benerin laptop aku dia loh </s>
+<s> dia baik banget deh ternyata </s>
+<s> judul tugas akhir kamu apa </s>
+<s> dosen pembimbing kamu siapa </s>
+<s> dosen pembimbing aku baik deh </s>
+<s> kalau dosen pembimbing kamu gimana </s>
+<s> kamu semester ini ambil mata kuliah apa aja </s>
+<s> hari ini aku ada kelas sampai sore </s>
+<s> besok kamu ke kampus jam berapa </s>
+<s> kamu di kampus sampai jam berapa kemarin </s>
+<s> masa berat badan aku ga nambah </s>
+<s> padahal udah makan banyak </s>
+<s> gimana hasil ujian kamu kemarin </s>
+<s> minggu ini kita jadi jalan-jalan bareng kan </s>
+<s> kamu target wisuda bulan apa </s>
+<s> kamu habis wisuda rencananya gimana </s>
+<s> kosan aku pindah loh </s>
+<s> sekarang kosan aku jadi lebih deket ke kampus </s>
+<s> kemarin aku habis nonton film seru banget </s>
+<s> kamu suka baca komik ya </s>
+<s> kamu suka baca komik apa </s>
+<s> akhir pekan kemarin kamu ngapain aja </s>
+<s> biasanya kalau akhir pekan aku beres-beres kosan </s>
+<s> di kosan kamu ada jam malamnya ga </s>
+<s> kosan kamu setahun berapa bayarnya </s>
+<s> di kosan kamu ada yang jaganya </s>
+<s> ngerjain tugas di kosan aku aja yuk </s>
+<s> kartu yang sinyalnya bagus selain telkomsel apa sih </s>
+<s> kuota aku udah mau habis nih </s>
+<s> kamu suka nonton bola ga sih </s>
+<s> ibu aku cuma suka nonton bola kalau yang tanding tim nasional </s>
+<s> temen aku suka nonton piala dunia </s>
+<s> katanya di gramedia lagi ada diskon loh </s>
+<s> minggu ini aku mau main bareng temen-temen aku </s>
+<s> sebentar lagi jam satu nih ke kelas yuk </s>
+<s> nanti belajar bareng dong buat ujian </s>
+<s> kamu udah ngerjain tugasnya belum </s>
+<s> pengumpulan tugasnya tanggal berapa sih </s>
+<s> tadi di kelas bahas apa aja </s>
+<s> kamu tadi kenapa ga kelas </s>
+<s> pinjem catatan kuliah kamu dong </s>
+<s> kamu punya catatan pembahasan soal yang tadi ga </s>
+<s> kamu ngikutin acara ajang pencarian bakat nyanyi itu ga sih </s>
+<s> peserta ajang pencarian bakatnya keren-keren deh </s>
+<s> acara tv favorit kamu apa </s>
+<s> kamu masih suka nonton kartun ga </s>
+<s> kamu suka nonton drama korea ga </s>
+<s> minta rekom</s>asi drama korea dong </s>
+<s> kamu lebih suka film yang akhirnya sedih atau bahagia </s>
+<s> dulu aku suka banget nonton doraemon </s>
+<s> waktu kecil aku suka banget main komputer </s>
+<s> sekarang aku bosen banget liat laptop </s>
+<s> Aku pulang dulu ya </s>
+<s> Nanti saja </s>
+<s> Sekarang kan lagi hujan </s>
+<s> Iya juga sih </s>
+<s> Tunggu hujannya reda sambil ngerjain tugas aja yuk </s>
+<s> Boleh kamu punya kertas ga </s>
+<s> Punya tapi untuk apa </s>
+<s> Seingatku tugas kita itu dikerjain di kertas selembar </s>
+<s> Oh iya aku tidak tahu kalau perintahnya kayak gitu </s>
+<s> iya sepertinya kamu lagi izin keluar saat ibunya ngasih tahu </s>
+<s> Untung kamu kasih tahu makasih ya </s>
+<s> sama sama </s>
+<s> Lihat Dompet siapa ini </s>
+<s> Coba kamu lihat isinya </s>
+<s> Wah ternyata banyak uangnya </s>
+<s> Kita bagi dua saja </s>
+<s> Aku tidak setuju dengan p</s>apatmu </s>
+<s> Kenapa Kan kita yang menemukan dompet ini </s>
+<s> Memang Tapi uang ini bukan milik kita </s>
+<s> Lebih baik kita laporkan ke polisi </s>
+<s> Kita ambil sedikit saja </s>
+<s> Pokoknya tidak </s>
+<s> Ini bukan hak kita </s>
+<s> Terserah kamu sajalah </s>
+<s> Man kamu sekarang kerja di mana </s>
+<s> Aku kerja di pabrik pembuatan roda </s>
+<s> Kalau kamu kerja di mana </s>
+<s> Aku masih menganggur </s>
+<s> Kamu sudah mencoba mengirim lamaran </s>
+<s> Aku sudah melamar ke banyak perusahaan tapi ditolak </s>
+<s> Kalau di tempat kamu kerja ada lowongan kabari aku ya </s>
+<s> Sebenarnya aku mau keluar dari tempat aku bekerja </s>
+<s> Memangnya kenapa </s>
+<s> Apa nanti kamu tidak menyesal </s>
+<s> Masih banyak yang membutuhkan pekerjaan </s>
+<s> tapi kamu yang sudah punya pekerjaan malah mau keluar </s>
+<s> Pekerjaannya berat tapi gajinya tidak sesuai dengan harapan </s>
+<s> Bukannya tidak bersyukur </s>
+<s> tapi kalau gaji yang aku dapat cuma buat makan lebih baik aku cari pekerjaan lain </s>
+<s> Benar juga sih </s>
+<s> Hai Jo Apa yang sedang kamu lakukan </s>
+<s> Hai Ton ban sepedaku sepertinya bocor dan butuh ditambal </s>
+<s> Apakah Kamu tahu tempat di mana aku bisa menambal ban sepedaku </s>
+<s> Di sekitar sini jarang ada tempat tambal ban </s>
+<s> Yang terdekat hanya ada di ujung jalan ini jaraknya sekitar satu kilometer </s>
+<s> Wah sepertinya itu lumayan jauh ya </s>
+<s> Ya cukup jauh oleh karena itu mustahil bagimu untuk sampai di sana dengan m</s>orong sepeda itu </s>
+<s> jangan khawatir aku sudah terbiasa dengan itu </s>
+<s> Sudahlah mari naikkan sepedamu di mobilku </s>
+<s> Aku akan mengantar mu ke sana </s>
+<s> Terimakasih Ton Nasib baik aku bertemu kamu </s>
+<s> kalau tidak aku pasti sudah menuntun sepeda ini </s>
+<s> Sepertinya hari ini aku ditakdirkan untuk menjadi penolongmu </s>
+<s> memangnya kamu h</s>ak pergi kemana </s>
+<s> Aku hanya ingin berkeliling kota dengan sepedaku ini </s>
+<s> Aku bisa menebaknya pasti hobimu adalah jalan-jalan ya kan </s>
+<s> Tebakanmu hampir benar tapi masih salah </s>
+<s> Hobiku adalah bersepeda mengelilingi tempat-tempat yang indah </s>
+<s> Hobimu bersepeda </s>
+<s> Bukankah bersepeda itu melelahkan </s>
+<s> Tentu saja melelahkan tetapi ada perasaan bahagia di dalam hati yang dapat mengalahkan rasa lelah itu </s>
+<s> Perasaan ketika kamu mengayuhkan sepedamu ke tempat yang belum pernah kau kunjungi sebelumnya </s>
+<s> Tidak hanya itu bersepeda juga bisa membuat tubuh kita sehat </s>
+<s> Ternyata kamu memiliki jiwa petualang </s>
+<s> Tetapi bukankah akan lebih mudah dan cepat jika kamu mengg</s>arai sepeda motor </s>
+<s> Pasti akan sangat cepat tapi kamu tidak akan menemukan sebuah kepuasan karena meng</s>arai sepeda motor tidak ada tantangannya </s>
+<s> Bahkan bisa menambah polusi udara yang telah terjadi saat ini </s>
+<s> Ada benarnya juga sih </s>
+<s> Memang sulit berargumen tentang hobi seseorang </s>
+<s> Akhirnya kita sudah sampai </s>
+<s> Tunggu sebentar aku akan memarkirkan mobilku </s>
+<s> Terimakasih banyak ya atas bantuannya </s>
+<s> Terimakasih kembali kalau begitu aku akan melanjutkan perjalananku </s>
+<s> Semoga kau bisa kembali melanjutkan hobimu itu </s>
+<s> Sampai ketemu lagi ya </s>
+<s> Sampai jumpa kembali </s>
+<s> Selamat pagi ada yang bisa saya bantu </s>
+<s> Selamat pagi saya sedang mencari sepatu </s>
+<s> Bisa tolong tunjukan saya tempat rak sepatu-sepatu terbaru </s>
+<s> Bisa kalau begitu silahkan ikuti saya </s>
+<s> Sepatu-sepatu keluaran terbaru ada di rak paling depan dekat pintu masuk </s>
+<s> Wah ini adalah sepatu yang aku inginkan </s>
+<s> Silahkan dipilih terlebih dahulu </s>
+<s> Kami menyediakan beberapa macam pilihan sepatu dengan merek dan warna yang beragam </s>
+<s> Pilihan yang banyak ini membuat aku bingung </s>
+<s> Apakah anda bisa membantu saya memilih sepatu yang pas </s>
+<s> Dengan senang hati </s>
+<s> Toko kami menyediakan beberapa macam merek sepatu yang sedang populer saat ini </s>
+<s> Sepatu-sepatu inilah yang sering dikenakan oleh anak muda masa kini dengan menyesuaiakan gaya dan kepribadian mereka </s>
+<s> Menyesuaikan gaya dan kepribadian </s>
+<s> Bisa tolong jelaskan maksud dari kalimat itu </s>
+<s> Maksudnya sepatu-sepatu ini akan sangat cocok dan terlihat lebih pas dengan gaya pemakainya </s>
+<s> Contohnya jika Anda menyukai olahraga sepatu ini menjadi pilihan yang tepat  </s>
+<s> karena selain bisa dipakai untuk berolahraga seperti lari dan bermain bulu tangkis sepatu ini juga bisa dipakai untuk bergaya </s>
+<s> oh begitu </s>
+<s> aku adalah orang yang menyukai kesederhanaan dan petualang </s>
+<s> Apakah ada sepatu yang cocok denganku </s>
+<s> Kalau begitu sepatu jenis ini sangat cocok untuk Anda </s>
+<s> Sepatu ini juga tidak perlu dicuci sesering mungkin </s>
+<s> karena pada dasarnya semakin kotor sepatu ini akan terlihat semakin menarik </s>
+<s> Bukankah kotor menyebabkan sepatu terlihat buruk </s>
+<s> Kalimat tadi hanya perumpamaan saja </s>
+<s> Tentunya ada batas kotor yang masih bisa ditoleransi </s>
+<s> dibandingkan dengan sepatu jenis yang itu sepatu itu harus selalu terlihat bersih </s>
+<s> Oleh karena itu sepatu itu tidak cocok untuk jiwa petualang seperti Anda </s>
+<s> Oh aku mengerti </s>
+<s> Baiklah aku akan ambil sepatu yang ini </s>
+<s> Pilihan yang tepat </s>
+<s> Tetapi bagaimana dengan warnanya dan nomor sepatu Anda  </s>
+<s> Hitam sudah cocok dengan seleraku dan berikan aku sepatu nomor 40 </s>
+<s> Ini dia dan silahkan dicoba terlebih dahulu </s>
+<s> Ya sepatu ini pas di kakiku </s>
+<s> Saya sudah yakin akan membeli sepatu ini </s>
+<s> Kalau begitu saya akan mengemasnya dan silahkan ke kasir untuk menyelesaikan pembayarannya </s>
+<s> Baiklah dan terimakasih atas bantuannya </s>
+<s> Terimakasih kembali </s>
+<s> Liburan semester ini kamu akan libur ke mana Din </s>
+<s> Sepertinya aku akan pergi ke rumah kakek di kampung </s>
+<s> Kalau kamu Nam </s>
+<s> Berarti di kampung masih banyak kerbau dan juga sawah-sawah dong </s>
+<s> Rencananya aku dan keluarga akan berlibur ke Pulau Lombok tau kan </s>
+<s> Pulau yang dekat dengan  Pulau Bali </s>
+<s> Meskipun rumah kakek di kampung tapi sudah tidak ada kerbau kok </s>
+<s> Sawah-sawah dibajak menggunakan alat pertanian yang lebih modern </s>
+<s> Sekarang juga sawah-sawah di kampung kakek sudah banyak yang berkurang digantikan dengan bangunan-bangunan rumah </s>
+<s> wah sayang sekali ya </s>
+<s> Padahal di kampung akan lebih terasa suasana kampungnya kalau masih banyak sawah dan juga kerbaunya </s>
+<s> Terus selama di kampung kakek kamu punya rencana apa </s>
+<s> Seperti biasanya Nam aku akan membantu kerjaan kakek </s>
+<s> Misalnya saja menanam padi memanen padi dan lainnya </s>
+<s> Terus kamu nanti di Lombok mau ke mana saja </s>
+<s> Aku boleh minta oleh-oleh khas dari Lombok tidak </s>
+<s> Di Lombok nanti aku pergi ke Pulau Gili dan menyelam </s>
+<s> Karena aku suka menyelam </s>
+<s> wah pasti seru ya </s>
+<s> Aku boleh minta oleh-oleh khas dari Lombok tidak </s>
+<s> Iya boleh kamu mau minta oleh-oleh apa </s>
+<s> Bawakan aku pasir pantai dan karang laut </s>
+<s> Haha iya nanti aku bawakan sekarung pasir dan karang laut </s>
+<s> Hahaha benar ya aku tunggu </s>
+<s> Semoga liburan kamu menyenangkan ya Nam </s>
+<s> Iya Terima kasih ya Din </s>
+<s> Sama-sama Nam </s>
+<s> hai ji mau kemana </s>
+<s> hai yor aku mau ke ctim nih </s>
+<s> ngapain kesana ji </s>
+<s> mau belajar yor </s>
+<s> mau ikut dong ji </s>
+<s> kamu gaada kelas habis ini yor </s>
+<s> gaada ji aku kosong </s>
+<s> hari ini kelasnya cuma sampai jam sebelas aja </s>
+<s> oke yuk yor kita langsung kesana aja </s>
+<s> kamu gaada kelas ji habis ini  </s>
+<s> ada yor nanti sore </s>
+<s> jam berapa ji </s>
+<s> jam tiga sampai jam enam </s>
+<s> eh ji aku baru ingat ada kelas pengganti habis ini </s>
+<s> yah oke deh yor aku duluan kesana ya </s>
+<s> oke ji </s>
+<s> yan habis ini mau kemana </s>
+<s> makan yuk </s>
+<s> yuk mau makan dimana </s>
+<s> di ganyang aja gimana aku lagi pengen makan nasi padang </s>
+<s> boleh aku juga lagi pengen beli sup buah </s>
+<s> ir kamu tidur tadi malam jam berapa ngantuk banget kelihatannya </s>
+<s> kelihatan banget ya ngantuk nya iya nih tadi malam aku tidur jam tiga </s>
+<s> ngerjain apa tuh sampai tidur larut banget </s>
+<s> ngerjain tugas bikin makalah dikumpul tadi pagi </s>
+<s> trus tahu ga saking ngantuknya aku ketiduran dikelas </s>
+<s> trus kena marah deh sama dosen </s>
+<s> wah kasihan  </s>
+<s> iya nih tapi malunya lagi aku disuruh nyanyi di depan kelas sama dosen </s>
+<s> makanya ngerjain tugas itu jangan ditunda-tunda </s>
+<s> ir kamu jadi ikut kemah minggu lalu </s>
+<s> jadi yan rugi kamu ga ikut kemah minggu kemaren </s>
+<s> iya aku pengen ikut tapi susah minta izin nya </s>
+<s> yang ikut kemaren siapa aja ir </s>
+<s> yang ikut itu aku keisya dela bela dan tiara </s>
+<s> wah dikit juga ya ternyata yang ikut kalian ga ribet apa m</s>iriin t</s>anya </s>
+<s> iya ribet apalagi kami sampai di tempat kemahnya udah malam </s>
+<s> berarti kalian m</s>irikan t</s>anya dikegelapan dong </s>
+<s> iya untungnya yang kemah disana bukan cuma kami aja  </s>
+<s> jadinya kami bisa minta bantuan ke orang lain </s>
+<s> wah syukurlah </s>
+<s> trus kalian selama diperkemahan ngapain aja </s>
+<s> malam nya kami bikin api unggun trus nyanyi bersama-sama </s>
+<s> terus besok paginya kami pergi ke penangkaran rusa </s>
+<s> wah ada penangkaran rusa ya di dekat sana </s>
+<s> iya kami bahkan bisa megang rusanya loh </s>
+<s> wah asiknya aku jadi pengen deh </s>
+<s> lain kali kalau kita berkemah lagi kamu coba ikut deh </s>
+<s> iya mudah-mudahan aku bisa dapat izin </s>
+<s> hai semuanya ketemu lagi dengan saya jessy </s>
+<s> dan sister ku rika   </s>
+<s> oke kembali ke channel saya </s>
+<s> jadi hari ini kita juga bakalan bahas horor story part dua </s>
+<s> disclaimer dulu ya </s>
+<s> kita di sini bukan indigo </s>
+<s> expert atau paranormal </s>
+<s> kita murni cuma sharing pengalaman pribadi kita </s>
+<s> dan kita juga tidak memaksa kalian untuk percaya dengan story kami </s>
+<s> di part hari ini aku bakal tanyain ke kakak ku s</s>iri </s>
+<s> perasaan dia gimana </s>
+<s> dan pengalaman pertama dia </s>
+<s> ngalamin hal mistis itu kayak apa sih gitu </s>
+<s> m okey </s>
+<s> jadi </s>
+<s> pengalaman saya itu pertama kali  </s>
+<s> kalau enggak salah memang gak salah ya </s>
+<s> itu pertama kalinya </s>
+<s> gak salah berarti benar ya </s>
+<s> pertama kalinya  </s>
+<s> itu saya </s>
+<s> bukan ngerasain dulu </s>
+<s> pertama kalinya itu penampakan dulu </s>
+<s> dan itu </s>
+<s> masih kecil banget deh </s>
+<s> jadi itu rada rada shock  </s>
+<s> dan gak percaya </s>
+<s> tapi itulah yang terjadi </s>
+<s> dan itu pertama kali terjadinya itu pas </s>
+<s> masih kecil sih </s>
+<s> masih sd </s>
+<s> sekitaran kelas lima sd kalau enggak salah ingat ya </s>
+<s> kurang lebih seperti itu </s>
+<s> ngelihatnya itu lokasinya di mana sih </s>
+<s> pertama kalinya ngelihatnya itu justru itu bukan di mana mana sih  </s>
+<s> bukan di luar ya </s>
+<s> itu di rumah kita s</s>iri </s>
+<s> itu tapi lu enggak tau soalnya </s>
+<s> lu masih umur kayak  </s>
+<s> satu dua tahun </s>
+<s> karena itu aku masih  </s>
+<s> lima sd </s>
+<s> dia beda sama aku tujuh tahun ya </s>
+<s> iya tujuh tahun </s>
+<s> lumayan ini jauh juga </s>
+<s> jadi dia masih kecil </s>
+<s> tau kan rumah itu yang aku maksud </s>
+<s> dan itu rumahnya di kota kecil </s>
+<s> kita gak sebut  </s>
+<s> seperti biasa namanya </s>
+<s> kita gak sebut </s>
+<s> karena itu juga memang bukan rumah kita ya </s>
+<s> jadi kita gak ada hak untuk bilang bilang itu di mana </s>
+<s> itu kita juga dulunya sewa yah </s>
+<s> sekarang juga  </s>
+<s> masih ditempatin sama orangnya  </s>
+<s> jadi kita enggak ngomong </s>
+<s> pokoknya itu lokasinya </s>
+<s> dekat dekat lah  </s>
+<s> sama yang kayak vihara dan segala macam </s>
+<s> itu pertama kalinya </s>
+<s> di situ  </s>
+<s> terus </s>
+<s> sosok gimana yang pertama kali dilihatin </s>
+<s> pokoknya dulu zaman dulu itu kan kita masih sd ya </s>
+<s> belum pisah kamar gitu </s>
+<s> jadi aku sama </s>
+<s> kakak aku yang paling gede sama adikku yang cowok </s>
+<s> kamarnya satu </s>
+<s> dalam satu kamar tidurnya  </s>
+<s> cuma aku sama cece </s>
+<s> satu tempat tidur </s>
+<s> terus eu  </s>
+<s> adikku yang cowok </s>
+<s> di di single bed terpisah </s>
+<s> gitu </s>
+<s> dan tempat tidur kita emang di bawah </s>
+<s> kayak kasur di bawah gitu </s>
+<s> jadi </s>
+<s> yang gak ada kolongnya gitu </s>
+<s> jadi itu pertama kalinya aku ngelihat banget sih  </s>
+<s> dan itu super super </s>
+<s> fantastis </s>
+<s> bombastis ngerinya gitu </s>
+<s> jadi em </s>
+<s> itu ngelihatnya di kamar </s>
+<s> kamar s</s>iri </s>
+<s> tengah malam sih </s>
+<s> ngerasain nge feel nya itu </s>
+<s> pasti ngeri ya  </s>
+<s> ngeri </s>
+<s> itu kan ceritanya aku lagi tidur tuh </s>
+<s> bertiga jadi </s>
+<s> kurang lebih aku gak tau jam berapa sih persisnya </s>
+<s> pokoknya itu tengah malam </s>
+<s> tengah malam banget lah </s>
+<s> jadi pokoknya gak tau jam berapa intinya </s>
+<s> jadi itu eum </s>
+<s> di kamar ini misalnya tempat tidur </s>
+<s> ini tempat tidur aku sama cece </s>
+<s> ini  </s>
+<s> eum </s>
+<s> adik yang cowok </s>
+<s> terus </s>
+<s> di sini ada j</s>ela kecil </s>
+<s> j</s>elanya itu  </s>
+<s> dari kamar itu </s>
+<s> menghadap ke ruang belakang </s>
+<s> jadi ke ruang belakang itu ada tempat makan </s>
+<s> dapur  </s>
+<s> dapur ya </s>
+<s> seperti itu jadi </s>
+<s> aku ngelihatnya itu tepat di samping j</s>ela </s>
+<s> oke jadi pertama kali aku lihat </s>
+<s> itu </s>
+<s> itu ghost ya </s>
+<s> pertama kalinya </s>
+<s> kau lihat itu </s>
+<s> itu sebenarnya seram banget ya </s>
+<s> karena yang aku lihat itu </s>
+<s> ini </s>
+<s> aku swear gak bohong </s>
+<s> yang aku lihat itu  </s>
+<s> yang tidak ber </s>
+<s> kepala </s>
+<s> tepat di sampingnya  </s>
+<s> atau </s>
+<s> di samping j</s>ela </s>
+<s> maksudnya pas j</s>elanya memang kebuka gitu ya </s>
+<s> atau </s>
+<s> j</s>elanya kan bukan masih yang kayu kayu kan </s>
+<s> enggak </s>
+<s> yang biasanya aja yang maksudnya j</s>elanya itu bukan </s>
+<s> mengarah keluar rumah loh </s>
+<s> dari kamar mengarah ke ruang dapur aja </s>
+<s> tapi bukan ke luar gitu </s>
+<s> jadi kalau dari j</s>ela kita ngintip ke luar </s>
+<s> itu ya ruang makan gitu </s>
+<s> segala macem </s>
+<s> tapi aku lihatnya itu di samping j</s>ela </s>
+<s> berarti kan  </s>
+<s> itu ngeri banget karena tidak berkepala </s>
+<s> hem </s>
+<s> tapi kenapa saya gak begitu takut pada saat itu ya </s>
+<s> ya takut pasti ya </s>
+<s> cuma kenapa saya gak begitu takut </s>
+<s> karena dia cuma sekedar </s>
+<s> kayak putih putih gitu aja </s>
+<s> kayak ngerti kan kalau bayangan putih putih  </s>
+<s> kan </s>
+<s> kan gak lucu kan kalau misalnya dia tidak ber </s>
+<s> euh </s>
+<s> terus ada darah darahnya </s>
+<s> ya itu mungkin </s>
+<s> gak usah ngomong ya </s>
+<s> aku pun pasti udah pingsan </s>
+<s> gak mungkin </s>
+<s> jadi untungnya sih </s>
+<s> dikasih lihatnya masih yang sekedar bayangan putih seperti itu </s>
+<s> jadi </s>
+<s> pertamanya </s>
+<s> lucunya ini </s>
+<s> ada cerita panjang ini </s>
+<s> jadi pertamanya itu aku ragu </s>
+<s> jadi kan aku korban tv donk </s>
+<s> jadi  </s>
+<s> kan </s>
+<s> aku lihat ke situ </s>
+<s> terus kok ada </s>
+<s> gitu </s>
+<s> halah bayangan lah ini </s>
+<s> atau  </s>
+<s> ada  </s>
+<s> tai mata atau segala macam karena  </s>
+<s> karena bangun  </s>
+<s> tengah malam kan </s>
+<s> jadi korban tv </s>
+<s> di tv biasanya itu kalau orang ngelihat </s>
+<s> biasanya kan kucek kucek mata </s>
+<s> lihat lagi </s>
+<s> hilang </s>
+<s> aku tes kayak gitu tau gak bodohnya </s>
+<s> aku tes kucek kucek </s>
+<s> masih ada </s>
+<s> terus </s>
+<s> aku pura pura tidur </s>
+<s> ya pura pura tidur </s>
+<s> gak berani goyang kan </s>
+<s> tapi terakhir </s>
+<s> sudahlah bayangan </s>
+<s> gitu kan </s>
+<s> noleh lagi </s>
+<s> masih ada </s>
+<s> kucek kucek lagi matanya </s>
+<s> masih ada </s>
+<s> udahlah  </s>
+<s> udah takut kan  </s>
+<s> dan itu aku udah </s>
+<s> udah tau kalau ini real </s>
+<s> cuma masalahnya kalau misalnya ada pertanyaan gini kan </s>
+<s> itu </s>
+<s> ada kaki nya </s>
+<s> napak atau enggak </s>
+<s> misalnya ada pertanyaan kayak gitu </s>
+<s> aku sama sekali gak tau </s>
+<s> karena memang gak kelihatan </s>
+<s> kenapa gak kelihatan </s>
+<s> posisinya </s>
+<s> aku sama ceceku </s>
+<s> tidur di sini </s>
+<s> ini adikku yang cowok </s>
+<s> j</s>elanya tepat </s>
+<s> adikku cowok yang tidur itu dempet ke tembok </s>
+<s> ngerti nggak </s>
+<s> jadi em </s>
+<s> aku melihat dia </s>
+<s> tidak ada kepala </s>
+<s> tapi di bawahnya itu </s>
+<s> di bagian kakinya </s>
+<s> ketutup sama kaki adikku </s>
+<s> oh </s>
+<s> jadi kalau misalnya lu nanya </s>
+<s> kaki nya napak apa enggak </s>
+<s> itu aku enggak ngerti </s>
+<s> gelap juga lah pastinya </s>
+<s> kondisi itu kan </s>
+<s> gelap kan </s>
+<s> e gak gitu gelap sih </s>
+<s> lampunya </s>
+<s> remang remang ya </s>
+<s> remang remang </s>
+<s> lampunya mati </s>
+<s> tapi ada sinar lampu dari ruang makan tadi </s>
+<s> gitu </s>
+<s> jadi </s>
+<s> jadi itu punya sejarahnya sampai aku sma  </s>
+<s> itu aku traumanya sampai segitunya </s>
+<s> sampe </s>
+<s> setiap aku tidur  </s>
+<s> itu aku gak pernah matiin lampu </s>
+<s> terus baru sekarang pulih itu traumanya </s>
+<s> itu karena </s>
+<s> menikah yah </s>
+<s> iya </s>
+<s> karena semua  </s>
+<s> saya kebetulan itu gak bisa tidur kalau terang  </s>
+<s> jadi lama kelamaan sudah mulai bisa </s>
+<s> tapi </s>
+<s> itu pun harus ada sedikit sinar yang masuk ya </s>
+<s> kayak dari kamar mandi </s>
+<s> berarti gak bisa gelap total gitu kan </s>
+<s> gak bisa </s>
+<s> sama sekali </s>
+<s> kalau sampai sekarang dibilang </s>
+<s> aku masih gak bisa </s>
+<s> karena sampai sekarang walaupun lampunya ditutup </s>
+<s> tetap minta buka sikit  </s>
+<s> gitu </s>
+<s> terus yang lucunya </s>
+<s> ini cerita yang panjang </s>
+<s> karena apa </s>
+<s> jadi di hari itu aku pikir </s>
+<s> cuma aku yang lihat </s>
+<s> ternyata </s>
+<s> cece juga alias kakak ku  </s>
+<s> juga ngelihat </s>
+<s> dan itu yang lucunya begini </s>
+<s> aku pas saat lihat </s>
+<s> kan takut tuh </s>
+<s> ya </s>
+<s> aku pura pura tidur  </s>
+<s> dia yang bangun </s>
+<s> dia ngelihat </s>
+<s> dia langsung bilang </s>
+<s> enggak </s>
+<s> dia pun </s>
+<s> pertamanya </s>
+<s> dia pun gini </s>
+<s> aku bangun pura pura tidur </s>
+<s> dia bangun </s>
+<s> dia juga gak ngelihat  </s>
+<s> tapi dia ngelihat yang berbeda sama yang aku lihat </s>
+<s> dia pun pura pura tidur lagi </s>
+<s> terus </s>
+<s> aku bangun lagi </s>
+<s> loh bangun lagi </s>
+<s> tengok lagi </s>
+<s> takut lagi </s>
+<s> aku lihat dia </s>
+<s> malahan aku manggil dia loh </s>
+<s> tau gak </s>
+<s> san </s>
+<s> san </s>
+<s> shia </s>
+<s> shia </s>
+<s> gitu kan </s>
+<s> gak bangun dia </s>
+<s> ternyata dia itu kebangun juga </s>
+<s> dan dia tau persis aku panggil dia </s>
+<s> cuma sengaja gak mau bangun  </s>
+<s> tapi dia gak mau bangun </s>
+<s> karena dia pun ngelihat karena </s>
+<s> karena takut lah </s>
+<s> dan ceritanya  </s>
+<s> aku gak tau dia ngelihat </s>
+<s> dia juga gak </s>
+<s> tau aku ngelihat gitu </s>
+<s> iya </s>
+<s> sama sama gak tau lah </s>
+<s> udah itu </s>
+<s> ketiga kalinya </s>
+<s> aku bangun </s>
+<s> dan aku melihat dia masih tidur </s>
+<s> ya udahlah </s>
+<s> aku udah mulai nyerah nih </s>
+<s> maksudnya </s>
+<s> aku takut </s>
+<s> terus bangunin dia </s>
+<s> dia juga gak bangun </s>
+<s> ya udahlah  </s>
+<s> tidur lagi </s>
+<s> gitu kan eh  </s>
+<s> tau enggak dia tiba tiba bilang apa </s>
+<s> jangan pegang rambut aku bisa gak sih </s>
+<s> waduh </s>
+<s> aku langsung </s>
+<s> aku langsung belok ke dia kan </s>
+<s> eh lu kenapa sih </s>
+<s> siapa yang pegang  </s>
+<s> aku gak pegang gitu </s>
+<s> sengaja gedein suara </s>
+<s> biar dia bangun dan aku enggak takut </s>
+<s> tetap gak mau bangun </s>
+<s> mungkin karena dia takut juga kan </s>
+<s> dan itu aku benar benar gak tau dia ngelihat </s>
+<s> terus karena </s>
+<s> udah dia jerit gitu kan  </s>
+<s> aku jatuhnya  </s>
+<s> udah mau pura pura tidur lagi itu gak berani </s>
+<s> jadi ya udahlah </s>
+<s> sebenarnya dari awal aku takut itu  </s>
+<s> kenapa enggak jerit aja </s>
+<s> karena itu udah tengah malam </s>
+<s> terus aku takut </s>
+<s> tengah malam ngapain sih </s>
+<s> kena marah gitu kan </s>
+<s> tapi dulu kan kena marah kalau jerit jerit gitu kan  </s>
+<s> anak anak tau lah kalau jerit jerit gitu kan dipikir main main </s>
+<s> kena marah gitu kan </s>
+<s> jadi </s>
+<s> ini udah sampai poin titik di mana udah takut banget </s>
+<s> aku langsung jerit </s>
+<s> kebetulan kamar mama aku di samping doang kan </s>
+<s> tengah malam jerit </s>
+<s> ma ma gitu kan </s>
+<s> dia bilang kenapa kenapa sih </s>
+<s> gitu kan </s>
+<s> udah datang dulu sini </s>
+<s> karena kalau kejadian tuh kan aku gak berani langsung ngomong </s>
+<s> kenapa sih </s>
+<s> tunggu lah </s>
+<s> sini dulu sini dulu </s>
+<s> untungnya tanpa tanya terlalu banyak dia datang </s>
+<s> buka pintu </s>
+<s> kenapa sih </s>
+<s> ma </s>
+<s> buka lampu </s>
+<s> kenapa </s>
+<s> enggak </s>
+<s> buka aja lampunya dulu </s>
+<s> hilang </s>
+<s> terus lega donk </s>
+<s> ditanya sama mama kenapa sih </s>
+<s> bo lah ma udah </s>
+<s> iya yaudah bobo </s>
+<s> udah tidur </s>
+<s> dia balik </s>
+<s> sebenarnya masih takut kan </s>
+<s> tapi yaudah </s>
+<s> terselamatkan lah rasanya karena udah hilang </s>
+<s> jadi mama balik </s>
+<s> aku masih mau belok gini </s>
+<s> ku intipin dulu </s>
+<s> itu masih di situ enggak </s>
+<s> gak ada lagi </s>
+<s> gak ada lagi yaudah </s>
+<s> aku gak berani ngomong jadi ketakutan itu aku simpan sampai terakhir aku bangun </s>
+<s> bangun lagi di saat sampe besoknya </s>
+<s> oh besoknya </s>
+<s> udah aman kan nah </s>
+<s> barulah di situ </s>
+<s> eu </s>
+<s> ditanyain semalam </s>
+<s> sama mama </s>
+<s> oh </s>
+<s> entah ditanyakin dulu apa aku yang ngomong dulu </s>
+<s> aku lupa </s>
+<s> semalam kenapa sih </s>
+<s> lu panggil panggil </s>
+<s> nah itu mak </s>
+<s> semalam aku ngelihat </s>
+<s> bla bla bla aku ceritain lah </s>
+<s> selamat pagi </s>
+<s> huh lihat tuh si cupu datang </s>
+<s> dasar cupu lihat aja tuh dandanannya gak modis banget </s>
+<s> bener tuh dasar cewek cupu  </s>
+<s> huh gak banget deh </s>
+<s> hai wanda gimana nih kabar kamu </s>
+<s> hai rama kabar aku baik </s>
+<s> alhamdulillah  </s>
+<s> hmm oh iya kamu udah sarapan belum </s>
+<s> belum </s>
+<s> oh kebetulan aku juga belum  </s>
+<s> kita sarapan bareng yuk ke kantin tangan wanda </s>
+<s> gak deh ma makasih ya </s>
+<s> yaudah aku temenin di sini aja ya </s>
+<s> hmm oh iya wan soal materi kemaren aku gak ngerti nih  </s>
+<s> ajarin dong </s>
+<s> oh materi itu bentar ya  </s>
+<s> aku ambil catatan ku dulu  </s>
+<s> oke </s>
+<s> jadi gini </s>
+<s> oh gitu toh sekarang aku ngerti  </s>
+<s> makasih ya wanda </s>
+<s> ma lo ngapain sih di sini sama si cupu </s>
+<s> loh emang kenapa </s>
+<s> ya ampun pake nanya lagi kenapa  </s>
+<s> ya udah jelaslah gak penting  </s>
+<s> udah lo balik aja duduk sama kita kita </s>
+<s> oke deh wanda </s>
+<s> hai cupu sini dulu </s>
+<s> ya iya lah lo kira siapa  </s>
+<s> udah buruan sini lelet banget sih </s>
+<s> janganlah wan </s>
+<s> udah gak papa </s>
+<s> ada apa </s>
+<s> nih beliin gua minuman  </s>
+<s> oh iya lo lo mau pada sekalian gak </s>
+<s> oke gua satu </s>
+<s> gua juga nih </s>
+<s> sama nih </s>
+<s> oh iya lo sis </s>
+<s> hmm gak deh gue bisa beli s</s>iri aja nanti </s>
+<s> omg ya ampun ribet banget sih lo sekalian aja napa </s>
+<s> gak lah  </s>
+<s> huh ya udah lo s</s>iri mau pesan apa  </s>
+<s> gue gak deh gak haus </s>
+<s> nih duitnya  </s>
+<s> oh iya buruan gak pake lama </s>
+<s> oh my god baju gue gila  </s>
+<s> maaf aku ga sengaja  </s>
+<s> udah gak usah gue gak butuh maaf </s>
+<s> sumpah lah ya cupu  </s>
+<s> lo sadar gak sih sama apa yang lo lakuin  </s>
+<s> wanda sampai terjatuh </s>
+<s> ya ampun wanda </s>
+<s> woi santai aja dong  </s>
+<s> apa apaan lo ngedorong teman gue </s>
+<s> terus emang kenapa </s>
+<s> eh lo g</s>ut udik jangan songong deh </s>
+<s> emang kenapa  </s>
+<s> lo pikir gue takut sama lo lo pada </s>
+<s> ya ampun udah dong woi  </s>
+<s> udah ngapain diperpanjang lagi sih  </s>
+<s> lagian kan dia udah minta maaf  </s>
+<s> maafin aja napa </s>
+<s> maafin lo bilang sis  </s>
+<s> baju gue lo liat  </s>
+<s> baju gue bajunya yang basah </s>
+<s> iya gue tau tapi kan dia gak sengaja  </s>
+<s> udah minta maaf  </s>
+<s> dan untuk urusan baju lo kan juga masih punya baju cadangan  </s>
+<s> apa susah nya sih tinggal diganti </s>
+<s> udah deh vi kasihan tuh wandanya  </s>
+<s> lo jahat banget sih sama dia  </s>
+<s> padahal kan wanda baik </s>
+<s> ih sumpah lah ya  </s>
+<s> lo berdua itu nyebelin banget  </s>
+<s> gue muak sama lo </s>
+<s> yuk wan kita balik </s>
+<s> hmm ntar lagi ah  </s>
+<s> aku masih mau nyelesaiin catatan </s>
+<s> yaudah terserah kamu aja </s>
+<s> hmm kalo gitu kita tunggu di parkiran aja ya  </s>
+<s> soalnya aku ada urusan bentar </s>
+<s> oh gitu oke deh </s>
+<s> eh si cupu tengil  </s>
+<s> s</s>irian aja </s>
+<s> sini main dulu sama kita kita </s>
+<s> gak ah aku mau pulang aja </s>
+<s> o mau pulang ya </s>
+<s> ya ampun udah dong woi  </s>
+<s> kurang kerjaan banget sih ngebully anak orang </s>
+<s> iya nih kasihan wandanya </s>
+<s> huh ini lagi  </s>
+<s> sok suci banget sih kalian berdua </s>
+<s> sok suci gue gak ngerasa tuh </s>
+<s> sama gue juga </s>
+<s> dan gue di sini kan cuma mengingatkan kalian  </s>
+<s> kalo apa yang kalian lakuin itu salah  </s>
+<s> dan menurut gue itu berlebihan banget </s>
+<s> berlebihan maksud lo berlebihan </s>
+<s> iya maksudnya tuh kalian melakukan keisengan pembulian hanya karna dia melakukan satu kesalahan  </s>
+<s> dan itu pun juga tanpa disengaja  </s>
+<s> ya menurut gue itu berlebihan </s>
+<s> huh berisik banget sih lo  </s>
+<s> sumpah lah ya makin kesini tuh lo makin meny menyebalkan tau gak </s>
+<s> menyebalkan loh emang menurut lo apa yang gue omongin barusan salah gitu </s>
+<s> banget </s>
+<s> what sumpah gue gak ngerti sama kalian </s>
+<s> gak ngerti  </s>
+<s> nih ya gue jelasin sama lo  </s>
+<s> dengan lo ngebelain nih anak udik sama aja lo udah nentang </s>
+<s> terserah deh </s>
+<s> well well well enaknya diapain nih cupu </s>
+<s> heh lempar aja tuh ke bawah biar mati sekalian </s>
+<s> woi gila lo pada ya </s>
+<s> eh lo diam aja deh </s>
+<s> tapi sebelum itu m</s>ing kita pretelin muka sok cantiknya ini nih anak </s>
+<s> caranya </s>
+<s> itu soal gampang  </s>
+<s> nih gue ada senjata ampuh </s>
+<s> waw kayaknya seru nih </s>
+<s> eh kalian mau ngapain </s>
+<s> udah lo diam aja </s>
+<s> sumpah kali ini kalian tuh bener kelewatan banget gue gak ngerti lagi </s>
+<s> eh sis lo mau kemana </s>
+<s> kemana ya nengok keadaan dia lah  </s>
+<s> lo pikir menuruni tangga </s>
+<s> siska tunggu </s>
+<s> wah kayaknya mati nih anak </s>
+<s> ya ampun gue gak ikutan deh </s>
+<s> gue juga </s>
+<s> eh tapi nih anak gimana </s>
+<s> udah ayok lo ikut aja </s>
+<s> hey hey lihat nih dp bbm nya ulfa  </s>
+<s> gimana nih kita udah buat kesalahan besar  </s>
+<s> apa yang harus kita lakukan </s>
+<s> kayaknya gue ke kelas duluan deh </s>
+<s> eh nop lo kenapa nop </s>
+<s> tadi tadi gue lihat cowok aneh </s>
+<s> apaan sih nop gak ada apa apa tuh </s>
+<s> loh kok </s>
+<s> kebanyakan ngayal sih lo nop jadi halu gitu </s>
+<s> ya ampun beneran gue gak bohong  </s>
+<s> nih lihat gue gak bohong kan </s>
+<s> hem perasaan gue gak enak nih </s>
+<s> maksud lo sis </s>
+<s> iya aneh aja gitu masak tiba tiba terjadi hal aneh gini  </s>
+<s> atau jangan jangan karna kejadian kemaren lagi </s>
+<s> apaan sih lo sis  </s>
+<s> gak ada hubungannya tau </s>
+<s> iya kan siapa tau penghuni di sini juga ikutan marah trus neror kita </s>
+<s> gimana nih woi pasti ini teror balas d</s>am </s>
+<s> udahlah nop jangan berfikir buruk </s>
+<s> bisa jadi nop mungkin dia gak terima dengan perlakuan kalian kemaren </s>
+<s> duh gimana nih </s>
+<s> udahlah nop jangan berfikiran buruk  </s>
+<s> mungkin ini cuma ada yang iseng aja </s>
+<s> ya udah yuk keluar </s>
+<s> gue takut nih woi </s>
+<s> gue juga  </s>
+<s> kayaknya bener deh kita di teror </s>
+<s> duh gimana nih </s>
+<s> tuh kan apa gue bilang  </s>
+<s> kalian sih jadi orang kelewatan banget </s>
+<s> kok lo jadi nyalahin kita sih sis </s>
+<s> nggak kok gue ga nyalahin  </s>
+<s> kan gue cuma bilang aja </s>
+<s> iya tapi nada bicara lo tuh seakan akan yang salah cuma kita aja </s>
+<s> terserahlah </s>
+<s> ya ampun udah dong woi  </s>
+<s> situasi udah kayak gini ribut aja </s>
+<s> no siapa sih aneh aneh </s>
+<s> speakerin aja sa </s>
+<s> halo </s>
+<s> gimana nih woi </s>
+<s> ini gak bener woi kita pulang aja yuk </s>
+<s> tunggu dulu kita gak bisa pulang gitu aja kita harus selidiki kasus ini </s>
+<s> gue setuju </s>
+<s> ya ampun wanda </s>
+<s> wan wan bangun wan  </s>
+<s> lo kenapa wan </s>
+<s> wan wan sadar wan  </s>
+<s> siapa yang udah berani ngelakuin ini wan  </s>
+<s> gimana nih ar </s>
+<s> aku cek sih dia gapapa fa cuma kayaknya terkilir aja trus dia juga sedikit shock aja </s>
+<s> udah kita bawa aja ke uks </s>
+<s> tapi gimana caranya kita cuma berdua </s>
+<s> oke aku minta bantuan pakde sama pakmin dulu </s>
+<s> oke buruan fa </s>
+<s> memangnya masalah apa </s>
+<s> udah nanti saja saya jelaskan </s>
+<s> wan kamu gak papa </s>
+<s> iya kamu kok bisa begini </s>
+<s> apaan sih kamu </s>
+<s> jadi gimana ceritanya wan </s>
+<s> wah gak bisa dibiarin tu mereka  </s>
+<s> ini bener bener sudah kelewatan </s>
+<s> iya betul tuh kalo dibiarkan terus mereka bakal gak kapok kapok </s>
+<s> udah lah woi gak papa  </s>
+<s> lagian kan aku juga udah gak papa </s>
+<s> gak papa apanya lihat tuh kening kamu sampai luka gitu </s>
+<s> iya untung aja kamu gak mati habis menggelinding dari tangga tadi </s>
+<s> trus sekarang kita harus gimana </s>
+<s> kita bikin rencana </s>
+<s> oh iya pakde pakmin mau ikut bantu kan </s>
+<s> oh saya tentu  </s>
+<s> soalnya saya juga mau memberi pelajaran bagi anak anak nakal itu </s>
+<s> oke bagus kalau begitu  </s>
+<s> tapi gimana caranya ya </s>
+<s> tenang ntar gue bantu </s>
+<s> tenang sekarang gue ada di pihak kalian kok </s>
+<s> maksud lo </s>
+<s> iya maksudnya gue bakal bantu bikin rencana buat ngasih mereka pelajaran </s>
+<s> kak aku boleh minta tolong gak </s>
+<s> boleh mau minta tolong apa </s>
+<s> aku gak bawa buku aku boleh pinjam buku kakak gak </s>
+<s> oh buku ini boleh ambil aja </s>
+<s> aduh jatuh maaf aku gak sengaja </s>
+<s> tuh kan buku aku jadi kotor </s>
+<s> aku kan udah minta maaf </s>
+<s> emangnya dengan kata maaf kamu buku aku bisa jadi bersih lagi </s>
+<s> tapi aku kan gak sengaja  </s>
+<s> lagian kamu kan yang jatuhi bukunya </s>
+<s> loh kok malah nyalahin jelas jelas lu yang menginjak </s>
+<s> hai teman teman pada lagi ngapain </s>
+<s> bagaimana hari kalian </s>
+<s> biasa aja apa yang terjadi coba ceritakan </s>
+<s> seperti biasa aja mereka berantem </s>
+<s> udah la jaman gini masih berantem aja </s>
+<s> apa rencana kalian untuk akhir minggu ini </s>
+<s> aku bebas  </s>
+<s> kau s</s>iri ingin gimana </s>
+<s> gimana kalau main ke rumahku </s>
+<s> kita undang teman-teman kita yang lain juga </s>
+<s> boleh tuh dari pada gak ada kerjaan di kos  </s>
+<s> yang lain gimana  </s>
+<s> pada mau </s>
+<s> yuk boleh aku ikut  </s>
+<s> m</s>ingan kita berempat aja tambah ramai makin susah nyesuaiin waktunya </s>
+<s> ide bagus dari pada gak jadi  </s>
+<s> ok sampai ketemu </s>
+<s> udah gak sabar nih </s>
+<s> halo vin aku udah di depan rumah </s>
+<s> ok aku bukain pintu sekarang </s>
+<s> halo ternyata udah pada datang semua ya kirain aku yang pertama </s>
+<s> udah telat masih seenaknya mau jadi yang pertama </s>
+<s> eh vin kenapa kamu beli barang itu lagi bukannya kau udah ada satu </s>
+<s> yang sebelumnya dirusakin sama adiku aku bahkan belum sempat cobain </s>
+<s> oh saya banget ya harganya lumayan kan ya </s>
+<s> iya lumayan sih tapi mau gimana lagi namanya juga anak kecil </s>
+<s> jadi kita mau ngapain aja hari ini </s>
+<s> ngapain ya santai kayak gini sambil ngobrol juga gak papa </s>
+<s> bosan gak sih cuma duduk aja </s>
+<s> m</s>ing kita cari aktivitas </s>
+<s> aku ada ide gimana kalau kita masak bareng lapar nih belum makan </s>
+<s> waduh ini anak udah telat pikirannya cuman ada makanan aja </s>
+<s> kamu ngapain aja sampai udah telat tapi gak sempat makan </s>
+<s> tadi bantuin mama aku dulu mama aku baru pulang dari pasar terus belanjaannya itu banyak banget </s>
+<s> jadi aku bantu bersihin dan rapihin </s>
+<s> alasan aja nih </s>
+<s> yasudah yuk masak kebetulan mama dan papa ku lagi pergi jadi dapurnya kosong </s>
+<s> mau masak apa ya </s>
+<s> mie instan sih udah paling top gampang cepat enak </s>
+<s> jangan mie instan dong aku kemarin baru makan mie instan dua bungkus </s>
+<s> wah makan gak ngajak ngajak nih tiba sekarang lapar baru ngajak </s>
+<s> masa kau mau ke rumahku demi makan mie instan ongkos ke rumahku aja lebih mahal dari pada kau masak mie instan s</s>iri </s>
+<s> benar juga ya demi makanan murah meriah tapi enak m</s>ing aku masak s</s>iri di rumah </s>
+<s> masak nasi goreng gimana </s>
+<s> aku bagian potong sayur </s>
+<s> aku bagian makan aja deh </s>
+<s> enak aja </s>
+<s> kamu bagian makan sama cuci piring aja deh </s>
+<s> yaudah deh yang penting makan dulu aja </s>
+<s> aku bagian chefnya aja </s>
+<s> udah pernah cobain masakan aku belum </s>
+<s> belum kan </s>
+<s> terenak sedunia lo </s>
+<s> kalian gak tau kan kalau kerja sampingan ku adalah chef di restoran terkenal </s>
+<s> suka bercanda dia mungkin kita harus siap-siap dengan makanan yang katanya super enak ini </s>
+<s> iya kita tunggu ya nasi gorengnya </s>
+<s> enak juga ya nasi gorengnya karena sayur yang aku potong ini </s>
+<s> itu karena nasi yang aku masak kali nasinya pulen makanya jadi enak dimasak nasi goreng </s>
+<s> itu karena bumbu rahasia aku kali kalian gak tau aku memakai sembilan bumbu rahasia </s>
+<s> emang kamu kira ini rasa ayam KFC pakai sembilan bumbu bumbu rahasia </s>
+<s> udah udah m</s>ing makan </s>
+<s> yang penting enak kan </s>
+<s> kenyang juga ya tadi pas dilihat porsinya kayak sedikit </s>
+<s> kamu aja yang terlalu rakus </s>
+<s> kamu yang numpang makan ayo cuci piring </s>
+<s> iya-iya ini mau nyuci kalian duduk aja biar pada g</s>ut  </s>
+<s> aku beres makan mah sukanya berdiri sih </s>
+<s> makanya pilih cuci piring aja cerdas gak </s>
+<s> cerdas banget yang penting kamu senang deh </s>
+<s> jadi ceritanya udah kuhasut tapi gak ada yang mau bantuin </s>
+<s> sudah kuduga ide liciknya </s>
+<s> cuci s</s>iri </s>
+<s> iya-iya ini lagi nyuci </s>
+<s> piring-piring itu masih basah harus kau keringin dulu baru disimpan kalau enggak nanti jadi berbintik-bintik </s>
+<s> biasanya aku di rumah langsung disimpan aja </s>
+<s> sini-sini aku bantuin keringin aja deh </s>
+<s> eh rambutmu sudah panjang banget ya </s>
+<s> iya sayang mau dipotong </s>
+<s> tapi nanti rambutmu jadi rusak lo harus sering sering dirapihin belakangnya </s>
+<s> iya ya mungkin minggu depan aku mau ke salon </s>
+<s> setelah ini kita mau ngapain </s>
+<s> pergi yuk </s>
+<s> mau kemana  </s>
+<s> nonton aja yuk </s>
+<s> yuk lagi pengen nonton juga nih </s>
+<s> ke mall yang dekat aja kali ya </s>
+<s> tapi di sana parkirnya sering penuh </s>
+<s> m</s>ing gimana </s>
+<s> gak apa apa la kita cobain aja rezeki anak soleh siapa tau dapet </s>
+<s> yuk langsung berangkat aja </s>
+<s> eh pelanin pelanin ada tempat parkir kosong disana </s>
+<s> hari ini rencananya selain nonton mau ngapain aja kita </s>
+<s> m</s>ing ngapain aja menurutmu </s>
+<s> ih kok nanya balik </s>
+<s> belum ada rencana soalnya aku juga gak tau </s>
+<s> gimana kalau kita setelah ke bioskop makan dan karaoke </s>
+<s> mau makan di mana </s>
+<s> kamu lagi pengen makan apa </s>
+<s> pengen apa ya </s>
+<s> aku lagi pengen makanan barat sih </s>
+<s> mahal makanan barat aku yang murah aja deh </s>
+<s> apa yang murah </s>
+<s> murah tapi enak </s>
+<s> ada mie instan murah dan enak </s>
+<s> iya kan mau pergi </s>
+<s> kok malah mie instan lagi </s>
+<s> yaudah deh makanan barat aja deh gimana kamu aja </s>
+<s> ok </s>
+<s> aku mau makan steak kentang goreng burger pasta ditambah jus </s>
+<s> banyak banget emang bakal habis </s>
+<s> kan ada kalian kalau gak habis tinggal kalian yang makan </s>
+<s> enak aja siapa yang pesan siapa yang harus makan </s>
+<s> padahal s</s>irinya juga senang </s>
+<s> terus mau nonton apa nanti </s>
+<s> oh my god ya nonton film yang lagi hitz sekarang dong </s>
+<s> aku bayarin deh nontonnya  </s>
+<s> tapi nonton film horor yuk </s>
+<s> kan lagi hitz </s>
+<s> enggak gak mau semua boleh kecuali film horor gak mau pokoknya kalau film horor </s>
+<s> ayo lah temanin nonton film horor </s>
+<s> gak mau aku mau nonton disney aja jadi lu ikut atau enggak nih </s>
+<s> yasudah la mengalah aja deh disney deh disney </s>
+<s> terus setelah itu kita pergi karaoke terus nanti kita nyanyi nyanyiin lagu disney </s>
+<s> emang itu tujuannya dong </s>
+<s> kalau gak mau dengar tutup telinga aja kali  </s>
+<s> yang penting temanin karaoke aja biar pergi karaokenya gak s</s>iri s</s>iri amat </s>
+<s> seenaknya aku juga mau nyanyi kali </s>
+<s> aku nyanyi lagu hallowen </s>
+<s> apapula lagu hallowen coba contoh kan </s>
+<s> nanti lihat aja deh di ruang karaoke </s>
+<s> kita tunggu ya nyanyian dengan suara termerdu </s>
+<s> yuk sambil jalan ke bioskop beli tiket dulu aja </s>
+<s> nanti gak kebagian tempat lagi </s>
+<s> tinggal duduk paling depan aja sih </s>
+<s> keluar keluar langsung lehernya gak bisa mutar </s>
+<s> emang leher bisa mutar ya </s>
+<s> baru tau aku juga </s>
+<s> yah kalian tau la maksudku </s>
+<s> film tadi seru juga ya tokoh utama wanitanya keren banget </s>
+<s> aku sih lebih suka pemain cowoknya ganteng abis </s>
+<s> kok malah terkagum kagum sama pemainnya aku sih suka banget sama alur ceritanya  </s>
+<s> anti mainstream banget </s>
+<s> jarang banget film yang alur ceritanya seperti itu </s>
+<s> sutradaranya pasti perfeksionis banget </s>
+<s> tadi itu benar benar detail banget setiap sesi filmnya </s>
+<s> sok profesional banget ini anak ngomonginnya sampai ke sutradara segala </s>
+<s> kalian gak ngerti film dengan alur cerita yang bagus yang membuat artisnya terlihat keren jadi peran sutradara udah yang paling penting </s>
+<s> gak ah aku tetap lebih suka artisnya </s>
+<s> kalau aku sih suka ilustrasinya </s>
+<s> fantasinya itu lo real banget </s>
+<s> gak ngerti lagi sama teknologi mereka </s>
+<s> bahkan kayak singa dan kekuatan kekuatan ajaibnya kelihatan real banget gak sih </s>
+<s> iya ya sampai aku gak ngerasa kalau itu editan lo </s>
+<s> benar juga emang tadi singa itu editan ya </s>
+<s> ya iya la udah pasti editan itu gak mungkinkan singa benaran main film </s>
+<s> eh jaman gini mah mungkin aja kali </s>
+<s> lebih mungkin kalau editan gak sih </s>
+<s> mahal bro kalau benaran sewa singa jinak buat jadi artis  </s>
+<s> jaman gini ya teknologi udah canggih </s>
+<s> kayak udah tua aja dia kalimatnya gitu </s>
+<s> iya ya sebelumnya hidup di gua kayaknya ya  </s>
+<s> yuk langsung pergi makan aja </s>
+<s> udah gak sabar mau karaoke </s>
+<s> iya lapar nih </s>
+<s> yuk sambil jalan ke tempat makan aja </s>
+<s> eh bentar lagi ada yang ulang tahun nih </s>
+<s> ingat makan jadi ingat yang ulang tahun </s>
+<s> siapa yang ulang tahun </s>
+<s> udah tambah tua masih aja gak merasa </s>
+<s> belum kali tenang kita masih seumuran kok sekarang </s>
+<s> traktir traktir </s>
+<s> belum waktunya santai aja la bro nanti kalau udah waktunya aku traktir di warteg deh </s>
+<s> eh kita harus booking tempat karaoke dulu gak </s>
+<s> oh iya ya </s>
+<s> kalau booking sekarang bisa dapat promo ya </s>
+<s> yaudah booking dulu aja yuk </s>
+<s> gak jadi makan dulu udah lapar banget nih </s>
+<s> udah booking tempat dulu nanti kalau gak dapat tempat gak jadi karaoke kita </s>
+<s> yasudah deh booking dulu atau aku ke restoran dulu ya booking tempat juga </s>
+<s> lagi jam makan malam gini gak dapat tempat juga sama </s>
+<s> ide bagus booking dulu aja kita pisah aja </s>
+<s> kami berdua booking restoran kalian berdua booking karaoke gimana </s>
+<s> boleh yuk langsung aja </s>
+<s> ok berarti nanti ketemu di restoran aja ya </s>
