@@ -11,16 +11,16 @@ Stat: rdhmmdef: no <SID> embedded
 Stat: rdhmmdef: assign SID by the order of appearance
 Stat: init_phmm: defined HMMs:  1037
 Stat: init_phmm: loading ascii hmmlist
-Stat: init_phmm: logical names:  3849 in HMMList
-Stat: init_phmm: base phones:    36 used in logical
+Stat: init_phmm: logical names:  3722 in HMMList
+Stat: init_phmm: base phones:    35 used in logical
 Stat: init_phmm: finished reading HMM definitions
 STAT: m_fusion: force multipath HMM handling by user request
 STAT: making pseudo bi/mono-phone for IW-triphone
-Stat: hmm_lookup: 567 pseudo phones are added to logical HMM list
+Stat: hmm_lookup: 502 pseudo phones are added to logical HMM list
 STAT: *** AM00 _default loaded
 STAT: *** loading LM00 _default
-Stat: init_voca: read 4076 words
-Stat: init_ngram: reading in ARPA backward n-gram from lm_5k/ug1
+Stat: init_voca: read 4040 words
+Stat: init_ngram: reading in ARPA forward n-gram from lm_5k/ug1
 Stat: ngram_read_arpa: this is 1-gram file
 Stat: ngram_read_arpa: reading 1-gram part...
 Stat: ngram_read_arpa: read 3711 1-gram entries
@@ -38,7 +38,7 @@ STAT: [1] create MFCC extraction instance(s)
 STAT: [2] create recognition processing instance(s) with AM and LM
 STAT: composing recognizer instance SR00 _default (AM00 _default, LM00 _default)
 STAT: Building HMM lexicon tree
-STAT: lexicon size: 58528 nodes
+STAT: lexicon size: 57712 nodes
 STAT: coordination check passed
 STAT: make successor lists for unigram factoring
 STAT: done
@@ -92,8 +92,8 @@ Configuration of Modules
 
  Language Model:
  - LM00 "_default"
-	vocabulary filename=dict-wsp
-	backward n-gram filename=lm_5k/ug1
+	vocabulary filename=dictionary
+	forward n-gram filename=lm_5k/ug1
 
  Recognizer:
  - SR00 "_default" (AM00, LM00)
@@ -104,7 +104,7 @@ Acoustic Model(s)
 [AM00 "_default"]
 
  HMM Info:
-    1037 models, 596 states, 596 mpdfs, 596 Gaussians are defined
+    1037 models, 587 states, 587 mpdfs, 587 Gaussians are defined
 	      model type = context dependency handling ON
       training parameter = MFCC_N_D_Z_0
 	   vector length = 25

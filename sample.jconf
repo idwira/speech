@@ -12,7 +12,7 @@
 
 # VoxForge configurations:
 -nlr lm_5k/ug1    # finite state automaton grammar file
--v dict-wsp      # pronunciation dictionary
+-v dictionary      # pronunciation dictionary
 -h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
 -hlist tiedlist     # HMMList to map logical phone to physical
 -smpFreq 16000	    # sampling rate (Hz)
@@ -34,7 +34,7 @@
 
 # comment these out for debugging:
 #-logfile julius.log
-#-quiet
+-quiet
 # !!!!!!
 
 -nostrip
