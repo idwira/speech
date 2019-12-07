@@ -11,7 +11,7 @@
 # !!!!!! 
 
 # VoxForge configurations:
--dfa bg1    # finite state automaton grammar file
+-nlr lm_5k/ug1    # finite state automaton grammar file
 -v dict-wsp      # pronunciation dictionary
 -h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
 -hlist tiedlist     # HMMList to map logical phone to physical
@@ -33,6 +33,8 @@
 -lv 4000			# level threshold (0-32767)
 
 # comment these out for debugging:
--logfile julius.log
--quiet
+#-logfile julius.log
+#-quiet
 # !!!!!!
+
+-nostrip

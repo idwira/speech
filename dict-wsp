@@ -1,5 +1,5 @@
-SENT-END sil
-SENT-START sil
+</s> sil
+<s> sil
 a a
 aa a a
 abed a b e t
@@ -31,7 +31,6 @@ ahelah a h e l a h
 ahmad a h m a d
 ahsiap a h s i a p
 ai a i
-ai a sip i
 aing a i ng
 air a i r
 air ay i r
@@ -115,7 +114,7 @@ antri a n t r i
 apa a p a
 apa-apa a p a a p a
 apaan a p a a n
-apaan a p a sip a n
+apaan a p a a n
 apah a p a h
 apakah a p a k a h
 apalagi a p a l a g i
@@ -124,7 +123,7 @@ apanya a p a ny a
 apapula a p a p u l a
 apapun a p a p u n
 api a p i
-apks a sip p e sip k a sip e s
+apks a p e k a e s
 aplikasi a p l i k a s i
 aplikasinya a p l i k a s i ny a
 apply eu p l a i
@@ -170,7 +169,7 @@ aufa aw f a
 automatic a u t o m e t i k
 avenger a f e n j eu r
 avengers a f e n j eu r s
-avrg a v e sip e r g e
+avrg a v e e r g e
 awal a w a l
 awal-awal a w a l a w a l
 awalnya a w a l ny a
@@ -303,8 +302,8 @@ bayar b a y a r
 bayarin b a y a r i n
 bayarnya b a y a r ny a
 bayi b a y i
-bbm b e b e sip e m
-bca b e sip c e sip a
+bbm b e b e e m
+bca b e c e a
 bea b e a
 beasiswa b e a s i s w a
 beb b e b
@@ -312,7 +311,7 @@ bebas b eu b a s
 bebas b e b a s
 bebek b e b e k
 beberapa b eu b eu r a p a
-bec b e sip e c e
+bec b e e c e
 becanda-becanda b eu c a n d a b eu c a n d a
 bed b eu d
 beda b e d a
@@ -362,9 +361,8 @@ berangkatnya b eu r a ng k a t ny a
 berani b eu r a n i
 berantem b eu r a n t eu m
 berapa b eu r a p a
-berapaan b eu r a p a sip a n
+berapaan b eu r a p a a n
 berargumen b eu r a r g u m e n
-berargumen b eu r sip a r g u m e n
 berarti b eu r a r t i
 berasa b eu r a s a
 berasal b eu r a s a l
@@ -374,7 +372,7 @@ berbagai b eu r b a g a y
 berbagai b eu r b a g ay
 berbeda b eu r b eu d a
 berbeda b eu r b e d a
-berbintik-bintik b eu r b i n t i k sip b i n t i k
+berbintik-bintik b eu r b i n t i k b i n t i k
 berbuat b eu r b u a t
 berburu b eu r b u r u
 bercanda b eu r c a n d a
@@ -401,7 +399,7 @@ berhubungan b eu r h u b u ng a n
 berikan b eu r i k a n
 beringas b eu r i ng a s
 berisik b eu r i s i k
-beristirahat b eu r sip i s t i r a h a t
+beristirahat b eu r i s t i r a h a t
 berita b eu r i t a
 beritahu b eu r i t a h u
 berjaga b eu r j a g a
@@ -423,11 +421,11 @@ berlibur b eu r l i b u r
 bermain b eu r m a i n
 bermain b eu r m ay n
 berolahraga b eu r o l a h r a g a
-berperasaan b eu r p eu r a s a sip a n
+berperasaan b eu r p eu r a s a a n
 berpikiran b eu r p i k i r a n
 bersama b eu r s a m a
 bersama-sama b eu r s a m a s a m a
-bersamaan b eu r s a m a sip a n
+bersamaan b eu r s a m a a n
 bersamurai b eu r s a m u r ay
 bersaudara b eu r s aw d a r a
 bersepeda b eu r s eu p e d a
@@ -467,7 +465,7 @@ biasanya b i a s a ny a
 biasanya b i y a s a ny a
 bibit b i b i t
 bicara b i c a r a
-bicarain b i c a r a sip i n
+bicarain b i c a r a i n
 bicaranya b i c a r a ny a
 bidang b i d a ng
 bidangnya b i d a ng ny a
@@ -519,7 +517,7 @@ bos b o s
 bosan b o s a n
 bosen b o s eu n
 bramantyo b r a m a n t y o
-bri b e sip e r sip i
+bri b e e r i
 bro b r o
 brown b r o w n
 btw b e t e w e
@@ -538,7 +536,7 @@ budgetnya b a d j eu t ny a
 budi b u d i
 buka b u k a
 bukain b u k a i n
-bukain b u k a sip i n
+bukain b u k a i n
 bukain b u k a y i n
 bukan b u k a n
 bukankah b
@@ -584,7 +582,7 @@ canggih c a ng g i h
 cantik c a n t i k
 cantiknya c a n t i k ny a
 capa c a p a
-capcay c a p sip c ay
+capcay c a p c ay
 cape c a p e
 capek c a p e k
 cara c a r a
@@ -605,7 +603,7 @@ cemas c eu m a s
 cemilan c eu m i l a n
 cenderawasih c eu n d eu r a w a s i h
 cengeng c eu ng eu ng
-ceo s i sip i sip o
+ceo s i i o
 cepat c eu p a t
 cepat-cepat c eu p a t c eu p a t
 cepet c eu p eu t
@@ -667,8 +665,8 @@ corgi k o r g i
 corner k o r n eu r
 cowok c o w o k
 cowoknya c o w o k ny a
-crcs c sip r sip c sip s
-css s i sip e s sip e s
+crcs c e e r c e e s
+css s i e s e s
 ctim c e t i m
 cuaca c u a c a
 cuacanya c u a c a ny a
@@ -784,7 +782,7 @@ diacungi d i a c u ng i
 diagram d i a g r a m
 diagramnya d i a g r a m ny a
 diajak d i a j a k
-diajak d i sip a j a k
+diajak d i a j a k
 diajakin d i a j a k i n
 diajar d i a j a r
 diakui d i a k u i
@@ -793,7 +791,7 @@ diam d i y a m
 diambil d i a m b i l
 diambilnya d i a m b i l ny a
 dianggap d i a ng g a p
-diantara d i sip a n t a r a
+diantara d i a n t a r a
 dianterin d i a n t eu r i n
 dianya d i a ny a
 diapain d i a p a y i n
@@ -830,7 +828,7 @@ dicky d i c k y
 dicky d i k i
 dickynya d i k i ny a
 dicoba d i c o b a
-dicobain d i c o b a sip i n
+dicobain d i c o b a i n
 dicuci d i c u c i
 diculik d i c u l i k
 didrop d i d r o p
@@ -843,13 +841,13 @@ digambarin d i g a m b a r i n
 diganti d i g a n t i
 digantik d i g a n t i k
 digantikan d i g a n t i k a n
-diginiin d i g i n i sip i n
+diginiin d i g i n i i n
 digit d i g i t
 digital d i j i t a l
 digituin d i g i t u i n
 dih d i h
 diilangin d i i l a ng i n
-diimplementasiin d i sip i m p l eu m eu n t a s i sip i n
+diimplementasiin d i i m p l eu m eu n t a s i i n
 diindonesiakan d i i n d o n e s i a k a n
 diisi d i i s i
 diitungin d i i t u ng i n
@@ -858,7 +856,7 @@ dijual d i j u a l
 dijual d i j u w a l
 dik d i k
 dikasih d i k a s i h
-dikatain d i k a t a sip i n
+dikatain d i k a t a i n
 dikegelapan d i k eu g eu l a p a n
 dikelas d i k eu l a s
 dikelompokin d i k eu l o m p o k k i n
@@ -989,7 +987,7 @@ diulang d i u l a ng
 diundur d i u n d u r
 diving d ay f i ng
 dizni d i z n i
-dkv d e sip k a sip v e
+dkv d e k a v e
 do d o
 doain d o a i n
 doang d o a ng
@@ -1015,7 +1013,7 @@ drama d r a m a
 drive d eu r ai f
 drivernya d r i v e r ny a
 drop d r o p
-dsdm d e sip e s sip d e sip e m
+dsdm d e e s d e e m
 dua d u a
 dua d u w a
 dua-duanya d u a d u a ny a
@@ -1033,7 +1031,7 @@ dunia d u n i y a
 dura d u r a
 durasinya d u r a s i ny a
 durian d u r i a n
-dwbi d e sip w e sip b e sip i
+dwbi d e w e b e i
 e eu
 e e
 eat i t
@@ -1145,8 +1143,6 @@ fundamentalnya f u n d a m e n t a l ny a
 furious f u r i eu s
 futsal f u t s a l
 ga g a
-gaada g a a d a
-gaada g a sip a d a
 gaak g a a k
 gabisa g a b i s a
 gabu g a b u
@@ -1183,7 +1179,7 @@ gatau g a t au
 gataunya g a t a u ny a
 gausah g a u s a h
 gaya g a y a
-gdp j i sip d i sip p i
+gdp j i d i p i
 gede g eu d eu
 gede g eu d e
 gedean g eu d e a n
@@ -1318,7 +1314,7 @@ hits h i t s
 hitung h i t u ng
 hitz h i t
 hm h m
-hmif h a sip e m sip i sip f
+hmif h a e m i f
 hmm h eu m
 hmm h m m
 hmmm h eu m
@@ -1330,8 +1326,7 @@ hormat h o r m a t
 horor h o r o r
 hotel h o t e l
 hp h a p e
-hp h a sip p e
-hr h a sip e r
+hr h a e r
 html h a t e e m e l
 hubungannya h u b u ng a n ny a
 huh h u h
@@ -1355,9 +1350,8 @@ identifikasi i d e n t i f i k a s i
 identitas i d e n t i t a s
 idenya i d eu ny a
 idenya i d e ny a
-if50xx i sip e f sip l i sip m a sip n o l sip e k s sip e k s
-ig i sip g e
-ih i h
+if50xx i e f l i m a n o l e k s e k s
+ig i g e
 ih i h
 iit i i t e
 ijin i j i n
@@ -1413,7 +1407,7 @@ install i n s t o l
 instan i n s t a n
 institut i n s t i t u t
 insya i n sy a
-insyaallah i n sy a sip a l l a h
+insyaallah i n sy a a l l a h
 integrity i n t eu g r i t i
 interaksi i n t eu r a k s i
 intern i n t eu r eu n
@@ -1435,14 +1429,12 @@ iron ay r o n
 iseng i s eu ng
 iseng i s e ng
 isi i s i
-isiin i s i sip i n
+isiin i s i i n
 isinya i s i ny a
 iso i s o
 istirahat i s t i r a h a t
 istri i s t r i
 istriku i s t r i k u
-itb i sip t e sip b e
-itb i t b
 itb i t e b e
 itu i t u
 itu-itu i t u i t u
@@ -1459,7 +1451,7 @@ iye i y e
 izin i z i n
 j j e
 jadi j a d i
-jadiin j a d i sip i n
+jadiin j a d i i n
 jadinya j a d i ny a
 jadwal j a d u a l
 jadwal j a d w a l
@@ -1550,7 +1542,6 @@ jujur j u j u r
 juli j u l i
 julitin j u l i t i n
 jumat j u m a t
-jumat j u m sip a t
 juminten j u m i n t eu n
 jumpa j u m p a
 jurusan j u r u s a n
@@ -1559,7 +1550,7 @@ just j a s
 justru j u s t r u
 justus j u s t u s
 juta j u t a
-jutaan j u t a sip a n
+jutaan j u t a a n
 ka k a
 kabar k a b a r
 kabar-kabarin k a b a r k a b a r i n
@@ -1661,8 +1652,7 @@ kayu k a y u
 ke k eu
 ke k e
 keadaan k eu a d a a n
-keadaan k eu a d a sip a n
-keadaannya k eu a d a sip a n ny a
+keadaannya k eu a d a a n ny a
 keadilan k eu a d i l a n
 keakraban k eu a k r a b a n
 kebaca k eu b a c a
@@ -1781,8 +1771,7 @@ kereta k eu r e t a
 keringin k eu r i ng i n
 kerja k eu r j a
 kerjaan k eu r j a a n
-kerjaan k eu r j a sip a n
-kerjaanmu k eu r j a sip a n m u
+kerjaanmu k eu r j a a n m u
 kerjaannya k eu r j a a n ny a
 kerjain k eu r j a i n
 kerjakan k eu r j a k a n
@@ -1793,7 +1782,7 @@ kerusakan k eu r u s a k a n
 kesalahan k eu s a l a h a n
 kesana k eu s a n a
 kesana k e s a n a
-kesederhanaan k eu s eu d eu r h a n a sip a n
+kesederhanaan k eu s eu d eu r h a n a a n
 kesedihannya k eu s eu d i h a n ny a
 kesel k eu s eu l
 keseluruhan k eu s eu l u r u h a n
@@ -1820,7 +1809,7 @@ ketuker k eu t u k eu r
 ketutup k e t u t u p
 kevin k eu f i n
 key k i y
-kfc k e sip e f s i
+kfc k e e f s i
 khan kh a n
 khas kh a s
 khawatir kh a w a t i r
@@ -1887,13 +1876,12 @@ kotak k o t a k
 kotanya k o t a ny a
 kotor k o t o r
 kp k a p e
-kp k a sip p e
-kpnya k a sip p e ny a
+kpnya k a p e ny a
 kreatif k r e a t i f
 krim k r i m
 krimnya k r i m ny a
 kru k r u
-ktp k a sip t e sip p e
+ktp k a t e p e
 ku k u
 kuah k u a h
 kualitasnya k w a l i t a s ny a
@@ -1917,7 +1905,7 @@ kulit k u l i t
 kumpul k u m p u l
 kumpulin k u m p u l i n
 kunci k u n c i
-kunciin k u n c i sip i n
+kunciin k u n c i i n
 kuning k u n i ng
 kunjungan k u n j u ng a n
 kunjungi k u n j u ng i
@@ -2037,7 +2025,7 @@ list l i s
 lix l i k s
 lo l o
 lo l o
-logact l o g sip e k
+logact l o g e k
 logika l o g i k a
 loh l o h
 lokal l o k a l
@@ -2070,10 +2058,8 @@ m e m
 m m
 ma m a
 maaf m a a f
-maaf m a sip a f
-maafin m a sip a f i n
+maafin m a a f i n
 maap m a a p
-maap m a sip a p
 maba m a b a
 macam m a c a m
 macbook m e k b u k
@@ -2189,8 +2175,8 @@ mau m aw
 maudy m a w u d i
 maunya m aw ny a
 mayan m a y a n
-mb e m sip b e
-mbd e m sip b e sip d e
+mb e m b e
+mbd e m b e d e
 mcd m e k d i
 media m e d i a
 meeting m i t i ng
@@ -2267,7 +2253,7 @@ mendekati m eu n d eu k a t i
 mendengarkan m eu n d eu ng a r k a n
 mending m eu n d i ng
 mendingan m eu n d i ng a n
-mendiriin m eu n d i r i sip i n
+mendiriin m eu n d i r i i n
 mendirikan m eu n d i r i k a n
 mendorong m eu n d o r o ng
 menebaknya m eu n eu b a k ny a
@@ -2309,8 +2295,7 @@ mengingatkan m eu ng i ng a t k a n
 menginjak m eu ng i n j a k
 mengirim m eu ng i r i m
 menguap m eu ng u a p
-menguasai m eu ng u a s a sip i
-menguasai m eu ng u a s ay
+menguasai m eu ng u a s a i
 mengucapkan m eu ng u c a p k a n
 mengunjungi m eu ng u n j u ng i
 menguras m eu ng u r a s
@@ -2412,7 +2397,7 @@ misi m i s i
 miss m i s
 mistis m i s t i s
 mit m i t
-ml e m sip e l
+ml e m e l
 mm m m
 mo m o
 mobil m o b i l
@@ -2430,7 +2415,7 @@ motor m o t o r
 motornya m o t o r ny a
 mouse m a u s
 mrt e m a r t i
-mtsn e m sip t e sip e s sip e n
+mtsn e m t e e s e n
 mu m u
 muak m u a k
 muak m u w a k
@@ -2482,7 +2467,7 @@ nambahin n a m b a h i n
 namun n a m u n
 nana n a n a
 nangis n a ng i s
-nannys n e n i sip s
+nannys n e n i s
 nanti n a n t i
 nanya n a ny a
 napa n a p a
@@ -2571,7 +2556,7 @@ ngeliat ng eu l i a t
 ngeliatnya ng eu l i a t ny a
 ngelihat ng eu l i h a t
 ngelihatnya n g e l i h a t n y a
-ngembaliin ng eu m b a l i sip i n
+ngembaliin ng eu m b a l i i n
 ngerasa ng eu r a s a
 ngerasain ng eu r a s ay n
 ngerayain ng e r a y ay n
@@ -2709,7 +2694,7 @@ oleh o l e h
 oleh-oleh o l e h o l e h
 olimpiade o l i m p i a d eu
 om o m
-omg o sip e m j i
+omg o e m j i
 omong o m o ng
 omong-omong o m o ng o m o ng
 omongan o m o ng a n
@@ -2724,7 +2709,7 @@ online o n l a i n
 online o n l a y n
 ontosoroh o n t o s o r o h
 ooh o o h
-operasiin o p eu r a s i sip i n
+operasiin o p eu r a s i i n
 orang o r a ng
 orang-orang o r a ng o r a ng
 orangnya o r a ng ny a
@@ -2733,13 +2718,13 @@ orchard o r c h a r d
 order o r d eu r
 oreo o r e o
 organigram o r g a n i g r a m
-osk o sip e s sip k a
-osn o sip e s sip e n
-osp o sip e s sip p e
+osk o e s k a
+osn o e s e n
+osp o e s p e
 ospek o s p e k
 otaknya o t a k ny a
 otomatis o t o m a t i s
-otw o sip t e sip w e
+otw o t e w e
 outputnya o u t p u t ny a
 ovaltine o f a l t i n
 ovo o f o
@@ -2827,7 +2812,6 @@ pedagang p eu d a g a ng
 pegang p eu g a ng
 pekan p eu k a n
 pekerjaan p eu k eu r j a a n
-pekerjaan p eu k eu r j a sip a n
 pekerjaannya p eu k eu r j a a n ny a
 pelajaran p eu l a j a r a n
 pelanin p eu l a n i n
@@ -2903,9 +2887,7 @@ peran p eu r a n
 perang p eu r a ng
 perangkat p eu r a ng k a t
 perasaan p eu r a s a a n
-perasaan p eu r a s a sip a n
-perasaan p e r a s a a n
-perayaan p eu r a y a sip a n
+perayaan p eu r a y a a n
 perbaiki p eu r b a i k i
 percakapan p eu r c a k a p a n
 percakapan p e r c a k a p a n
@@ -2934,7 +2916,7 @@ pernah p eu r n a h
 pernikahan p eu r n i k a h a n
 perpus p eu r p u s
 perpusnya p eu r p u s ny a
-perpustakaan p eu r p u s t a k a sip a n
+perpustakaan p eu r p u s t a k a a n
 persen p eu r s e n
 persiapan p eu r s i a p a n
 persiapan p e r s i a p a n
@@ -2951,11 +2933,9 @@ pertigaan p eu r t i g a a n
 pertiwi p eu r t i w i
 pertumbuhannya p eu r t u m b u h a n ny a
 perumpamaan p eu r u m p a m a a n
-perusaan p eu r u s a sip a n
+perusaan p eu r u s a a n
 perusahaan p eu r u s a h a a n
-perusahaan p eu r u s a h a sip a n
 perusahaannya p eu r u s a h a a n ny a
-perusahaannya p eu r u s a h a sip a n ny a
 perwalian p eu r w a l i a n
 pesan p eu s a n
 pesen p eu s eu n
@@ -2966,7 +2946,7 @@ pesertanya p e s e r t a ny a
 pesta p e s t a
 petualang p eu t u a l a ng
 petualang p eu t u w a l a ng
-phd p e sip h a sip d e
+phd p e h a d e
 pi p i
 piala p i a l a
 piala p i y a l a
@@ -2992,19 +2972,19 @@ pintu p i n t u
 pintunya p i n t u ny a
 pipis p i p i s
 piring p i r i ng
-piring-piring p i r i ng sip p i r i ng
+piring-piring p i r i ng p i r i ng
 pisah p i s a h
 pisang p i s a ng
 pitchingnya p i c i ng ny a
 pizza p i t z a
 pizzanya p i t z a ny a
-pkn p e sip k a sip e n
+pkn p e k a e n
 plagiat p l a g i a t
 plan p eu l e n
 plot p l o t
 plus p l u s
-pm p e sip e m
-pnj p e sip e n sip j e
+pm p e e m
+pnj p e e n j e
 poin p o i n
 point p o i n
 pokoknya p o k o k ny a
@@ -3026,7 +3006,7 @@ pot p o t
 potensinya p o t e n s i ny a
 potong p o t o ng
 powerful p a w eu r f u l
-pr p e sip e r
+pr p e e r
 pra p r a
 praktikum p r a k t i k u m
 pram p r a m
@@ -3042,7 +3022,7 @@ presentasi p r e s eu n t a s i
 pretelin p r e t e l i n
 pribadi p r i b a d i
 pribumi p r i b u m i
-prnya p e sip e r ny a
+prnya p e e r ny a
 pro p r o
 product p r o d a k
 produksi p r o d u k s i
@@ -3064,7 +3044,7 @@ pronounciation p r o n a u n s i e s i eu n
 proyek p r o y e k
 proyek p r o y e k
 proyekan p r o y e k a n
-prs p e sip e r sip e s
+prs p e e r e s
 puas p u a s
 pula p u l a
 pulang p u l a ng
@@ -3087,7 +3067,7 @@ pusing p u s i ng
 putih p u t i h
 putra p u t r a
 pvj p e v e j e
-pvjnya p e sip v e sip j e ny a
+pvjnya p e v e j e ny a
 pymes p ay m s
 qih k i h
 quality k u a l i t i
@@ -3148,7 +3128,7 @@ relevan r eu l eu f a n
 remaja r eu m a j a
 remang r e m a n g
 rencana r eu n c a n a
-rencanain r eu n c a n a sip i n
+rencanain r eu n c a n a i n
 rencanaku r eu n c a n a k u
 rencanamu r eu n c a n a m u
 rencananya r eu n c a n a ny a
@@ -3190,8 +3170,8 @@ romantisme r o m a n t i s m e
 ronin r o n i n
 roti r o t i
 rotinya r o t i ny a
-rplsd e r sip p e sip e l sip e s sip d e
-rt e r sip t e
+rplsd e r p e e l e s d e
+rt e r t e
 ru r u
 ruang r u w a ng
 rugi r u g i
@@ -3205,11 +3185,10 @@ rusak r u s a k
 rusanya r u s a ny a
 rutin r u t i n
 rutinitas r u t i n i t a s
-s1 e s sip s a t u
-s3 e s sip t i g a
+s1 e s s a t u
+s3 e s t i g a
 sa s a
 saat s a a t
-saat s a sip a t
 saatnya s a a t ny a
 sabar s a b a r
 sabar-sabar s a b a r s a b a r
@@ -3278,10 +3257,10 @@ sayangnya s a y a ng ny a
 sayur s a y u r
 sayur-sayuran s a y u r s a y u r a n
 sayuran s a y u r a n
-sc e s sip c e
+sc e s c e
 school s k u l
 scoring s c o r i ng
-sd e s sip d e
+sd e s d e
 se s eu
 seakan s eu a k a n
 searchnya s e r j ny a
@@ -3335,10 +3314,10 @@ sehabis s eu h a b i s
 sehari s e h a r i
 seharusnya s eu h a r u s ny a
 sehat s e h a t
-sei s e sip i
+sei s e i
 seindah s eu i n d a h
 seingatku s eu i ng a t k u
-seinget s eu sip i ng eu t
+seinget s eu i ng eu t
 sejarah s eu j a r a h
 sejarah s e j a r a h
 sejarahnya s e j a r a h n y a
@@ -3363,8 +3342,6 @@ sekolah s eu k o l a h
 sekolah s e k o l a h
 sekre s e k r e
 selain s eu l a i n
-selain s eu l a sip i n
-selain s eu l a y i n
 selalu s eu l a l u
 selama s eu l a m a
 selamat s eu l a m a t
@@ -3480,7 +3457,7 @@ shit s y i t
 shock sy o k
 shooting sy u t i ng
 shopee s i o p i
-si e s sip i
+si e s i
 si s i
 sial s i a l
 siang s i a ng
@@ -3534,22 +3511,21 @@ situasi s i t u w a s i
 situs s i t u s
 skenario s k e n a r i o
 skip s k i p
-sks e s sip k a sip e s
+sks e s k a e s
 skuy s k u y
 slide s eu l ay t
-sma e s sip e m sip a
+sma e s e m a
 smanten s m a n t e n
 smapsic s m a p s i k
-smp e s sip e m p e
-sms e s sip e m sip e s
+smp e s e m p e
+sms e s e m e s
 snap s n e p
 snapnya s n e p ny a
 snek s n e k
 so s o
 soal s o a l
-soal s o sip a l
+soal s o a l
 soalnya s o a l ny a
-soalnya s o sip a l ny a
 software s o f t w a r e
 sok s o k
 soleh s o l e h
@@ -3562,7 +3538,7 @@ sorry s o r i
 sosial s o s i a l
 sosok s o s o k
 speakerin s p e a k eu r i n
-specificity sip e s i f i s i t i
+specificity s p e s i f i s i t i
 speech s p i c h
 speech s p i j
 speknya s p e k ny a
@@ -3571,15 +3547,14 @@ spoiler s p o i l eu r
 standar s t a n d a r
 stark s t a r eu k
 startup s t a r t a p
-startup s t a r t sip a p
 statistik s t a t i s t i k
 status s t a t u s
 steak s t i k
 stei s t e y
 steven s t eu f eu n
 steven s t i v eu n
-sti e s sip t e sip i
-stkip e s sip t e sip k i sip p
+sti e s t e i
+stkip e s t e k i p
 stoknya s t o k ny a
 story s t o r y
 strange s t r e n j
@@ -3630,7 +3605,7 @@ syarat sy a r a t
 syukurlah sy u k u r l a h
 t t
 ta t a
-ta t e sip a
+ta t e a
 tab t e p
 tadi t a d i
 tagihin t a g i h i n
@@ -3686,7 +3661,7 @@ taun t a u n
 taun t aw n
 tautan t a u t a n
 tayang t a y a ng
-tbd t e sip b e sip d e
+tbd t e b e d e
 teb t eu b
 tebak t eu b a k
 tebakanmu t eu b a k a n m u
@@ -3705,7 +3680,6 @@ telornya t eu l o r ny a
 telpon t e l p o n
 tema t e m a
 teman t eu m a n
-teman-teman t eu m a n sip t eu m a n
 teman-teman t eu m a n t eu m a n
 teman-temanku t eu m a n t eu m a n k u
 temani t eu m a n i
@@ -3825,7 +3799,7 @@ tidak t i d a k
 tidur t i d u r
 tidurnya t i d u r n y a
 tiga t i g a
-tigaan t i g a sip a n
+tigaan t i g a a n
 tiket t i k eu t
 tiket t i k e t
 tikus t i k u s
@@ -3877,7 +3851,7 @@ traveloka t r e v eu l o k a
 trigger t r i g eu r
 trigonometri t r i g o n o m e t r i
 trus t r u s
-tu t e sip u
+tu t e u
 tu t u
 tua t u a
 tua t u w a
@@ -3913,7 +3887,7 @@ uang u w a ng
 uang-uangnya u a ng u a ng ny a
 uangnya u a ng ny a
 uangnya u w a ng ny a
-uas u sip a sip e s
+uas u a e s
 uas u w a s
 ucapan u c a p a n
 uda u d a
@@ -3924,13 +3898,13 @@ udang u d a ng
 udara u d a r a
 udik u d i k
 uduk u d u k
-ugm u sip g e sip e m
+ugm u g e e m
 ui u w i
 ujian u j i a n
 ujian u j i y a n
 ujiannya u j i a n ny a
 ujung u j u ng
-uks u sip k a sip e s
+uks u k a e s
 ulahnya u l a h ny a
 ulang u l a ng
 ulasan u l a s a n
@@ -3949,7 +3923,7 @@ uniknya u n i k ny a
 unit u n i t
 universitas u n i v eu r s i t a s
 universitas u n i v e r s i t a s
-unp u sip e n sip p e
+unp u e n p e
 untuk u n t u k
 untuknya u n t u k ny a
 untung u n t u ng
@@ -3962,13 +3936,13 @@ upnormal a p n o r m a l
 urang u r a ng
 urpa u r p a
 urusan u r u s a n
-us y u sip e s
+us y u e s
 usah u s a h
 usaha u s a h a
 utama u t a m a
 utamanya u t a m a ny a
 utang u t a ng
-uts u t e sip e s
+uts u t e e s
 validnya f a l i d ny a
 van v a n
 variasi v a r i a s i
@@ -3986,7 +3960,7 @@ voltage v o l t e j
 vormir f o r m i r
 vue f i u
 wa w a
-wa w e sip a
+wa w e a
 waalaikumsalam w a a l ay k u m s a l a m
 waduh w a d u h
 wagila w a g i l a
@@ -4011,7 +3985,7 @@ waw w a w
 waw w aw
 way w eu y
 web w e b
-webmd w e b sip e m d i
+webmd w e b e m d i
 webnya w e b ny a
 website w e b s a i t
 weh w e h
@@ -4049,12 +4023,10 @@ yakin y a k i n
 yan y a n
 yang y a ng
 yasudah y a s u d a h
-yauda y a sip u d a
-yaudah y a sip u d a h
+yauda y a u d a
 yaudah y a u d a h
-yaudah y a w u d a h
 yaudah y aw d a h
-yaudalah y a sip u d a l a h
+yaudalah y a u d a l a h
 ye y e
 yes y e s
 yey y e y
