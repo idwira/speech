@@ -1,0 +1,7480 @@
+BIGRAM: method Katz, cutoff 1
+  coef[7]: 0.000000 0.465771 0.697784 0.656067 0.668863 0.990000 0.724387
+
+\data\
+ngram 1=3711
+ngram 2=3757
+
+\1-grams:
+-3.0681	!!UNK	-0.0150
+-0.8631	</s>	-0.2723
+-99.9900	<s>	-0.3988
+-3.3070	a	+0.0362
+-4.1820	aa
+-4.1820	abed
+-4.4830	abet
+-3.1820	abis	-0.0608
+-4.4830	abisnya
+-4.4830	ac
+-3.3691	acara	+0.0317
+-3.8810	acaranya
+-1.9377	ada	-0.1594
+-3.2278	adalah	-0.0472
+-4.1820	adanya
+-4.4830	adblocker
+-3.7049	adegan	-0.0664
+-4.0059	adik
+-3.7841	adikku	-0.2287
+-4.4830	adiku
+-4.4830	adonannya
+-4.4830	adu
+-3.7049	aduh
+-4.4830	aduk
+-3.4039	agak	-0.1258
+-4.1820	agama	-0.2083
+-4.1820	agate
+-4.1820	agustus	-0.2083
+-2.9917	ah	-0.0611
+-4.4830	ahelah
+-4.1820	ahmad
+-4.4830	ahsiap
+-4.0059	ai
+-3.8810	aing
+-4.0059	air
+-2.0132	aja	-0.3080
+-4.4830	ajaibnya
+-3.7049	ajak
+-4.1820	ajang	-0.2722
+-4.1820	ajarin
+-2.7588	akan	-0.1217
+-3.1608	akhir	-0.2659
+-4.4830	akhir-akhir
+-3.4830	akhirnya
+-4.4830	akriliknya
+-4.4830	aksinya
+-4.4830	aktif
+-4.4830	aktivitas
+-4.4830	aktor
+-1.8100	aku	-0.2010
+-4.4830	akurasinya
+-4.4830	akut
+-4.1820	ala
+-4.4830	alam
+-4.4830	alamatnya
+-4.4830	alasan
+-3.7049	alat	-0.1613
+-4.1820	alatnya
+-3.8810	alghi	-0.0511
+-4.4830	alhamdulillah
+-4.1820	alias
+-4.4830	alif
+-4.4830	aljabar
+-4.1820	all	-0.2722
+-4.1820	allah	-0.2722
+-4.4830	alternatif
+-3.7841	alur	-0.4030
+-4.4830	alurnya
+-4.4830	ama
+-4.1820	aman
+-4.1820	amat	-0.2083
+-3.3070	ambil	-0.0278
+-4.4830	ambilin
+-3.4830	amerika
+-4.4830	amin
+-4.4830	ampe
+-4.4830	ampuh
+-3.5288	ampun	-0.1743
+-4.4830	amri
+-4.4830	an
+-2.9917	anak	-0.0254
+-3.7841	anak-anak
+-4.4830	anak-anaknya
+-4.1820	anaknya
+-4.4830	analisa
+-4.1820	analisis
+-4.4830	analisisnya
+-4.4830	anatomi
+-4.4830	ancur
+-4.4830	and
+-3.7841	anda	-0.1716
+-4.4830	andi
+-3.4417	aneh	-0.1054
+-4.4830	angga
+-4.4830	anggap
+-4.4830	anggota
+-4.1820	angka
+-4.4830	angkasa
+-3.4417	angkot	-0.0704
+-4.0059	angkotnya
+-4.4830	angle
+-4.4830	anjay
+-4.4830	ann
+-4.4830	anna
+-3.3691	annelies	-0.0466
+-4.4830	antar
+-3.6379	antara
+-4.4830	anti
+-3.5288	antman	-0.0323
+-4.4830	antri
+-2.1406	apa	-0.3848
+-3.7841	apa-apa	-0.0255
+-3.3070	apaan	-0.0848
+-4.4830	apah
+-3.5800	apakah	-0.5853
+-3.4417	apalagi	-0.0780
+-4.1820	apalah	-0.2083
+-3.7841	apanya
+-4.4830	apapula
+-4.4830	apapun
+-4.4830	api
+-4.4830	apks
+-4.0059	aplikasi	-0.1614
+-3.7841	aplikasinya
+-3.7841	apply
+-4.4830	apps
+-4.4830	april
+-4.4830	ar
+-4.4830	arak-arakan
+-4.4830	arsitektur
+-4.4830	artifisial
+-4.4830	artikelnya
+-4.4830	artinya
+-4.4830	artis
+-4.1820	artisnya
+-4.4830	asa
+-4.0059	asal
+-4.1820	asalmu	-0.2083
+-4.4830	asem
+-4.4830	asgard
+-4.4830	asia
+-3.7049	asik	-0.0727
+-4.4830	asiknya
+-4.1820	asin
+-4.4830	asisten
+-4.4830	asli
+-4.0059	aslinya
+-4.4830	assalamualaikum
+-4.4830	assasin
+-4.4830	assembly
+-4.4830	assurance
+-4.4830	asus
+-4.4830	at
+-3.6379	atas	-0.1543
+-4.1820	atasnya	-0.2722
+-2.7928	atau	-0.0164
+-3.5800	ato
+-3.7049	atur	-0.0925
+-3.6379	aturan	-0.2454
+-4.4830	aufa
+-4.4830	automatic
+-3.7841	avenger	-0.0255
+-4.4830	avengers
+-4.4830	avrg
+-3.7841	awal
+-4.1820	awal-awal
+-3.8810	awalnya
+-4.4830	awan
+-4.4830	awas
+-4.4830	ayah
+-4.1820	ayahku	-0.2083
+-4.4830	ayahmu
+-4.4830	ayahnya
+-3.2789	ayam	-0.0609
+-4.1820	ayamnya
+-3.1406	ayo	-0.1204
+-4.0059	ayok
+-4.4830	ayrton
+-4.1820	ayuk	-0.2083
+-4.4830	ayunda
+-4.4830	azis
+-3.7841	b	-0.0255
+-4.1820	bab
+-3.3369	baca	-0.2238
+-4.4830	baca-baca
+-4.4830	bacanya
+-4.4830	backpacker
+-4.0059	badan
+-4.4830	badannya
+-4.1820	badminton	-0.2671
+-3.2526	bagaimana	-0.2393
+-4.0059	bagi
+-4.0059	bagi-bagi
+-3.3369	bagian	-0.0604
+-4.4830	bagianku
+-4.1820	bagimu	-0.2717
+-2.8496	bagus	-0.2183
+-4.4830	bagusnya
+-3.8810	bahagia	-0.1097
+-4.4830	bahan
+-3.6379	bahas	-0.0613
+-3.2789	bahasa	-0.1889
+-4.4830	bahaya
+-3.4417	bahkan	-0.1160
+-4.1820	bahwa
+-2.9390	baik	-0.2418
+-3.8810	baik-baik	-0.3210
+-3.4830	baiklah	-0.1247
+-4.1820	baiknya
+-3.5800	baju	-0.1312
+-4.4830	bajunya
+-4.4830	bak
+-3.2043	bakal	-0.0168
+-4.1820	bakalan
+-4.0059	bakar	-0.1560
+-4.4830	bakat
+-4.4830	bakatnya
+-4.1820	balai	-0.2722
+-4.4830	balas
+-3.5800	bali	-0.1086
+-3.3070	balik	-0.4673
+-4.4830	bambang
+-3.6379	ban	-0.2439
+-4.4830	bandar
+-4.4830	bandara
+-3.3369	bandung	-0.0261
+-2.3758	banget	-0.3450
+-3.1820	bangun	-0.2837
+-4.4830	bangunan
+-4.1820	bangunan-bangunan	-0.2718
+-4.4830	bangunin
+-3.6379	bank	-0.2455
+-3.6379	bantu	+0.0020
+-3.8810	bantuan
+-4.0059	bantuannya	-0.4557
+-3.7841	bantuin
+-2.5386	banyak	-0.1284
+-4.1820	banyak-banyak
+-3.8810	banyakan
+-4.1820	banyaknya
+-4.4830	bapa
+-4.0059	bapak
+-4.4830	bapaknya
+-4.1820	bapanya
+-4.1820	barang
+-4.4830	barang-barang
+-4.0059	barat
+-3.0851	bareng	-0.0737
+-3.8810	bareng-bareng	-0.0511
+-4.1820	barengan
+-4.4830	barnes
+-2.6022	baru	-0.0696
+-4.4830	barulah
+-3.8810	barusan
+-3.8810	basah	-0.0511
+-4.4830	basdat
+-4.4830	basecamp
+-4.4830	basi
+-4.1820	basic
+-4.1820	basis	-0.2719
+-4.4830	basjep
+-4.4830	batan
+-4.0059	batas	-0.1612
+-4.4830	batere
+-4.4830	batik
+-4.4830	battery
+-3.8810	batu	-0.3217
+-4.4830	bau
+-4.4830	baunya
+-3.4830	bawa	-0.0424
+-3.7049	bawah
+-4.4830	bawahnya
+-4.4830	bawain
+-3.6379	bawakan	-0.2142
+-3.4830	bawang	-0.1563
+-3.8810	bayangan	-0.1150
+-3.5800	bayar	-0.1804
+-3.7049	bayarin	-0.1530
+-4.4830	bayarnya
+-4.1820	bayi
+-4.4830	bbm
+-3.8810	bca	-0.3995
+-4.4830	bea
+-4.1820	beasiswa
+-4.4830	beb
+-3.7841	bebas	-0.0255
+-4.4830	bebek
+-3.2789	beberapa	-0.0821
+-4.4830	bec
+-4.4830	becanda-becanda
+-4.4830	bed
+-3.3070	beda	-0.0478
+-4.1820	beda-beda
+-4.1820	bedanya
+-4.0059	begini	-0.0975
+-3.1820	begitu	-0.1860
+-3.8810	bekerja	-0.0511
+-4.4830	bela
+-3.4830	belajar	-0.0236
+-3.5288	belakang	-0.0510
+-4.4830	belakangan
+-4.4830	belakangnya
+-3.5288	belanda	+0.0166
+-4.0059	belanja
+-4.4830	belanjaannya
+-4.4830	belar
+-3.1608	belas	-0.0559
+-2.8920	beli	-0.1611
+-3.7841	beliau	-0.0895
+-4.4830	beliin
+-4.1820	belinya
+-4.1820	belok
+-3.0851	belom	-0.0539
+-2.5435	belum	-0.1789
+-3.2043	benar	-0.2023
+-4.1820	benar-benar
+-4.1820	benaran
+-3.8810	benarkah	-0.2578
+-4.1820	benarnya	-0.2685
+-4.4830	benda
+-3.1028	bener	-0.1861
+-4.0059	bener-bener	-0.1580
+-3.6379	beneran
+-4.1820	benerin
+-4.4830	benerinnya
+-4.4830	bengkelnya
+-4.4830	bensin
+-3.3369	bentar	-0.4831
+-4.0059	ber	-0.0975
+-4.0059	berada	-0.1560
+-4.4830	beragam
+-4.4830	berandalan
+-3.4830	berangkat	-0.0403
+-4.0059	berangkatnya
+-3.7049	berani
+-3.8810	berantem
+-2.7928	berapa	-0.2165
+-4.1820	berapaan
+-4.1820	berargumen
+-3.2789	berarti	-0.0465
+-4.1820	berasa
+-4.4830	berasal
+-4.1820	berat
+-4.1820	berawan
+-3.8810	berbagai	-0.1151
+-4.0059	berbeda
+-4.4830	berbintik-bintik
+-4.4830	berbuat
+-4.4830	berburu
+-4.1820	bercanda
+-4.4830	bercerita
+-4.4830	berdekatan
+-3.8810	berdiri	-0.3163
+-3.4830	berdua	-0.0923
+-4.4830	berempat
+-4.1820	berenang	-0.2714
+-4.4830	berenti
+-3.8810	beres
+-4.4830	beres-beres
+-4.4830	berfikir
+-4.4830	berfikiran
+-4.4830	bergabung
+-4.1820	bergaya
+-4.4830	bergerak
+-4.4830	berharapnya
+-3.8810	berhasil
+-4.4830	berhenti
+-4.4830	berhubungan
+-4.4830	berikan
+-4.4830	beringas
+-4.1820	berisik
+-4.4830	beristirahat
+-4.1820	berita
+-4.4830	beritahu
+-4.4830	berjaga
+-4.1820	berjalan
+-4.4830	berjam-jam
+-4.1820	berjuang
+-4.4830	berkabar
+-4.4830	berkata
+-4.1820	berkeliling	-0.2722
+-4.4830	berkemah
+-4.4830	berkepala
+-4.0059	berkesan
+-4.0059	berkunjung	-0.1585
+-4.1820	berkurang
+-4.4830	berlatar
+-3.7841	berlebihan	-0.1716
+-4.0059	berlibur	-0.5167
+-3.8810	bermain
+-4.4830	berolahraga
+-4.4830	berperasaan
+-4.4830	berpikiran
+-4.0059	bersama	-0.0975
+-4.1820	bersama-sama	-0.2083
+-4.4830	bersamaan
+-4.4830	bersamurai
+-4.4830	bersaudara
+-3.5800	bersepeda	-0.1978
+-4.1820	bersih
+-4.4830	bersihin
+-4.4830	berspekulasi
+-4.1820	bersyukur
+-4.4830	bertanggung
+-4.4830	bertanya
+-4.4830	bertele-tele
+-3.4830	bertemu	-0.1869
+-4.1820	bertiga
+-4.4830	bertukar
+-4.4830	berturut
+-4.4830	berturut-turut
+-4.4830	berubah
+-4.4830	berulang
+-4.1820	beruntung
+-4.4830	beruntungnya
+-4.4830	berusaha
+-4.4830	berwibawa
+-3.6379	besar	-0.0903
+-4.4830	besarku
+-4.4830	besarnya
+-2.9917	besok	-0.0981
+-4.1820	besoknya	-0.2083
+-4.1820	betul
+-4.1820	betulin	-0.2712
+-3.1820	biar	-0.0206
+-4.1820	biarin
+-3.1608	biasa	-0.0657
+-2.9148	biasanya	-0.0859
+-4.4830	bibit
+-4.0059	bicara
+-4.4830	bicarain
+-4.4830	bicaranya
+-3.7841	bidang
+-4.4830	bidangnya
+-4.4830	biji
+-4.4830	bijinya
+-2.9917	bikin	-0.0227
+-3.1820	bilang	-0.0035
+-3.3070	bimbingan	-0.0622
+-4.0059	bimbingannya
+-3.1028	bingung	-0.1889
+-4.4830	bintang
+-4.0059	biologi
+-3.8810	bioskop
+-2.2656	bisa	-0.0296
+-4.4830	bisa-bisa
+-4.0059	bisakah	-0.1585
+-4.4830	bisalah
+-3.7049	bisnis
+-4.0059	bla	-0.1614
+-4.4830	black
+-4.0059	blibli
+-4.4830	blizzard
+-4.0059	blockchain	-0.4557
+-4.4830	bo
+-4.1820	boba
+-4.4830	boba-boba
+-4.4830	bobo
+-4.4830	bocah
+-4.1820	bocor	-0.2707
+-4.4830	bodohnya
+-4.4830	bogor
+-3.8810	bohong	-0.2578
+-4.4830	boi
+-4.1820	bola
+-4.4830	bolak-balik
+-4.0059	bole
+-4.4830	bole-bole
+-4.4830	bolee
+-2.5099	boleh	-0.3024
+-4.4830	bolehkah
+-4.1820	bolong
+-4.4830	bombastis
+-3.5288	booking	-0.2699
+-4.1820	bookmyshow
+-4.1820	borju
+-4.4830	borma
+-4.4830	bos
+-4.4830	bosan
+-3.7841	bosen
+-4.1820	bramantyo
+-4.4830	bri
+-3.7841	bro	-0.1716
+-4.4830	brown
+-3.8810	btw
+-4.1820	bu
+-3.4830	buah	-0.0899
+-4.4830	buahnya
+-2.6701	buat	-0.0611
+-4.4830	buatin
+-4.1820	bubar
+-3.7049	bud	-0.1223
+-4.0059	budaya
+-4.4830	budgetnya
+-4.4830	budi
+-3.2043	buka	-0.0064
+-3.8810	bukain	-0.1150
+-2.9516	bukan	+0.0369
+-3.7841	bukankah	-0.2016
+-3.6379	bukannya
+-4.4830	bukanya
+-4.4830	bukittinggi
+-4.4830	bukti
+-2.9779	buku	-0.1766
+-3.6379	bukunya	-0.1400
+-3.6379	bulan	-0.0619
+-4.4830	bulu
+-3.4417	bumbu	-0.3432
+-4.1820	bumbunya
+-3.7049	bumi	-0.1862
+-4.4830	bunga
+-4.1820	bunganya
+-4.0059	bungkus
+-4.1820	bungkusan
+-4.4830	bungkusin
+-4.4830	bunuh
+-4.4830	bunyi
+-4.4830	bur
+-4.4830	burger
+-4.4830	buru-buru
+-3.8810	buruan
+-4.0059	buruk	-0.4557
+-4.1820	burung
+-4.4830	busway
+-3.4417	butuh
+-4.1820	by	-0.2722
+-4.4830	bye
+-3.8810	c
+-4.1820	cabut
+-4.4830	cacat
+-4.0059	cadangan	-0.0975
+-4.4830	calon
+-4.4830	camping
+-4.1820	campur
+-4.1820	can	-0.2722
+-4.1820	canggih
+-4.1820	cantik
+-4.4830	cantiknya
+-4.1820	capa	-0.2083
+-4.4830	capcay
+-3.6379	cape	-0.0617
+-4.1820	capek
+-4.1820	cara
+-3.8810	caranya
+-3.7049	cari
+-4.4830	case
+-4.4830	cat
+-3.8810	catatan
+-4.0059	catur
+-4.4830	caturnya
+-4.0059	cece	-0.0975
+-4.4830	ceceku
+-3.7049	cek	-0.0732
+-4.4830	celananya
+-4.4830	cemas
+-4.1820	cemilan
+-4.4830	cenderawasih
+-4.4830	cengeng
+-3.8810	ceo	-0.1100
+-3.5288	cepat	-0.0366
+-4.1820	cepat-cepat
+-3.5288	cepet	-0.0510
+-4.0059	cerah
+-4.0059	cerdas
+-3.3070	cerita	-0.1467
+-4.1820	ceritain
+-4.4830	ceritakan
+-3.4039	ceritanya	-0.0432
+-4.4830	cewa
+-4.4830	cewek
+-4.4830	changing
+-4.0059	channel
+-4.1820	chaos
+-4.0059	charada	-0.1572
+-3.7841	chat	-0.0879
+-4.4830	chatbot
+-4.4830	chatime
+-4.4830	chatnya
+-4.4830	chatting
+-4.4830	check
+-4.4830	chef
+-4.4830	chefnya
+-4.4830	chicken
+-4.4830	cia
+-3.8810	cicis
+-4.4830	cinematic
+-4.4830	cinematicnya
+-4.4830	cisitu
+-4.1820	citra
+-4.4830	cium
+-4.1820	ciwalk
+-3.7049	cluster	-0.0722
+-4.4830	clustering
+-4.4830	co
+-2.9033	coba	-0.0160
+-3.7841	cobain
+-4.4830	cobainnya
+-4.4830	coco
+-3.4830	cocok	-0.0419
+-4.4830	code
+-4.4830	coffee
+-4.1820	cokelat	-0.2722
+-3.7049	coklat	-0.1223
+-3.8810	com
+-4.4830	conductornya
+-4.4830	configuration
+-4.4830	constraint
+-3.8810	contoh
+-4.1820	contohnya
+-4.4830	copy
+-4.4830	corgi
+-4.4830	corner
+-3.6379	cowok	-0.1400
+-4.4830	cowoknya
+-4.4830	crcs
+-4.4830	css
+-4.4830	ctim
+-4.4830	cuaca
+-4.1820	cuacanya
+-3.8810	cuci	-0.3217
+-4.0059	cui	-0.0975
+-4.4830	cukainya
+-3.2789	cukup	-0.0267
+-2.8703	cuma	-0.0409
+-2.9917	cuman	-0.0691
+-4.4830	cumi
+-4.0059	cup
+-3.5800	cupu	-0.1086
+-4.1820	curang
+-4.4830	custom
+-3.7049	cuy	-0.1858
+-4.4830	d
+-4.1820	da
+-4.4830	dadak
+-3.5800	daerah
+-3.5288	daftar
+-4.4830	dagangan
+-4.4830	daging
+-4.4830	dago
+-3.2789	dah	-0.2370
+-4.1820	dahulu	-0.2083
+-3.1820	dalam	-0.1960
+-4.4830	dalem
+-4.4830	dam
+-2.4300	dan	-0.0497
+-4.1820	dana	-0.2083
+-4.4830	dananya
+-4.4830	dandanannya
+-4.4830	daniel
+-3.3691	dapat	-0.0665
+-4.4830	dapatkan
+-4.4830	dapatnya
+-3.2278	dapet	+0.0409
+-4.4830	dapetin
+-4.0059	dapur
+-4.4830	dapurnya
+-4.4830	darah
+-4.4830	darahnya
+-2.4223	dari	-0.1259
+-4.1820	darimana
+-4.0059	daripada
+-3.7049	dasar	-0.2459
+-4.4830	dasarnya
+-3.1028	data	-0.1050
+-4.4830	databasenya
+-3.3369	datang	-0.0383
+-4.1820	datangnya
+-4.1820	datathon
+-3.2789	dateng	-0.2873
+-4.4830	dateng-dateng
+-4.4830	datengin
+-4.4830	datengnya
+-3.8810	daun	-0.4634
+-4.0059	daya
+-4.4830	dayang
+-4.4830	de
+-3.7049	deadline
+-3.8810	deadlinenya
+-4.4830	deadliner
+-3.6379	debat	-0.0604
+-4.4830	debatnya
+-4.4830	debo
+-2.3070	deh	-0.3162
+-3.4039	dekat	-0.0342
+-3.7049	deket	-0.0723
+-4.1820	deket-deket
+-4.4830	dela
+-3.5288	delapan	-0.1135
+-4.4830	delay
+-3.8810	delivery
+-4.4830	deliverynya
+-4.4830	demam
+-3.7841	demi
+-4.4830	dempet
+-4.4830	dendam
+-2.6837	dengan	-0.0965
+-4.4830	denganku
+-3.8810	denganmu	-0.0511
+-3.7841	dengar	-0.0879
+-3.5800	denger	-0.0492
+-4.4830	denger-denger
+-4.1820	dengerin
+-4.4830	dengerinnya
+-2.9779	depan	-0.0408
+-4.4830	depannya
+-4.1820	depok
+-4.1820	desa	-0.2083
+-3.7841	desain	-0.0827
+-3.7841	desember
+-4.4830	designer
+-4.1820	deskripsi
+-4.0059	detail
+-4.0059	detik
+-1.9021	di	-0.3050
+-2.3559	dia	-0.0970
+-4.4830	diacungi
+-4.0059	diagram
+-4.4830	diagramnya
+-4.0059	diajak
+-4.4830	diajakin
+-4.1820	diajar	-0.2697
+-4.4830	diakui
+-4.1820	dialog-dialog
+-4.1820	diam	-0.2680
+-4.1820	diambil
+-4.4830	diambilnya
+-4.4830	dianggap
+-4.1820	diantara
+-4.4830	dianterin
+-4.4830	dianya
+-4.4830	diapain
+-4.4830	diarahin
+-4.4830	dibaca
+-4.0059	dibajak	-0.1614
+-4.0059	dibanding
+-4.4830	dibandingin
+-4.4830	dibandingkan
+-4.4830	dibangun
+-4.4830	dibawain
+-4.4830	dibawakan
+-4.4830	dibebasin
+-4.4830	dibersihin
+-4.4830	dibiarin
+-4.4830	dibiarkan
+-3.7841	dibikin	-0.0895
+-4.0059	dibilang
+-4.4830	dibuang
+-4.1820	dibuat
+-4.4830	dibujuk
+-4.4830	dibuka
+-4.4830	dibungkus
+-4.4830	diburu-buru
+-4.4830	dibutu
+-4.1820	dicek
+-4.4830	diceritain
+-4.4830	diceritakan
+-4.4830	dichi
+-4.4830	dicintai
+-3.4417	dick	-0.0544
+-3.7841	dicky	-0.0255
+-4.4830	dickynya
+-4.0059	dicoba
+-4.4830	dicobain
+-4.4830	dicuci
+-4.1820	diculik	-0.2722
+-4.4830	didrop
+-4.1820	dielus-elus	-0.2083
+-4.4830	difilmkan
+-4.4830	diga
+-4.1820	digabung	-0.2083
+-4.1820	digabungin
+-4.1820	digambarin
+-4.0059	diganti	-0.0975
+-4.4830	digantik
+-4.1820	digantikan	-0.2714
+-4.1820	diginiin
+-4.1820	digit
+-4.4830	digital
+-4.4830	digituin
+-4.4830	dih
+-4.4830	diilangin
+-4.4830	diimplementasiin
+-4.4830	diindonesiakan
+-4.0059	diisi	-0.1583
+-4.4830	diitungin
+-4.1820	dijalanin
+-4.1820	dijual
+-3.3369	dik	-0.0593
+-3.4830	dikasih	-0.0414
+-4.4830	dikatain
+-4.4830	dikegelapan
+-4.4830	dikelas
+-4.1820	dikelompokin
+-4.4830	dikeluarin
+-4.4830	dikenakan
+-4.4830	dikendalikan
+-3.8810	dikerjain	-0.0511
+-4.4830	dikerjakan
+-4.4830	dikirim
+-3.4039	dikit	-0.1195
+-4.4830	dikombinasikan
+-4.4830	dikopi
+-4.4830	dikumpul
+-3.7841	dikumpulin
+-4.4830	dikunci
+-4.4830	dikunyah
+-4.4830	dilain
+-4.4830	dilakuin
+-4.1820	dilakukan	-0.2720
+-4.1820	dilan
+-4.4830	dilarang
+-4.4830	dilatih
+-4.4830	dilepas
+-3.8810	dilihat	-0.1135
+-4.4830	dilihatin
+-4.4830	diluar
+-3.1608	dimana	-0.1037
+-4.0059	dimarahin
+-4.0059	dimas
+-4.4830	dimasak
+-4.0059	dimasukin
+-4.4830	dimasukkin
+-4.4830	diminta
+-4.4830	dimulai
+-3.5288	din	-0.4090
+-4.4830	dinamain
+-4.4830	dinda
+-4.4830	ding
+-4.4830	dingin
+-4.4830	dinikmati
+-4.4830	diomongin
+-3.7049	dion
+-4.1820	dipakai	-0.2717
+-4.1820	dipake
+-4.4830	dipaksa
+-4.4830	dipasang
+-4.4830	dipause
+-4.4830	dipecah
+-4.4830	dipecat
+-4.4830	dipencet
+-4.4830	diperintah
+-4.4830	diperkemahan
+-4.4830	dipermasalah
+-4.4830	diperpanjang
+-4.4830	dipersiapkan
+-4.4830	dipesen
+-4.4830	dipikir
+-4.4830	dipilih
+-4.4830	dipimpin
+-4.0059	dipotong	-0.0975
+-4.4830	dipotong-potong
+-4.4830	diramalin
+-4.4830	dirapatkan
+-4.4830	dirapihin
+-4.4830	dirasakan
+-4.4830	director
+-4.1820	diri
+-4.1820	dirimu
+-4.4830	dirusakin
+-4.4830	disain
+-3.4830	disana	-0.1216
+-4.4830	disangka
+-4.4830	disangka-sangka
+-4.4830	disaranin
+-4.4830	disclaimer
+-4.4830	disebar
+-4.4830	disebut
+-4.4830	diselamatin
+-4.4830	diselamatkan
+-4.4830	diselametin
+-4.4830	diselesaiin
+-4.4830	diselingi
+-4.4830	disengaja
+-4.4830	disesuaiin
+-4.4830	disiapkan
+-4.1820	disimpan
+-4.1820	disini
+-4.4830	disisipi
+-3.8810	disitu
+-3.7841	diskon
+-4.4830	diskon-diskon
+-4.4830	diskusi
+-4.4830	diskusi-diskusi
+-3.8810	disney	-0.0511
+-4.1820	disubmit	-0.2083
+-4.4830	disuguhin
+-4.0059	disuru
+-3.5800	disuruh
+-4.1820	ditakdirkan	-0.2717
+-4.4830	ditambah
+-4.1820	ditambahin
+-4.1820	ditambal	-0.2083
+-4.4830	ditampilkan
+-4.4830	ditandatangan
+-4.1820	ditanya
+-4.1820	ditanyain
+-4.4830	ditanyakin
+-4.4830	ditaruh
+-4.4830	ditempat
+-4.4830	ditempatin
+-4.4830	ditentuin
+-4.4830	ditiruin
+-4.4830	ditolak
+-4.4830	ditoleransi
+-4.4830	ditolongin
+-4.4830	ditonton
+-4.4830	ditrain
+-3.8810	ditraktir
+-4.4830	ditujunya
+-4.4830	ditunda
+-4.4830	ditunda-tunda
+-4.4830	diturunin
+-4.4830	ditutup
+-4.4830	diulang
+-4.4830	diundur
+-4.4830	diving
+-4.4830	dizni
+-4.1820	dkv	-0.2722
+-4.4830	do
+-4.4830	doain
+-3.3070	doang	-0.3339
+-4.0059	dokter
+-4.1820	dokumen
+-4.4830	dokumentasi
+-4.1820	dokumentasinya
+-4.4830	dolar
+-3.8810	domino	-0.0511
+-4.1820	dompet
+-2.7928	dong	-0.4727
+-4.1820	donk	-0.2083
+-4.4830	doraemon
+-3.2526	dosen	-0.1881
+-3.5288	dosennya	-0.0469
+-4.4830	doswal
+-3.6379	dot	-0.2040
+-4.4830	dp
+-4.4830	draft
+-4.4830	drakor
+-3.8810	drama	-0.1151
+-4.4830	drive
+-4.4830	drivernya
+-4.4830	drop
+-3.4417	dsdm	-0.0704
+-2.4744	dua	-0.2290
+-3.7049	dua-duanya	-0.0093
+-3.5800	duduk	-0.2455
+-4.1820	duh	-0.2708
+-3.8810	duit
+-4.1820	duitnya
+-2.5193	dulu	-0.2335
+-3.5288	duluan	+0.0166
+-4.4830	dulunya
+-3.2278	dunia	-0.1634
+-4.4830	dura
+-4.4830	durasinya
+-3.4417	durian	-0.0996
+-4.4830	dwbi
+-3.5288	e	-0.0510
+-4.1820	eat	-0.2722
+-4.1820	ebook
+-4.4830	edan
+-3.8810	editan
+-3.8810	efek	-0.3217
+-4.4830	efeknya
+-4.4830	efektif
+-4.4830	egg
+-2.5386	eh	-0.0539
+-4.4830	ehem
+-3.8810	ekor
+-4.4830	eksekusi
+-4.4830	ekspektasi
+-4.4830	elektronik
+-4.0059	ellen
+-4.1820	elu
+-3.7841	em	-0.0255
+-3.7841	email	-0.1335
+-2.6769	emang	-0.0452
+-3.4830	emangnya	-0.1247
+-4.4830	emm
+-3.0681	empat	-0.2826
+-4.4830	empatan
+-2.6080	enak	-0.2237
+-4.1820	enak-enak
+-4.0059	enakan
+-4.0059	enaknya
+-3.5800	enam	-0.0537
+-4.0059	endgame
+-4.1820	enem
+-4.4830	energinya
+-2.8810	engga	-0.0679
+-2.9516	enggak	-0.1591
+-4.4830	engineering
+-4.4830	english
+-4.4830	enrollment
+-4.1820	entah
+-3.7841	entar
+-4.4830	episode
+-4.4830	erma
+-4.4830	error
+-3.4417	es	-0.2784
+-4.4830	escobar
+-4.4830	esei
+-4.1820	eu	-0.2083
+-4.0059	euh
+-3.7841	eum	-0.0255
+-4.4830	euy
+-4.4830	event
+-4.4830	expert
+-4.4830	f
+-4.0059	fa	-0.0975
+-4.1820	fadil
+-4.4830	faldi
+-4.4830	fantasinya
+-4.4830	fantastis
+-4.4830	fase-fase
+-4.4830	fasilitas
+-4.4830	fast
+-3.8810	favorit	-0.3179
+-4.1820	februari
+-4.4830	feel
+-3.8810	felix
+-3.8810	ferdi	-0.0511
+-4.4830	festival
+-4.4830	fillet
+-2.7928	film	-0.2751
+-4.4830	film-film
+-3.5288	filmnya	+0.0166
+-4.1820	final
+-4.4830	fintech
+-3.8810	fis	-0.2578
+-4.4830	fisik
+-4.4830	fisika
+-4.0059	fix	-0.1589
+-4.4830	fizi
+-4.4830	fokus
+-4.4830	food
+-4.4830	format
+-4.4830	formatnya
+-4.4830	formnya
+-4.1820	forum
+-4.4830	forward
+-4.4830	foto
+-4.1820	fotokopi
+-4.4830	four
+-4.4830	front
+-4.4830	frsnya
+-3.7841	full	-0.2355
+-4.4830	fun
+-4.4830	fundamentalnya
+-4.4830	furious
+-4.4830	futsal
+-2.0939	ga	-0.2986
+-4.4830	gaak
+-4.1820	gabisa
+-4.4830	gabu
+-4.1820	gabung
+-4.4830	gabungan
+-4.4830	gabungang
+-4.4830	gabungin
+-4.4830	gabunging
+-4.0059	gabut
+-3.8810	gagal
+-4.4830	gajelas
+-4.1820	gaji
+-4.4830	gajinya
+-2.2709	gak	-0.3146
+-4.4830	galak
+-4.4830	galau
+-4.4830	gamau
+-4.4830	gambarnya
+-3.5288	game	-0.0367
+-4.4830	gamenya
+-4.4830	gameplaynya
+-4.4830	gaming
+-4.4830	gamma
+-3.4417	gampang	+0.0256
+-4.4830	ganteng
+-3.4830	ganti
+-4.4830	ganyang
+-3.7049	gapapa	-0.1853
+-4.4830	gapernah
+-4.0059	gara-gara
+-4.1820	garingan
+-3.7049	gatau	-0.0093
+-4.4830	gataunya
+-4.4830	gausah
+-3.7841	gaya	-0.2340
+-3.8810	gdp	-0.1151
+-3.5800	gede	+0.0103
+-4.4830	gedean
+-4.4830	gedein
+-4.0059	gedung
+-4.4830	geek
+-3.7049	gelap	-0.0093
+-4.4830	gelut
+-4.0059	gendut
+-4.0059	geprek
+-4.1820	gerak
+-4.4830	gerakannya
+-4.4830	gerbang
+-4.4830	gercep
+-4.4830	gereja
+-4.4830	gestur
+-4.4830	ghost
+-3.5800	gi	-0.1711
+-3.7049	gila	-0.0688
+-4.1820	gili
+-2.4660	gimana	-0.3977
+-3.1406	gini	-0.1419
+-4.1820	ginian	-0.2083
+-2.1028	gitu	-0.2957
+-3.7841	gitu-gitu	-0.0853
+-4.1820	gitulah
+-4.4830	go-food
+-4.4830	goang
+-4.1820	god
+-4.1820	gofood
+-4.0059	gojek
+-4.4830	gombalnya
+-3.8810	google
+-4.4830	googling
+-4.0059	gopay
+-3.8810	goreng
+-4.1820	gorengnya
+-4.4830	goyang
+-3.5288	grab
+-4.4830	grabfood
+-4.4830	gramedia
+-4.4830	gratis
+-4.4830	grebek
+-3.7049	grup	-0.0965
+-2.1289	gua	-0.1847
+-4.4830	guanya
+-2.9267	gue	-0.1948
+-4.4830	gundik
+-4.1820	gunung
+-3.8810	guru	-0.1151
+-4.4830	guys
+-4.4830	gym
+-4.0059	ha
+-4.4830	habibi
+-4.4830	habibinya
+-3.0206	habis	-0.1148
+-4.4830	habisin
+-4.0059	hackathon
+-3.7841	hackaton
+-4.4830	hadiahnya
+-4.4830	haduh
+-3.4039	hah
+-3.4417	haha	-1.0156
+-3.5288	hahaha	-0.1377
+-4.4830	hahahaha
+-3.3691	hai
+-4.0059	hak
+-4.4830	hak-haknya
+-3.5800	hal	-0.1249
+-4.1820	halah
+-3.8810	halaman	-0.0511
+-4.0059	hallo
+-4.1820	hallowen
+-3.2526	halo	-0.0539
+-4.4830	halu
+-3.8810	hampir	-0.1149
+-4.4830	hancur
+-4.4830	hank
+-4.1820	hans
+-4.4830	hansnya
+-4.1820	hanung	-0.2722
+-3.2526	hanya	-0.1361
+-3.7841	hape	-0.1974
+-4.1820	harapan
+-4.4830	hard
+-4.4830	harga
+-3.5288	harganya	-0.0471
+-2.7272	hari	-0.4023
+-3.7049	harry
+-2.7122	harus	-0.0263
+-4.4830	haruskah
+-3.1820	harusnya	-0.0991
+-4.1820	hasil
+-4.4830	hasilnya
+-3.7841	hati	-0.1305
+-4.4830	haus
+-4.4830	hawkeye
+-4.0059	heboh
+-3.8810	hedon
+-4.4830	heeh
+-4.4830	heh
+-3.2043	hehe	-0.5158
+-4.4830	hehehehehe
+-4.4830	hei
+-4.4830	helm
+-3.5288	hem	-0.0472
+-4.1820	hemat
+-4.4830	hendak
+-4.4830	henri
+-4.0059	hey
+-4.4830	hi
+-3.7049	hidup	-0.0678
+-4.0059	hidupnya
+-4.4830	hih
+-3.8810	hilang	-0.2578
+-4.4830	himpunan
+-4.1820	hingga
+-4.4830	hire
+-4.4830	hiruk-pikuk
+-4.1820	hitam
+-4.0059	hits
+-4.4830	hitung
+-4.1820	hitz
+-4.4830	hm
+-4.4830	hmif
+-3.3070	hmm	-0.0202
+-4.1820	hobi	-0.2722
+-4.1820	hobiku	-0.2720
+-3.7049	hobimu	-0.2667
+-4.4830	hoo
+-4.4830	hormat
+-3.7841	horor	-0.0255
+-4.1820	hotel
+-3.7049	hp	-0.0690
+-4.1820	hr
+-4.4830	html
+-4.4830	hubungannya
+-3.7841	huh
+-3.5288	hujan	-0.1103
+-4.1820	hujannya
+-3.8810	hulk
+-4.4830	hungergames
+-3.7049	hut	-0.0093
+-4.4830	hutang
+-4.4830	i
+-4.1820	ia
+-4.1820	ibaratnya
+-3.5288	ibu	-0.1496
+-4.4830	ibuku
+-4.1820	ibunya
+-4.4830	id
+-3.3691	ide	-0.0635
+-4.4830	identification
+-4.4830	identifikasi
+-4.4830	identitas
+-4.0059	idenya
+-4.4830	if50xx
+-4.4830	ig
+-3.2789	ih	-0.0890
+-4.4830	iit
+-4.1820	ijin
+-4.4830	ijo
+-4.4830	ikan
+-2.7670	ikut	-0.1139
+-4.1820	ikut-ikut
+-4.0059	ikutan
+-4.4830	ikuti
+-4.1820	ikutnya
+-4.1820	ilang
+-4.4830	ilegal
+-4.4830	ilmu
+-4.4830	ilustrasinya
+-4.0059	imagine	-0.5196
+-4.4830	imajinasinya
+-4.4830	imigrasi
+-4.4830	implementasinya
+-4.4830	incredible
+-4.0059	indah	-0.4557
+-3.7841	india	-0.0255
+-4.4830	indianya
+-4.4830	indigo
+-4.4830	indomaret
+-3.4417	indonesia	-0.0151
+-4.1820	industri
+-4.1820	info	-0.2654
+-4.4830	infonya
+-4.4830	informasi
+-4.4830	informasinya
+-4.1820	informatika	-0.2083
+-3.7841	ingat
+-4.4830	ingat-ingat
+-3.4039	inget	-0.1245
+-4.0059	inggris
+-3.5800	ingin	-0.0537
+-4.4830	inginkan
+-4.4830	inginku
+-2.0549	ini	-0.0861
+-4.4830	inilah
+-4.4830	inisiasi
+-4.4830	inisiatif
+-4.4830	innovation
+-4.4830	input
+-4.4830	inspirasi
+-4.4830	instagram
+-4.4830	install
+-3.6379	instan
+-4.4830	institut
+-4.1820	insya	-0.2722
+-4.4830	insyaallah
+-4.4830	integrity
+-4.4830	interaksi
+-3.4417	intern	-0.0934
+-3.8810	internet	-0.0511
+-4.4830	interview
+-4.0059	intinya
+-4.4830	intipin
+-4.4830	inventorisnya
+-4.4830	inventory
+-4.1820	investasi
+-4.4830	iphone
+-3.7841	iqbal
+-4.0059	ir	-0.1576
+-4.4830	iri
+-4.4830	iron
+-4.0059	iseng
+-3.4830	isi
+-4.4830	isiin
+-4.0059	isinya
+-4.4830	iso
+-4.4830	istirahat
+-4.0059	istri
+-4.4830	istriku
+-3.7049	itb
+-1.9267	itu	-0.1187
+-4.4830	itu-itu
+-4.4830	itulah
+-4.1820	itung
+-4.4830	itungannya
+-4.4830	itunya
+-4.1820	ivan
+-2.0664	iya	-0.1937
+-4.1820	iya-iya	-0.2684
+-4.4830	iyalah
+-4.1820	iye
+-3.6379	izin
+-4.4830	j
+-2.1138	jadi	+0.0105
+-4.4830	jadiin
+-3.5288	jadinya
+-4.1820	jadwal
+-4.4830	jadwalkan
+-4.4830	jadwalnya
+-4.1820	jaga
+-4.4830	jaga-jaga
+-4.4830	jaganya
+-4.4830	jago
+-4.1820	jahat
+-3.3070	jakarta	-0.0455
+-3.0206	jalan	-0.1831
+-3.5288	jalan-jalan	-0.0866
+-4.0059	jalanan
+-4.4830	jalanin
+-4.4830	jalannya
+-4.1820	jalur
+-4.4830	jalurnya
+-2.6022	jam	-0.4380
+-3.8810	jaman	-0.3215
+-4.1820	jamin
+-4.4830	jamnya
+-3.0206	jangan	-0.0768
+-4.4830	janganlah
+-4.4830	janjian
+-3.5800	januari	-0.1086
+-4.1820	jaraknya	-0.2719
+-3.5800	jarang	-0.1994
+-4.1820	jarang-jarang
+-4.4830	jason
+-4.4830	jato
+-4.0059	jatuh
+-4.4830	jatuhi
+-4.4830	jatuhnya
+-3.2043	jauh	-0.0346
+-4.0059	jauh-jauh	-0.0975
+-4.0059	jawa	-0.1599
+-3.7841	jawab	-0.0255
+-4.4830	jawabnya
+-4.1820	jebol
+-3.7841	jelas
+-4.1820	jelasin
+-3.7841	jelaskan
+-4.4830	jelaslah
+-3.7841	jelek	-0.0870
+-4.4830	jem
+-4.4830	jempol
+-4.1820	jen	-0.2083
+-3.7841	jendela	-0.1716
+-3.7841	jendelanya	-0.0844
+-4.0059	jenguk
+-4.1820	jenis
+-4.1820	jenisnya
+-4.4830	jenius
+-4.4830	jenjang
+-3.8810	jepang
+-3.5800	jerit	-0.2282
+-4.4830	jerman
+-4.1820	jessin
+-4.4830	jessy
+-3.5800	ji	-0.1834
+-3.7049	jika	-0.0694
+-4.4830	jinak
+-4.4830	jingga
+-3.8810	jiwa	-0.3217
+-4.1820	jo
+-4.4830	joget
+-4.1820	jogja
+-4.0059	joker
+-3.4417	joni	-0.1487
+-4.1820	jorok
+-4.4830	josep
+-3.7841	jual	-0.0894
+-3.4830	jualan	-0.3401
+-4.4830	jualnya
+-4.4830	juara
+-4.0059	judul
+-4.4830	judulnya
+-2.0614	juga	-0.2073
+-4.1820	jujur
+-3.5288	juli	-0.1138
+-4.4830	julitin
+-3.4830	jumat	-0.0682
+-4.4830	juminten
+-3.7841	jumpa	-0.1993
+-3.7049	jurusan	-0.0701
+-4.0059	jus
+-4.4830	just
+-4.0059	justru
+-4.4830	justus
+-4.0059	juta
+-4.4830	jutaan
+-4.4830	ka
+-3.5800	kabar	-0.1086
+-4.4830	kabar-kabarin
+-4.1820	kabari
+-4.0059	kabarin
+-4.4830	kabarmu
+-4.0059	kabarnya	-0.0975
+-4.4830	kabur
+-4.4830	kacang
+-4.1820	kacau
+-3.4417	kadang	-0.0772
+-4.4830	kadang-kadang
+-4.0059	kado	-0.1546
+-4.4830	kafe
+-4.0059	kaga
+-3.8810	kaget	-0.0511
+-4.1820	kagum
+-4.1820	kak
+-3.7841	kakak	-0.0894
+-4.4830	kakap
+-3.4039	kakek	-0.1851
+-4.4830	kakek-kakek
+-3.7049	kaki	-0.0966
+-4.4830	kakiku
+-4.4830	kakinya
+-4.4830	kalah
+-2.2927	kalau	-0.2004
+-4.4830	kalender
+-2.9267	kali	-0.1293
+-2.8920	kalian	-0.0730
+-4.4830	kalibr
+-4.0059	kalimat
+-4.4830	kalimatnya
+-3.5800	kalinya	-0.1711
+-4.4830	kalkulus
+-2.2844	kalo	-0.2030
+-3.4830	kamar
+-4.1820	kamarnya
+-4.4830	kamera
+-3.1406	kami	-0.0144
+-3.8810	kamis
+-4.4830	kampong
+-3.3369	kampung	-0.3016
+-4.1820	kampungnya	-0.2701
+-3.1608	kampus	-0.1557
+-2.0469	kamu	-0.1501
+-1.9847	kan	-0.1578
+-4.1820	kanan
+-4.4830	kangen
+-3.7841	kantin	-0.0255
+-3.8810	kantor
+-4.4830	kantu
+-3.8810	kanvas	-0.1151
+-4.4830	kapal
+-3.1028	kapan	-0.0423
+-4.0059	kapan-kapan
+-4.1820	kapok
+-3.5288	kapten	-0.4773
+-3.7049	karakter	-0.1861
+-3.8810	karang	-0.4635
+-4.4830	karangan
+-3.5800	karaoke	-0.0677
+-4.4830	karaokenya
+-2.6837	karena	-0.0432
+-4.4830	karet
+-3.5288	karna
+-4.1820	kartu
+-4.4830	kartun
+-4.4830	karya
+-4.0059	kasar	-0.0975
+-3.8810	kasian
+-3.1406	kasih	-0.1350
+-3.7841	kasihan
+-4.4830	kasir
+-4.4830	kasur
+-4.0059	kasus
+-4.4830	kasusnya
+-3.2789	kata	-0.1227
+-4.4830	kata-kata
+-4.1820	kata-katanya
+-2.9516	katanya	-0.1032
+-4.4830	katsu
+-3.2526	kau	-0.0749
+-4.4830	kawan-kawannya
+-2.8703	kaya	-0.0324
+-2.6257	kayak	-0.1393
+-2.9779	kayaknya	-0.0465
+-3.1820	kayanya	-0.0666
+-4.1820	kayu
+-2.1671	ke	-0.2507
+-4.1820	keadaan
+-4.4830	keadaannya
+-4.4830	keadilan
+-4.1820	keakraban
+-4.4830	kebaca
+-4.4830	kebagian
+-4.1820	kebaktian
+-4.4830	kebanggannya
+-4.4830	kebangun
+-3.5800	kebanyakan
+-4.4830	kebawah
+-4.0059	kebayang
+-3.6379	kebetulan
+-4.4830	kebohongan
+-4.4830	kebon
+-4.4830	kebuka
+-4.4830	kecantikanmu
+-4.4830	kecepatan
+-3.4039	kecil	-0.1745
+-4.4830	kecil-kecil
+-4.4830	kecuali
+-4.4830	kedengarannya
+-3.8810	kediri
+-4.0059	kedua
+-4.1820	keduanya
+-4.4830	kegedean
+-4.0059	kegiatan	-0.1608
+-4.4830	kehadiran
+-3.8810	kehidupan
+-4.4830	kehilangan
+-4.4830	keisengan
+-4.4830	keisya
+-3.4830	kejadian	-0.0883
+-4.1820	kejahatan
+-4.4830	kejar
+-4.4830	kejaran
+-4.4830	kejebak
+-4.0059	keju
+-4.4830	keju-keju
+-4.4830	kekalutan
+-4.1820	kekuatan
+-4.4830	kelahirannya
+-4.4830	kelamaan
+-3.5288	kelar	+0.0166
+-4.4830	kelarin
+-2.7272	kelas	-0.0945
+-3.5800	kelasnya	-0.1724
+-4.4830	kelemahannya
+-4.4830	kelewat
+-3.8810	kelewatan	-0.1133
+-3.8810	keliatan
+-3.7841	kelihatan	-0.0255
+-4.1820	kelihatannya
+-3.2043	kelompok	-0.0258
+-4.4830	kelompoknya
+-3.3691	keluar	-0.0491
+-4.4830	keluar-keluar
+-4.4830	keluaran
+-3.3369	keluarga	-0.1169
+-4.4830	keluargaku
+-4.1820	keluarganya
+-4.4830	keluarin
+-4.4830	keluarnya
+-4.4830	keluguan
+-4.0059	kemah	-0.1609
+-4.4830	kemahalan
+-4.4830	kemahasiswaan
+-4.4830	kemahnya
+-3.0359	kemana	-0.3584
+-4.1820	kemana-mana
+-3.0359	kemaren	-0.1308
+-2.8018	kemarin	-0.1008
+-3.5800	kembali	-0.1912
+-4.4830	kembalinya
+-4.4830	kemudian
+-4.1820	kemungkinan
+-3.4830	kena	-0.2770
+-4.1820	kenal	-0.2083
+-4.4830	kenalan
+-4.1820	kenalin
+-2.7755	kenapa	-0.1945
+-4.4830	kenceng
+-4.4830	kening
+-3.7049	kentang
+-4.0059	kenyang
+-4.4830	kenyataan
+-4.0059	keos
+-4.4830	kepada
+-4.1820	kepala	-0.2083
+-4.0059	kepentingan
+-4.4830	kepikiran
+-4.4830	kepolisian
+-4.1820	kepribadian
+-4.1820	kepuasan	-0.2714
+-4.1820	keras
+-4.4830	kerasa
+-3.8810	kerbau	-0.2697
+-4.1820	kerbaunya	-0.2083
+-3.2526	keren	-0.1013
+-3.8810	keren-keren
+-3.8810	kereta
+-4.1820	keringin
+-3.3070	kerja	-0.1694
+-3.5800	kerjaan	-0.0536
+-4.4830	kerjaanmu
+-4.4830	kerjaannya
+-3.5288	kerjain	-0.1773
+-4.0059	kerjakan
+-4.4830	kerjakn
+-4.4830	kerjanya
+-4.1820	kertas
+-4.4830	kerusakan
+-4.1820	kesalahan
+-3.2526	kesana	-0.0196
+-4.4830	kesederhanaan
+-4.4830	kesedihannya
+-4.1820	kesel
+-4.1820	keseluruhan
+-4.4830	keseluruhannya
+-4.4830	kesempatan
+-4.4830	kesepian
+-4.4830	kesiangan
+-4.0059	kesini
+-4.1820	ketagihan
+-4.4830	ketakutan
+-4.4830	ketawa
+-4.4830	ketempat
+-3.0851	ketemu	-0.2308
+-4.1820	ketemuan
+-4.4830	ketemuannya
+-4.0059	ketiduran
+-4.0059	ketiga
+-4.1820	ketika	-0.2684
+-4.4830	ketinggalan
+-4.1820	ketua
+-4.4830	ketuker
+-4.4830	ketutup
+-4.4830	kevin
+-4.4830	key
+-4.4830	kfc
+-4.4830	khan
+-3.8810	khas	-0.4619
+-4.0059	khawatir	-0.1547
+-4.4830	khusus
+-4.4830	kiamat
+-4.4830	kikuk
+-4.4830	kilo
+-4.1820	kilometer	-0.2083
+-4.1820	king
+-4.1820	kini
+-3.3070	kira	-0.0975
+-3.4417	kira-kira	-0.0277
+-4.4830	kirain
+-4.4830	kirana
+-4.4830	kiri
+-4.1820	kit	-0.2083
+-2.1692	kita	-0.1069
+-4.4830	kk
+-4.4830	klimaks
+-3.6379	ko	+0.0020
+-4.4830	kobe
+-4.4830	kocak
+-4.4830	kode-kodenya
+-4.4830	kodenya
+-4.4830	koding
+-2.6379	kok	-0.1759
+-4.4830	kolam
+-4.4830	kolongnya
+-4.4830	kolonial
+-4.1820	kolonialisme
+-4.4830	kom
+-4.4830	kombinasi
+-4.4830	komedi
+-4.1820	komik
+-4.1820	komite
+-4.1820	komposisi
+-4.1820	komprehensif	-0.2688
+-4.4830	komputasi
+-4.0059	komputer	-0.0975
+-4.4830	komputil
+-4.4830	komunikasi
+-4.1820	kondisi
+-4.4830	koneksinya
+-4.4830	konsentrasi
+-4.4830	konsep
+-4.1820	konser
+-4.4830	konspirasi
+-4.4830	kontennya
+-4.4830	kontrolnya
+-4.0059	kopi
+-4.4830	kopinya
+-4.1820	korban	-0.2722
+-3.8810	korea
+-4.4830	kos
+-3.1820	kosan	-0.1790
+-3.7049	kosong	-0.0093
+-3.5800	kota	-0.1215
+-4.4830	kotak
+-4.1820	kotanya
+-3.8810	kotor
+-3.3691	kp	-0.0955
+-4.4830	kpnya
+-4.4830	kreatif
+-3.7841	krim	-0.0255
+-4.1820	krimnya	-0.2083
+-4.4830	kru
+-4.4830	ktp
+-3.5288	ku
+-4.4830	kuah
+-4.4830	kualitasnya
+-3.8810	kuantum	-0.1100
+-4.4830	kuantumnya
+-3.7049	kuat
+-3.7049	kucek	-0.1863
+-4.0059	kucing
+-4.4830	kucingnya
+-4.4830	kuduga
+-3.8810	kue	-0.0511
+-4.4830	kuhasut
+-4.4830	kuizo
+-4.4830	kukabari
+-4.4830	kukira
+-3.1820	kuliah	-0.0988
+-4.1820	kuliahan	-0.2688
+-4.4830	kulit
+-4.1820	kumpul
+-4.1820	kumpulin
+-4.1820	kunci
+-4.4830	kunciin
+-4.1820	kuning
+-4.4830	kunjungan
+-4.1820	kunjungi	-0.2722
+-4.1820	kuota
+-3.0517	kurang	-0.1320
+-4.4830	kurintis
+-4.1820	kursus
+-4.4830	kusampaikan
+-4.4830	kutipan
+-3.7049	la
+-4.4830	lab
+-4.4830	label
+-4.4830	labnya
+-4.1820	labs
+-4.1820	labtek	-0.2716
+-4.4830	laen
+-2.1506	lagi	-0.1515
+-3.7841	lagian	-0.0850
+-3.7049	lagu	-0.0732
+-4.4830	lagunya
+-2.5337	lah	-0.2347
+-4.4830	lahiran
+-2.9917	lain	-0.0883
+-3.7841	lainnya	-0.4160
+-4.1820	lakuin
+-3.8810	lakukan	-0.2578
+-3.2043	lalu	-0.3036
+-3.0517	lama	-0.0756
+-4.4830	lamaku
+-4.4830	lamaran
+-4.0059	lambat	-0.0975
+-4.1820	lambung	-0.2083
+-4.0059	lampu	-0.0975
+-3.8810	lampunya
+-4.1820	lancar-lancar	-0.2680
+-4.4830	langitnya
+-2.9645	langsung	-0.0183
+-3.6379	lanjut	-0.0589
+-4.4830	lanjutannya
+-4.1820	lanjutin
+-3.8810	lantai
+-4.4830	lantas
+-4.4830	lapan
+-4.4830	lapangan
+-3.7841	lapar	-0.0870
+-3.4417	laper	-0.2918
+-3.6379	laporan
+-4.0059	laporannya	-0.0975
+-4.4830	laporkan
+-3.4039	laptop	-0.0014
+-4.0059	laptopnya
+-4.4830	larangan
+-4.4830	large
+-4.0059	lari
+-4.4830	lari-lari
+-4.4830	larut
+-4.4830	latar
+-3.7841	latian	-0.0882
+-4.1820	latihan
+-4.1820	latihannya
+-4.1820	lauknya	-0.2718
+-3.7841	laut	-0.4160
+-4.4830	lautnya
+-4.4830	le
+-4.4830	lebay
+-2.7755	lebih	-0.1346
+-4.4830	lee
+-4.4830	lega
+-4.4830	legal
+-4.4830	legendaris
+-4.4830	leher
+-4.4830	lehernya
+-4.4830	leksikonnya
+-4.1820	lelah	-0.2671
+-4.4830	lelet
+-4.1820	lembaga
+-4.1820	lembang
+-3.7049	lembar	-0.1612
+-4.4830	lempar
+-3.8810	len	-0.2578
+-4.4830	lengkap
+-4.4830	level
+-3.7841	lewat
+-4.4830	lezat
+-4.1820	lho
+-4.4830	li
+-3.3070	liat	-0.1098
+-4.4830	liat-liat
+-4.0059	liatnya	-0.1560
+-4.4830	lib
+-4.4830	libu
+-3.7049	libur
+-3.0359	liburan	-0.2115
+-4.4830	liciknya
+-2.9267	lihat	-0.1025
+-4.4830	lihatlah
+-4.1820	lihatnya
+-2.8109	lima	-0.2259
+-4.4830	lin
+-3.8810	line	-0.0511
+-4.4830	link
+-4.1820	list
+-3.1608	lix	-0.2511
+-2.7928	lo	-0.0606
+-4.4830	logact
+-4.4830	logika
+-2.7928	loh	-0.2168
+-4.4830	lokal
+-4.4830	lokasi
+-4.1820	lokasinya
+-4.0059	loket	-0.1546
+-4.4830	loki
+-2.9516	lomba	-0.1239
+-3.8810	lombanya
+-3.4830	lombok	-0.1928
+-4.0059	loss
+-4.1820	louis
+-4.4830	lowongan
+-2.3827	lu	-0.1002
+-3.5288	luar	-0.1496
+-4.4830	luarnya
+-4.0059	luas
+-4.4830	lubuk
+-3.2789	lucu	-0.1039
+-4.0059	lucunya
+-4.4830	luka
+-4.4830	lukisanmu
+-3.5800	lulus	-0.0677
+-4.0059	lulusnya
+-3.0517	lumayan	-0.1633
+-4.4830	lunak
+-3.1608	lupa	-0.1094
+-4.0059	m
+-3.6379	ma
+-3.3691	maaf	-0.1527
+-4.1820	maafin
+-3.7841	maap
+-4.1820	maba
+-3.7049	macam
+-4.4830	macbook
+-4.1820	macem	-0.2083
+-4.1820	macem-macem
+-3.5800	macet	-0.1349
+-4.4830	macet-macetan
+-4.1820	macetnya	-0.2083
+-4.0059	magang
+-4.0059	mager
+-3.2789	mah	-0.0225
+-3.2789	mahal	-0.0226
+-4.1820	mahal-mahal
+-4.0059	mahasiswa
+-4.4830	mahasiswanya
+-4.4830	mahkamah
+-3.1406	main	-0.0382
+-4.4830	mainstream
+-4.4830	mak
+-4.1820	maka	-0.2716
+-4.4830	makalah
+-2.4338	makan	-0.2118
+-3.7049	makan-makan	-0.0093
+-2.9917	makanan	-0.1212
+-3.5800	makanannya	-0.2504
+-3.7841	makannya
+-3.4039	makanya
+-3.5288	makasih	-0.1954
+-3.7841	make	-0.0895
+-4.0059	makhluk	-0.1614
+-3.3070	makin	-0.1324
+-4.4830	maksa-maksa
+-4.1820	maksimal
+-4.4830	maksimalkan
+-3.7841	maksud	-0.2349
+-4.4830	maksudku
+-3.1820	maksudnya	-0.0630
+-3.2526	malah	-0.0537
+-4.4830	malahan
+-3.1213	malam	-0.0394
+-4.1820	malamnya
+-4.4830	malas
+-3.3070	malem	-0.1549
+-3.6379	males	-0.0651
+-4.4830	maling
+-3.7049	mall
+-4.4830	malunya
+-3.5800	mama	-0.1250
+-3.8810	mamanya	-0.1150
+-3.8810	mampir	-0.1122
+-4.4830	mampu
+-4.1820	man
+-2.7755	mana	-0.2803
+-4.4830	mana-mana
+-4.1820	manager
+-4.4830	mandi
+-4.4830	maneh
+-4.1820	manggil
+-3.7049	manis
+-3.4830	mantap	-0.1128
+-4.4830	mantep
+-3.4830	manusia
+-3.7841	mao
+-4.4830	mapo
+-3.6379	marah	-0.0586
+-4.4830	maret
+-4.0059	mari	-0.1614
+-4.1820	mark	-0.2083
+-4.4830	marnat
+-3.4039	martabak	-0.0585
+-4.4830	martabaknya
+-4.1820	marvel
+-2.5746	mas	-0.2900
+-3.0359	masa	-0.1370
+-3.4830	masak
+-4.1820	masakan
+-4.4830	masako
+-4.4830	masala
+-3.3691	masalah	-0.0339
+-4.0059	masalahnya
+-2.5746	masih	-0.1721
+-4.4830	masing
+-3.7841	masing-masing	-0.0881
+-3.1820	masuk	-0.1064
+-4.4830	masukannya
+-4.1820	masukin
+-4.4830	masukkin
+-4.4830	masukkinnya
+-4.4830	masyarakat
+-3.4417	mata	-0.2134
+-4.1820	matah
+-4.4830	matahari
+-4.4830	matanya
+-3.8810	matematik
+-3.7841	matematika	-0.0895
+-3.8810	materi
+-4.4830	materialnya
+-4.4830	materinya
+-3.5800	mati
+-4.4830	matiin
+-4.0059	matkul
+-2.1138	mau	-0.1746
+-4.4830	maudy
+-4.4830	maunya
+-4.4830	mayan
+-4.4830	mb
+-4.1820	mbd
+-4.1820	mcd
+-4.4830	media
+-4.4830	meeting
+-4.4830	megang
+-4.4830	mekanik
+-4.0059	melakukan
+-4.4830	melalui
+-4.4830	melamar
+-3.8810	melanjutkan	-0.2722
+-3.8810	melelahkan	-0.2578
+-4.4830	meleleh
+-4.4830	melempar
+-3.7841	melihat	-0.0876
+-4.4830	melingkupi
+-4.0059	melukis
+-4.4830	memainkan
+-4.4830	memakai
+-4.1820	memaksa
+-3.3369	memanah	-0.2259
+-4.4830	memancing
+-4.1820	memanen	-0.2722
+-3.1608	memang	-0.0878
+-3.4830	memangnya	-0.0729
+-4.4830	memaparkan
+-4.1820	memarkirkan	-0.2722
+-4.4830	membahas
+-3.7841	membantu	-0.0894
+-4.4830	membantumu
+-4.4830	membasmi
+-4.4830	membawakan
+-4.4830	membeli
+-4.0059	member
+-4.1820	memberi
+-4.4830	membernya
+-4.4830	membicarakan
+-3.3070	membuat	-0.1326
+-4.1820	membuatnya
+-4.4830	membutuhkan
+-4.4830	memenangkan
+-4.4830	memerangi
+-4.4830	memerintah
+-4.1820	memilih
+-3.8810	memiliki	-0.1151
+-4.4830	mempelajari
+-4.4830	mempelajarinya
+-4.4830	memperjuangkan
+-4.4830	memperkenalkan
+-4.4830	memperlihatkan
+-4.4830	mempertahankan
+-4.4830	memuaskan
+-4.4830	memungkinkan
+-4.4830	memvisualisasikan
+-4.1820	menambah	-0.2722
+-4.1820	menambal	-0.2722
+-4.0059	menanam	-0.1614
+-4.1820	menang
+-3.2526	menarik	-0.1675
+-4.4830	mencapai
+-4.4830	mencari
+-4.4830	menceritakan
+-4.4830	mencetak
+-4.0059	mencoba
+-4.1820	mendadak
+-4.1820	mendaftar
+-4.1820	mendapatkan
+-4.4830	mendefinisikan
+-4.4830	mendekati
+-4.4830	mendengarkan
+-3.3070	mending	-0.0932
+-3.6379	mendingan
+-4.4830	mendiriin
+-4.4830	mendirikan
+-4.1820	mendorong	-0.2721
+-4.1820	menebaknya
+-3.8810	menemukan	-0.1151
+-4.0059	mengajar
+-4.4830	mengalah
+-4.1820	mengalahkan	-0.2720
+-4.4830	mengalami
+-4.1820	mengambil
+-4.4830	menganggap
+-4.4830	menganggur
+-4.1820	mengantar
+-4.4830	mengantarmu
+-4.1820	mengarah
+-4.4830	mengarahkan
+-4.1820	mengayuhkan	-0.2722
+-4.1820	mengelilingi	-0.2722
+-4.4830	mengemasnya
+-4.4830	mengemudi
+-4.4830	mengenai
+-4.4830	mengenalkan
+-4.0059	mengendarai	-0.5196
+-3.7841	mengerjakan	-0.2020
+-4.4830	mengerti
+-4.4830	mengetahui
+-4.4830	menggambarkan
+-4.4830	menggeliat
+-4.4830	menggelinding
+-4.4830	menggendarai
+-3.8810	menggunakan	-0.1151
+-4.4830	menghabiskan
+-4.4830	menghadap
+-4.4830	menghadapi
+-4.4830	menghasilkan
+-4.1820	mengikuti
+-4.4830	mengingatkan
+-4.4830	menginjak
+-4.4830	mengirim
+-4.1820	menguap
+-4.1820	menguasai
+-4.4830	mengucapkan
+-4.4830	mengunjungi
+-4.4830	menguras
+-4.4830	mengurus
+-4.1820	menikah
+-4.4830	menikmati
+-4.4830	mening
+-4.4830	meninggal
+-4.4830	meninggalkan
+-3.1213	menit	-0.2092
+-4.4830	menitan
+-3.7049	menjadi
+-4.4830	menjadikan
+-4.4830	menjalani
+-4.4830	menjawab
+-4.4830	menjemputmu
+-4.1820	menjenguk	-0.2721
+-4.1820	menonton
+-4.4830	menontonnya
+-4.1820	mentok-mentok
+-4.4830	mentor
+-4.4830	mentornya
+-4.4830	menu
+-4.1820	menunggu
+-4.4830	menunjukkan
+-4.1820	menuntun	-0.2721
+-4.4830	menunya
+-4.4830	menuruni
+-3.3369	menurut	-0.4127
+-4.1820	menurutku
+-4.4830	menurutmu
+-4.4830	meny
+-4.4830	menyapa
+-4.4830	menyarankan
+-4.4830	menyatu
+-4.4830	menyebabkan
+-4.1820	menyebalkan
+-4.0059	menyediakan	-0.1612
+-3.8810	menyelam	-0.2578
+-4.4830	menyelesaikan
+-3.8810	menyenangkan	-0.1088
+-4.4830	menyengat
+-4.4830	menyesal
+-4.4830	menyesuaiakan
+-4.4830	menyesuaikan
+-4.4830	menyiapkan
+-4.1820	menyukai
+-4.4830	mepet
+-4.0059	merah
+-4.4830	merahnya
+-4.4830	merasa
+-4.4830	merayakan
+-4.1820	merek
+-2.8920	mereka	-0.0039
+-4.1820	merendah
+-4.4830	merepotkan
+-4.4830	meriah
+-4.4830	mertua
+-3.7841	mesen	-0.0255
+-4.1820	mesennya	-0.2083
+-4.4830	mesinnya
+-3.4830	meskipun	-0.0420
+-4.1820	metode
+-4.4830	mewah
+-4.4830	mewek
+-4.4830	mi
+-4.4830	microsoft
+-3.5800	mie	-0.4362
+-4.4830	mikir
+-4.1820	mikirnya
+-4.4830	milea
+-4.0059	milih
+-4.4830	milik
+-4.4830	milimeter
+-4.4830	mimpi
+-4.4830	ming
+-2.8810	minggu	-0.4732
+-4.0059	mini	-0.1613
+-4.4830	mini-mini
+-4.4830	minimal
+-3.8810	mining
+-4.4830	minjem
+-3.2789	minke	-0.0797
+-3.0681	minta	-0.3491
+-4.0059	minum	-0.1580
+-4.4830	minuman
+-3.8810	mirip
+-4.4830	misah
+-4.4830	misal
+-3.8810	misalkan
+-3.2526	misalnya	-0.1005
+-4.4830	misi
+-4.0059	miss	-0.1613
+-4.4830	mistis
+-3.5800	mit	+0.0103
+-4.0059	ml
+-4.1820	mm
+-2.8810	mo	-0.2553
+-3.7841	mobil	-0.1978
+-3.8810	mobilku	-0.3995
+-4.0059	model
+-4.4830	modelnya
+-4.1820	modern	-0.2083
+-4.4830	modis
+-4.4830	moga-moga
+-4.4830	mole
+-4.4830	molor
+-4.4830	monologue
+-3.5800	motor	-0.1711
+-4.4830	motornya
+-4.1820	mouse
+-3.8810	mrt
+-4.4830	mtsn
+-3.8810	mu	-0.0511
+-4.0059	muak
+-4.4830	muat
+-4.1820	muda
+-3.8810	mudah	-0.1135
+-4.4830	mudah-mudahan
+-4.4830	mudahan
+-4.4830	muka
+-3.3070	mulai	+0.0068
+-4.4830	mulainya
+-4.4830	multichatnya
+-4.4830	mulu
+-4.1820	mulut
+-4.4830	mumpung
+-4.1820	muncul
+-3.0206	mungkin	-0.0590
+-4.4830	mungkinkan
+-3.2789	murah	-0.1778
+-4.4830	murid
+-4.4830	murni
+-4.1820	musang	-0.2722
+-4.4830	music
+-3.8810	musik	-0.3183
+-3.8810	musim	-0.1151
+-4.1820	mustahil	-0.2722
+-3.4039	musti	-0.0351
+-4.4830	musuhan
+-4.1820	mutar
+-4.1820	my	-0.2722
+-3.8810	na
+-4.4830	nabrak
+-4.4830	nada
+-3.8810	naek	-0.1150
+-3.0517	nah	-0.1291
+-3.2278	naik	-0.1245
+-4.1820	naikkan	-0.2722
+-4.1820	nak
+-4.4830	nakal
+-3.5800	nam	-0.3723
+-3.6379	nama	-0.0611
+-4.4830	namaku
+-3.4417	namanya	-0.0712
+-4.4830	nambah
+-4.4830	nambahin
+-3.8810	namun
+-4.1820	nana
+-4.4830	nangis
+-4.1820	nannys
+-2.3861	nanti	-0.2359
+-3.5800	nanya	+0.0103
+-4.1820	napa	-0.2083
+-4.1820	napak
+-4.4830	narasi
+-3.8810	narcos	-0.1150
+-4.1820	narik
+-4.0059	narkoba
+-3.2043	nasi	-0.1586
+-4.0059	nasib	-0.1610
+-4.4830	nasinya
+-4.0059	nasional	-0.0975
+-4.1820	nasionalis
+-4.4830	nasionalisme
+-4.4830	nasjep
+-4.4830	naskor
+-4.4830	nat
+-4.1820	natural
+-4.4830	nawarin
+-4.1820	ndi
+-4.4830	nebeng
+-3.8810	nebula
+-3.7841	negeri	-0.1716
+-4.4830	nelpon
+-4.4830	nembakin
+-4.4830	nemenin
+-4.4830	nempel
+-4.4830	nemu
+-4.4830	nemuin
+-4.1820	nenek
+-3.8810	nengok
+-4.0059	nengokin	-0.1596
+-4.4830	nengoknya
+-4.4830	nentang
+-4.0059	nentu
+-4.4830	nentuin
+-4.4830	neror
+-4.0059	netflix	-0.0975
+-4.1820	next
+-4.0059	ngabarin
+-4.4830	ngabisin
+-3.7841	ngadain	-0.0891
+-3.7841	ngajak
+-4.4830	ngajar
+-4.4830	ngalahin
+-4.4830	ngalamin
+-3.7841	ngambil
+-4.1820	ngangkat
+-3.7841	ngantri
+-4.4830	ngantri-ngantri
+-4.4830	ngantrinya
+-4.1820	ngantuk
+-4.4830	ngantuknya
+-4.1820	ngapa-ngapain
+-2.9779	ngapain	-0.4350
+-4.1820	ngarepin
+-4.4830	ngaruh
+-3.7841	ngasih
+-4.4830	ngatur
+-4.4830	ngawasin
+-4.4830	ngayal
+-4.0059	nge
+-4.4830	ngebelain
+-4.4830	ngebosenin
+-4.4830	ngebully
+-4.4830	ngebut
+-4.1820	ngecek
+-4.4830	ngechat
+-4.4830	ngedepanin
+-4.4830	ngedit
+-4.4830	ngedorong
+-4.4830	ngefek
+-4.1820	ngeforge
+-4.4830	ngegantung
+-4.1820	ngelakuin
+-4.1820	ngeliat
+-4.4830	ngeliatnya
+-3.4039	ngelihat	-0.1745
+-3.8810	ngelihatnya	-0.3166
+-4.1820	ngembaliin	-0.2718
+-4.1820	ngerasa
+-4.0059	ngerasain
+-4.4830	ngerayain
+-4.1820	ngerekam
+-4.4830	ngerem
+-4.0059	ngeri
+-4.4830	ngerinya
+-3.1608	ngerjain	-0.2717
+-4.1820	ngerjainnya
+-3.3070	ngerti	-0.1146
+-4.1820	ngerusak
+-4.4830	ngetem
+-4.4830	ngetemnya
+-4.4830	ngetroll
+-3.2526	ngga	+0.0395
+-2.6379	nggak	-0.1716
+-4.4830	ngide
+-4.1820	ngikutin
+-4.4830	ngilang
+-4.4830	ngilangin
+-4.4830	ngiler
+-4.0059	nginep	-0.5142
+-4.4830	nginepnya
+-4.4830	ngintip
+-4.4830	ngira
+-4.1820	ngobrol
+-4.1820	ngobrol-ngobrol
+-4.4830	ngoding
+-3.4039	ngomong	-0.0056
+-3.4039	ngomong-ngomong	-0.0679
+-4.4830	ngomonginnya
+-4.0059	ngomongnya
+-4.0059	ngondak
+-4.4830	ngontak
+-4.1820	ngumpul
+-4.4830	ngumpul-ngumpul
+-4.4830	ngumpulinnya
+-4.4830	ngunjungin
+-4.1820	ngurus
+-4.4830	ngurusin
+-3.1820	ni	+0.0029
+-4.4830	nicho
+-2.2351	nih	-0.2535
+-4.1820	nik	-0.2083
+-4.4830	niko
+-4.1820	nilai
+-4.1820	nindya
+-4.4830	ninggalin
+-4.4830	nisa
+-4.0059	nitip	-0.1609
+-4.0059	niza	-0.1547
+-3.6379	nlp	-0.1543
+-4.1820	no
+-3.7841	nol	-0.0881
+-4.4830	noleh
+-4.4830	nomer
+-3.4417	nomor
+-4.4830	nomornya
+-2.9033	nonton	-0.2134
+-4.4830	nontonin
+-4.4830	nontonnya
+-3.6379	nop	-0.0616
+-4.4830	normal
+-4.4830	notifikasi
+-4.4830	novel
+-3.1213	ntar	-0.0082
+-4.4830	nubes
+-4.0059	nugas
+-4.4830	nulis
+-4.4830	numerik
+-4.4830	numpang
+-4.1820	nunggu
+-4.0059	nungguin
+-4.1820	nurut
+-2.7841	nya	-0.1522
+-3.7841	nyai	-0.2355
+-4.1820	nyala
+-4.0059	nyalahin
+-4.4830	nyalain
+-4.4830	nyalon
+-4.1820	nyambung
+-3.7049	nyampe
+-4.1820	nyampenya
+-4.1820	nyangka
+-3.7049	nyanyi
+-4.4830	nyanyian
+-4.4830	nyanyiin
+-3.7841	nyari
+-4.0059	nyata
+-4.4830	nyebelin
+-4.4830	nyediain
+-4.4830	nyelesaiin
+-4.1820	nyenggol
+-4.1820	nyerah	-0.2697
+-4.4830	nyeremin
+-4.4830	nyesuaiin
+-4.4830	nyetok
+-4.0059	nyiapin
+-4.4830	nyicil
+-4.4830	nyo
+-3.7049	nyoba	-0.0093
+-4.1820	nyuci
+-4.4830	nyusulnya
+-3.7841	o	-0.2318
+-4.4830	oalah
+-4.4830	obat-obatan
+-4.4830	obrolannya
+-4.1820	obrolin
+-4.4830	of
+-4.4830	office
+-2.2762	oh	-0.2755
+-3.8810	ohh
+-4.4830	oiya
+-4.1820	ojek
+-3.6379	ok	+0.0020
+-4.4830	okay
+-2.5288	oke	-0.2673
+-3.7049	okei
+-4.1820	okelah
+-4.4830	okey
+-4.0059	oktober
+-4.0059	olahraga
+-3.6379	oleh	-0.0611
+-3.7049	oleh-oleh	-0.3868
+-3.8810	olimpiade	-0.1117
+-4.4830	om
+-4.4830	omg
+-4.1820	omong
+-4.4830	omong-omong
+-4.4830	omongan
+-4.4830	omongin
+-4.4830	omonginnya
+-4.1820	on
+-4.4830	onel
+-4.4830	ongkos
+-4.4830	ongkosnya
+-4.4830	onlee
+-4.0059	online
+-4.0059	ontosoroh
+-3.7049	ooh
+-4.4830	operasiin
+-2.7755	orang	-0.1356
+-3.8810	orang-orang
+-3.5800	orangnya	+0.0103
+-4.4830	orangtua
+-4.4830	orchard
+-4.1820	order
+-3.5800	oreo	-0.0486
+-4.4830	organigram
+-3.7049	osk
+-3.8810	osn	-0.1150
+-4.1820	osp
+-4.1820	ospek
+-4.0059	otaknya	-0.1614
+-4.4830	otomatis
+-4.4830	otw
+-4.4830	outputnya
+-4.1820	ovaltine
+-3.7841	ovo
+-4.1820	ow
+-4.4830	oyah
+-3.4830	pa	-0.0782
+-4.4830	pab
+-4.4830	pablo
+-4.4830	pabrik
+-4.4830	pacar
+-2.9917	pada	+0.0113
+-3.2526	padahal	-0.0904
+-3.8810	padang
+-3.8810	padi	-0.2706
+-4.4830	pagaruyung
+-3.3369	pagi	-0.0929
+-4.4830	paginya
+-3.7841	paham	-0.0850
+-4.4830	pajajaran
+-3.4417	pak	-0.0632
+-4.0059	pakai
+-4.1820	pakde
+-3.0517	pake	-0.0611
+-4.1820	pakmin
+-2.8018	paling	-0.1020
+-4.1820	palingan
+-4.4830	palunya
+-4.4830	pamer
+-3.8810	pameran	-0.2718
+-4.4830	pamit
+-4.4830	panahan
+-4.4830	panas
+-4.1820	pandai
+-4.1820	pandan
+-3.7841	pandang	-0.0891
+-4.4830	pandangnya
+-4.4830	panduannya
+-4.0059	panggang
+-4.0059	panggangnya	-0.0975
+-4.0059	panggil
+-4.4830	panitia
+-3.6379	panjang	-0.0903
+-4.4830	panjangnya
+-4.0059	pantai	-0.1599
+-4.4830	pantat
+-4.4830	pantes
+-3.5800	papa	-0.1711
+-4.0059	papan	-0.1614
+-4.4830	paparon
+-4.0059	paper	-0.1614
+-4.1820	para
+-4.1820	paragraf
+-4.4830	paranormal
+-3.8810	parkir
+-4.4830	parkiran
+-4.4830	parkirnya
+-3.7049	part	-0.2497
+-4.4830	partikelnya
+-4.1820	parut
+-3.1028	pas	-0.0457
+-4.4830	pasar
+-4.4830	pasca
+-3.8810	pasir	-0.2706
+-4.4830	paskal
+-4.4830	paspor
+-4.1820	paspornya	-0.2710
+-3.7841	pasta
+-2.9645	pasti	-0.0363
+-4.1820	pastinya
+-4.4830	pasukannya
+-3.7841	pat
+-4.4830	patut
+-4.4830	pause
+-4.4830	payday
+-4.0059	payung
+-4.4830	pc
+-4.4830	pecahin
+-4.4830	pecinnya
+-4.4830	pedagang
+-3.8810	pegang
+-3.7049	pekan
+-3.8810	pekerjaan
+-4.4830	pekerjaannya
+-3.8810	pelajaran
+-4.1820	pelanin
+-3.8810	pelatihan
+-4.4830	pelatihannya
+-4.4830	pelengkap
+-4.4830	peluang
+-3.8810	pemain	-0.1151
+-4.4830	pemainnya
+-4.4830	pemakainya
+-4.4830	pemanasan
+-4.4830	pemandangannya
+-4.4830	pembahasan
+-4.4830	pembayarannya
+-4.4830	pembicara
+-3.7049	pembimbing	-0.0929
+-4.4830	pembuatan
+-4.4830	pembulian
+-4.4830	pemecahan
+-4.1820	pemeran
+-4.4830	pemerintah
+-4.4830	pemerintahan
+-4.4830	pemikiran
+-4.4830	pemimpin
+-4.4830	pemrosesan
+-4.4830	penampakan
+-4.1820	penangkaran	-0.2722
+-4.1820	pencarian
+-4.4830	pencet
+-4.4830	pendaftaran
+-4.4830	pendaftarannya
+-4.4830	pendapat
+-4.4830	pendapatmu
+-4.1820	pendek
+-4.4830	pendek-pendek
+-4.4830	pendekar
+-4.4830	pendidikan
+-4.1820	penemuan
+-4.1820	pengadilan
+-4.0059	pengalaman
+-4.1820	pengarang	-0.2722
+-4.4830	pengaruh
+-4.1820	pengcit	-0.2083
+-4.1820	pengembangan	-0.2722
+-2.9645	pengen	-0.0890
+-4.4830	pengertian
+-4.1820	pengesahan
+-4.1820	pengganti
+-4.1820	penggunaan
+-4.4830	penghuni
+-4.1820	pengolahan	-0.2722
+-4.1820	pengumpulan	-0.2722
+-4.4830	pengunjung
+-4.4830	penilaiannya
+-4.1820	penolongmu	-0.2083
+-4.1820	penonton
+-3.4039	penting	+0.0289
+-4.4830	penuh
+-4.4830	penulis
+-4.4830	penurunan
+-4.4830	penyisihan
+-4.4830	pepper
+-3.8810	per	-0.1149
+-4.4830	perahu
+-4.4830	peran
+-4.4830	perang
+-4.4830	perangkat
+-3.3070	perasaan	-0.0575
+-4.4830	perayaan
+-4.4830	perbaiki
+-3.6379	percakapan
+-3.8810	percaya
+-4.4830	perempuanku
+-4.4830	perfeksionis
+-3.0359	pergi	-0.2313
+-4.4830	pergolakan
+-4.4830	perhari
+-4.4830	perhatian
+-4.4830	perihnya
+-4.4830	perintah
+-4.4830	perintahnya
+-3.7049	perjalanan	-0.1857
+-4.1820	perjalananku	-0.2083
+-4.4830	perjalanannya
+-3.8810	perjuangan
+-4.4830	perkemahan
+-4.4830	perkumpulan
+-4.4830	perlakuan
+-3.4417	perlu	+0.0256
+-4.4830	permasalahan
+-4.4830	permen
+-3.0851	pernah	+0.0178
+-3.8810	pernikahan
+-4.1820	perpus
+-4.4830	perpusnya
+-3.7049	perpustakaan	-1.9958
+-3.8810	persen
+-4.1820	persiapan
+-4.4830	persis
+-4.4830	persisnya
+-4.4830	personal
+-3.0851	pertama	-0.2578
+-3.7841	pertamanya	-0.0255
+-4.0059	pertanian	-0.1546
+-4.1820	pertanyaan
+-4.4830	pertemuan
+-4.4830	pertigaan
+-4.4830	pertiwi
+-4.4830	pertumbuhannya
+-4.4830	perumpamaan
+-4.4830	perusaan
+-3.7841	perusahaan
+-4.0059	perusahaannya
+-4.0059	perwalian
+-3.7841	pesan
+-2.9390	pesen	-0.1162
+-4.4830	pesenin
+-4.1820	pesennya
+-4.1820	peserta
+-4.4830	pesertanya
+-4.1820	pesta
+-3.8810	petualang	-0.2578
+-4.4830	phd
+-4.4830	pi
+-4.1820	piala
+-4.4830	piano
+-4.4830	pihak
+-4.0059	pikir
+-4.4830	pikir-pikir
+-4.1820	pikiran
+-4.1820	pikirannya
+-3.8810	pilih
+-3.5800	pilihan	-0.1249
+-4.0059	pilihannya
+-4.4830	pilihnya
+-3.7049	pindah	-0.3017
+-3.7841	pingin	-0.2350
+-4.1820	pinginnya	-0.2678
+-4.4830	pingsan
+-4.4830	pinjam
+-4.1820	pinjem
+-4.4830	pinter
+-3.4417	pintu	-0.0544
+-4.1820	pintunya
+-4.1820	pipis
+-4.0059	piring	-0.1572
+-4.4830	piring-piring
+-3.7841	pisah
+-4.0059	pisang	-0.0975
+-4.4830	pitchingnya
+-3.4830	pizza	-0.3914
+-4.4830	pizzanya
+-4.4830	pkn
+-4.4830	plagiat
+-4.4830	plan
+-4.4830	plot
+-4.4830	plus
+-4.4830	pm
+-4.4830	pnj
+-4.4830	poin
+-4.4830	point
+-3.5288	pokoknya	-0.0423
+-4.4830	pokonya
+-4.4830	polanya
+-4.1820	polisi
+-4.1820	polusi	-0.2722
+-4.4830	pong
+-4.1820	populer
+-4.1820	porsi
+-4.4830	porsinya
+-4.1820	posisi
+-4.4830	posisinya
+-4.1820	positifnya
+-4.4830	post
+-4.4830	postingan
+-4.4830	postur
+-4.4830	pot
+-4.4830	potensinya
+-3.8810	potong
+-4.4830	powerful
+-3.8810	pr
+-4.1820	pra
+-3.7841	praktikum
+-3.8810	pram	-0.2578
+-4.4830	pramuka
+-4.4830	prasmanan
+-4.4830	prasmanannya
+-4.4830	prasyarat
+-4.4830	prasyaratnya
+-4.1820	predict
+-4.0059	prepare
+-4.0059	presentasi	-0.0975
+-4.4830	pretelin
+-4.1820	pribadi
+-3.7841	pribumi	-0.0827
+-4.4830	prnya
+-4.1820	pro
+-4.0059	product	-0.1614
+-4.1820	produksi
+-4.4830	produksinya
+-4.4830	profesional
+-4.4830	profesor
+-4.0059	professor	-0.5196
+-4.1820	program
+-4.4830	programmernya
+-4.1820	programming
+-3.8810	programnya
+-4.4830	progress
+-4.4830	progressnya
+-3.3070	promo	-0.0652
+-3.6379	promonya	+0.0020
+-4.4830	promosi
+-4.4830	pronounciation
+-4.0059	proyek
+-4.4830	proyekan
+-4.4830	prs
+-4.1820	puas
+-4.4830	pula
+-3.0206	pulang	-0.1152
+-4.1820	pulangnya
+-3.5288	pulau	-0.3330
+-4.4830	pulen
+-4.4830	pulih
+-2.7841	puluh	-0.2847
+-3.5800	puluhan	-0.0503
+-3.4830	pun
+-4.1820	puncak
+-4.4830	puncaknya
+-4.4830	punclut
+-4.4830	pundi
+-2.9267	punya	-0.1201
+-4.4830	punyaku
+-3.4039	pura	-1.9995
+-4.1820	pusing	-0.2083
+-3.5288	putih	-0.1002
+-4.4830	putra
+-4.0059	pvj
+-4.4830	pvjnya
+-4.4830	pymes
+-4.4830	qih
+-4.4830	quality
+-4.0059	quantum
+-4.4830	query
+-4.4830	rabu
+-3.7841	rada	-0.0895
+-4.4830	rada-rada
+-4.4830	radiasi
+-4.1820	raf	-0.2083
+-4.4830	rafi
+-4.1820	rafli	-0.2083
+-4.4830	ragu
+-3.7841	rahasia	-0.1716
+-4.4830	rajin
+-4.1820	rak
+-4.4830	rakus
+-4.4830	rama
+-4.4830	ramadhan
+-3.4830	ramai	-0.0688
+-4.4830	ramalan
+-4.1820	rambut
+-4.1820	rambutmu
+-3.8810	rame	-0.1100
+-4.0059	rame-rame
+-4.4830	rangka
+-4.1820	rapat
+-3.7841	rapi
+-4.4830	rapih
+-4.4830	rapihin
+-3.2789	rasa	-0.2029
+-3.2789	rasanya	-0.0257
+-4.1820	rasis
+-4.4830	rata-rata
+-4.1820	ratih
+-4.4830	ratu
+-4.0059	ratus
+-4.4830	rayakan
+-4.4830	rayuan-rayuan
+-4.0059	real	-0.1596
+-4.4830	realm
+-4.4830	recehnya
+-4.4830	recognitionnya
+-3.8810	red	-0.4635
+-4.4830	reda
+-4.1820	referensi
+-4.4830	regulatornya
+-3.7049	rekam	-0.1609
+-4.4830	rekaman
+-4.1820	rekamannya
+-4.4830	rekamnya
+-3.8810	rekomendasi
+-4.4830	rektor
+-4.4830	release
+-4.4830	relevan
+-4.1820	remaja
+-3.8810	remang	-0.1151
+-3.1820	rencana	-0.1003
+-4.4830	rencanain
+-4.4830	rencanaku
+-4.1820	rencanamu
+-3.3691	rencananya	-0.0255
+-4.4830	rendah
+-4.4830	report
+-4.4830	repot
+-4.1820	reservasi
+-4.4830	resminya
+-3.4039	restoran	-0.1823
+-3.8810	restorannya
+-4.4830	review
+-4.4830	revisi
+-4.0059	revisinya
+-4.4830	rezeki
+-3.7049	ribet
+-2.9516	ribu	-0.1703
+-4.1820	ribuan
+-4.4830	ribunya
+-4.4830	ribut
+-4.4830	ricat
+-3.6379	ricky	+0.0020
+-4.4830	rido
+-3.8810	rik
+-4.4830	rika
+-4.4830	rinci
+-4.4830	rindi
+-4.1820	ringan
+-4.4830	risalah
+-4.1820	robot
+-4.4830	robotnya
+-4.4830	roda
+-4.4830	romansa
+-4.4830	romantis
+-4.4830	romantisme
+-4.1820	ronin
+-3.2526	roti	-0.1752
+-4.4830	rotinya
+-4.4830	rplsd
+-3.8810	rt
+-4.4830	ru
+-3.7049	ruang	-0.1597
+-4.4830	rugi
+-2.9267	rumah	-0.1115
+-3.7049	rumahku	-0.0925
+-4.4830	rumahmu
+-3.4417	rumahnya	-0.0746
+-4.4830	rumusin
+-4.1820	rusa
+-3.6379	rusak	-0.1400
+-4.4830	rusanya
+-4.4830	rutin
+-4.4830	rutinitas
+-4.4830	s1
+-4.1820	s3	-0.2083
+-4.4830	sa
+-3.4039	saat	-0.0794
+-4.4830	saatnya
+-3.8810	sabar
+-4.4830	sabar-sabar
+-4.0059	sabi
+-3.4417	sabtu	-0.0383
+-4.0059	sabuga	-0.0975
+-4.4830	sad
+-4.1820	sadar
+-4.0059	sah	-0.0975
+-4.4830	sahabat
+-4.4830	sahabatnya
+-4.4830	saingannya
+-4.1820	sains
+-2.7507	saja	-0.4097
+-4.4830	sajalah
+-4.4830	saking
+-3.0681	sakit	-0.2887
+-4.1820	saku	-0.2083
+-4.4830	salad
+-2.8396	salah	-0.2195
+-4.4830	salam
+-4.4830	salamku
+-4.4830	saldo
+-4.4830	saldonya
+-4.4830	saling
+-4.4830	salon
+-4.4830	salted
+-2.2351	sama	-0.0630
+-3.7049	sama-sama	-0.0973
+-4.1820	sambal	-0.2722
+-4.4830	sambelnya
+-3.5288	sambil	-0.0470
+-4.4830	sampah
+-2.8109	sampai	-0.0749
+-4.4830	sampaikan
+-3.2526	sampe
+-3.8810	samping	-0.3217
+-4.4830	sampingan
+-4.4830	sampingku
+-4.4830	sampingmu
+-4.4830	sampingnya
+-4.1820	san	-0.2083
+-2.9917	sana	-0.2232
+-3.4417	sangat	-0.1269
+-4.4830	sanggup
+-3.6379	santai	-0.1501
+-4.4830	sapa
+-4.1820	sapi
+-4.4830	saraga
+-4.4830	sarah
+-4.0059	sarapan
+-4.4830	sate
+-2.5910	satu	-0.0803
+-3.8810	satunya	-0.1121
+-4.1820	saudara
+-4.4830	saver
+-4.0059	sawah	-0.1599
+-3.7049	sawah-sawah	-0.2660
+-2.6837	saya	+0.0047
+-3.8810	sayang	-0.3216
+-4.1820	sayangnya
+-4.1820	sayur
+-4.4830	sayur-sayuran
+-4.1820	sayuran
+-4.4830	sc
+-4.4830	school
+-4.4830	scoring
+-3.7841	sd	-0.0255
+-4.4830	se
+-4.4830	seakan
+-4.4830	searchnya
+-4.4830	season
+-3.6379	sebagai	-0.0620
+-4.4830	sebagian
+-4.4830	sebaik
+-4.4830	sebangku
+-4.1820	sebanyak
+-4.4830	sebeda
+-4.4830	sebel
+-4.0059	sebelah
+-3.7841	sebelas
+-4.0059	sebelom	-0.1614
+-3.4417	sebelum	-0.0747
+-4.4830	sebelum-sebelumnya
+-3.5800	sebelumnya	-0.1370
+-3.4830	sebenarnya
+-3.4417	sebenernya	-0.0277
+-3.5288	sebentar	-0.1466
+-4.4830	seberang
+-4.4830	seberapa
+-4.4830	seblak
+-3.8810	sebuah	-0.1151
+-4.0059	sebut	-0.0975
+-4.4830	secanggih
+-3.7049	secara	-0.0732
+-3.3369	sedang	-0.0664
+-4.4830	sedeng
+-3.5800	sedih	-0.1299
+-3.3369	sedikit	-0.0381
+-4.4830	sedunia
+-4.1820	seenaknya
+-3.7841	segala	-0.2024
+-4.4830	segalanya
+-4.4830	segaring
+-4.4830	segede
+-4.1820	segini	-0.2083
+-4.1820	segitu
+-4.4830	segituan
+-4.4830	segitunya
+-4.4830	segreget
+-4.1820	sehabis
+-4.4830	sehari
+-4.4830	seharusnya
+-3.8810	sehat	-0.2578
+-4.4830	sei
+-4.1820	seindah
+-4.4830	seingatku
+-4.4830	seinget
+-4.1820	sejarah
+-4.4830	sejarahnya
+-4.1820	sejauh	-0.2684
+-3.4039	sekali	-0.0987
+-4.1820	sekali-sekali
+-3.5288	sekalian	-0.0318
+-2.6022	sekarang	-0.1362
+-4.4830	sekarat
+-4.1820	sekarung	-0.2722
+-4.1820	sekedar
+-4.0059	sekelompok	-0.0975
+-4.4830	sekelompoknya
+-4.4830	sekeren
+-4.4830	sekip
+-3.0517	sekitar	-0.2869
+-4.1820	sekitaran
+-3.2043	sekolah	+0.0079
+-4.4830	sekre
+-3.7841	selain
+-4.0059	selalu
+-3.4830	selama	-0.1350
+-3.5288	selamat	-0.2118
+-4.4830	selang
+-4.4830	selanjutnya
+-4.1820	selasa
+-4.4830	seleksi
+-4.4830	seleksinya
+-4.4830	selembar
+-4.4830	seleraku
+-3.1820	selesai	-0.1202
+-4.4830	selese
+-4.4830	selevel
+-4.4830	selidiki
+-4.1820	semacam
+-4.4830	semacamnya
+-4.1820	semakin
+-3.8810	semalam	-0.1084
+-3.8810	semangat
+-4.4830	semangatnya
+-4.4830	sembarangan
+-3.2043	sembilan	-0.1114
+-4.4830	sembuh
+-4.4830	sembunyi
+-4.4830	semenit
+-4.4830	semenjak
+-3.2526	semester	-0.2333
+-3.5800	seminar
+-3.5800	semoga	-0.1145
+-3.8810	sempat
+-3.6379	sempet
+-4.1820	sempit
+-4.4830	sempurna
+-2.9645	semua	-0.0290
+-3.3691	semuanya	-0.0122
+-4.4830	semudah
+-4.4830	sen
+-3.4039	senang	-0.2740
+-2.8703	sendiri	-0.3078
+-4.4830	sendirian
+-4.4830	sendirinya
+-4.4830	senen
+-3.5800	sengaja	-0.1086
+-4.1820	seni
+-4.4830	senin
+-4.4830	senjata
+-4.0059	seorang
+-3.1820	sepatu	-0.3379
+-3.8810	sepatu-sepatu
+-4.4830	sepatumu
+-3.5288	sepeda	-0.2906
+-3.7049	sepedaku	-0.2035
+-3.8810	sepedamu	-0.2638
+-3.1608	seperti	-0.1230
+-4.4830	sepertimu
+-3.2278	sepertinya	-0.1427
+-4.4830	sepi
+-4.4830	sepinter
+-4.4830	seporsinya
+-4.4830	sepuasnya
+-4.1820	sepulang	-0.2720
+-3.1820	sepuluh	-0.1184
+-4.0059	seram
+-3.3691	seratus	-0.1556
+-4.4830	serba
+-4.4830	serem
+-4.4830	seri
+-4.4830	serial
+-4.4830	seribu
+-3.3369	sering	-0.0283
+-3.5288	serius	-0.0469
+-3.3070	seru	-0.1093
+-4.4830	servis
+-4.0059	seseorang	-0.0975
+-4.4830	sesering
+-4.4830	sesi
+-4.1820	sesuai
+-3.8810	sesuatu
+-4.0059	set	-0.1614
+-4.1820	setahun
+-4.4830	setanah
+-4.4830	setara
+-3.7841	setau	-0.4768
+-3.4830	setelah
+-3.7841	setengah
+-4.4830	setengahnya
+-4.0059	seterusnya	-0.0975
+-3.8810	setiap
+-4.4830	setidaknya
+-3.5288	setuju	-0.0857
+-4.4830	seumuran
+-3.8810	sewa
+-4.4830	sharing
+-4.1820	shia	-0.2083
+-4.4830	shit
+-4.1820	shock
+-4.4830	shooting
+-4.1820	shopee
+-2.8703	si	-0.2200
+-4.4830	sial
+-3.5288	siang	-0.1090
+-3.3691	siap	-0.1507
+-4.0059	siap-siap
+-2.9267	siapa	-0.2591
+-3.4830	sibuk	-0.0393
+-4.4830	sibuk-sibuknya
+-4.1820	sidang
+-4.4830	signature
+-4.4830	signifikan
+-1.9847	sih	-0.3093
+-4.4830	sikaping
+-4.4830	sikit
+-4.1820	sil	-0.2083
+-3.7841	silahkan
+-4.4830	silahkan-silahkan
+-4.4830	sim
+-4.4830	simpan
+-4.1820	simpenin
+-4.4830	simulasi
+-4.4830	simulasinya
+-4.1820	sinar
+-4.4830	sinematografi
+-3.8810	singa
+-4.4830	singapore
+-4.0059	singapur
+-4.0059	singkat	-0.5195
+-4.4830	single
+-2.6907	sini	-0.1442
+-4.4830	sini-sini
+-4.4830	sinopsis
+-4.1820	sinyal
+-4.4830	sinyalnya
+-3.7049	sip	-0.2381
+-4.1820	siri
+-3.7049	sis	-0.2900
+-4.1820	sisa	-0.2722
+-4.4830	sisanya
+-3.7841	sisi	-0.0895
+-4.1820	siska
+-4.1820	sistem
+-4.4830	sistemnya
+-4.1820	sister
+-3.4417	situ	-0.1003
+-4.4830	situasi
+-4.4830	situs
+-4.4830	skenario
+-4.4830	skip
+-3.5800	sks	-0.1711
+-4.1820	skuy
+-4.4830	slide
+-3.4417	sma	-0.1043
+-4.0059	smanten
+-4.4830	smapsic
+-4.4830	smp
+-4.4830	sms
+-3.7049	snap	-0.0093
+-4.4830	snapnya
+-4.1820	snek
+-4.4830	so
+-3.0681	soal	-0.1547
+-2.7928	soalnya	-0.1873
+-4.4830	software
+-3.7841	sok	-0.0895
+-4.4830	soleh
+-4.4830	songong
+-4.4830	sop
+-4.4830	sopnya
+-3.4039	sore	-0.1745
+-4.4830	sori
+-4.1820	sorry
+-3.8810	sosial	-0.1083
+-4.1820	sosok
+-4.4830	speakerin
+-4.4830	specificity
+-3.4417	speech	-0.0366
+-3.8810	speknya	-0.3173
+-4.4830	spesial
+-4.4830	spoiler
+-4.4830	standar
+-3.5288	stark	+0.0166
+-4.0059	startup
+-4.4830	statistik
+-4.1820	status	-0.2722
+-4.4830	steak
+-4.1820	stei
+-3.7841	steven	-0.0255
+-4.0059	sti
+-4.4830	stkip
+-4.4830	stoknya
+-4.1820	story
+-4.4830	strange
+-4.4830	studi
+-4.4830	studinya
+-4.4830	suami
+-4.4830	suaminya
+-3.6379	suara
+-3.7841	suasana	-0.0895
+-4.4830	subbab
+-4.4830	subjektif
+-4.0059	subuh
+-4.1820	suci
+-2.7928	sudah	-0.0357
+-4.0059	sudahlah
+-3.7049	sudut	-0.3539
+-4.4830	sugar
+-2.9267	suka	-0.1593
+-4.1820	sukajadi
+-4.1820	sukanya
+-4.0059	sukses
+-4.4830	sukur
+-4.0059	sulit	-0.1614
+-4.4830	sumbar
+-4.1820	sumber	-0.2722
+-4.4830	sumbernya
+-4.4830	sumbi
+-4.1820	summer
+-3.6379	sumpah	-0.1530
+-4.1820	sup
+-4.0059	supaya
+-3.7841	super
+-4.4830	supirnya
+-4.0059	surabaya
+-3.8810	surat	-0.1151
+-4.4830	surhof
+-4.0059	suruh
+-4.4830	surveynya
+-3.1213	susah	-0.1183
+-4.1820	susanti
+-4.1820	susi	-0.2722
+-4.0059	sutradara
+-4.4830	sutradaranya
+-4.4830	swear
+-4.4830	syarat
+-4.4830	syukurlah
+-4.4830	t
+-3.4417	ta	-0.0128
+-4.4830	tab
+-2.8298	tadi	-0.0963
+-4.4830	tagihin
+-4.0059	tah	-0.0975
+-4.4830	tahap
+-3.2043	tahu	-0.0689
+-2.8810	tahun	-0.1582
+-4.1820	tahunku
+-4.1820	tahunmu
+-4.1820	tahunnya
+-4.4830	tahunya
+-4.4830	tai
+-4.1820	taichan
+-3.7841	tak	-0.2355
+-4.4830	taksi
+-3.1820	takut	-0.0158
+-4.1820	takutnya
+-4.4830	talang
+-4.4830	taman
+-3.5800	tambah
+-4.0059	tambahin
+-4.1820	tambal	-0.2722
+-4.1820	tamfest	-0.2083
+-4.4830	tampil
+-4.4830	tanah
+-3.8810	tanda	-0.4634
+-4.4830	tandanya
+-4.4830	tanding
+-3.5800	tangan
+-4.1820	tangga
+-3.4417	tanggal	-0.0785
+-4.0059	tanggung	-0.5196
+-4.4830	tangkis
+-4.4830	tangkuban
+-4.0059	tanpa
+-4.1820	tantangannya	-0.2083
+-3.6379	tanya
+-4.1820	tanyain
+-4.4830	tanyakan
+-2.2159	tapi	-0.0666
+-3.5288	tar	-0.0442
+-4.4830	target
+-4.4830	tarik
+-4.4830	tarung
+-4.4830	tarungnya
+-4.1820	tata
+-4.4830	tatanan
+-2.6138	tau	-0.0731
+-4.1820	taun
+-4.1820	tautan
+-4.4830	tayang
+-4.1820	tbd
+-4.4830	teb
+-4.4830	tebak
+-4.1820	tebakanmu	-0.2722
+-4.4830	tebel
+-4.1820	teh	-0.2722
+-4.1820	teken
+-4.4830	teknik
+-3.7049	teknologi	-0.0698
+-4.4830	teks
+-4.0059	telah	-0.1614
+-3.4830	telat	-0.0380
+-4.4830	telinga
+-4.4830	telkomsel
+-4.0059	telor
+-4.4830	telornya
+-4.4830	telpon
+-4.1820	tema
+-3.4830	teman	-0.0374
+-4.0059	teman-teman
+-4.4830	teman-temanku
+-4.4830	temani
+-4.1820	temanin
+-4.0059	temanya
+-4.4830	tembak
+-4.4830	tembakan
+-4.4830	tembok
+-3.3691	temen	-0.1050
+-3.8810	temen-temen
+-4.4830	temen-temennya
+-4.1820	temenin
+-4.4830	temennya
+-2.8396	tempat	-0.2259
+-4.0059	tempat-tempat	-0.1546
+-3.5288	tempatnya
+-4.0059	tempe
+-3.8810	template
+-4.4830	tenaga
+-4.4830	tenaganya
+-3.7841	tenang
+-4.1820	tendanya
+-3.4417	tengah	-0.3419
+-4.4830	tengil
+-4.4830	tengok
+-3.8810	tensai	-0.0511
+-4.4830	tensainya
+-3.2278	tentang	-0.0954
+-3.5800	tentu	-0.4356
+-4.4830	tentukan
+-4.0059	tentunya	-0.1564
+-4.4830	teori
+-3.7049	tepat	-0.2343
+-3.3369	terakhir	-0.0063
+-4.4830	terang
+-3.8810	terasa	-0.1151
+-4.4830	terbaik
+-3.8810	terbaru
+-4.0059	terbarunya
+-4.4830	terbatas
+-4.4830	terbenam
+-4.1820	terbiasa	-0.2714
+-4.4830	terbuka
+-4.4830	tercapai
+-4.0059	terdekat	-0.1612
+-4.1820	terdistribusi	-0.2083
+-4.1820	terduga
+-4.4830	terenak
+-4.4830	tergantung
+-4.4830	terhadap
+-4.0059	terhingga
+-3.4039	terima	-1.0789
+-3.7841	terimakasih	-0.0894
+-4.4830	teringat
+-3.6379	terjadi	-0.0618
+-4.4830	terjadinya
+-4.4830	terjatuh
+-4.4830	terkagum
+-4.4830	terkenal
+-4.1820	terkenalnya
+-4.4830	terkesan
+-4.4830	terkilir
+-4.4830	terkonn
+-4.4830	terkumpul
+-4.4830	terkurungnya
+-3.2043	terlalu	-0.0432
+-4.4830	terlanjur
+-4.1820	terlebih	-0.2722
+-4.4830	terlibat
+-3.6379	terlihat
+-4.1820	termacet
+-4.4830	termerdu
+-4.4830	terminat
+-3.4830	terminator	-0.0674
+-4.4830	termotivasi
+-3.0206	ternyata	+0.0203
+-4.4830	terombang-ambing
+-4.1820	teror
+-4.4830	teroris
+-4.4830	terperangkap
+-4.4830	terpisah
+-4.4830	terselamatkan
+-3.8810	terserah	-0.3179
+-4.4830	terserahlah
+-4.1820	tersinkronisasi
+-4.4830	tersisa
+-3.6379	tertarik
+-4.4830	tertata
+-4.0059	tertentu	-0.0975
+-2.4261	terus	-0.0126
+-3.7841	tes
+-4.4830	tesis
+-4.1820	testing	-0.2083
+-4.4830	tetangga
+-3.8810	tetap
+-3.8810	tetapi
+-3.8810	tetep
+-4.0059	text
+-4.4830	textbook
+-3.7841	thanos	-0.0255
+-4.0059	the	-0.1614
+-4.4830	thor
+-4.0059	tiap
+-4.4830	tiara
+-3.7841	tiba	-0.0895
+-4.4830	tiba-tiba
+-2.6769	tidak	-0.1374
+-3.0851	tidur	-0.2419
+-4.4830	tidurnya
+-2.8018	tiga	-0.2689
+-4.4830	tigaan
+-3.7049	tiket	-0.0720
+-3.8810	tikus
+-4.1820	tim
+-3.6379	time
+-3.2526	tinggal	-0.0190
+-4.4830	tinggi
+-4.1820	tingkat
+-4.1820	tipe
+-3.7049	tirta	-0.1223
+-4.4830	tisu
+-4.0059	titik
+-4.4830	titip
+-4.4830	toffee
+-4.1820	toh
+-3.8810	toko
+-4.4830	tokoh
+-4.4830	tokonya
+-3.4830	tolong	-0.1019
+-4.4830	tomat
+-4.4830	tombolnya
+-3.5288	ton	+0.0166
+-4.4830	tonton
+-3.2043	tony	-0.3040
+-4.1820	top
+-4.0059	topik
+-4.1820	topiknya
+-4.1820	total
+-4.0059	totalnya	-0.1581
+-4.4830	toyota
+-4.4830	tradisi
+-4.0059	trailer
+-4.4830	train
+-4.4830	trainingnya
+-3.5800	traktir	-0.1422
+-4.4830	transformasiin
+-4.4830	transformasinya
+-4.0059	transformer
+-4.4830	transkrip
+-4.0059	transportasi
+-4.0059	transportasinya	-0.4557
+-4.1820	traumanya
+-4.4830	travel
+-4.1820	traveloka
+-4.4830	trigger
+-4.4830	trigonometri
+-3.3691	trus
+-2.8396	tu	-0.0211
+-3.7841	tua
+-4.4830	tubes
+-4.4830	tubesnya
+-4.0059	tubuh	-0.1585
+-4.4830	tubuhnya
+-2.9779	tugas	-0.0377
+-3.7049	tugasnya
+-2.5910	tuh	-0.1425
+-4.4830	tujuannya
+-3.3070	tujuh	-0.1320
+-4.1820	tulang
+-4.4830	tulis
+-4.4830	tulisan-tulisan
+-4.1820	tulisnya
+-3.6379	tumben	-0.0602
+-4.4830	tunda
+-3.2526	tunggu	-0.1131
+-4.1820	tungguin
+-4.4830	tunggunya
+-4.4830	tunjukan
+-4.1820	tunjukin
+-3.7841	turnamen	-0.0255
+-3.7841	turun	-0.2592
+-4.4830	turut
+-4.4830	tutorial
+-4.4830	tutup
+-3.8810	tv
+-4.4830	u
+-4.0059	uang	-0.1614
+-4.4830	uang-uangnya
+-4.0059	uangnya	-0.0975
+-3.8810	uas
+-4.4830	ucapan
+-4.4830	uda
+-2.0921	udah	-0.0838
+-4.4830	udahan
+-3.7049	udahlah	-0.3259
+-4.4830	udang
+-4.1820	udara	-0.2654
+-4.1820	udik
+-4.4830	uduk
+-4.1820	ugm
+-4.4830	ui
+-3.4039	ujian	-0.0506
+-4.4830	ujiannya
+-4.1820	ujung	-0.2719
+-4.4830	uks
+-4.4830	ulahnya
+-3.3070	ulang	-0.5588
+-4.0059	ulasan
+-4.4830	ulfa
+-4.4830	ulwan
+-4.1820	umum
+-4.4830	umumnya
+-4.1820	umur
+-4.4830	unand
+-4.4830	undang
+-4.4830	undangan
+-4.4830	undead
+-4.1820	undip
+-4.4830	unggun
+-4.4830	uniknya
+-3.6379	unit	-0.1290
+-4.0059	universitas
+-4.4830	unp
+-2.9148	untuk	-0.0104
+-4.4830	untuknya
+-4.0059	untung
+-3.8810	untungnya
+-4.4830	up
+-4.1820	update
+-4.1820	upload
+-4.1820	upnormal
+-4.4830	urang
+-4.0059	urpa
+-4.0059	urusan
+-4.4830	us
+-3.6379	usah
+-4.4830	usaha
+-3.8810	utama
+-4.4830	utamanya
+-4.4830	utang
+-4.4830	uts
+-4.4830	validnya
+-4.4830	van
+-4.4830	variasi
+-3.8810	velvet
+-3.8810	ven
+-4.4830	vi
+-4.4830	vihara
+-4.4830	villa
+-3.8810	vin	-0.0511
+-4.4830	vintage
+-4.4830	visa
+-4.4830	visualisasi
+-4.1820	vocabnya
+-4.4830	voltage
+-4.4830	vormir
+-4.4830	vue
+-3.8810	wa
+-4.4830	waalaikumsalam
+-3.6379	waduh	-0.0903
+-4.4830	wagila
+-4.1820	wagyu
+-2.5640	wah	-0.1075
+-2.8109	waktu	-0.0543
+-3.7049	waktunya	-0.0093
+-3.5800	walaupun
+-3.3691	wan	-0.2624
+-3.5800	wanda	-0.1711
+-4.1820	wandanya	-0.2083
+-4.0059	wanita
+-4.4830	wanitanya
+-4.4830	warcraft
+-4.4830	warcraftnya
+-4.4830	warming
+-4.1820	warna	-0.2654
+-4.4830	warnanya
+-4.1820	warteg
+-4.0059	waw
+-4.1820	way
+-4.1820	web
+-4.4830	webmd
+-4.1820	webnya
+-4.1820	website
+-4.1820	weh
+-4.0059	well	-0.1614
+-4.4830	wew
+-4.4830	what
+-4.1820	wibu
+-4.1820	wifi
+-4.4830	wiki
+-4.4830	windows
+-4.4830	winternship
+-4.4830	wisata
+-4.4830	wisokto
+-3.5800	wisuda	-0.0483
+-4.4830	wisudaan
+-4.4830	wisudaannya
+-4.1820	wisudanya	-0.2083
+-4.1820	wisudawan
+-4.1820	wix	-0.2722
+-4.4830	wo
+-3.2789	woi	-0.2370
+-4.1820	world
+-4.0059	wortel	-0.1614
+-4.4830	wortelnya
+-4.4830	wow
+-4.4830	x
+-4.4830	y
+-1.8396	ya	-0.3373
+-4.4830	yaelah
+-2.7507	yah	-0.2195
+-4.4830	yaitu
+-4.4830	yak
+-3.8810	yakin
+-4.1820	yan
+-1.8045	yang	-0.1577
+-4.0059	yasudah
+-3.8810	yauda	-0.1119
+-3.0059	yaudah	-0.0520
+-4.4830	yaudalah
+-4.1820	ye
+-4.4830	yes
+-4.4830	yey
+-4.4830	yoga
+-4.1820	yok
+-3.4830	yon	-0.2432
+-4.4830	yonas
+-3.7049	yor	-0.0896
+-4.1820	you	-0.2722
+-4.1820	yu
+-4.4830	yuds
+-2.7049	yuk	-0.3505
+-4.4830	za
+-4.0059	zaman	-0.1602
+-4.4830	zi
+-4.4830	zombieland
+
+\2-grams:
+-1.4458	!!UNK kelas
+-0.3318	</s> <s>
+-2.2583	<s> !!UNK
+-3.6508	<s> a
+-3.6508	<s> aa
+-3.6508	<s> abis
+-1.9479	<s> ada
+-3.6508	<s> adikku
+-2.8462	<s> aduh
+-3.6508	<s> agak
+-2.3190	<s> ah
+-3.6508	<s> akhir
+-3.2992	<s> akhirnya
+-1.4677	<s> aku
+-3.2010	<s> anak
+-3.6508	<s> annelies
+-2.2398	<s> apa
+-3.2010	<s> apaan
+-2.7169	<s> apakah
+-3.0957	<s> apalagi
+-3.6508	<s> apply
+-3.6508	<s> asal
+-3.2992	<s> asik
+-2.7169	<s> atau
+-3.6508	<s> atur
+-3.6508	<s> awalnya
+-2.5786	<s> ayo
+-3.6508	<s> ayuk
+-2.6200	<s> bagaimana
+-3.0957	<s> bagus
+-2.8462	<s> bahkan
+-3.2010	<s> baik
+-2.9150	<s> baiklah
+-3.2992	<s> baju
+-3.6508	<s> bangun
+-2.5409	<s> banyak
+-3.0957	<s> baru
+-3.6508	<s> bawakan
+-3.2010	<s> beda
+-3.2992	<s> beli
+-3.2992	<s> beliau
+-2.9150	<s> belom
+-2.2221	<s> belum
+-2.7169	<s> benar
+-3.2010	<s> benarkah
+-3.6508	<s> bener
+-3.2992	<s> bentar
+-3.6508	<s> berapa
+-2.7169	<s> berarti
+-2.4159	<s> besok
+-3.0957	<s> biar
+-2.9150	<s> biasa
+-2.6658	<s> biasanya
+-3.6508	<s> bimbingan
+-3.2010	<s> bingung
+-2.6200	<s> bisa
+-3.2992	<s> bisakah
+-3.6508	<s> blibli
+-2.2398	<s> boleh
+-3.2010	<s> btw
+-3.2010	<s> buat
+-3.2010	<s> buka
+-3.0957	<s> bukan
+-3.2992	<s> bukankah
+-3.2010	<s> bukannya
+-3.6508	<s> bumi
+-3.2992	<s> butuh
+-3.6508	<s> by
+-3.2992	<s> cape
+-3.6508	<s> ceo
+-3.6508	<s> cicis
+-2.5409	<s> coba
+-3.6508	<s> contohnya
+-3.6508	<s> cukup
+-2.6658	<s> cuma
+-2.5061	<s> cuman
+-2.1887	<s> dan
+-3.6508	<s> dapur
+-2.6200	<s> dari
+-3.2010	<s> dasar
+-3.2992	<s> data
+-3.2992	<s> dateng
+-3.2992	<s> dekat
+-3.6508	<s> deket
+-3.0957	<s> dengan
+-2.1729	<s> di
+-2.0518	<s> dia
+-3.2010	<s> dick
+-2.6200	<s> dik
+-3.2992	<s> disuruh
+-3.2992	<s> dosen
+-3.6508	<s> dosennya
+-3.2010	<s> dua
+-3.6508	<s> duh
+-3.6508	<s> dulu
+-3.6508	<s> durian
+-3.2992	<s> e
+-1.7279	<s> eh
+-3.6508	<s> em
+-2.3896	<s> emang
+-3.2010	<s> emangnya
+-2.8462	<s> enak
+-3.6508	<s> enakan
+-3.2010	<s> engga
+-3.2010	<s> enggak
+-3.6508	<s> euh
+-3.2010	<s> eum
+-3.2992	<s> felix
+-2.5409	<s> ga
+-3.6508	<s> gabut
+-2.2398	<s> gak
+-3.2992	<s> gatau
+-3.6508	<s> gelap
+-3.2992	<s> gila
+-2.3648	<s> gimana
+-3.6508	<s> gini
+-2.6658	<s> gitu
+-1.9388	<s> gua
+-2.8462	<s> gue
+-3.2992	<s> habis
+-2.5409	<s> hah
+-3.2992	<s> haha
+-2.8462	<s> hahaha
+-2.5061	<s> hai
+-3.6508	<s> halah
+-3.6508	<s> hallo
+-2.3896	<s> halo
+-3.2010	<s> hanya
+-3.6508	<s> harganya
+-2.7169	<s> hari
+-2.9150	<s> harus
+-2.6658	<s> harusnya
+-2.9150	<s> hehe
+-2.7169	<s> hem
+-3.6508	<s> hey
+-3.6508	<s> hidupnya
+-3.6508	<s> hilang
+-2.4439	<s> hmm
+-3.6508	<s> hobiku
+-3.6508	<s> hobimu
+-3.0957	<s> huh
+-3.6508	<s> ide
+-2.4739	<s> ih
+-3.2992	<s> ikut
+-1.9668	<s> ini
+-3.6508	<s> intern
+-3.6508	<s> iqbal
+-3.6508	<s> ir
+-3.6508	<s> itb
+-1.8492	<s> itu
+-1.4186	<s> iya
+-3.6508	<s> iya-iya
+-1.6610	<s> jadi
+-3.6508	<s> jadinya
+-3.0957	<s> jalan
+-2.8462	<s> jam
+-2.6658	<s> jangan
+-3.6508	<s> jelek
+-3.2992	<s> jendelanya
+-3.6508	<s> jika
+-3.6508	<s> juli
+-3.2992	<s> kadang
+-3.6508	<s> kak
+-1.9040	<s> kalau
+-2.6658	<s> kalian
+-1.7627	<s> kalo
+-3.0957	<s> kami
+-1.6805	<s> kamu
+-2.0072	<s> kan
+-3.2010	<s> kapan
+-3.6508	<s> kapan-kapan
+-2.2221	<s> karena
+-3.2992	<s> karna
+-3.2992	<s> kasih
+-2.6200	<s> kata
+-2.6658	<s> katanya
+-3.0957	<s> kau
+-2.9150	<s> kaya
+-2.6200	<s> kayak
+-2.4159	<s> kayaknya
+-2.9150	<s> kayanya
+-2.8462	<s> ke
+-3.0957	<s> kebanyakan
+-3.6508	<s> kebetulan
+-3.6508	<s> kelas
+-3.6508	<s> kelompok
+-3.6508	<s> kemana
+-2.7169	<s> kemaren
+-2.4159	<s> kemarin
+-3.6508	<s> kena
+-2.5409	<s> kenapa
+-3.2010	<s> keren
+-3.6508	<s> kerjaan
+-2.9150	<s> kira-kira
+-2.0637	<s> kita
+-3.2992	<s> ko
+-2.4159	<s> kok
+-3.6508	<s> kondisi
+-3.2010	<s> kosan
+-3.2010	<s> kp
+-3.6508	<s> ku
+-3.2010	<s> kurang
+-2.7169	<s> lagi
+-3.2010	<s> lagian
+-2.5061	<s> lah
+-3.6508	<s> lampunya
+-3.6508	<s> lantai
+-3.2992	<s> laptop
+-2.8462	<s> lebih
+-3.6508	<s> liat
+-3.2010	<s> liburan
+-3.2010	<s> lihat
+-3.6508	<s> lima
+-2.8462	<s> lix
+-2.8462	<s> lo
+-2.5409	<s> loh
+-2.1729	<s> lu
+-3.6508	<s> lucu
+-3.2010	<s> lumayan
+-3.2992	<s> ma
+-3.0957	<s> maaf
+-3.6508	<s> maafin
+-3.2992	<s> mahal
+-3.6508	<s> maka
+-3.0957	<s> makan
+-3.2010	<s> makanan
+-2.9150	<s> makanya
+-3.6508	<s> makasih
+-3.6508	<s> maksud
+-2.8462	<s> maksudnya
+-3.2010	<s> mana
+-3.2992	<s> mantap
+-3.6508	<s> mari
+-3.0957	<s> mas
+-2.6658	<s> masa
+-2.5061	<s> masih
+-2.1287	<s> mau
+-2.7169	<s> memang
+-3.0957	<s> memangnya
+-2.9150	<s> mending
+-3.2992	<s> mendingan
+-3.2010	<s> menurut
+-3.6508	<s> menurutku
+-2.6658	<s> mereka
+-2.6658	<s> meskipun
+-2.8462	<s> minggu
+-3.6508	<s> minta
+-3.2992	<s> misalnya
+-3.6508	<s> mit
+-3.6508	<s> mm
+-2.8462	<s> mo
+-2.6658	<s> mungkin
+-3.6508	<s> na
+-2.2221	<s> nah
+-3.2992	<s> nama
+-3.6508	<s> namun
+-2.0637	<s> nanti
+-3.6508	<s> narcos
+-3.0957	<s> ngapain
+-3.2010	<s> ngerjain
+-3.2992	<s> ngga
+-2.4439	<s> nggak
+-2.6200	<s> ngomong-ngomong
+-2.8462	<s> nih
+-3.6508	<s> nonton
+-2.8462	<s> ntar
+-3.2010	<s> o
+-1.4468	<s> oh
+-3.2010	<s> ohh
+-3.0957	<s> ok
+-1.8071	<s> oke
+-3.0957	<s> okei
+-3.6508	<s> okelah
+-3.6508	<s> oleh
+-2.8462	<s> ooh
+-3.6508	<s> orang
+-3.6508	<s> ow
+-3.6508	<s> pada
+-2.5409	<s> padahal
+-3.2992	<s> pagi
+-3.2992	<s> pake
+-2.5409	<s> paling
+-3.6508	<s> pas
+-2.5409	<s> pasti
+-2.9150	<s> pengen
+-3.6508	<s> penggunaan
+-2.7169	<s> perasaan
+-3.6508	<s> percakapan
+-3.6508	<s> pergi
+-3.6508	<s> perlu
+-2.8462	<s> pertama
+-3.6508	<s> pertamanya
+-3.6508	<s> pilihan
+-3.6508	<s> pindah
+-3.6508	<s> pinginnya
+-3.0957	<s> pokoknya
+-3.6508	<s> pr
+-3.6508	<s> pulau
+-3.2010	<s> rasanya
+-3.6508	<s> rekam
+-3.6508	<s> remang
+-2.9150	<s> rencananya
+-3.2992	<s> rik
+-3.6508	<s> robot
+-3.6508	<s> sabi
+-3.2992	<s> sakit
+-3.2992	<s> salah
+-2.3413	<s> sama
+-3.2010	<s> sama-sama
+-3.0957	<s> sampai
+-3.2992	<s> sampe
+-3.6508	<s> san
+-3.2992	<s> santai
+-3.2992	<s> satu
+-3.6508	<s> sawah-sawah
+-2.7169	<s> saya
+-3.6508	<s> sayang
+-3.0957	<s> sebenarnya
+-3.6508	<s> sebenernya
+-2.8462	<s> sebentar
+-3.6508	<s> sedih
+-2.2398	<s> sekarang
+-3.2992	<s> sekitar
+-2.9150	<s> selamat
+-3.2992	<s> semalam
+-3.6508	<s> semangat
+-2.9150	<s> semoga
+-3.2992	<s> semua
+-3.2992	<s> senang
+-3.6508	<s> sepatu-sepatu
+-3.0957	<s> seperti
+-2.7169	<s> sepertinya
+-3.2992	<s> sepuluh
+-3.2992	<s> seratus
+-3.0957	<s> serius
+-3.6508	<s> seru
+-3.6508	<s> setelah
+-3.6508	<s> setiap
+-3.6508	<s> shia
+-3.6508	<s> si
+-3.6508	<s> siap
+-2.7169	<s> siapa
+-3.6508	<s> silahkan
+-3.2992	<s> singkat
+-3.2010	<s> sini
+-3.2992	<s> sip
+-3.6508	<s> skuy
+-2.2776	<s> soalnya
+-3.2992	<s> sok
+-3.6508	<s> startup
+-3.6508	<s> steven
+-3.6508	<s> sudah
+-3.2992	<s> sudahlah
+-3.6508	<s> suka
+-3.6508	<s> sukses
+-3.2010	<s> sumpah
+-3.2010	<s> susah
+-2.5061	<s> tadi
+-3.6508	<s> takut
+-1.6378	<s> tapi
+-2.9150	<s> tar
+-3.0957	<s> tau
+-3.6508	<s> tebakanmu
+-3.6508	<s> temanya
+-3.6508	<s> temen
+-3.6508	<s> tempat
+-3.2010	<s> tempatnya
+-3.6508	<s> template
+-3.2992	<s> tenang
+-3.0957	<s> tengah
+-3.2992	<s> tentang
+-2.9150	<s> tentu
+-3.6508	<s> tepat
+-3.6508	<s> terakhir
+-2.7169	<s> terima
+-3.2010	<s> terimakasih
+-2.8462	<s> ternyata
+-3.6508	<s> terserah
+-1.8276	<s> terus
+-3.6508	<s> testing
+-3.6508	<s> tetap
+-3.2992	<s> tetapi
+-3.6508	<s> thanos
+-2.7169	<s> tidak
+-3.6508	<s> tidur
+-3.6508	<s> tiga
+-3.2010	<s> tinggal
+-3.2010	<s> tolong
+-3.6508	<s> tony
+-2.9150	<s> trus
+-3.2010	<s> tuh
+-3.6508	<s> tumben
+-2.8462	<s> tunggu
+-3.6508	<s> uas
+-1.8642	<s> udah
+-3.2992	<s> udahlah
+-3.2992	<s> ulang
+-3.2010	<s> ven
+-2.8462	<s> waduh
+-1.7115	<s> wah
+-2.9150	<s> waktu
+-2.8462	<s> walaupun
+-3.2992	<s> wan
+-3.2992	<s> waw
+-3.6508	<s> woi
+-1.8207	<s> ya
+-2.2978	<s> yah
+-2.1429	<s> yang
+-3.2992	<s> yasudah
+-3.6508	<s> yauda
+-2.3190	<s> yaudah
+-3.6508	<s> yok
+-2.4439	<s> yuk
+-1.2069	a </s>
+-1.3318	abis </s>
+-1.3318	abis ini
+-0.8820	abis itu
+-1.3318	abis makan
+-1.1447	acara </s>
+-1.2666	ada </s>
+-1.7715	ada acara
+-1.5911	ada apa
+-2.5761	ada aplikasinya
+-2.5761	ada ayam
+-2.2245	ada banyak
+-2.5761	ada beberapa
+-2.5761	ada benarnya
+-1.3149	ada di
+-2.5761	ada dua
+-2.5761	ada film
+-2.5761	ada gua
+-2.1263	ada ide
+-2.2245	ada jam
+-2.0210	ada juga
+-2.5761	ada kan
+-1.5453	ada kelas
+-2.5761	ada kelompok
+-2.5761	ada kerbau
+-2.5761	ada kerjaan
+-2.2245	ada kok
+-1.7715	ada lagi
+-2.5761	ada lima
+-2.2245	ada lomba
+-2.1263	ada makanan
+-2.1263	ada masalah
+-2.5761	ada mau
+-2.5761	ada mrt
+-2.1263	ada nih
+-2.5761	ada orang
+-2.5761	ada paspornya
+-2.5761	ada perasaan
+-2.5761	ada pertanyaan
+-1.7715	ada promo
+-2.2245	ada promonya
+-2.1263	ada rencana
+-2.2245	ada satu
+-2.5761	ada sih
+-2.5761	ada tantangannya
+-2.1263	ada temen
+-1.7715	ada tempat
+-2.5761	ada tiga
+-2.5761	ada tikus
+-2.1263	ada tugas
+-2.5761	ada tuh
+-2.5761	ada wifi
+-2.5761	ada wisuda
+-2.1263	ada ya
+-0.9771	ada yang
+-1.2861	adalah bersepeda
+-1.2861	adalah jalan-jalan
+-0.8089	adegan yang
+-0.3781	adikku yang
+-1.1100	agak lucu
+-0.7583	agak males
+-0.3318	agama </s>
+-0.3318	agustus </s>
+-1.1705	ah </s>
+-1.1705	ah aku
+-1.0724	ah iya
+-1.5222	ah kamu
+-1.5222	ah masa
+-0.5204	aja </s>
+-2.0508	aja ada
+-2.0508	aja biar
+-1.1688	aja deh
+-2.0508	aja di
+-2.5006	aja dik
+-1.9455	aja gimana
+-2.5006	aja gitu
+-2.5006	aja hari
+-2.5006	aja harusnya
+-2.5006	aja jadi
+-2.1490	aja kalau
+-2.0508	aja kali
+-2.0508	aja kalo
+-2.5006	aja kamu
+-2.1490	aja kan
+-1.6960	aja kita
+-2.5006	aja kok
+-2.5006	aja lah
+-2.5006	aja mereka
+-1.9455	aja nanti
+-2.5006	aja napa
+-2.0508	aja nih
+-2.1490	aja ntar
+-1.3906	aja sih
+-2.5006	aja tuh
+-2.5006	aja udah
+-1.3559	aja ya
+-1.5667	aja yang
+-1.7648	aja yuk
+-0.3318	ajang pencarian
+-1.7551	akan aku
+-1.7551	akan berlibur
+-1.3053	akan lebih
+-1.7551	akan makan
+-1.7551	akan melanjutkan
+-1.7551	akan memarkirkan
+-1.7551	akan membantu
+-1.7551	akan menemukan
+-1.3053	akan pergi
+-1.4034	akan sangat
+-1.3530	akhir minggu
+-1.3530	akhir nya
+-0.5484	akhir pekan
+-1.3530	akhir tahun
+-1.3530	akhir upload
+-1.7188	aku </s>
+-2.1487	aku ada
+-2.7038	aku aja
+-1.3720	aku akan
+-2.7038	aku ambil
+-2.3522	aku baca
+-2.3522	aku bagian
+-2.2540	aku baik
+-2.7038	aku bakal
+-2.2540	aku bangun
+-2.2540	aku baru
+-2.7038	aku bawakan
+-2.3522	aku bayarin
+-2.3522	aku belum
+-2.7038	aku bertemu
+-2.3522	aku bingung
+-1.7188	aku bisa
+-1.8992	aku boleh
+-2.7038	aku ceritain
+-2.3522	aku cuma
+-2.3522	aku dan
+-2.7038	aku dengar
+-2.2540	aku di
+-2.7038	aku ditakdirkan
+-2.7038	aku engga
+-2.1487	aku enggak
+-1.6730	aku ga
+-1.5938	aku gak
+-2.1487	aku habis
+-2.2540	aku hanya
+-2.1487	aku harus
+-1.9680	aku ikut
+-2.3522	aku inget
+-1.8992	aku jadi
+-2.7038	aku jamin
+-1.4177	aku juga
+-2.3522	aku kan
+-2.3522	aku ke
+-2.7038	aku ketiduran
+-1.9680	aku lagi
+-2.3522	aku langsung
+-2.7038	aku lebih
+-1.7699	aku lihat
+-1.9680	aku lupa
+-2.7038	aku malah
+-2.7038	aku masak
+-1.8992	aku masih
+-1.4969	aku mau
+-2.3522	aku melihat
+-2.7038	aku minta
+-2.3522	aku ngelihat
+-2.7038	aku pasir
+-2.7038	aku pasti
+-2.3522	aku pengen
+-2.7038	aku pun
+-2.7038	aku pura
+-2.7038	aku rekomendasi
+-1.7188	aku sama
+-2.3522	aku sedang
+-2.7038	aku setuju
+-1.5269	aku sih
+-1.9680	aku sudah
+-1.8992	aku suka
+-2.7038	aku tahu
+-2.2540	aku takut
+-2.3522	aku tanya
+-2.7038	aku tes
+-1.9680	aku tidak
+-2.7038	aku tidur
+-2.2540	aku tunggu
+-1.9680	aku udah
+-2.7038	aku waktu
+-2.7038	aku ya
+-1.7188	aku yang
+-0.8089	alat perjalanan
+-0.8089	alat pertanian
+-0.6329	alghi </s>
+-0.3318	all you
+-0.3318	allah januari
+-0.3781	alur cerita
+-0.7298	alur ceritanya
+-0.3318	amat </s>
+-1.2069	ambil jurusan
+-0.6334	ampun udah
+-0.9850	ampun wanda
+-1.1705	anak </s>
+-1.5222	anak anak
+-1.5222	anak delapan
+-1.5222	anak kecil
+-1.5222	anak muda
+-0.3781	anda </s>
+-0.6224	aneh </s>
+-1.0722	aneh bank
+-1.0722	angkot </s>
+-0.7206	angkot kan
+-0.7931	annelies </s>
+-1.1447	annelies juga
+-0.9850	antman </s>
+-0.9850	antman ini
+-0.6435	apa </s>
+-1.0872	apa aja
+-1.5686	apa apa
+-2.3732	apa emang
+-2.3732	apa gua
+-2.3732	apa itu
+-2.0216	apa kabar
+-1.9234	apa kamu
+-2.0216	apa kayak
+-2.3732	apa kok
+-1.3882	apa lagi
+-2.3732	apa mungkin
+-2.0216	apa nanti
+-1.9234	apa nih
+-2.3732	apa sekarang
+-1.6374	apa sih
+-2.0216	apa tuh
+-0.9111	apa ya
+-1.0872	apa yang
+-0.7298	apa-apa </s>
+-1.2069	apaan </s>
+-1.2069	apaan dah
+-0.7571	apaan sih
+-0.1293	apakah kamu
+-1.0722	apalagi kalau
+-1.0722	apalagi pas
+-0.3318	apalah </s>
+-0.5079	aplikasi terdistribusi
+-0.3318	asalmu </s>
+-0.8089	asik engga
+-0.5243	atas bantuannya
+-0.3318	atasnya cluster
+-1.3694	atau </s>
+-1.7210	atau di
+-1.7210	atau engga
+-1.3694	atau enggak
+-1.7210	atau mo
+-1.3694	atau ngga
+-0.8089	atur </s>
+-0.8089	atur aja
+-0.5243	aturan aturan
+-0.8759	aturan dalam
+-0.7298	avenger </s>
+-0.3318	ayahku </s>
+-0.8833	ayam geprek
+-0.8181	ayo lah
+-1.0216	ayo makan
+-0.3318	ayuk </s>
+-0.7298	b </s>
+-0.8253	baca buku
+-0.7271	baca bukunya
+-1.1769	baca komik
+-0.3318	badminton itu
+-0.8114	bagaimana </s>
+-0.4567	bagaimana dengan
+-1.1769	bagian deskripsi
+-1.1769	bagian makan
+-0.3318	bagimu untuk
+-0.4873	bagus </s>
+-1.6643	bagus apa
+-1.1092	bagus banget
+-1.6643	bagus dari
+-1.6643	bagus sih
+-1.6643	bagus ya
+-1.6643	bagus yang
+-0.6329	bahagia di
+-0.8759	bahas film
+-0.7851	bahasa indonesia
+-0.8833	bahasa inggris
+-1.2349	bahasa jawa
+-0.6224	bahkan bisa
+-0.5027	baik </s>
+-1.1251	baik aku
+-1.2232	baik banget
+-1.5749	baik juga
+-1.5749	baik kita
+-1.5749	baik nih
+-0.2812	baik-baik saja
+-0.5810	baiklah </s>
+-1.0308	baiklah nanti
+-0.5822	baju gue
+-1.3096	bakal ada
+-0.5079	bakar di
+-0.3318	balai kota
+-0.4841	bali </s>
+-0.7571	balik </s>
+-0.8552	balik ke
+-0.4023	balik lagi
+-0.8759	ban </s>
+-0.4261	ban sepedaku
+-0.7271	bandung </s>
+-0.3912	banget </s>
+-1.6882	banget deh
+-2.1380	banget emang
+-2.1380	banget gak
+-2.1380	banget ini
+-1.6882	banget nih
+-1.5829	banget sama
+-1.0658	banget sih
+-1.7864	banget tuh
+-1.4021	banget ya
+-2.1380	banget yang
+-0.3468	bangun </s>
+-0.9802	bangun lagi
+-0.3318	bangunan-bangunan rumah
+-0.8759	bank aneh
+-0.5243	bank bank
+-0.8759	bantu </s>
+-0.1563	bantuannya </s>
+-1.4202	banyak </s>
+-1.1707	banyak banget
+-1.9753	banyak dapat
+-1.9753	banyak dia
+-1.9753	banyak hal
+-1.9753	banyak jadi
+-1.5255	banyak juga
+-1.9753	banyak kerbau
+-1.6236	banyak orang
+-1.9753	banyak promo
+-1.9753	banyak sawah
+-1.9753	banyak tugas
+-1.9753	banyak ya
+-0.8305	banyak yang
+-1.4287	bareng </s>
+-1.0771	bareng aja
+-1.0771	bareng ga
+-1.0771	bareng yuk
+-0.6329	bareng-bareng </s>
+-1.1070	baru </s>
+-1.4618	baru aja
+-1.5600	baru bisa
+-1.5600	baru buka
+-1.9116	baru denger
+-1.9116	baru gitu
+-1.9116	baru gua
+-1.9116	baru inget
+-1.9116	baru itu
+-1.9116	baru makan
+-1.9116	baru pulang
+-1.9116	baru sekarang
+-1.5600	baru selesai
+-1.5600	baru ya
+-0.6329	basah </s>
+-0.3318	basis data
+-0.5079	batas akhir
+-0.2812	batu tak
+-1.0308	bawa payung
+-0.8759	bawakan aku
+-0.8759	bawakan roti
+-0.8759	bawakan sekarung
+-1.0308	bawang merah
+-0.6792	bawang putih
+-0.6329	bayangan putih
+-0.9339	bayar oke
+-0.9339	bayar pake
+-0.9339	bayar sih
+-0.8089	bayarin deh
+-0.8089	bayarin ya
+-0.1831	bca </s>
+-0.7298	bebas </s>
+-1.2349	beberapa kali
+-1.2349	beberapa macam
+-1.2349	beberapa tempat
+-1.2069	beda gitu
+-1.2069	beda ya
+-0.5079	begini </s>
+-0.5272	begitu </s>
+-0.9802	begitu aku
+-1.3318	begitu takut
+-0.6329	bekerja </s>
+-1.0308	belajar </s>
+-1.0308	belajar dari
+-0.6334	belakang </s>
+-0.9850	belanda </s>
+-1.0014	belas </s>
+-1.3530	belas orang
+-1.0014	belas ribu
+-1.6219	beli apa
+-1.6219	beli barang
+-1.1721	beli di
+-1.2702	beli dua
+-1.1721	beli makanan
+-1.1721	beli roti
+-1.6219	beli tiket
+-0.7298	beliau mengajar
+-1.4287	belom </s>
+-1.4287	belom ada
+-0.9789	belom makan
+-1.4287	belom pernah
+-1.4287	belom tau
+-0.6608	belum </s>
+-1.0364	belum ada
+-1.9703	belum bisa
+-1.9703	belum dapet
+-1.9703	belum juga
+-1.9703	belum makan
+-1.4152	belum nih
+-1.6187	belum pernah
+-1.9703	belum sempat
+-1.6187	belum sih
+-1.9703	belum tau
+-0.9579	benar </s>
+-1.3096	benar benar
+-0.7544	benar juga
+-0.8597	benar ya
+-0.2812	benarkah </s>
+-0.3318	benarnya juga
+-0.6751	bener </s>
+-1.0594	bener banget
+-1.4110	bener bener
+-0.9612	bener juga
+-0.5079	bener-bener ga
+-0.8253	bentar </s>
+-0.3723	bentar lagi
+-0.8253	bentar ya
+-0.5079	ber </s>
+-0.5079	berada di
+-1.0308	berangkat deh
+-0.5441	berapa </s>
+-1.7210	berapa banyak
+-1.3694	berapa kali
+-1.3694	berapa lama
+-1.7210	berapa lu
+-1.1659	berapa sih
+-1.7210	berapa ya
+-1.2349	berarti di
+-1.2349	berarti nanti
+-0.6329	berbagai macam
+-0.2812	berdiri di
+-0.6792	berdua </s>
+-1.0308	berdua booking
+-0.3318	berenang yuk
+-0.3318	berkeliling kota
+-0.5079	berkunjung ke
+-0.3781	berlebihan </s>
+-0.1563	berlibur ke
+-0.5079	bersama </s>
+-0.3318	bersama-sama </s>
+-0.9339	bersepeda </s>
+-0.9339	bersepeda itu
+-0.9339	bersepeda juga
+-0.9339	bersepeda mengelilingi
+-0.5810	bertemu denganmu
+-1.0308	bertemu kamu
+-0.5243	besar </s>
+-1.5222	besok </s>
+-1.1705	besok ada
+-1.0724	besok bisa
+-1.5222	besok ga
+-1.5222	besok gua
+-1.5222	besok jam
+-1.1705	besok ni
+-0.3318	besoknya </s>
+-0.3318	betulin jam
+-1.3318	biar cepet
+-1.3530	biasa </s>
+-1.0014	biasa aja
+-0.9032	biasa lah
+-1.2474	biasanya ada
+-1.5990	biasanya kalo
+-1.5990	biasanya kan
+-1.5990	biasanya nam
+-1.1492	biasanya tu
+-1.5222	bikin kamu
+-1.5222	bikin rencana
+-1.3318	bilang </s>
+-0.9802	bilang apa
+-0.8552	bimbingan </s>
+-1.2069	bimbingan gua
+-1.2069	bimbingan sama
+-0.8559	bingung </s>
+-0.9612	bingung gitu
+-1.0594	bingung kan
+-1.4110	bingung mau
+-1.0594	bingung nih
+-1.1761	bisa </s>
+-2.2483	bisa ada
+-2.2483	bisa bikin
+-1.7985	bisa dapat
+-2.2483	bisa di
+-2.2483	bisa dipakai
+-2.2483	bisa disubmit
+-2.2483	bisa dua
+-2.2483	bisa ga
+-1.5124	bisa jadi
+-2.2483	bisa jam
+-1.8966	bisa kan
+-2.2483	bisa kembali
+-2.2483	bisa kita
+-2.2483	bisa main
+-2.2483	bisa makan
+-2.2483	bisa menambah
+-2.2483	bisa menambal
+-2.2483	bisa menebaknya
+-2.2483	bisa milih
+-2.2483	bisa mutar
+-2.2483	bisa ngangkat
+-2.2483	bisa pulang
+-2.2483	bisa saya
+-2.2483	bisa seperti
+-1.7985	bisa sih
+-1.8966	bisa tolong
+-1.8966	bisa ya
+-0.5079	bisakah kita
+-0.5079	bla bla
+-0.1563	blockchain </s>
+-0.3318	bocor dan
+-0.2812	bohong </s>
+-0.7970	boleh </s>
+-1.6523	boleh aja
+-2.0039	boleh aku
+-2.0039	boleh ayo
+-1.0700	boleh boleh
+-1.5541	boleh deh
+-2.0039	boleh ga
+-1.6523	boleh juga
+-1.6523	boleh kamu
+-1.6523	boleh lah
+-2.0039	boleh mau
+-1.1993	boleh minta
+-2.0039	boleh nanti
+-1.6523	boleh nih
+-1.1993	boleh sih
+-1.4488	boleh tuh
+-1.6523	boleh yuk
+-0.6334	booking dulu
+-0.6334	booking tempat
+-0.3781	bro </s>
+-0.6792	buah </s>
+-1.0308	buah deh
+-1.3939	buat aku
+-1.8437	buat ayam
+-1.4921	buat beli
+-1.8437	buat kamu
+-1.4921	buat kita
+-1.8437	buat sekarang
+-1.8437	buat wisudawan
+-0.4573	bud </s>
+-0.9579	buka </s>
+-1.3096	buka aja
+-0.6329	bukain pintu
+-1.5623	bukan </s>
+-1.5623	bukan di
+-1.5623	bukan gua
+-0.7298	bukankah akan
+-0.7298	bukankah bersepeda
+-1.1843	buku aku
+-0.8001	buku buku
+-1.5359	buku di
+-1.5359	buku ta
+-1.0861	buku yang
+-0.4261	bukunya </s>
+-0.8759	bulan juli
+-0.7206	bumbu india
+-1.0722	bumbu jadi
+-1.0722	bumbu kuning
+-0.7206	bumbu rahasia
+-0.4573	bumi manusia
+-0.1563	buruk </s>
+-0.3318	by the
+-0.5079	cadangan </s>
+-0.3318	can eat
+-0.3318	capa </s>
+-0.8759	cape lix
+-0.5079	cece </s>
+-0.8089	cek list
+-0.6329	ceo itu
+-0.9850	cepat </s>
+-0.9850	cepat jika
+-0.6334	cepet </s>
+-1.2069	cerita mereka
+-1.2069	cerita tentang
+-0.7571	cerita yang
+-0.6602	ceritanya </s>
+-0.5079	charada aja
+-0.7298	chat dari
+-0.8089	cluster satu
+-1.6106	coba </s>
+-1.2589	coba aja
+-1.6106	coba ajak
+-1.6106	coba deh
+-1.6106	coba liat
+-1.6106	coba lu
+-1.6106	coba yang
+-1.0308	cocok untuk
+-0.3318	cokelat oreo
+-0.4573	coklat </s>
+-0.4261	cowok </s>
+-0.2812	cuci piring
+-0.5079	cui </s>
+-1.2349	cukup </s>
+-0.8833	cukup jauh
+-1.6436	cuma aku
+-1.1938	cuma dua
+-1.6436	cuma satu
+-1.0724	cuman ada
+-1.5222	cuman di
+-1.5222	cuman gua
+-1.5222	cuman kurang
+-0.4841	cupu </s>
+-0.3591	cuy </s>
+-0.3010	dah </s>
+-0.3318	dahulu </s>
+-0.9802	dalam dunia
+-1.3318	dalam film
+-1.3318	dalam hati
+-0.7767	dalam memanah
+-2.0839	dan </s>
+-2.0839	dan aku
+-2.0839	dan cepat
+-2.0839	dan enak
+-1.1500	dan itu
+-1.1500	dan juga
+-1.6341	dan karang
+-1.7322	dan keluarga
+-2.0839	dan kepribadian
+-2.0839	dan lainnya
+-1.7322	dan seterusnya
+-2.0839	dan silahkan
+-2.0839	dan tidak
+-0.3318	dana </s>
+-1.1447	dapat mengalahkan
+-1.1447	dapat tempat
+-1.2861	dapet </s>
+-2.0915	dari bandung
+-2.0915	dari bookmyshow
+-2.0915	dari buku
+-2.0915	dari dosen
+-1.7399	dari film
+-1.7399	dari jakarta
+-1.7399	dari kamar
+-2.0915	dari kita
+-1.6417	dari lombok
+-1.7399	dari luar
+-1.5364	dari mana
+-2.0915	dari orang
+-1.7399	dari pada
+-2.0915	dari pagi
+-2.0915	dari rumah
+-1.6417	dari sana
+-1.5364	dari sini
+-2.0915	dari teman
+-0.3591	dasar kamu
+-1.0594	data </s>
+-0.9612	data mining
+-1.4110	data sains
+-1.0594	data tes
+-0.8253	datang </s>
+-1.1769	datang ke
+-1.2349	dateng </s>
+-0.3010	dateng ke
+-0.1831	daun bawang
+-0.8759	debat terus
+-0.3069	deh </s>
+-2.2069	deh aku
+-1.8552	deh boleh
+-2.2069	deh disney
+-1.7571	deh gimana
+-1.8552	deh gua
+-2.2069	deh kalau
+-1.8552	deh ke
+-1.8552	deh mas
+-1.7571	deh nanti
+-2.2069	deh saya
+-2.2069	deh yang
+-1.1100	dekat dengan
+-0.8089	deket kok
+-0.9850	delapan </s>
+-0.6334	delapan belas
+-1.4785	dengan baik
+-1.8301	dengan bangunan-bangunan
+-1.8301	dengan berbagai
+-1.8301	dengan gaya
+-1.8301	dengan itu
+-1.4785	dengan kamu
+-1.8301	dengan mendorong
+-1.8301	dengan pulau
+-1.4785	dengan senang
+-1.8301	dengan sepedaku
+-1.8301	dengan tema
+-0.6329	denganmu </s>
+-0.7298	dengar dari
+-0.9339	denger sih
+-0.8001	depan </s>
+-1.5359	depan kampus
+-1.5359	depan kelas
+-0.3318	desa </s>
+-0.7298	desain yang
+-2.2601	di akhir
+-2.6117	di amerika
+-2.6117	di apa
+-2.6117	di awal
+-2.6117	di awal-awal
+-2.6117	di bagian
+-2.6117	di bali
+-2.1619	di bandung
+-2.1619	di bawah
+-2.6117	di belakang
+-2.6117	di bidang
+-2.6117	di cek
+-2.0566	di daerah
+-2.0566	di dalam
+-2.6117	di deket
+-1.5809	di depan
+-2.6117	di desa
+-1.8071	di dunia
+-2.6117	di email
+-2.1619	di film
+-2.6117	di game
+-2.0566	di grup
+-2.6117	di gua
+-2.6117	di hari
+-2.6117	di hp
+-2.6117	di itb
+-2.0566	di jakarta
+-2.1619	di jalan
+-2.6117	di jurusan
+-2.6117	di kamar
+-1.4670	di kampung
+-1.8071	di kampus
+-2.2601	di kelas
+-1.8071	di kosan
+-2.6117	di lantai
+-2.2601	di laptop
+-2.1619	di lombok
+-2.6117	di luar
+-1.3257	di mana
+-2.6117	di masa
+-2.6117	di matematika
+-2.6117	di mobilku
+-2.6117	di nomor
+-2.6117	di perpustakaan
+-2.2601	di pintu
+-1.8759	di restoran
+-1.5395	di rumah
+-2.6117	di rumahku
+-2.2601	di sabuga
+-2.1619	di samping
+-1.3505	di sana
+-2.6117	di sebelah
+-2.0566	di sekitar
+-2.6117	di sekolah
+-1.2007	di sini
+-1.6778	di situ
+-2.2601	di tempat
+-2.2601	di tengah
+-2.6117	di trailer
+-2.6117	di tujuh
+-2.6117	di ujung
+-1.0132	dia </s>
+-2.1579	dia ada
+-2.1579	dia bangun
+-2.1579	dia bingung
+-1.8063	dia bisa
+-2.1579	dia cuma
+-1.8063	dia ga
+-1.7081	dia gak
+-1.6028	dia juga
+-2.1579	dia kan
+-1.6028	dia lagi
+-2.1579	dia langsung
+-2.1579	dia loh
+-1.6028	dia masih
+-1.7081	dia ngelihat
+-2.1579	dia pulang
+-1.7081	dia pun
+-2.1579	dia punya
+-1.8063	dia sakit
+-2.1579	dia sendiri
+-2.1579	dia tidak
+-1.7081	dia tu
+-2.1579	dia udah
+-2.1579	dia yang
+-0.3318	diajar sama
+-0.3318	diam aja
+-0.5079	dibajak menggunakan
+-0.7298	dibikin jus
+-0.6224	dick </s>
+-0.7298	dicky </s>
+-0.3318	diculik ricky
+-0.3318	dielus-elus </s>
+-0.3318	digabung </s>
+-0.5079	diganti </s>
+-0.3318	digantikan dengan
+-0.5079	diisi apa
+-0.7271	dik </s>
+-1.1769	dik mau
+-1.0308	dikasih tau
+-0.6329	dikerjain </s>
+-1.1100	dikit ga
+-0.7583	dikit lagi
+-0.3318	dilakukan dalam
+-0.6329	dilihat dari
+-0.6172	dimana </s>
+-1.3530	dimana emang
+-1.3530	dimana sih
+-0.2492	din </s>
+-0.9850	din juga
+-0.3318	dipakai untuk
+-0.5079	dipotong </s>
+-0.5810	disana </s>
+-1.0308	disana kan
+-0.6329	disney </s>
+-0.3318	disubmit </s>
+-0.3318	ditakdirkan untuk
+-0.3318	ditambal </s>
+-0.3318	dkv s3
+-0.2218	doang </s>
+-0.6329	domino </s>
+-0.1850	dong </s>
+-1.7210	dong aku
+-1.3694	dong woi
+-0.3318	donk </s>
+-0.7061	dosen </s>
+-1.2612	dosen itu
+-0.7061	dosen pembimbing
+-0.9850	dosennya siapa
+-0.4261	dot com
+-0.6329	drama korea
+-0.7206	dsdm </s>
+-1.0722	dsdm kan
+-1.2348	dua </s>
+-2.0394	dua agustus
+-1.5896	dua belas
+-2.0394	dua ekor
+-2.0394	dua halaman
+-2.0394	dua hari
+-2.0394	dua jam
+-2.0394	dua kali
+-1.3035	dua minggu
+-2.0394	dua orang
+-0.6284	dua puluh
+-1.5896	dua ribu
+-1.6878	dua sampai
+-1.6878	dua tahun
+-0.8089	dua-duanya </s>
+-0.9339	duduk aja
+-0.4841	duduk di
+-0.3318	duh gimana
+-0.5166	dulu </s>
+-1.2587	dulu aja
+-1.6429	dulu baru
+-1.9946	dulu gitu
+-1.5448	dulu kan
+-1.9946	dulu sini
+-1.9946	dulu udah
+-1.0607	dulu ya
+-0.9850	duluan </s>
+-0.8363	dunia kuantum
+-0.9344	dunia nyata
+-1.2861	dunia quantum
+-0.6224	durian </s>
+-1.0722	durian itu
+-0.6334	e </s>
+-0.3318	eat wagyu
+-0.2812	efek snap
+-1.6236	eh </s>
+-1.5255	eh aku
+-1.9753	eh balik
+-1.9753	eh bud
+-1.9753	eh gimana
+-1.9753	eh ini
+-1.2394	eh iya
+-1.9753	eh kalian
+-1.6236	eh kamu
+-1.9753	eh lix
+-1.9753	eh lo
+-1.9753	eh ngomong-ngomong
+-1.1707	eh tapi
+-0.7298	em </s>
+-0.7298	email </s>
+-0.7298	email aja
+-1.1011	emang </s>
+-1.8370	emang ada
+-1.8370	emang berapa
+-1.8370	emang di
+-1.3872	emang ga
+-1.8370	emang harus
+-1.4853	emang kenapa
+-1.3872	emang lu
+-1.8370	emang mau
+-0.5810	emangnya </s>
+-1.0308	emangnya lu
+-1.4458	empat belas
+-0.5119	empat puluh
+-0.9960	empat ribu
+-1.4458	empat sks
+-0.6446	enak </s>
+-1.9059	enak aja
+-1.9059	enak apa
+-1.1700	enak banget
+-1.9059	enak dan
+-1.4561	enak di
+-1.9059	enak itu
+-1.1013	enak juga
+-1.9059	enak kan
+-1.9059	enak loh
+-1.9059	enak nih
+-1.9059	enak sih
+-1.9059	enak tapi
+-1.5542	enak ya
+-0.9339	enam nol
+-0.6990	engga </s>
+-1.6329	engga bisa
+-1.6329	engga salah
+-1.6329	engga tau
+-0.5315	enggak </s>
+-1.2106	enggak bisa
+-1.5623	enggak nih
+-1.5623	enggak salah
+-0.5171	es krim
+-1.0722	es krimnya
+-1.0722	es parut
+-0.3318	eu </s>
+-0.7298	eum </s>
+-0.5079	fa </s>
+-0.2812	favorit kamu
+-0.6329	ferdi </s>
+-1.7210	film </s>
+-1.7210	film bagus
+-1.7210	film dengan
+-1.7210	film endgame
+-1.2712	film horor
+-0.5141	film ini
+-0.9164	film yang
+-0.9850	filmnya </s>
+-0.2812	fis </s>
+-0.5079	fix nih
+-0.3781	full time
+-0.6816	ga </s>
+-1.0274	ga ada
+-2.4200	ga apa
+-2.4200	ga berangkat
+-1.4861	ga bisa
+-2.4200	ga boleh
+-2.4200	ga dari
+-2.0683	ga di
+-2.0683	ga enak
+-2.4200	ga ganti
+-2.4200	ga gitu
+-1.9702	ga jadi
+-2.0683	ga kelas
+-2.4200	ga kena
+-2.0683	ga masalah
+-2.4200	ga mau
+-2.4200	ga mungkin
+-2.4200	ga nentu
+-2.4200	ga ngerti
+-1.9702	ga pernah
+-2.0683	ga punya
+-1.3100	ga salah
+-2.4200	ga sampe
+-2.0683	ga sengaja
+-1.3100	ga sih
+-2.4200	ga suka
+-2.0683	ga tau
+-2.4200	ga terduga
+-1.3892	ga terlalu
+-2.4200	ga usah
+-2.0683	ga ya
+-1.2122	gak </s>
+-1.2122	gak ada
+-2.2430	gak ah
+-2.2430	gak akan
+-2.2430	gak bangun
+-2.2430	gak begitu
+-1.7932	gak berani
+-1.0661	gak bisa
+-1.8913	gak bohong
+-2.2430	gak dapat
+-1.8913	gak deh
+-2.2430	gak enak
+-1.7932	gak jadi
+-2.2430	gak kelihatan
+-1.3091	gak mau
+-2.2430	gak ngerasa
+-1.4384	gak ngerti
+-2.2430	gak pake
+-1.4384	gak papa
+-2.2430	gak sabar
+-2.2430	gak salah
+-2.2430	gak sebut
+-1.8913	gak sengaja
+-1.1330	gak sih
+-1.2579	gak tau
+-1.8913	gak usah
+-0.9850	game </s>
+-0.9850	game online
+-1.0722	gampang </s>
+-0.4573	gapapa kok
+-0.8089	gatau </s>
+-0.3781	gaya dan
+-0.6329	gdp labs
+-0.9339	gede </s>
+-0.8089	gelap </s>
+-0.3788	gi </s>
+-0.8089	gila sih
+-0.4730	gimana </s>
+-2.0478	gimana caranya
+-2.0478	gimana kabar
+-2.0478	gimana kabarnya
+-1.3120	gimana kalau
+-1.5980	gimana kalo
+-1.5980	gimana lagi
+-2.0478	gimana maksudnya
+-1.0628	gimana nih
+-1.6962	gimana sih
+-1.6962	gimana tuh
+-1.1139	gimana ya
+-0.6374	gini </s>
+-0.9234	gini aja
+-1.3732	gini kan
+-0.3318	ginian </s>
+-0.4212	gitu </s>
+-2.4110	gitu aja
+-1.8559	gitu deh
+-2.4110	gitu di
+-2.4110	gitu ga
+-1.9612	gitu gitu
+-2.4110	gitu harus
+-2.4110	gitu ini
+-2.4110	gitu jadi
+-1.0378	gitu kan
+-2.4110	gitu kemarin
+-2.4110	gitu kita
+-1.9612	gitu lah
+-2.4110	gitu loh
+-2.4110	gitu lu
+-2.0594	gitu mas
+-2.4110	gitu oke
+-2.4110	gitu pesen
+-2.0594	gitu sama
+-1.4771	gitu sih
+-2.4110	gitu tu
+-1.6751	gitu ya
+-2.4110	gitu yah
+-2.4110	gitu yang
+-0.7298	gitu-gitu aja
+-0.8089	grup </s>
+-0.8089	grup kelas
+-1.2749	gua </s>
+-1.5803	gua ada
+-1.8298	gua aja
+-2.3849	gua ajak
+-2.3849	gua ambil
+-2.3849	gua baru
+-2.0333	gua belom
+-2.0333	gua coba
+-2.3849	gua cuma
+-2.3849	gua di
+-1.3999	gua ga
+-2.3849	gua gatau
+-2.0333	gua ikut
+-2.0333	gua jadi
+-0.9227	gua juga
+-2.3849	gua kemarin
+-1.9351	gua kira
+-2.3849	gua kurang
+-2.3849	gua langsung
+-2.0333	gua lupa
+-2.3849	gua makan
+-2.0333	gua masih
+-2.3849	gua mau
+-2.3849	gua pengen
+-2.0333	gua pernah
+-2.0333	gua pesen
+-2.3849	gua satu
+-2.3849	gua sebenernya
+-2.0333	gua sering
+-1.3541	gua sih
+-2.3849	gua suka
+-1.8298	gua tau
+-1.3999	gua udah
+-1.9351	gua yang
+-1.5871	gue ada
+-0.6021	gue gak
+-1.5871	gue itu
+-1.2355	gue juga
+-1.5871	gue takut
+-0.6329	guru favorit
+-0.9381	habis ini
+-1.4932	habis itu
+-1.4932	habis makan
+-1.1416	habis pulang
+-0.1383	haha </s>
+-0.7206	haha iya
+-0.4299	hahaha </s>
+-0.5822	hal yang
+-0.6329	halaman </s>
+-0.9096	halo apa
+-0.6329	hampir benar
+-0.3318	hanung bramantyo
+-1.2612	hanya ada
+-0.9096	hanya ingin
+-1.2612	hanya itu
+-1.2612	hanya saja
+-0.7298	hape gua
+-0.7298	hape lu
+-0.9850	harganya lumayan
+-1.4350	hari </s>
+-0.3087	hari ini
+-0.9821	hari jumat
+-1.7867	hari lagi
+-1.7867	hari sabtu
+-1.3518	harus ada
+-1.8016	harus cepat-cepat
+-1.8016	harus ke
+-0.9802	harusnya </s>
+-0.7767	harusnya bisa
+-1.3318	harusnya minggu
+-0.7298	hati </s>
+-0.7298	hati yang
+-0.1326	hehe </s>
+-0.9850	hem perasaan
+-0.8089	hidup di
+-0.2812	hilang </s>
+-1.2069	hmm </s>
+-1.2069	hmm kalo
+-1.2069	hmm oh
+-0.3318	hobi seseorang
+-0.3318	hobiku adalah
+-0.8089	hobimu adalah
+-0.8089	hobimu bersepeda
+-0.8089	hobimu itu
+-0.7298	horor </s>
+-0.8089	hp aja
+-0.6334	hujan </s>
+-0.9850	hujan lagi
+-0.8089	hut </s>
+-0.5352	ibu e
+-1.1447	ide bagus
+-1.1447	ide lagi
+-1.2349	ih kok
+-0.8833	ih nggak
+-1.7468	ikut </s>
+-1.7468	ikut aja
+-1.7468	ikut dong
+-1.7468	ikut itu
+-1.7468	ikut juga
+-1.1917	ikut kamu
+-1.7468	ikut kelas
+-1.7468	ikut kemah
+-1.7468	ikut lah
+-0.9422	ikut lomba
+-1.2970	ikut unit
+-0.1563	imagine cup
+-0.1563	indah </s>
+-0.7298	india </s>
+-1.0722	indonesia </s>
+-1.0722	indonesia belum
+-0.3318	info yang
+-0.3318	informatika </s>
+-0.7583	inget engga
+-1.1100	inget jam
+-0.9339	ingin berkeliling
+-0.6878	ini </s>
+-1.5250	ini ada
+-2.1073	ini adalah
+-2.4589	ini aja
+-2.4589	ini akan
+-1.7231	ini aku
+-2.4589	ini anak
+-2.4589	ini anak-anak
+-2.4589	ini apa
+-2.0091	ini baru
+-2.4589	ini bisa
+-2.1073	ini bukan
+-2.4589	ini di
+-2.1073	ini dia
+-2.4589	ini film
+-2.4589	ini ga
+-2.0091	ini juga
+-2.4589	ini kalo
+-2.0091	ini kamu
+-1.9038	ini kan
+-2.0091	ini kita
+-2.1073	ini kok
+-1.9038	ini lagi
+-2.4589	ini masih
+-1.9038	ini mau
+-2.4589	ini nggak
+-2.4589	ini nih
+-2.4589	ini sangat
+-2.4589	ini terakhir
+-1.9038	ini udah
+-2.0091	ini yang
+-0.3318	insya allah
+-0.5171	intern </s>
+-0.6329	internet </s>
+-0.5079	ir kamu
+-0.7710	itu </s>
+-1.7825	itu ada
+-2.5871	itu adalah
+-2.5871	itu aja
+-1.5563	itu aku
+-2.1373	itu apa
+-2.5871	itu bagus
+-2.5871	itu baru
+-2.5871	itu berlebihan
+-2.5871	itu buat
+-2.5871	itu bukan
+-1.5563	itu di
+-2.5871	itu editan
+-2.1373	itu gak
+-2.2355	itu gua
+-2.5871	itu jadi
+-2.5871	itu jangan
+-1.6532	itu juga
+-2.5871	itu kalau
+-1.4102	itu kan
+-2.1373	itu karena
+-2.5871	itu kayak
+-2.5871	itu kita
+-2.2355	itu lagi
+-1.6532	itu loh
+-2.5871	itu lokasinya
+-2.2355	itu lucu
+-2.2355	itu lumayan
+-2.2355	itu masih
+-2.5871	itu mau
+-2.5871	itu melelahkan
+-2.5871	itu mungkin
+-2.5871	itu mustahil
+-2.5871	itu paling
+-2.0320	itu pertama
+-2.5871	itu pun
+-2.5871	itu rumahnya
+-2.5871	itu saja
+-2.5871	itu sama
+-2.5871	itu sebenarnya
+-2.5871	itu sedih
+-2.5871	itu sekitar
+-2.5871	itu sepatu
+-2.5871	itu si
+-2.5871	itu sih
+-2.5871	itu tapi
+-2.5871	itu tidak
+-2.5871	itu tu
+-2.5871	itu tuh
+-2.0320	itu udah
+-1.6532	itu ya
+-2.1373	itu yang
+-0.9695	iya </s>
+-2.4474	iya ada
+-1.3752	iya aku
+-1.3027	iya bener
+-2.0958	iya boleh
+-2.4474	iya da
+-2.4474	iya dia
+-2.4474	iya dong
+-2.4474	iya emang
+-2.4474	iya ga
+-1.9976	iya gua
+-1.8923	iya ini
+-1.8923	iya itu
+-2.0958	iya iya
+-2.0958	iya jadi
+-1.9976	iya juga
+-2.4474	iya kalau
+-2.0958	iya kalo
+-2.4474	iya kami
+-1.9976	iya kamu
+-1.9976	iya kan
+-2.0958	iya kenapa
+-2.0958	iya kita
+-2.0958	iya lah
+-2.4474	iya lo
+-2.4474	iya maksudnya
+-1.6429	iya mas
+-2.4474	iya mau
+-1.9976	iya nanti
+-1.0944	iya nih
+-2.4474	iya setuju
+-1.3375	iya sih
+-1.8923	iya tapi
+-2.4474	iya terima
+-1.5136	iya ya
+-1.8923	iya yang
+-0.3318	iya-iya ini
+-1.2553	jadi </s>
+-2.4000	jadi ada
+-2.4000	jadi aku
+-2.0484	jadi apa
+-2.4000	jadi belum
+-2.4000	jadi di
+-2.4000	jadi dia
+-1.6641	jadi dua
+-2.4000	jadi em
+-2.4000	jadi enak
+-2.0484	jadi gak
+-2.0484	jadi gini
+-2.4000	jadi gitu
+-2.4000	jadi gua
+-2.0484	jadi harus
+-2.4000	jadi ikut
+-2.0484	jadi ini
+-1.8449	jadi itu
+-2.4000	jadi jangan
+-1.9502	jadi kalau
+-2.4000	jadi kami
+-2.4000	jadi kan
+-2.4000	jadi kaya
+-1.9502	jadi kayak
+-2.4000	jadi ke
+-1.9502	jadi kita
+-2.0484	jadi laper
+-2.4000	jadi lebih
+-2.4000	jadi lu
+-2.4000	jadi mau
+-1.9502	jadi mo
+-2.0484	jadi nggak
+-2.0484	jadi pengen
+-2.4000	jadi pesennya
+-2.4000	jadi rapi
+-2.0484	jadi satu
+-2.4000	jadi udah
+-1.9502	jadi ya
+-2.0484	jadi yang
+-0.6518	jakarta </s>
+-0.6886	jalan </s>
+-1.4932	jalan dikit
+-1.4932	jalan ini
+-1.1416	jalan kaki
+-1.1416	jalan ke
+-1.4932	jalan lima
+-0.9850	jalan-jalan </s>
+-0.9850	jalan-jalan ke
+-0.9850	jalan-jalan ya
+-0.6767	jam berapa
+-1.1070	jam dua
+-1.9116	jam empat
+-1.3565	jam lagi
+-1.5600	jam satu
+-1.9116	jam sebelas
+-0.9777	jam sembilan
+-1.5600	jam sepuluh
+-1.9116	jam tidur
+-1.4618	jam tiga
+-1.1070	jam tujuh
+-0.2812	jaman gini
+-1.1416	jangan khawatir
+-1.0434	jangan lupa
+-0.4841	januari </s>
+-0.3318	jaraknya sekitar
+-0.5822	jarang ada
+-0.9339	jarang banget
+-1.3096	jauh juga
+-1.3096	jauh ya
+-0.5079	jauh-jauh </s>
+-0.5079	jawa dan
+-0.7298	jawab </s>
+-0.7298	jelek nih
+-0.3318	jen </s>
+-0.3781	jendela </s>
+-0.7298	jendelanya itu
+-0.9339	jerit </s>
+-0.5822	jerit gitu
+-0.9339	jerit jerit
+-0.4841	ji </s>
+-0.9339	ji aku
+-0.8089	jika kamu
+-0.2812	jiwa petualang
+-0.5171	joni </s>
+-1.0722	joni tidak
+-0.7298	jual bumbu
+-0.6792	jualan makanan
+-0.4757	jualan roti
+-0.8534	juga </s>
+-1.4216	juga ada
+-2.1008	juga belom
+-1.4674	juga belum
+-2.4524	juga bingung
+-1.7165	juga bisa
+-2.1008	juga deh
+-2.1008	juga di
+-2.1008	juga engga
+-1.6478	juga ga
+-1.8973	juga gak
+-2.4524	juga gitu
+-1.8973	juga gua
+-2.4524	juga kalau
+-1.6478	juga kan
+-2.4524	juga kerbaunya
+-2.4524	juga kurang
+-2.4524	juga lah
+-2.1008	juga loh
+-2.4524	juga mantap
+-2.0026	juga mau
+-1.6478	juga nih
+-2.4524	juga pernah
+-2.4524	juga sama
+-2.0026	juga sawah-sawah
+-1.3077	juga sih
+-2.4524	juga tapi
+-2.1008	juga tidak
+-2.1008	juga tuh
+-1.7165	juga udah
+-1.3424	juga ya
+-1.8973	juga yah
+-0.6334	juli </s>
+-0.9850	juli lulusnya
+-0.5810	jumat </s>
+-0.7298	jumpa kembali
+-0.7298	jumpa lagi
+-0.8089	jurusan apa
+-0.4841	kabar </s>
+-0.5079	kabarnya </s>
+-1.0722	kadang gua
+-1.0722	kadang kadang
+-0.5079	kado yang
+-0.6329	kaget </s>
+-0.7298	kakak ku
+-1.1100	kakek </s>
+-0.6602	kakek di
+-1.1100	kakek kamu
+-1.1100	kakek sudah
+-0.8089	kaki </s>
+-0.8089	kaki nya
+-2.2211	kalau ada
+-1.6660	kalau aku
+-1.4853	kalau begitu
+-1.8695	kalau buat
+-1.2872	kalau di
+-2.2211	kalau dibikin
+-1.8695	kalau enggak
+-1.4165	kalau ga
+-1.8695	kalau gak
+-1.7713	kalau gitu
+-2.2211	kalau ini
+-2.2211	kalau jerit
+-1.2361	kalau kamu
+-1.2872	kalau kita
+-1.8695	kalau lagi
+-1.6660	kalau lu
+-2.2211	kalau masih
+-1.6660	kalau mau
+-1.7713	kalau misalnya
+-2.2211	kalau part
+-2.2211	kalau ramai
+-2.2211	kalau tidak
+-1.8695	kalau untuk
+-2.2211	kalau yang
+-0.5563	kali </s>
+-1.5871	kali ini
+-1.1373	kali ya
+-1.1721	kalian </s>
+-1.1721	kalian berdua
+-1.2702	kalian gak
+-1.2702	kalian mau
+-1.6219	kalian udah
+-1.6219	kalian untuk
+-0.3788	kalinya </s>
+-2.2295	kalo ada
+-1.4249	kalo aku
+-2.2295	kalo begitu
+-2.2295	kalo berangkat
+-2.2295	kalo buat
+-1.7796	kalo dari
+-1.8778	kalo di
+-2.2295	kalo engga
+-1.0226	kalo ga
+-1.0525	kalo gitu
+-1.6744	kalo gua
+-2.2295	kalo itu
+-1.8778	kalo kamu
+-1.8778	kalo kita
+-1.8778	kalo lagi
+-1.8778	kalo lu
+-2.2295	kalo makanan
+-1.6744	kalo mau
+-2.2295	kalo mo
+-1.8778	kalo ngga
+-2.2295	kalo pake
+-2.2295	kalo pizza
+-2.2295	kalo sama
+-2.2295	kalo saya
+-1.8778	kalo soal
+-1.8778	kalo udah
+-1.8778	kalo yang
+-1.3732	kami </s>
+-1.3732	kami akan
+-1.3732	kami baru
+-1.3732	kami menyediakan
+-0.7271	kampung </s>
+-1.1769	kampung akan
+-0.7271	kampung kakek
+-1.1769	kampung masih
+-1.1769	kampung tapi
+-0.3318	kampungnya kalau
+-0.5484	kampus </s>
+-0.9032	kampus aku
+-2.4670	kamu !!UNK
+-1.1809	kamu </s>
+-2.0172	kamu ada
+-2.1153	kamu aja
+-2.1153	kamu akan
+-2.4670	kamu ambil
+-2.1153	kamu apa
+-2.1153	kamu bakal
+-2.4670	kamu beli
+-1.4362	kamu bisa
+-2.4670	kamu coba
+-2.4670	kamu denger
+-1.9119	kamu di
+-2.4670	kamu dong
+-2.4670	kamu enak
+-2.4670	kamu ga
+-2.4670	kamu gak
+-1.6624	kamu gimana
+-2.0172	kamu habis
+-2.1153	kamu ikut
+-2.1153	kamu jadi
+-2.1153	kamu juga
+-2.4670	kamu kan
+-2.4670	kamu kapan
+-2.1153	kamu ke
+-2.4670	kamu kemarin
+-2.4670	kamu kerja
+-2.4670	kamu kerjain
+-2.1153	kamu kuliah
+-2.1153	kamu lagi
+-2.4670	kamu makan
+-2.1153	kamu masih
+-1.2601	kamu mau
+-2.4670	kamu mengayuhkan
+-2.4670	kamu menyenangkan
+-2.4670	kamu nam
+-2.4670	kamu nanti
+-2.4670	kamu ngapain
+-1.6624	kamu punya
+-2.1153	kamu saja
+-2.4670	kamu salah
+-2.4670	kamu sedang
+-2.4670	kamu sendiri
+-2.4670	kamu siapa
+-1.9119	kamu sudah
+-1.5331	kamu suka
+-1.9119	kamu tau
+-2.4670	kamu tertarik
+-2.4670	kamu tidak
+-2.4670	kamu tidur
+-1.4362	kamu udah
+-2.0172	kamu yang
+-0.5689	kan </s>
+-1.7932	kan ada
+-1.9740	kan aku
+-2.5291	kan apa
+-2.5291	kan banyak
+-2.5291	kan belom
+-2.5291	kan biasa
+-1.7245	kan biasanya
+-2.1775	kan bisa
+-2.1775	kan cuma
+-2.5291	kan dari
+-2.5291	kan di
+-2.1775	kan dia
+-2.5291	kan engga
+-2.0793	kan ga
+-2.1775	kan gak
+-2.0793	kan gua
+-2.5291	kan hari
+-2.5291	kan harus
+-2.1775	kan itu
+-2.5291	kan jadi
+-2.0793	kan juga
+-1.7245	kan kalau
+-2.5291	kan kamu
+-2.5291	kan karena
+-2.5291	kan katanya
+-2.1775	kan kayak
+-2.5291	kan kemarin
+-1.5952	kan kita
+-2.5291	kan lagi
+-1.9740	kan lu
+-2.5291	kan macet
+-2.5291	kan makanannya
+-2.5291	kan mau
+-2.1775	kan mo
+-2.1775	kan punya
+-2.1775	kan sama
+-2.5291	kan sudah
+-2.0793	kan udah
+-2.5291	kan waktu
+-1.7245	kan ya
+-1.9740	kan yang
+-0.7298	kantin </s>
+-0.6329	kanvas bca
+-0.8559	kapan </s>
+-1.0594	kapan sih
+-0.2492	kapten amerika
+-0.9850	kapten marvel
+-0.4573	karakter minke
+-0.1831	karang laut
+-0.5822	karaoke </s>
+-1.3803	karena </s>
+-1.8301	karena aku
+-1.4785	karena apa
+-1.3803	karena dia
+-1.0256	karena itu
+-1.8301	karena mengendarai
+-1.8301	karena semua
+-0.5079	kasar </s>
+-1.3732	kasih aku
+-1.0216	kasih tahu
+-0.8181	kasih ya
+-1.2349	kata bapanya
+-1.2349	kata pak
+-0.8833	kata siapa
+-1.1125	katanya </s>
+-1.5623	katanya dia
+-1.5623	katanya enak
+-1.5623	katanya mo
+-1.1125	katanya sakit
+-1.0072	katanya sih
+-1.2612	kau bisa
+-1.2612	kau lakukan
+-1.2612	kau sudah
+-1.1938	kaya gitu
+-1.6436	kaya udah
+-1.4383	kayak ada
+-1.0835	kayak apa
+-1.3330	kayak dari
+-1.8881	kayak di
+-1.8881	kayak gini
+-1.1523	kayak gitu
+-1.8881	kayak kalau
+-1.8881	kayak kayak
+-1.8881	kayak satu
+-1.8881	kayak semacam
+-0.9808	kayaknya </s>
+-1.5359	kayaknya aku
+-1.5359	kayaknya dia
+-1.1843	kayaknya hari
+-1.5359	kayaknya ya
+-1.3318	kayanya enak
+-0.9802	kayanya ga
+-2.3468	ke bali
+-2.3468	ke berapa
+-2.3468	ke bioskop
+-1.9951	ke depan
+-1.7917	ke jakarta
+-1.4129	ke kampus
+-1.9951	ke kantin
+-1.8970	ke kelas
+-1.9951	ke kosan
+-1.9951	ke luar
+-1.7917	ke mall
+-1.6109	ke mana
+-1.9951	ke masa
+-2.3468	ke minke
+-2.3468	ke nannys
+-2.3468	ke pameran
+-2.3468	ke pernikahan
+-1.9951	ke perpustakaan
+-2.3468	ke pintu
+-1.7917	ke pulau
+-2.3468	ke puncak
+-2.3468	ke restoran
+-1.9951	ke ruang
+-1.2368	ke rumah
+-1.8970	ke rumahku
+-1.7917	ke rumahnya
+-1.7917	ke sana
+-2.3468	ke seminar
+-1.1119	ke sini
+-2.3468	ke surabaya
+-2.3468	ke tahun
+-1.7917	ke tempat
+-0.3741	kecil </s>
+-0.5079	kegiatan nya
+-1.0308	kejadian snap
+-1.0308	kejadian tuh
+-0.9850	kelar </s>
+-0.7559	kelas </s>
+-1.7867	kelas belum
+-1.7867	kelas dua
+-1.7867	kelas dulu
+-1.7867	kelas ga
+-1.7867	kelas itu
+-1.4350	kelas kan
+-1.7867	kelas nih
+-1.7867	kelas pengembangan
+-1.7867	kelas sepuluh
+-0.4841	kelasnya selesai
+-0.6329	kelewatan banget
+-0.7298	kelihatan </s>
+-0.8597	kelompok </s>
+-1.3096	kelompok kp
+-1.1447	keluar </s>
+-0.7931	keluar dari
+-1.1769	keluarga </s>
+-0.8253	keluarga akan
+-1.1769	keluarga besar
+-1.1769	keluarga kamu
+-0.5079	kemah minggu
+-0.3680	kemana </s>
+-1.4780	kemana aja
+-1.4780	kemana emang
+-1.4780	kemana liburan
+-1.4780	kemana nih
+-1.1263	kemana ya
+-0.6734	kemaren </s>
+-1.1263	kemaren aku
+-1.0281	kemaren sih
+-1.3604	kemarin </s>
+-0.9762	kemarin aku
+-1.3604	kemarin baru
+-1.7120	kemarin di
+-1.3604	kemarin gua
+-1.2622	kemarin ini
+-1.7120	kemarin kamu
+-1.7120	kemarin kan
+-1.7120	kemarin ni
+-0.4841	kembali </s>
+-0.9339	kembali melanjutkan
+-0.6792	kena efek
+-0.5810	kena marah
+-0.3318	kenal </s>
+-0.5936	kenapa </s>
+-1.3867	kenapa ga
+-1.7384	kenapa harus
+-1.7384	kenapa kita
+-1.7384	kenapa saya
+-0.9338	kenapa sih
+-0.3318	kepala </s>
+-0.3318	kepuasan karena
+-0.6329	kerbau dan
+-0.6329	kerbau kok
+-0.3318	kerbaunya </s>
+-0.7061	keren </s>
+-0.9096	keren banget
+-1.2069	kerja </s>
+-0.8552	kerja di
+-0.6518	kerja kelompok
+-0.9339	kerjaan kakek
+-0.9850	kerjain bagian
+-0.6334	kerjain bareng
+-0.9096	kesana </s>
+-1.2612	kesana dulu
+-0.6242	ketemu </s>
+-1.4287	ketemu dosen
+-0.9789	ketemu lagi
+-1.4287	ketemu sama
+-1.0771	ketemu tirta
+-0.3318	ketika kamu
+-0.1831	khas dari
+-0.5079	khawatir aku
+-0.3318	kilometer </s>
+-1.2069	kira cepet
+-0.8552	kira kira
+-0.7206	kira-kira </s>
+-0.3318	kit </s>
+-1.2347	kita </s>
+-2.3447	kita akan
+-2.3447	kita ambil
+-2.3447	kita bawakan
+-1.9930	kita bisa
+-2.3447	kita daftar
+-2.3447	kita di
+-1.9930	kita ga
+-1.8949	kita gak
+-1.4108	kita harus
+-2.3447	kita itu
+-1.9930	kita jadi
+-1.5401	kita juga
+-2.3447	kita kasih
+-1.3139	kita ke
+-2.3447	kita kerjain
+-1.9930	kita kerjakan
+-2.3447	kita ketemu
+-2.3447	kita kita
+-1.9930	kita langsung
+-2.3447	kita lihat
+-2.3447	kita main
+-1.8949	kita makan
+-2.3447	kita mampir
+-2.3447	kita masih
+-2.3447	kita masuk
+-1.4108	kita mau
+-2.3447	kita pergi
+-2.3447	kita sehat
+-2.3447	kita sudah
+-1.8949	kita tunggu
+-1.5401	kita udah
+-1.9930	kita yang
+-0.8759	ko </s>
+-0.5229	kok </s>
+-1.8759	kok ada
+-1.4261	kok aku
+-1.8759	kok bisa
+-1.8759	kok ga
+-1.8759	kok kita
+-1.5243	kok malah
+-1.8759	kok mas
+-1.8759	kok paling
+-1.8759	kok saya
+-0.3318	komprehensif gitu
+-0.5079	komputer </s>
+-0.3318	korban tv
+-1.3318	kosan </s>
+-0.8820	kosan aku
+-0.9802	kosan gua
+-0.7767	kosan kamu
+-0.8089	kosong </s>
+-0.9339	kota </s>
+-0.9339	kota dengan
+-0.9339	kota termacet
+-1.1447	kp ada
+-1.1447	kp dulu
+-1.1447	kp gua
+-0.7298	krim </s>
+-0.3318	krimnya </s>
+-0.6329	kuantum itu
+-0.4573	kucek kucek
+-0.6329	kue </s>
+-0.7767	kuliah di
+-1.3318	kuliah terakhir
+-0.3318	kuliahan gitu
+-0.3318	kunjungi sebelumnya
+-1.4622	kurang enak
+-1.1105	kurang lebih
+-1.1105	kurang paham
+-1.1105	kurang tau
+-0.3318	labtek lima
+-0.6082	lagi </s>
+-1.3782	lagi ada
+-2.3632	lagi aku
+-2.0116	lagi banyak
+-2.3632	lagi dah
+-2.3632	lagi deh
+-2.3632	lagi dengan
+-1.9134	lagi di
+-2.3632	lagi hitz
+-2.0116	lagi hujan
+-2.3632	lagi jam
+-2.3632	lagi kan
+-2.0116	lagi ke
+-2.3632	lagi libur
+-2.3632	lagi lulus
+-2.3632	lagi mau
+-2.0116	lagi ngapain
+-1.8081	lagi nih
+-1.6274	lagi pengen
+-2.3632	lagi pingin
+-1.8081	lagi sibuk
+-2.3632	lagi sih
+-1.6274	lagi ya
+-0.7298	lagian kan
+-0.8089	lagu hallowen
+-0.3812	lah </s>
+-1.4251	lah kan
+-1.9802	lah kita
+-1.5304	lah ya
+-1.6285	lah yah
+-0.7863	lain </s>
+-1.0724	lain juga
+-1.1705	lain yang
+-0.1747	lainnya </s>
+-0.2812	lakukan </s>
+-0.2788	lalu </s>
+-1.3096	lalu juga
+-0.6576	lama </s>
+-1.4622	lama banget
+-1.4622	lama di
+-0.5079	lambat </s>
+-0.3318	lambung </s>
+-0.5079	lampu </s>
+-0.3318	lancar-lancar aja
+-1.1977	langsung </s>
+-1.5493	langsung aja
+-1.5493	langsung kesana
+-1.1977	langsung pulang
+-0.8759	lanjut lagi
+-0.7298	lapar nih
+-0.7206	laper banget
+-0.5171	laper nih
+-0.5079	laporannya </s>
+-1.1100	laptop </s>
+-1.1100	laptop aku
+-0.7298	latian dulu
+-0.3318	lauknya cuman
+-0.1747	laut </s>
+-1.2886	lebih bagus
+-1.3867	lebih baik
+-1.7384	lebih lanjut
+-1.7384	lebih modern
+-1.3867	lebih mudah
+-1.7384	lebih pengen
+-1.3867	lebih suka
+-1.3867	lebih terasa
+-0.3318	lelah itu
+-0.8089	lembar bimbingan
+-0.8089	lembar pengesahan
+-0.2812	len </s>
+-0.8552	liat </s>
+-0.8552	liat aja
+-1.2069	liat deh
+-0.5079	liatnya di
+-1.4780	liburan kamu
+-1.0281	liburan kemana
+-1.4780	liburan mau
+-0.9229	liburan nanti
+-0.9229	liburan semester
+-1.0320	lihat </s>
+-1.5871	lihat ada
+-1.2355	lihat aja
+-1.5871	lihat di
+-1.5871	lihat ini
+-1.2355	lihat itu
+-1.5871	lihat kucing
+-1.5871	lihat lomba
+-1.5871	lihat tuh
+-1.2531	lima </s>
+-1.1478	lima belas
+-1.3513	lima menit
+-0.9670	lima puluh
+-1.3513	lima puluhan
+-1.7029	lima ratus
+-1.2531	lima ribu
+-1.7029	lima sd
+-1.1478	lima tahun
+-0.6329	line </s>
+-0.3222	lix </s>
+-1.3530	lix udah
+-0.9851	lo </s>
+-1.7210	lo diam
+-1.7210	lo kenapa
+-1.7210	lo lo
+-1.7210	lo mau
+-1.7210	lo pada
+-1.7210	lo pikir
+-1.3694	lo sis
+-0.4597	loh </s>
+-1.7210	loh di
+-1.7210	loh emang
+-1.1659	loh kok
+-1.3694	loh yang
+-0.5079	loket yang
+-0.6284	lomba </s>
+-1.5623	lomba itu
+-1.0072	lomba lomba
+-1.0308	lombok ga
+-1.0308	lombok mau
+-1.0308	lombok nanti
+-1.0308	lombok tidak
+-1.3953	lu </s>
+-1.7795	lu ada
+-2.1312	lu coba
+-1.5761	lu ga
+-2.1312	lu harus
+-1.6814	lu ikut
+-2.1312	lu juga
+-2.1312	lu kemana
+-2.1312	lu kemarin
+-2.1312	lu kesana
+-2.1312	lu liburan
+-2.1312	lu makannya
+-1.7795	lu masih
+-1.5761	lu mau
+-1.3953	lu mo
+-2.1312	lu ngambil
+-2.1312	lu sama
+-1.7795	lu suka
+-1.1004	lu udah
+-1.6814	lu yang
+-0.5352	luar negeri
+-0.7851	lucu banget
+-1.2349	lucu gitu
+-0.5822	lulus </s>
+-1.0124	lumayan </s>
+-1.0124	lumayan enak
+-1.4622	lumayan jauh
+-0.7263	lumayan sih
+-0.7979	lupa </s>
+-1.0014	lupa bawa
+-1.3530	lupa kamu
+-1.3530	lupa ya
+-0.6949	maaf </s>
+-0.6949	maaf aku
+-0.3318	macem </s>
+-0.5822	macet </s>
+-0.9339	macet ya
+-0.3318	macetnya </s>
+-1.2349	mah ga
+-0.8833	mahal </s>
+-1.2349	mahal juga
+-1.3732	main game
+-1.3732	main musik
+-0.3318	maka nya
+-0.8731	makan </s>
+-1.6302	makan aja
+-1.3441	makan apa
+-2.0800	makan cemilan
+-1.1461	makan di
+-1.7284	makan dimana
+-1.5249	makan dulu
+-1.6302	makan duluan
+-1.5249	makan malam
+-2.0800	makan mie
+-1.5249	makan nasi
+-2.0800	makan roti
+-1.7284	makan siang
+-2.0800	makan ya
+-1.2754	makan yang
+-0.8089	makan-makan </s>
+-1.5222	makanan </s>
+-1.5222	makanan apa
+-1.1705	makanan barat
+-0.9671	makanan di
+-1.5222	makanan ga
+-1.5222	makanan ringan
+-1.0724	makanan yang
+-0.4841	makanannya enak
+-0.9339	makanannya juga
+-0.4299	makasih ya
+-0.7298	make hape
+-0.5079	makhluk hidup
+-1.2069	makin aneh
+-1.2069	makin macet
+-0.8552	makin susah
+-0.3781	maksud lo
+-0.5960	maksudnya </s>
+-0.9096	malah jadi
+-0.9427	malam </s>
+-1.3925	malam aku
+-1.3925	malam kan
+-1.3925	malam keakraban
+-0.4023	malem </s>
+-0.8759	males </s>
+-0.8759	males sih
+-0.5822	mama aku
+-0.6329	mamanya joni
+-0.6329	mampir ke
+-0.3854	mana </s>
+-1.7384	mana asalmu
+-1.3867	mana nih
+-1.3867	mana sih
+-1.2886	mana ya
+-0.4757	mantap </s>
+-0.8759	marah gitu
+-0.5079	mari naikkan
+-0.3318	mark </s>
+-0.7583	martabak </s>
+-1.1100	martabak apa
+-0.3064	mas </s>
+-1.9393	mas baru
+-1.9393	mas di
+-1.5876	mas kalo
+-1.5876	mas udah
+-1.9393	mas yang
+-1.4780	masa kini
+-0.6734	masa lalu
+-1.4780	masa sih
+-0.6949	masalah </s>
+-0.9542	masih ada
+-1.9393	masih aja
+-1.2034	masih banyak
+-1.4895	masih di
+-1.5876	masih kecil
+-1.9393	masih magang
+-1.5876	masih mau
+-1.4895	masih sakit
+-1.9393	masih salah
+-1.9393	masih sd
+-1.9393	masih tiga
+-1.9393	masih umur
+-1.9393	masih yang
+-0.7298	masing-masing dua
+-0.8820	masuk ke
+-1.3318	masuk kenapa
+-1.3318	masuk sekolah
+-0.5171	mata kuliah
+-1.0722	mata pelajaran
+-0.7298	matematika ugm
+-1.6641	mau </s>
+-2.0484	mau apa
+-2.0484	mau bangun
+-1.6641	mau beli
+-2.4000	mau berangkat
+-2.4000	mau berapa
+-2.4000	mau bimbingan
+-2.4000	mau dateng
+-2.4000	mau enggak
+-2.0484	mau ga
+-2.4000	mau gimana
+-1.4661	mau ikut
+-1.4661	mau ke
+-2.4000	mau keluar
+-1.2553	mau kemana
+-2.4000	mau kerja
+-2.0484	mau liburan
+-2.0484	mau lulus
+-1.8449	mau main
+-1.3278	mau makan
+-2.4000	mau makan-makan
+-2.4000	mau masak
+-2.4000	mau minta
+-2.4000	mau nanya
+-1.4661	mau ngapain
+-1.8449	mau ngerjain
+-2.4000	mau nggak
+-2.4000	mau ngomong
+-2.4000	mau ngumpul
+-2.0484	mau nitip
+-1.8449	mau nonton
+-2.4000	mau nugas
+-1.9502	mau pergi
+-2.4000	mau pesan
+-1.9502	mau pesen
+-1.8449	mau pulang
+-2.4000	mau sekelompok
+-2.4000	mau terminator
+-0.6329	melanjutkan hobimu
+-0.6329	melanjutkan perjalananku
+-0.2812	melelahkan </s>
+-0.7298	melihat dia
+-0.4411	memanah </s>
+-1.1769	memanah dengan
+-1.1769	memanah itu
+-0.3318	memanen padi
+-1.0014	memang bukan
+-1.3530	memang gak
+-1.3530	memang sulit
+-1.0308	memangnya </s>
+-1.0308	memangnya kamu
+-1.0308	memangnya kenapa
+-0.3318	memarkirkan mobilku
+-0.7298	membantu kerjaan
+-1.2069	membuat kelompok
+-0.8552	membuat percakapan
+-1.2069	membuat tubuh
+-0.6329	memiliki jiwa
+-0.3318	menambah polusi
+-0.3318	menambal ban
+-0.5079	menanam padi
+-0.7061	menarik </s>
+-1.2612	menarik mau
+-1.2612	menarik nih
+-0.9096	menarik sih
+-0.8552	mending kita
+-1.2069	mending makan
+-0.3318	mendorong sepeda
+-0.6329	menemukan sebuah
+-0.3318	mengalahkan rasa
+-0.3318	mengayuhkan sepedamu
+-0.3318	mengelilingi tempat-tempat
+-0.1563	mengendarai sepeda
+-0.7298	mengerjakan pr
+-0.7298	mengerjakan tugas
+-0.6329	menggunakan alat
+-0.4075	menit </s>
+-1.3925	menit lagi
+-1.3925	menit lima
+-0.3318	menjenguk joni
+-0.3318	menuntun sepeda
+-1.1769	menurut aku
+-1.1769	menurut gue
+-0.3723	menurut kamu
+-1.1769	menurut lo
+-0.5079	menyediakan beberapa
+-0.2812	menyelam </s>
+-0.6329	menyenangkan ya
+-1.2702	mereka </s>
+-1.6219	mereka akhirnya
+-1.2702	mereka juga
+-1.6219	mereka sendiri
+-0.7298	mesen </s>
+-0.3318	mesennya </s>
+-1.0308	meskipun rumah
+-0.1980	mie instan
+-1.1831	minggu </s>
+-0.6478	minggu depan
+-0.5607	minggu ini
+-1.6329	minggu kemarin
+-1.2812	minggu lagi
+-1.2812	minggu lalu
+-1.6329	minggu saya
+-0.5079	mini game
+-0.7851	minke </s>
+-0.8833	minke yang
+-1.0941	minta bantuan
+-1.4458	minta izin
+-0.9960	minta maaf
+-1.4458	minta nomor
+-0.6412	minta oleh-oleh
+-1.4458	minta tanda
+-1.4458	minta tolong
+-0.5079	minum ga
+-1.2612	misalnya ada
+-1.2612	misalnya bidang
+-1.2612	misalnya kayak
+-1.2612	misalnya saja
+-0.5079	miss din
+-0.9339	mit </s>
+-1.6329	mo ke
+-1.6329	mo latian
+-0.5607	mo makan
+-1.6329	mo ngapain
+-1.0778	mo pesen
+-1.6329	mo turnamen
+-0.7298	mobil dua
+-0.7298	mobil gua
+-0.1831	mobilku </s>
+-0.3318	modern </s>
+-0.3788	motor </s>
+-0.6329	mu </s>
+-0.6329	mudah dan
+-1.2069	mulai </s>
+-1.2069	mulai masuk
+-1.0434	mungkin </s>
+-1.1416	mungkin karena
+-1.1416	mungkin kita
+-1.4932	mungkin ya
+-0.4303	murah </s>
+-1.2349	murah dan
+-0.3318	musang king
+-0.2812	musik ga
+-0.6329	musim terbarunya
+-0.3318	mustahil bagimu
+-1.1100	musti nungguin
+-0.3318	my god
+-0.6329	naek angkot
+-1.1105	nah ini
+-0.9071	nah itu
+-1.1105	nah iya
+-1.2861	naik </s>
+-0.8363	naik angkot
+-1.2861	naik mobil
+-1.2861	naik motor
+-1.2861	naik mrt
+-0.3318	naikkan sepedamu
+-0.1980	nam </s>
+-0.8759	nama saya
+-0.7206	namanya </s>
+-1.0722	namanya juga
+-0.8665	nanti </s>
+-1.6779	nanti ada
+-1.6779	nanti aja
+-2.1277	nanti akan
+-1.0555	nanti aku
+-1.7761	nanti di
+-1.5726	nanti gua
+-1.6779	nanti jadi
+-2.1277	nanti jam
+-1.7761	nanti kalau
+-1.6779	nanti kamu
+-1.0177	nanti kita
+-2.1277	nanti malam
+-1.7761	nanti malem
+-2.1277	nanti mas
+-1.5726	nanti mau
+-2.1277	nanti saja
+-2.1277	nanti saya
+-2.1277	nanti sore
+-0.9339	nanya </s>
+-0.3318	napa </s>
+-0.6329	narcos ceritanya
+-1.3096	nasi bakar
+-1.3096	nasi goreng
+-1.3096	nasi gorengnya
+-1.3096	nasi padang
+-0.9579	nasi telor
+-0.5079	nasib baik
+-0.5079	nasional </s>
+-0.3781	negeri </s>
+-0.5079	nengokin dia
+-0.5079	netflix </s>
+-0.7298	ngadain lomba
+-0.4260	ngapain </s>
+-0.6021	ngapain aja
+-1.1843	ngapain sih
+-0.3741	ngelihat </s>
+-0.2812	ngelihatnya itu
+-0.3318	ngembaliin semua
+-1.3530	ngerjain apa
+-1.3530	ngerjain dsdm
+-0.4191	ngerjain tugas
+-0.6518	ngerti </s>
+-1.2069	ngerti lagi
+-1.2069	ngerti nih
+-1.2612	ngga </s>
+-0.8909	nggak </s>
+-1.0713	nggak ada
+-1.8759	nggak apa
+-1.8759	nggak berangkat
+-1.4261	nggak bisa
+-1.5243	nggak boleh
+-1.8759	nggak ketemu
+-1.3208	nggak mau
+-1.3208	nggak nggak
+-1.5243	nggak tau
+-0.1563	nginep di
+-1.1100	ngomong </s>
+-1.1100	ngomong apa
+-1.1100	ngomong-ngomong gimana
+-1.1100	ngomong-ngomong kamu
+-0.8820	ni </s>
+-0.3559	nih </s>
+-2.2788	nih aku
+-1.8290	nih anak
+-2.2788	nih baru
+-2.2788	nih dua
+-1.8290	nih gua
+-2.2788	nih kita
+-2.2788	nih mas
+-1.8290	nih mau
+-2.2788	nih sebelum
+-2.2788	nih sekarang
+-1.9271	nih woi
+-1.8290	nih ya
+-1.8290	nih yang
+-0.3318	nik </s>
+-0.5079	nitip beli
+-0.5079	niza aku
+-0.5243	nlp text
+-0.7298	nol dua
+-1.2589	nonton aja
+-1.6106	nonton apa
+-1.6106	nonton bola
+-0.6255	nonton film
+-1.6106	nonton joker
+-1.6106	nonton juga
+-1.6106	nonton yang
+-0.8759	nop jangan
+-1.3925	ntar </s>
+-1.3925	ntar dia
+-1.3925	ntar lu
+-1.3925	ntar malem
+-0.5528	nya </s>
+-1.3781	nya ada
+-1.3781	nya engga
+-1.7298	nya kan
+-1.7298	nya si
+-1.7298	nya ya
+-0.3781	nyai ontosoroh
+-0.3318	nyerah nih
+-0.8089	nyoba </s>
+-0.3781	o iya
+-1.8860	oh </s>
+-2.2376	oh ada
+-2.2376	oh aku
+-2.2376	oh baiklah
+-2.2376	oh begitu
+-1.5018	oh boleh
+-2.2376	oh di
+-2.2376	oh ga
+-1.1654	oh gitu
+-0.4586	oh iya
+-2.2376	oh kalo
+-2.2376	oh lu
+-2.2376	oh my
+-1.5018	oh oke
+-2.2376	oh pak
+-2.2376	oh saya
+-1.7878	oh ya
+-1.8860	oh yah
+-2.2376	oh yang
+-1.8860	oh yaudah
+-0.8759	ok </s>
+-0.9542	oke </s>
+-1.5352	oke aku
+-1.9850	oke ayok
+-1.9850	oke boleh
+-0.6320	oke deh
+-1.5352	oke gua
+-1.6334	oke kalo
+-1.9850	oke kita
+-1.6334	oke mas
+-1.9850	oke saja
+-1.9850	oke sampai
+-1.5352	oke siap
+-1.9850	oke sip
+-1.6334	oke tapi
+-0.8759	oleh karena
+-0.8089	oleh-oleh apa
+-0.3591	oleh-oleh khas
+-0.6329	olimpiade gitu
+-1.0025	orang </s>
+-1.7384	orang india
+-1.7384	orang itu
+-1.2886	orang kaya
+-0.9338	orang lain
+-1.7384	orang orang
+-1.7384	orang tua
+-1.2886	orang yang
+-0.9339	orangnya </s>
+-0.9339	oreo itu
+-0.6329	osn dot
+-0.5079	otaknya nebula
+-1.0308	pa </s>
+-1.0308	pa catur
+-1.0308	pa dicky
+-1.5222	pada </s>
+-1.5222	pada gak
+-1.1705	pada mau
+-1.2612	padahal di
+-1.2612	padahal gua
+-1.2612	padahal kan
+-1.2612	padahal udah
+-0.6329	padi dan
+-0.6329	padi memanen
+-0.6218	pagi </s>
+-1.1769	pagi mas
+-0.7298	paham sih
+-1.0722	pak </s>
+-1.0722	pak ahmad
+-1.0722	pak utama
+-1.0124	pake bahasa
+-1.4622	pake metode
+-1.7120	paling atasnya
+-1.3604	paling berkesan
+-1.7120	paling depan
+-1.2622	paling enak
+-1.7120	paling kayak
+-1.7120	paling mentok-mentok
+-1.7120	paling ntar
+-1.7120	paling top
+-0.6329	pameran budaya
+-0.6329	pameran buku
+-0.7298	pandang lain
+-0.5079	panggangnya </s>
+-0.5243	panjang </s>
+-0.5079	pantai dan
+-0.3788	papa </s>
+-0.5079	papan tulisnya
+-0.5079	paper pengolahan
+-0.3591	part time
+-1.4110	pas </s>
+-1.4110	pas di
+-1.0594	pas gua
+-1.4110	pas ketemu
+-1.4110	pas minke
+-0.6329	pasir dan
+-0.6329	pasir pantai
+-0.3318	paspornya dulu
+-1.5493	pasti </s>
+-1.5493	pasti akan
+-1.5493	pasti hobimu
+-1.5493	pasti kan
+-1.1977	pasti seru
+-1.5493	pasti sudah
+-1.5493	pasti ya
+-0.6329	pemain badminton
+-0.8089	pembimbing </s>
+-0.8089	pembimbing kamu
+-0.3318	penangkaran rusa
+-0.3318	pengarang terkenalnya
+-0.3318	pengcit </s>
+-0.3318	pengembangan aplikasi
+-1.5493	pengen baca
+-1.5493	pengen beli
+-1.0995	pengen makan
+-1.5493	pengen makanan
+-1.5493	pengen tau
+-0.3318	pengolahan citra
+-0.3318	pengumpulan tugasnya
+-0.3318	penolongmu </s>
+-1.1100	penting </s>
+-0.6329	per sepuluh
+-1.2069	perasaan bahagia
+-1.2069	perasaan ketika
+-1.1263	pergi </s>
+-0.4472	pergi ke
+-1.4780	pergi kemana
+-1.4780	pergi liburan
+-0.4573	perjalanan waktu
+-0.3318	perjalananku </s>
+-1.0722	perlu </s>
+-1.4287	pernah </s>
+-1.4287	pernah ngondak
+-1.4287	pernah sih
+-0.0044	perpustakaan aja
+-1.0771	pertama </s>
+-0.6242	pertama kali
+-0.6929	pertama kalinya
+-0.7298	pertamanya </s>
+-0.5079	pertanian yang
+-1.1251	pesen </s>
+-1.1251	pesen apa
+-1.5749	pesen grab
+-1.2232	pesen makanan
+-1.0198	pesen martabak
+-1.5749	pesen yang
+-0.2812	petualang </s>
+-0.5822	pilihan yang
+-0.4573	pindah ke
+-0.8089	pindah posisi
+-0.3781	pingin nonton
+-0.3318	pinginnya sih
+-0.6224	pintu </s>
+-0.5079	piring aja
+-0.5079	pisang </s>
+-0.2262	pizza hut
+-0.9850	pokoknya itu
+-0.3318	polusi udara
+-0.2812	pram </s>
+-0.5079	presentasi </s>
+-0.7298	pribumi yang
+-0.5079	product manager
+-0.1563	professor hulk
+-0.8552	promo </s>
+-1.2069	promo lima
+-1.2069	promo nih
+-0.8759	promonya </s>
+-1.1416	pulang </s>
+-1.1416	pulang aja
+-0.7573	pulang ke
+-1.4932	pulang kuliah
+-0.6334	pulau bali
+-0.9850	pulau gili
+-0.9850	pulau lombok
+-0.9850	pulau yang
+-1.1747	puluh </s>
+-1.7298	puluh dua
+-1.7298	puluh januari
+-1.2800	puluh lima
+-0.9252	puluh menit
+-1.7298	puluh persen
+-0.7959	puluh ribu
+-1.1747	puluh satu
+-1.7298	puluh sembilan
+-1.7298	puluh tiga
+-0.9339	puluhan gitu
+-1.5871	punya ide
+-0.7825	punya rencana
+-1.5871	punya sumber
+-1.5871	punya uang
+-0.3054	pura pura
+-0.3054	pura tidur
+-0.3318	pusing </s>
+-0.9850	putih empat
+-0.9850	putih putih
+-0.7298	rada rada
+-0.3318	raf </s>
+-0.3318	rafli </s>
+-0.3781	rahasia </s>
+-1.0308	ramai </s>
+-1.0308	ramai banget
+-1.0308	ramai ya
+-0.6329	rame itu
+-0.8833	rasa apa
+-1.2349	rasa cokelat
+-0.8833	rasa durian
+-1.2349	rasa lelah
+-1.2349	rasanya </s>
+-0.8833	rasanya enak
+-0.5079	real banget
+-0.1831	red velvet
+-0.8089	rekam apaan
+-0.8089	rekam data
+-0.6329	remang remang
+-0.8820	rencana </s>
+-1.3318	rencana apa
+-1.3318	rencana apa-apa
+-0.9802	rencana sih
+-1.1447	rencananya aku
+-1.1100	restoran ini
+-0.5549	restoran itu
+-0.5772	ribu </s>
+-1.2106	ribu bawang
+-1.5623	ribu juga
+-1.5623	ribu lah
+-1.5623	ribu tiga
+-1.5623	ribu ya
+-0.8759	ricky </s>
+-0.8114	roti es
+-1.2612	roti panggang
+-0.9096	roti panggangnya
+-0.8089	ruang belakang
+-0.8089	ruang makan
+-0.7825	rumah </s>
+-1.5871	rumah itu
+-1.1373	rumah kakek
+-1.5871	rumah kita
+-1.2355	rumah sakit
+-0.8089	rumahku </s>
+-0.8089	rumahku aja
+-0.7206	rumahnya </s>
+-1.0722	rumahnya yuk
+-0.4261	rusak </s>
+-0.3318	s3 </s>
+-0.7583	saat ini
+-1.0722	sabtu sabtu
+-0.5079	sabuga </s>
+-0.5079	sah </s>
+-0.2009	saja </s>
+-1.7632	saja melelahkan
+-1.7632	saja menanam
+-0.3736	sakit </s>
+-0.9960	sakit apa
+-1.4458	sakit lambung
+-0.3318	saku </s>
+-0.6435	salah </s>
+-1.6743	salah dia
+-0.7404	salah satu
+-1.2244	salah sih
+-1.2480	sama </s>
+-1.2937	sama aja
+-1.8290	sama aku
+-2.2788	sama cece
+-2.2788	sama dengan
+-1.9271	sama dosen
+-2.2788	sama dua
+-1.8290	sama harry
+-1.9271	sama ibu
+-2.2788	sama itu
+-2.2788	sama kapten
+-2.2788	sama kita
+-1.9271	sama lo
+-2.2788	sama mama
+-1.9271	sama orang
+-2.2788	sama orangnya
+-2.2788	sama pa
+-1.9271	sama sama
+-1.9271	sama sekali
+-1.7237	sama si
+-2.2788	sama siapa
+-2.2788	sama tadi
+-2.2788	sama tahu
+-2.2788	sama temen
+-1.8290	sama tony
+-1.8290	sama yang
+-0.8089	sama-sama </s>
+-0.8089	sama-sama nam
+-0.3318	sambal matah
+-0.9850	sambil jalan
+-1.7029	sampai </s>
+-1.7029	sampai aku
+-1.7029	sampai di
+-1.3513	sampai jam
+-1.1478	sampai jumpa
+-1.3513	sampai ketemu
+-1.7029	sampai sekarang
+-1.3513	sampai tiga
+-1.7029	sampai uas
+-0.2812	samping jendela
+-0.3318	san </s>
+-0.3153	sana </s>
+-1.0722	sangat cepat
+-1.0722	sangat cocok
+-1.0722	sangat kuat
+-0.5243	santai aja
+-0.8921	satu </s>
+-1.9229	satu chat
+-1.9229	satu dari
+-1.9229	satu dua
+-1.9229	satu ini
+-1.9229	satu jalur
+-1.4731	satu jam
+-1.9229	satu ke
+-1.9229	satu kilometer
+-1.9229	satu kota
+-1.3678	satu lagi
+-1.9229	satu tahun
+-1.9229	satu yang
+-0.6329	satunya lagi
+-0.5079	sawah dan
+-0.8089	sawah-sawah di
+-0.8089	sawah-sawah dibajak
+-0.8089	sawah-sawah dong
+-1.3803	saya </s>
+-1.8301	saya bungkus
+-1.4785	saya dari
+-1.8301	saya gak
+-1.8301	saya juga
+-1.8301	saya kurang
+-1.8301	saya tidak
+-0.2812	sayang sekali
+-0.7298	sd </s>
+-0.8759	sebagai seorang
+-0.5079	sebelom kelasnya
+-1.0722	sebelum ke
+-1.0722	sebelum kita
+-0.5822	sebelumnya </s>
+-0.9339	sebelumnya kan
+-0.7206	sebenernya </s>
+-0.5352	sebentar lagi
+-0.6329	sebuah kepuasan
+-0.5079	sebut </s>
+-0.8089	secara keseluruhan
+-0.8253	sedang kamu
+-0.5822	sedih banget
+-0.8253	sedikit </s>
+-1.1769	sedikit lagi
+-0.7298	segala macam
+-0.7298	segala macem
+-0.3318	segini </s>
+-0.2812	sehat </s>
+-0.3318	sejauh ini
+-0.7583	sekali </s>
+-1.1100	sekali lagi
+-1.1100	sekali ya
+-0.9850	sekalian </s>
+-0.9850	sekalian aja
+-0.7047	sekarang </s>
+-1.5600	sekarang ada
+-1.5600	sekarang aku
+-1.5600	sekarang dia
+-1.4618	sekarang juga
+-1.9116	sekarang kan
+-1.9116	sekarang kita
+-1.9116	sekarang ni
+-1.9116	sekarang sudah
+-1.9116	sekarang tu
+-1.3565	sekarang udah
+-0.3318	sekarung pasir
+-0.5079	sekelompok </s>
+-1.1105	sekitar dua
+-1.1105	sekitar jam
+-1.1105	sekitar kampus
+-1.4622	sekitar lima
+-1.1105	sekitar satu
+-1.1105	sekitar sepuluh
+-1.4622	sekitar sini
+-1.4622	sekitar tiga
+-1.3096	sekolah </s>
+-1.3096	sekolah aja
+-1.3096	sekolah yang
+-1.0308	selama di
+-1.0308	selama masih
+-1.0308	selama tiga
+-0.5352	selamat pagi
+-0.9850	selamat ya
+-0.7767	selesai </s>
+-1.3318	selesai jam
+-1.3318	selesai kelas
+-1.3318	selesai macetnya
+-1.3318	selesai nih
+-0.6329	semalam aku
+-0.8597	sembilan </s>
+-1.3096	sembilan belas
+-1.3096	sembilan bumbu
+-1.3096	sembilan puluhan
+-1.3096	sembilan ribu
+-0.9096	semester depan
+-0.5254	semester ini
+-0.9339	semoga kau
+-0.9339	semoga liburan
+-0.9942	semua </s>
+-1.1977	semua batu
+-1.5493	semua makhluk
+-0.7931	semuanya </s>
+-0.6602	senang bertemu
+-1.1100	senang deh
+-0.7583	senang hati
+-0.2704	sendiri </s>
+-1.6436	sendiri gimana
+-1.6436	sendiri sih
+-0.4841	sengaja </s>
+-0.5272	sepatu ini
+-1.3318	sepatu itu
+-1.3318	sepatu jenis
+-0.7767	sepatu yang
+-0.9850	sepeda ini
+-0.9850	sepeda itu
+-0.5352	sepeda motor
+-0.8089	sepedaku </s>
+-0.8089	sepedaku ini
+-0.8089	sepedaku sepertinya
+-0.6329	sepedamu di
+-0.6329	sepedamu ke
+-1.3530	seperti biasa
+-1.3530	seperti biasanya
+-0.9032	seperti itu
+-1.3530	seperti mereka
+-0.8363	sepertinya aku
+-1.2861	sepertinya bocor
+-1.2861	sepertinya hari
+-1.2861	sepertinya itu
+-0.3318	sepulang sekolah
+-1.3318	sepuluh </s>
+-0.5272	sepuluh menit
+-1.1447	seratus digit
+-0.7931	seratus dua
+-1.1447	seratus ribu
+-1.1769	sering makan
+-0.9850	serius mo
+-0.7571	seru banget
+-1.2069	seru ya
+-0.5079	seseorang </s>
+-0.5079	set desain
+-0.1747	setau gua
+-0.5079	seterusnya </s>
+-0.5352	setuju </s>
+-0.3318	shia </s>
+-1.2919	si </s>
+-1.1938	si a
+-0.8390	si antman
+-1.2919	si b
+-1.2919	si c
+-1.2919	si cupu
+-1.6436	si ellen
+-1.6436	si jessin
+-1.6436	si minke
+-0.6334	siang </s>
+-0.9850	siang aja
+-0.4089	siap </s>
+-0.5563	siapa </s>
+-1.5871	siapa aja
+-1.5871	siapa nih
+-1.1373	siapa tau
+-0.8512	siapa yang
+-1.0308	sibuk apa
+-0.3399	sih </s>
+-2.5291	sih beberapa
+-2.5291	sih belum
+-2.5291	sih cuma
+-2.5291	sih cuman
+-2.0793	sih di
+-2.5291	sih ga
+-2.1775	sih gi
+-2.1775	sih gua
+-2.5291	sih haha
+-2.5291	sih harusnya
+-2.1775	sih itu
+-2.5291	sih iya
+-2.5291	sih jadi
+-2.5291	sih kalau
+-2.1775	sih kalo
+-2.1775	sih kamu
+-1.9740	sih katanya
+-2.5291	sih lebih
+-2.0793	sih lo
+-2.5291	sih mas
+-2.0793	sih mau
+-2.1775	sih nanti
+-2.1775	sih sama
+-2.5291	sih soalnya
+-2.1775	sih suka
+-1.5441	sih tapi
+-2.5291	sih tinggal
+-2.5291	sih udah
+-2.0793	sih ya
+-1.5952	sih yang
+-0.3318	sil </s>
+-0.1563	singkat cerita
+-0.5371	sini </s>
+-1.8232	sini aku
+-1.4715	sini dulu
+-1.8232	sini ga
+-1.8232	sini kan
+-1.4715	sini lagi
+-1.8232	sini mau
+-0.4573	sip </s>
+-0.8089	sip deh
+-0.2538	sis </s>
+-0.3318	sisa waktunya
+-0.7298	sisi positifnya
+-0.6224	situ </s>
+-1.0722	situ sih
+-0.3788	sks </s>
+-1.0722	sma </s>
+-0.6224	sma satu
+-0.8089	snap </s>
+-1.4458	soal latihannya
+-0.7099	soal soal
+-1.0941	soal yang
+-0.5763	soalnya </s>
+-1.3694	soalnya aku
+-1.7210	soalnya di
+-1.7210	soalnya kalau
+-0.9851	soalnya kan
+-1.7210	soalnya tu
+-0.7298	sok suci
+-0.3741	sore </s>
+-0.6329	sosial yang
+-1.0722	speech lu
+-0.2812	speknya sih
+-0.9850	stark </s>
+-0.3318	status sosial
+-0.7298	steven </s>
+-0.7298	suasana kampungnya
+-1.3694	sudah </s>
+-1.7210	sudah banyak
+-1.7210	sudah berapa
+-1.7210	sudah mengerjakan
+-1.7210	sudah menuntun
+-1.7210	sudah mulai
+-1.7210	sudah sampai
+-1.7210	sudah siap
+-1.7210	sudah terbiasa
+-1.7210	sudah tidak
+-0.2538	sudut pandang
+-1.5871	suka baca
+-1.0320	suka banget
+-1.5871	suka coklat
+-1.5871	suka menyelam
+-0.8512	suka nonton
+-0.5079	sulit berargumen
+-0.3318	sumber daya
+-0.5243	sumpah lah
+-0.6329	surat ijin
+-0.6567	susah </s>
+-1.0409	susah banget
+-1.3925	susah gitu
+-0.3318	susi susanti
+-1.0722	ta </s>
+-1.0722	ta gua
+-0.7501	tadi </s>
+-1.6840	tadi kan
+-1.6840	tadi malam
+-1.6840	tadi malem
+-1.2342	tadi pagi
+-1.6840	tadi pas
+-0.5079	tah </s>
+-0.9579	tahu tempe
+-1.3096	tahu ya
+-0.8283	tahun </s>
+-1.2812	tahun baru
+-1.6329	tahun depan
+-1.2812	tahun dua
+-1.2812	tahun lalu
+-1.2812	tahun lima
+-1.6329	tahun ya
+-1.6329	tahun yang
+-0.3781	tak terhingga
+-0.8820	takut </s>
+-1.3318	takut kan
+-0.3318	tambal ban
+-0.3318	tamfest </s>
+-0.1831	tanda tangan
+-1.0722	tanggal dua
+-1.0722	tanggal lima
+-0.1563	tanggung jawab
+-0.3318	tantangannya </s>
+-1.9463	tapi </s>
+-1.9463	tapi ada
+-1.1532	tapi aku
+-1.4934	tapi di
+-1.7429	tapi dia
+-2.2980	tapi emangnya
+-2.2980	tapi enak
+-2.2980	tapi ga
+-1.9463	tapi gak
+-1.9463	tapi gimana
+-1.7429	tapi gua
+-1.9463	tapi harus
+-2.2980	tapi ini
+-1.9463	tapi kalau
+-1.9463	tapi kalo
+-2.2980	tapi kamu
+-1.1210	tapi kan
+-2.2980	tapi karena
+-2.2980	tapi katanya
+-2.2980	tapi kayak
+-2.2980	tapi kita
+-2.2980	tapi lu
+-1.9463	tapi masih
+-2.2980	tapi sebelum
+-2.2980	tapi sudah
+-2.2980	tapi susah
+-2.2980	tapi ternyata
+-1.8482	tapi ya
+-1.9463	tapi yang
+-0.9850	tar gua
+-1.0954	tau </s>
+-1.5484	tau aku
+-1.9000	tau dia
+-1.5484	tau gak
+-1.9000	tau jam
+-1.5484	tau kalau
+-1.9000	tau kalo
+-1.3449	tau kan
+-1.9000	tau ke
+-1.9000	tau kediri
+-1.9000	tau lah
+-1.4502	tau sih
+-1.9000	tau tapi
+-0.3318	tebakanmu hampir
+-0.3318	teh manis
+-0.8089	teknologi gitu
+-0.5079	telah terjadi
+-0.6792	telat </s>
+-1.0308	teman ada
+-0.7931	temen aku
+-1.1447	temen gua
+-1.3226	tempat itu
+-1.6743	tempat jualan
+-1.6743	tempat juga
+-1.1191	tempat lain
+-1.3226	tempat makan
+-1.6743	tempat parkir
+-1.6743	tempat tambal
+-1.2244	tempat tidur
+-0.9384	tempat yang
+-0.5079	tempat-tempat yang
+-1.0722	tengah jalan
+-0.3363	tengah malam
+-0.6329	tensai </s>
+-0.9344	tentang apa
+-1.2861	tentang itu
+-1.2861	tentang kamu
+-0.1980	tentu saja
+-0.5079	tentunya ada
+-0.4573	tepat </s>
+-0.8089	tepat di
+-0.8253	terakhir </s>
+-0.6329	terasa suasana
+-0.3318	terbiasa dengan
+-0.5079	terdekat hanya
+-0.3318	terdistribusi </s>
+-0.0378	terima kasih
+-0.7298	terimakasih kembali
+-0.8759	terjadi saat
+-1.3096	terlalu banyak
+-1.3096	terlalu susah
+-0.3318	terlebih dahulu
+-1.0308	terminator </s>
+-1.0308	terminator sama
+-1.0308	terminator yang
+-1.1416	ternyata </s>
+-1.4932	ternyata ga
+-0.2812	terserah kamu
+-0.5079	tertentu </s>
+-1.1027	terus </s>
+-1.5326	terus ada
+-2.0877	terus deh
+-2.0877	terus ga
+-2.0877	terus gua
+-2.0877	terus ini
+-2.0877	terus juga
+-1.7361	terus kamu
+-2.0877	terus kemarin
+-2.0877	terus kenapa
+-2.0877	terus kita
+-2.0877	terus mereka
+-2.0877	terus nanti
+-2.0877	terus nih
+-2.0877	terus pa
+-2.0877	terus sma
+-2.0877	terus udah
+-2.0877	terus waktu
+-0.3318	testing </s>
+-0.7298	thanos </s>
+-0.5079	the way
+-0.7298	tiba tiba
+-1.1011	tidak </s>
+-1.1011	tidak ada
+-1.8370	tidak akan
+-1.4853	tidak aku
+-1.8370	tidak ber
+-1.2819	tidak bisa
+-1.8370	tidak hanya
+-1.3872	tidak masuk
+-1.8370	tidak perlu
+-1.3872	tidak punya
+-1.8370	tidak seindah
+-0.4437	tidur </s>
+-1.4287	tidur di
+-1.4287	tidur jam
+-1.0771	tidur lagi
+-1.2622	tiga </s>
+-1.7120	tiga belas
+-1.7120	tiga film
+-1.3604	tiga hari
+-1.3604	tiga jam
+-1.3604	tiga lima
+-1.3604	tiga menit
+-1.3604	tiga orang
+-0.7270	tiga puluh
+-1.3604	tiga ribu
+-0.8089	tiket dulu
+-1.2612	tinggal di
+-0.4573	tirta </s>
+-0.6792	tolong jelaskan
+-0.9850	ton </s>
+-1.3096	tony </s>
+-1.3096	tony akhirnya
+-0.3245	tony stark
+-0.5079	totalnya jadi
+-0.5822	traktir </s>
+-0.9339	traktir all
+-0.1563	transportasinya </s>
+-1.6743	tu </s>
+-1.6743	tu ada
+-1.6743	tu belum
+-1.6743	tu dari
+-1.6743	tu di
+-1.3226	tu kayak
+-1.6743	tu lagi
+-1.6743	tu makin
+-1.6743	tu yon
+-0.5079	tubuh kita
+-1.0861	tugas </s>
+-1.5359	tugas akhir
+-1.5359	tugas di
+-1.5359	tugas kita
+-1.5359	tugas speech
+-1.5359	tugas vin
+-0.4942	tuh </s>
+-1.9229	tuh dari
+-1.5713	tuh kan
+-1.9229	tuh ke
+-1.4731	tuh yang
+-0.8552	tujuh belas
+-1.2069	tujuh enam
+-1.2069	tujuh tahun
+-0.8759	tumben lu
+-0.9096	tunggu </s>
+-1.2612	tunggu di
+-1.2612	tunggu sebentar
+-0.9096	tunggu ya
+-0.7298	turnamen </s>
+-0.2800	turun </s>
+-0.5079	uang saku
+-0.5079	uangnya </s>
+-1.4878	udah </s>
+-2.4217	udah abis
+-1.4367	udah ada
+-2.0701	udah banyak
+-2.4217	udah berapa
+-2.4217	udah beres
+-2.0701	udah bikin
+-2.4217	udah datang
+-2.0701	udah deh
+-2.0701	udah di
+-1.9719	udah dong
+-1.9719	udah dua
+-2.0701	udah ga
+-1.8666	udah gak
+-1.9719	udah gitu
+-2.4217	udah itu
+-1.9719	udah jadi
+-2.4217	udah jalan
+-1.9719	udah kelar
+-2.4217	udah kita
+-1.9719	udah lah
+-1.8666	udah lama
+-2.4217	udah laper
+-2.0701	udah lo
+-1.8666	udah makan
+-1.6171	udah mau
+-2.0701	udah minta
+-2.4217	udah muak
+-1.6171	udah mulai
+-2.4217	udah nggak
+-1.9719	udah nonton
+-2.4217	udah pada
+-2.4217	udah paling
+-1.9719	udah pernah
+-2.4217	udah sampai
+-1.8666	udah selesai
+-2.4217	udah takut
+-2.4217	udah tau
+-2.0701	udah telat
+-2.4217	udah tiga
+-2.4217	udah tua
+-0.3591	udahlah </s>
+-0.8089	udahlah nop
+-0.3318	udara yang
+-1.1100	ujian </s>
+-1.1100	ujian kemaren
+-1.1100	ujian nasional
+-0.3318	ujung jalan
+-0.2218	ulang tahun
+-1.2069	ulang tahunku
+-1.2069	ulang tahunmu
+-0.8759	unit itu
+-0.8759	unit memanah
+-1.5990	untuk sampai
+-0.6329	vin </s>
+-0.5243	waduh </s>
+-1.5982	wah </s>
+-1.9499	wah asik
+-1.9499	wah bisa
+-1.2140	wah boleh
+-1.5982	wah ini
+-1.5001	wah itu
+-1.5982	wah iya
+-1.5001	wah kalo
+-1.9499	wah kayaknya
+-1.9499	wah mahal
+-1.0160	wah menarik
+-1.9499	wah saya
+-1.9499	wah sepertinya
+-1.7029	waktu </s>
+-1.7029	waktu annelies
+-1.7029	waktu berjalan
+-0.7690	waktu itu
+-1.7029	waktu tertentu
+-0.8089	waktunya </s>
+-0.3402	wan </s>
+-1.1447	wan wan
+-0.3788	wanda </s>
+-0.3318	wandanya </s>
+-0.3318	warna yang
+-0.5079	well well
+-0.9339	wisuda di
+-0.3318	wisudanya </s>
+-0.3318	wix dot
+-0.3010	woi </s>
+-0.5079	wortel daun
+-0.3233	ya </s>
+-2.6742	ya ada
+-2.6742	ya aku
+-1.6892	ya ampun
+-2.3226	ya atas
+-2.6742	ya cukup
+-2.6742	ya dari
+-2.1191	ya di
+-2.6742	ya din
+-2.6742	ya emang
+-2.2244	ya ga
+-2.3226	ya gimana
+-2.3226	ya gitu
+-2.3226	ya harganya
+-2.1191	ya ini
+-2.3226	ya itu
+-2.1191	ya iya
+-2.3226	ya kalau
+-2.2244	ya kalo
+-1.9384	ya kan
+-2.6742	ya ke
+-2.6742	ya lumayan
+-1.5643	ya mas
+-2.3226	ya masih
+-2.6742	ya nam
+-2.6742	ya nanti
+-2.6742	ya nasi
+-2.6742	ya nonton
+-2.1191	ya sama
+-2.6742	ya sampai
+-2.3226	ya sekarang
+-2.6742	ya sudah
+-2.1191	ya tapi
+-2.6742	ya ternyata
+-2.6742	ya tersinkronisasi
+-1.7404	ya udah
+-2.3226	ya udahlah
+-2.2244	ya yang
+-0.4536	yah </s>
+-1.7632	yah boleh
+-1.4116	yah gitu
+-1.4116	yah gua
+-1.7632	yah lumayan
+-1.7632	yah nanti
+-1.7632	yah udah
+-1.9734	yang ada
+-1.5646	yang aku
+-1.9734	yang bagus
+-2.7093	yang baik
+-2.2595	yang banyak
+-2.1542	yang baru
+-2.3577	yang bayar
+-2.7093	yang belum
+-2.7093	yang berkurang
+-2.7093	yang biasanya
+-2.2595	yang bikin
+-2.7093	yang bilang
+-1.9047	yang bisa
+-2.7093	yang bisnis
+-2.7093	yang cocok
+-2.2595	yang cowok
+-2.7093	yang dapat
+-2.1542	yang dari
+-2.7093	yang data
+-2.3577	yang dekat
+-1.6371	yang di
+-2.3577	yang dulu
+-2.7093	yang dunia
+-1.6785	yang enak
+-2.3577	yang ga
+-2.3577	yang gak
+-1.9734	yang harus
+-2.2595	yang ikut
+-2.7093	yang indah
+-2.3577	yang ini
+-1.7243	yang itu
+-2.7093	yang jenisnya
+-2.7093	yang jual
+-1.9047	yang jualan
+-2.7093	yang kamu
+-2.7093	yang kau
+-2.1542	yang kayak
+-2.3577	yang ke
+-2.7093	yang kena
+-2.7093	yang keren
+-2.7093	yang lagi
+-1.5993	yang lain
+-2.7093	yang lalu
+-2.1542	yang lebih
+-2.7093	yang lomba
+-2.7093	yang lucunya
+-2.7093	yang makan
+-2.2595	yang mana
+-2.3577	yang masih
+-2.1542	yang mau
+-2.7093	yang memang
+-2.3577	yang murah
+-2.7093	yang musti
+-2.7093	yang ngadain
+-2.7093	yang ngomong
+-1.6785	yang paling
+-2.7093	yang panjang
+-2.7093	yang pemain
+-1.7243	yang penting
+-2.1542	yang pertama
+-2.7093	yang pesen
+-2.7093	yang pipis
+-2.7093	yang promo
+-2.2595	yang punya
+-2.3577	yang sama
+-2.7093	yang satu
+-1.9047	yang sedang
+-2.7093	yang speech
+-2.7093	yang sudah
+-2.7093	yang tanggung
+-2.7093	yang telah
+-2.7093	yang tepat
+-2.7093	yang terakhir
+-2.7093	yang terdekat
+-2.3577	yang terjadi
+-2.7093	yang terlalu
+-2.3577	yang tidak
+-2.7093	yang traktir
+-2.1542	yang udah
+-2.3577	yang ulang
+-2.7093	yang waktu
+-2.7093	yang yang
+-0.6329	yauda gua
+-1.1563	yaudah </s>
+-0.7721	yaudah deh
+-0.2949	yon </s>
+-0.8089	yor </s>
+-0.8089	yor aku
+-0.3318	you can
+-0.2730	yuk </s>
+-1.8089	yuk kita
+-1.4573	yuk langsung
+-1.4573	yuk sambil
+-0.5079	zaman dulu
+
+\end\
