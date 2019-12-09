@@ -11,10 +11,10 @@
 # !!!!!! 
 
 # VoxForge configurations:
--nlr lm_5k/tg3-1_1    # finite state automaton grammar file
--v dictionary      # pronunciation dictionary
--h hmm15/hmmdefs    # acoustic HMM (ascii or Julius binary)
--hlist tiedlist     # HMMList to map logical phone to physical
+-nlr lm_5k/bg2    # finite state automaton grammar file
+-v sample.dict      # pronunciation dictionary
+-h hmm9/hmmdefs    # acoustic HMM (ascii or Julius binary)
+-hlist monophones1     # HMMList to map logical phone to physical
 -smpFreq 16000	    # sampling rate (Hz)
 -spmodel "sp"		    # name of a short-pause silence model
 -multipath          # force enable MULTI-PATH model handling
