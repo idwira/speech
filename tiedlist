@@ -25,8 +25,8 @@ w
 y
 z
 k-b+a
-k-b+i
-k-b+u
+k-b+i k-b+a
+k-b+u k-b+a
 t+eu t+aw
 u-r+a
 u-r+e u-r+a
@@ -35,8 +35,8 @@ u-r+i u-r+a
 u-r+l u-r+a
 f-o+ny
 u-r+n u-r+a
-u-r+p r
-u-r+s u-r+a
+u-r+p
+u-r+s
 u-r+u u-r+a
 u-r+v u-r+a
 a-c+aw c
@@ -45,18 +45,17 @@ k-c+e c
 u-s+a
 u-s+e u-s+a
 u-s+i u-s+a
-u-s+k u-s+a
-u-s+t u-s+a
+u-s+k
+u-s+t
 u-s+u u-s+a
 s-a+ng
 s-a+ny
-t-au
 t-aw
 t-ay
-k-d+e d
-k-d+i d
+k-d+e
+k-d+i k-d+e
+m-aw+ny t-aw
 u-t+a
-m-aw+ny
 u-t+e u-t+a
 u-t+i u-t+a
 u-t+k u-t+a
@@ -72,19 +71,18 @@ e-k+ny e-k+eu
 k-e+b
 k-e+d
 k-e+e
-k-e+i
-k-e+j
-k-e+k k-e+b
+k-e+i k-e+e
+k-e+j k-e+e
+k-e+k
 k-e+l
-k-e+m
+k-e+m k-e+l
 k-e+n
-k-e+o
-k-e+p
-k-e+r k-e+l
-k-e+s k-e+i
-k-e+t k-e+b
-k-e+y k-e+l
-au t-au
+k-e+o k-e+e
+k-e+p k-e+k
+k-e+r
+k-e+s
+k-e+t k-e+k
+k-e+y
 aw t-aw
 ay t-ay
 eu
@@ -94,14 +92,14 @@ ny
 sp
 sy
 i-s+eu u-s+a
-k-b+ay k-b+a
+k-b+ay
 i-s+ny u-s+a
 u-w+a
 u-w+e u-w+a
 u-w+i u-w+a
 u-w+o u-w+a
 aw+f t-aw
-aw-h h
+aw-h
 aw-n
 k-h+a
 k-h+i k-h+a
@@ -111,15 +109,14 @@ k-i+h k-i+a
 k-i+k
 k-i+l
 k-i+n
-k-i+p k-i+k
-k-i+r k-i+l
+k-i+p
+k-i+r
 k-i+s
-k-i+t k-i+k
+k-i+t k-i+p
 k-i+y
 h-o+ng
 u-y+i
 u-y+u u-y+i
-a-t+au u-t+a
 a-t+aw u-t+a
 a-t+ay u-t+a
 ay+a t-ay
@@ -128,12 +125,13 @@ ay+i t-ay
 ay+r t-ay
 a-t+eu u-t+a
 ay-a
+ay-f
 ay-k
-ay-l l
+ay-l
 ay-m
 ay-n aw-n
-ay-r r
-ay-t t
+ay-r
+ay-t
 a-t+ny u-t+a
 b-eu+b
 b-eu+c
@@ -142,9 +140,9 @@ b-eu+g b-eu+b
 b-eu+k
 b-eu+l
 b-eu+n
-b-eu+r b-eu+l
-b-eu+s b-eu+n
-b-eu+t b-eu+n
+b-eu+r
+b-eu+s
+b-eu+t
 u-a+ng
 u-a+ny
 k-k+a e-k+eu
@@ -156,30 +154,30 @@ r-n+eu
 k-m+a
 k-m+i k-m+a
 eu-g+eu
-m-b+eu k-b+a
+m-b+eu
 k-n+i r-n+eu
 k-n+o r-n+eu
 l+ay
-l+eu k-l+a
-k-o+b f-o+ny
-k-o+c f-o+ny
+l+eu l+ay
+k-o+b
+k-o+c
 k-o+d
-k-o+f f-o+ny
-k-o+h f-o+ny
-k-o+k f-o+ny
+k-o+f k-o+c
+k-o+h k-o+c
+k-o+k k-o+d
 k-o+l
 k-o+m
-k-o+n k-o+d
-k-o+p f-o+ny
-k-o+r k-o+d
-k-o+s k-o+d
+k-o+n
+k-o+p k-o+d
+k-o+r k-o+l
+k-o+s k-o+n
 k-o+t k-o+d
 ng-eu+ng
 k-p+e
 k-p+i k-p+e
 l-aw t-aw
 l-ay t-ay
-a-a+f u-a+ny
+a-a+f
 a-a+k
 a-a+l
 a-a+n
@@ -189,91 +187,91 @@ u-r+ay u-r+a
 u-r+eu u-r+a
 d-eu+b
 d-eu+e
-d-eu+g
+d-eu+g d-eu+b
 d-eu+h
-d-eu+k d-eu+g
+d-eu+k
 d-eu+l
-d-eu+m d-eu+g
+d-eu+m
 d-eu+n
-d-eu+p d-eu+g
-d-eu+r
-d-eu+s d-eu+h
-d-eu+t d-eu+h
+d-eu+p d-eu+k
+d-eu+r d-eu+l
+d-eu+s
+d-eu+t
 u-r+ny u-r+a
 a-b+a k-b+a
 a-b+e k-b+a
 a-b+i k-b+a
-a-b+k
-a-b+l
+a-b+k k-b+a
+a-b+l k-b+a
 a-b+o k-b+a
 a-b+r k-b+a
 a-b+t k-b+a
 a-b+u k-b+a
 w-a+ng
 w-a+ny
-k-r+a u-r+a
-k-r+e u-r+a
-k-r+i u-r+a
-k-r+o u-r+a
-k-r+u u-r+a
+k-r+a
+k-r+e k-r+a
+k-r+i k-r+a
+k-r+o k-r+a
+k-r+u k-r+a
 i-k+eu e-k+eu
 a-c+a c
 a-c+e c
 a-c+u c
 i-k+ny e-k+eu
-k-s+a u-s+a
-k-s+b u-s+a
-k-s+e u-s+a
-k-s+i u-s+a
-k-s+p u-s+a
-k-s+u u-s+a
-a-d+a d
-a-d+e d
-a-d+h d
-a-d+i d
-a-d+j d
-a-d+o d
-a-d+u d
-a-d+w d
+k-s+a
+k-s+b
+k-s+e k-s+a
+k-s+i k-s+a
+k-s+p k-s+b
+k-s+u k-s+a
+a-d+a k-d+e
+a-d+e k-d+e
+a-d+h k-d+e
+a-d+i k-d+e
+a-d+j k-d+e
+a-d+o k-d+e
+a-d+u k-d+e
+a-d+w k-d+e
 k-t+a
 k-t+e k-t+a
 k-t+i k-t+a
 k-t+o k-t+a
 k-t+r k-t+a
 k-t+u k-t+a
-m-s+eu u-s+a
-o-b+ay k-b+a
-o-b+eu
-a-e+k
-a-e+m
-a-e+n
-a-e+r
-a-e+s
+m-s+eu k-s+a
+o-b+ay k-b+ay
+o-b+eu k-b+a
+a-e+k k-e+k
+a-e+m k-e+l
+a-e+n k-e+n
+a-e+r k-e+r
+a-e+s k-e+s
 k-u+a
 k-u+b
-k-u+c
+k-u+c k-u+a
 k-u+d
-k-u+e
-k-u+h
+k-u+e k-u+a
+k-u+h k-u+a
 k-u+i k-u+a
-k-u+k k-u+b
-k-u+l k-u+a
+k-u+k
+k-u+l
 k-u+m
 k-u+n
-k-u+o
-k-u+p k-u+b
-k-u+r k-u+a
-k-u+s k-u+n
+k-u+o k-u+a
+k-u+p k-u+k
+k-u+r k-u+l
+k-u+s
 k-u+t
 k-u+w
 k-u+y
 a-l+aw
-a-l+ay l+ay
-a-f+e
-a-f+i a-f+e
-a-f+l
-a-f+o a-f+e
-a-f+t a-f+e
+a-l+ay k-l+a
+a-f+e ay-f
+a-f+i ay-f
+a-f+l ay-f
+a-f+o ay-f
+a-f+t ay-f
 a-l+eu k-l+a
 a-l+ny k-l+a
 n-a+a
@@ -285,13 +283,13 @@ n-a+h n-a+a
 n-a+i n-a+a
 n-a+k
 n-a+l
-n-a+m n-a+b
+n-a+m
 n-a+n
 n-a+p
 n-a+r
-n-a+s n-a+a
-n-a+t n-a+k
-n-a+u
+n-a+s
+n-a+t
+n-a+u n-a+a
 n-a+w
 n-a+y
 s-j+eu
@@ -299,27 +297,27 @@ a-g+a eu-g+eu
 a-g+e eu-g+eu
 a-g+i eu-g+eu
 a-g+o eu-g+eu
-a-g+r eu-g+eu
+a-g+r
 a-g+u eu-g+eu
 a-g+y eu-g+eu
 k-w+a u-w+a
 l-o+ng
-n-b+a k-b+a
+n-b+a m-b+eu
 e-t+ay u-t+a
 e-t+eu u-t+a
 a-h+a k-h+a
 a-h+e k-h+a
 a-h+i k-h+a
-a-h+k k-h+a
+a-h+k
 a-h+l k-h+a
 a-h+m k-h+a
 a-h+n k-h+a
 a-h+r k-h+a
-a-h+s k-h+a
+a-h+s a-h+k
 a-h+u k-h+a
 a-h+w k-h+a
 e-t+ny u-t+a
-d-eu+ng d-eu+g
+d-eu+ng
 d-eu+ny d-eu+h
 n-c+a c
 n-c+e c
@@ -327,45 +325,45 @@ n-c+i c
 n-c+l c
 n-c+o c
 f-eu+n
-f-eu+s f-eu+n
 n-c+u c
+f-eu+s
 y-a+eu
 a-i+c
 a-i+d
 a-i+k
 a-i+l
 a-i+m
-a-i+n a-i+m
-a-i+r a-i+l
+a-i+n
+a-i+r
 a-i+s
-a-i+t a-i+k
+a-i+t
 a-i+y
 y-a+ng
 y-a+ny y-a+eu
-n-d+a d
-n-d+e d
-n-d+i d
-n-d+o d
-n-d+u d
-n-d+y d
+n-d+a
+n-d+e n-d+a
+n-d+i n-d+a
+n-d+o n-d+a
+n-d+u n-d+a
+n-d+y n-d+a
 k-k+eu e-k+eu
-a-j+a s-j+eu
-a-j+e s-j+eu
-a-j+i s-j+eu
-a-j+u s-j+eu
+a-j+a
+a-j+e a-j+a
+a-j+i a-j+a
+a-j+u a-j+a
 d+ay d
 n-e+b
 n-e+g
 n-e+h
-n-e+j
+n-e+j n-e+h
 n-e+k
 n-e+l
-n-e+m a-e+r
+n-e+m n-e+l
 n-e+n
-n-e+p n-e+b
+n-e+p n-e+k
 n-e+r
-n-e+s n-e+h
-n-e+t n-e+b
+n-e+s
+n-e+t n-e+k
 d+eu d
 a-k+a e-k+eu
 a-k+b e-k+eu
@@ -377,48 +375,48 @@ a-k+m e-k+eu
 a-k+n e-k+eu
 a-k+o e-k+eu
 a-k+r e-k+eu
-a-k+s e-k+eu
-a-k+t e-k+eu
+a-k+s
+a-k+t ay-k
 a-k+u e-k+eu
-n-f+e
-n-f+i
-n-f+o a-f+e
+n-f+e ay-f
+n-f+i ay-f
+n-f+o ay-f
 o-s+eu u-s+a
 o-s+ny u-s+a
 a-l+a k-l+a
-a-l+d k-l+a
+a-l+d
 a-l+e k-l+a
-a-l+g
+a-l+g a-l+d
 a-l+h k-l+a
 a-l+i k-l+a
 a-l+j k-l+a
-a-l+k a-l+g
-a-l+l l+ay
+a-l+k a-l+d
+a-l+l a-l+d
 a-l+m
 a-l+o k-l+a
-a-l+t k-l+a
+a-l+t a-l+d
 a-l+u k-l+a
-d-ay t-ay
-n-g+a eu-g+eu
-n-g+e eu-g+eu
-n-g+g eu-g+eu
-n-g+h eu-g+eu
-n-g+i eu-g+eu
-n-g+l eu-g+eu
-n-g+n eu-g+eu
-n-g+o eu-g+eu
-n-g+s eu-g+eu
-n-g+u eu-g+eu
+d-ay
+n-g+a
+n-g+e n-g+a
+n-g+g n-g+a
+n-g+h n-g+a
+n-g+i n-g+a
+n-g+l n-g+a
+n-g+n n-g+a
+n-g+o n-g+a
+n-g+s n-g+a
+n-g+u n-g+a
 d-eu
 eu-ng+a
 eu-ng+b
 eu-ng+c eu-ng+a
 eu-ng+d eu-ng+b
 eu-ng+e eu-ng+a
-eu-ng+g eu-ng+b
+eu-ng+g
 eu-ng+h eu-ng+a
 eu-ng+i eu-ng+a
-eu-ng+k eu-ng+b
+eu-ng+k
 eu-ng+o eu-ng+a
 eu-ng+u eu-ng+a
 a-m+a k-m+a
@@ -431,7 +429,7 @@ a-m+j k-m+a
 a-m+k k-m+a
 a-m+m k-m+a
 a-m+o k-m+a
-a-m+p a-m+b
+a-m+p
 a-m+r k-m+a
 a-m+u k-m+a
 a-n+a r-n+eu
@@ -439,21 +437,21 @@ a-n+b
 a-n+c r-n+eu
 a-n+d a-n+b
 a-n+e r-n+eu
-a-n+g a-n+b
+a-n+g
 a-n+i r-n+eu
 a-n+j r-n+eu
 a-n+k
-a-n+l a-n+b
-a-n+m a-n+b
-a-n+n a-n+b
+a-n+l
+a-n+m
+a-n+n a-n+m
 a-n+o r-n+eu
-a-n+p a-n+k
-a-n+r a-n+b
-a-n+s r-n+eu
-a-n+t a-n+k
+a-n+p
+a-n+r r-n+eu
+a-n+s a-n+p
+a-n+t
 a-n+u r-n+eu
-a-n+v r-n+eu
-a-n+y a-n+b
+a-n+v a-n+b
+a-n+y
 n-i+a
 n-i+e n-i+a
 n-i+f n-i+a
@@ -461,17 +459,17 @@ n-i+g
 n-i+h n-i+a
 n-i+i n-i+a
 n-i+k
-n-i+l n-i+a
-n-i+m n-i+a
-n-i+n n-i+a
-n-i+s n-i+a
-n-i+t n-i+k
+n-i+l
+n-i+m
+n-i+n
+n-i+s
+n-i+t
 n-i+u n-i+a
 n-i+v n-i+a
 n-i+y
-n-i+z n-i+a
+n-i+z
 i-c+eu c
-h-eu+m d-eu+g
+h-eu+m
 h-eu+n
 n-j+a s-j+eu
 n-j+e s-j+eu
@@ -498,50 +496,50 @@ n-k+u n-k+a
 eu-p+eu k-p+e
 eu-p+ny k-p+e
 b-ny+a
-n-l+a k-l+a
-n-l+i k-l+a
+n-l+a
+n-l+i n-l+a
 n-l+p
 u+ng
 a-r+a u-r+a
-a-r+b r
-a-r+d r
+a-r+b
+a-r+d a-r+b
 a-r+e u-r+a
-a-r+f u-r+a
-a-r+g r
+a-r+f u-r+s
+a-r+g a-r+b
 a-r+i u-r+a
 a-r+j u-r+a
-a-r+k r
+a-r+k u-r+p
 a-r+l u-r+a
 a-r+m u-r+a
 a-r+n u-r+a
 a-r+o u-r+a
-a-r+s u-r+a
-a-r+t r
+a-r+s u-r+s
+a-r+t u-r+p
 a-r+u u-r+a
 a-r+y u-r+a
-a-d+eu d
+a-d+eu k-d+e
 n-m+a k-m+a
 n-m+e k-m+a
 n-m+u k-m+a
 a-s+a u-s+a
 a-s+c u-s+a
-a-s+d u-s+a
+a-s+d u-s+t
 a-s+e u-s+a
-a-s+g u-s+a
+a-s+g u-s+k
 a-s+i u-s+a
 a-s+j u-s+a
-a-s+k u-s+a
+a-s+k u-s+k
 a-s+l u-s+a
 a-s+m u-s+a
-a-s+p u-s+a
+a-s+p u-s+k
 a-s+s u-s+a
-a-s+t u-s+a
+a-s+t u-s+t
 a-s+u u-s+a
 a-s+w u-s+a
 a-s+y u-s+a
 u-ay t-ay
 n-n+a r-n+eu
-u-ng ng
+u-ng
 e-l+eu k-l+a
 a-t+a u-t+a
 a-t+c u-t+a
@@ -557,25 +555,25 @@ a-t+s u-t+a
 a-t+t u-t+a
 a-t+u u-t+a
 e-l+ny k-l+a
-n-o+f l-o+ng
-n-o+l l-o+ng
-n-o+m l-o+ng
+n-o+f
+n-o+l
+n-o+m
 n-o+n
-n-o+p l-o+ng
-n-o+r n-o+n
-n-o+s n-o+n
-n-o+t n-o+n
-n-o+v l-o+ng
+n-o+p
+n-o+r n-o+l
+n-o+s
+n-o+t n-o+p
+n-o+v n-o+f
 a-u+d
 a-u+h
 a-u+k
 a-u+m
 a-u+n
-a-u+p
+a-u+p a-u+k
 a-u+s
-a-u+t a-u+d
-aw-d+a d
-p-o+ng k-o+m
+a-u+t
+aw-d+a k-d+e
+p-o+ng
 i-t+ay u-t+a
 n-p+a k-p+e
 n-p+e k-p+e
@@ -584,37 +582,37 @@ i-t+eu u-t+a
 a-v+e v
 a-v+o v
 i-t+ny u-t+a
-g-ay+m t-ay
+g-ay+m
 d-a+a
 d-a+b
 d-a+d
 d-a+e d-a+a
-d-a+f d-a+a
+d-a+f
 d-a+g
 d-a+h d-a+a
-d-a+i
-d-a+k d-a+a
+d-a+i d-a+a
+d-a+k
 d-a+l
-d-a+m d-a+b
+d-a+m
 d-a+n
 d-a+p
 d-a+r d-a+n
-d-a+s d-a+a
-d-a+t d-a+a
-d-a+u
+d-a+s
+d-a+t
+d-a+u d-a+a
 d-a+w
 d-a+y
 j-eu+b
-j-eu+k d-eu+g
-j-eu+l d-eu+r
-j-eu+m d-eu+g
-j-eu+n d-eu+h
-j-eu+p d-eu+g
-j-eu+r d-eu+r
-j-eu+t d-eu+h
+j-eu+k d-eu+k
+j-eu+l
+j-eu+m h-eu+m
+j-eu+n h-eu+n
+j-eu+p
+j-eu+r j-eu+l
+j-eu+t d-eu+k
 a-w+a u-w+a
 a-w+u u-w+a
-aw-f+a
+aw-f+a ay-f
 n-r+a u-r+a
 n-r+i u-r+a
 n-r+o u-r+a
@@ -625,16 +623,16 @@ n-s+a u-s+a
 n-s+e u-s+a
 n-s+f u-s+a
 n-s+i u-s+a
-n-s+k u-s+a
-n-s+p u-s+a
-n-s+t u-s+a
+n-s+k u-s+k
+n-s+p u-s+k
+n-s+t u-s+t
 a-y+a u-y+i
 a-y+f u-y+i
 a-y+i u-y+i
 a-y+n u-y+i
 a-y+o u-y+i
 a-y+u u-y+i
-a-u+ny
+a-u+ny a-u+h
 n-t+a
 n-t+e n-t+a
 n-t+i n-t+a
@@ -647,99 +645,98 @@ u-b+eu k-b+a
 a-z+i z
 d-e+a
 d-e+b
-d-e+d a-e+k
-d-e+e
+d-e+d
+d-e+e d-e+a
 d-e+f
-d-e+g a-e+k
+d-e+g d-e+b
 d-e+h d-e+a
-d-e+i
-d-e+k a-e+k
-d-e+l a-e+r
-d-e+m
+d-e+i d-e+a
+d-e+k
+d-e+l
+d-e+m d-e+l
 d-e+n
-d-e+p
-d-e+r a-e+r
+d-e+p d-e+k
+d-e+r
 d-e+s
-d-e+t a-e+k
-d-e+w
-d-e+y a-e+r
+d-e+t d-e+k
+d-e+w d-e+n
+d-e+y
 n-u+a
 n-u+b
 n-u+g
-n-u+h
+n-u+h n-u+a
 n-u+l
 n-u+m
-n-u+n
-n-u+r
+n-u+n n-u+l
+n-u+r n-u+l
 n-u+s
 kh+a kh
-n-g+ny eu-g+eu
+n-g+ny n-g+a
 n-v+a v
 n-v+e v
 aw-k+e e-k+eu
-r-o+ng l-o+ng
+r-o+ng
 k-t+eu k-t+a
 d-h+a k-h+a
 m+aw
-m+ay m+aw
-l-eu+b d-eu+g
-l-eu+f d-eu+g
-l-eu+h d-eu+h
-m+eu
-l-eu+l d-eu+r
-l-eu+m d-eu+g
+m+ay
+l-eu+b
+l-eu+f
+l-eu+h l-eu+f
+m+eu m+ay
+l-eu+l
+l-eu+m
 l-eu+n
 l-eu+p
-l-eu+r d-eu+r
-l-eu+s d-eu+h
-l-eu+w
-l-eu+z
+l-eu+r l-eu+l
+l-eu+s
+l-eu+w l-eu+f
+l-eu+z l-eu+n
 d-i+a
 d-i+b
 d-i+c d-i+a
-d-i+d d-i+b
+d-i+d
 d-i+f
-d-i+g d-i+b
+d-i+g
 d-i+h d-i+a
 d-i+i d-i+a
 d-i+j d-i+a
 d-i+k
 d-i+l
 d-i+m
-d-i+n d-i+m
+d-i+n
 d-i+o d-i+a
-d-i+p d-i+k
-d-i+r d-i+l
+d-i+p
+d-i+r
 d-i+s
-d-i+t d-i+k
+d-i+t d-i+p
 d-i+u d-i+a
 d-i+y
 d-i+z d-i+f
-c-eu+ng d-eu+g
-n-y+a u-y+i
-n-y+e u-y+i
+c-eu+ng h-eu+n
+n-y+a
+n-y+e n-y+a
 eu-ny+a
 eu-ny+c eu-ny+a
 eu-ny+e eu-ny+a
 eu-ny+i eu-ny+a
 eu-ny+u eu-ny+a
-m-aw m-aw+ny
+m-aw t-aw
 m-ay t-ay
-f-ny+a b-ny+a
+f-ny+a eu-ny+a
 sy+a sy
 sy+o sy
 sy+u sy
 sy-a ay-a
 c-u+ng
-d-k+u n-k+a
-t-eu+ng
+d-k+u e-k+eu
+t-eu+ng f-eu+n
 u-s+eu u-s+a
 u-s+ny u-s+a
 d-l+a k-l+a
 d-l+e k-l+a
 aw-p+u k-p+e
-i-l+ai k-l+a
-i-l+ay l+ay
+i-l+ay k-l+a
 i-l+eu k-l+a
 a-kh+i kh
 a-kh+l kh
@@ -748,33 +745,33 @@ l-ng+o eu-ng+a
 l-ng+u eu-ng+a
 ny-a+h u-a+ny
 ny-a+i u-a+ny
-ny-a+k a-a+t
+ny-a+k a-a+k
 ny-a+l a-a+l
-ny-a+m u-a+ng
-ny-a+p
+ny-a+m
+ny-a+p a-a+p
 ny-a+r
 ny-a+t a-a+t
-t-o+ng k-o+l
+t-o+ng
 d-o+a
 d-o+h d-o+a
 d-o+k
 d-o+l
-d-o+m d-o+k
+d-o+m
 d-o+n
-d-o+r d-o+n
+d-o+r d-o+l
 d-o+s d-o+n
-d-o+t d-o+n
-d-o+w d-o+k
-n-eu+b ng-eu+ng
-n-eu+g ng-eu+ng
+d-o+t d-o+k
+d-o+w d-o+m
+n-eu+b
+n-eu+g n-eu+b
 n-eu+k
 n-eu+l
-n-eu+m ng-eu+ng
+n-eu+m
 n-eu+n
-n-eu+p ng-eu+ng
+n-eu+p n-eu+k
 n-eu+r n-eu+l
-n-eu+s n-eu+n
-n-eu+t
+n-eu+s
+n-eu+t n-eu+k
 ny-c+e c
 a-m+aw k-m+a
 a-m+ay k-m+a
@@ -782,26 +779,26 @@ a-m+eu k-m+a
 a-m+ny k-m+a
 h-ny+a eu-ny+a
 ny-e+l
-ny-e+n
+ny-e+n k-e+n
 a-sy+a sy
-d-r+a u-r+a
-d-r+i u-r+a
-d-r+o u-r+a
+d-r+a k-r+a
+d-r+i k-r+a
+d-r+o k-r+a
 eu+ng
 e+ng
-d-u+a n-u+h
+d-u+a
 d-u+d
 d-u+g n-u+g
-d-u+h n-u+h
-d-u+i n-u+h
+d-u+h d-u+a
+d-u+i d-u+a
 d-u+k
 d-u+l
-d-u+n n-u+n
+d-u+n d-u+l
 d-u+p d-u+k
 d-u+r d-u+l
 d-u+s
-d-u+t d-u+d
-d-u+w n-u+h
+d-u+t
+d-u+w
 ny-i+a a-i+c
 ny-i+c a-i+c
 ny-i+s a-i+s
@@ -811,53 +808,53 @@ m-ay+n t-ay
 m-ay+s t-ay
 p-eu+c f-eu+n
 p-eu+d
-p-eu+g
-p-eu+k t-eu+ng
+p-eu+g p-eu+d
+p-eu+k
 p-eu+l
-p-eu+m t-eu+ng
+p-eu+m
 p-eu+n f-eu+n
-p-eu+r p-eu+l
-p-eu+s f-eu+n
-p-eu+t f-eu+n
+p-eu+r
+p-eu+s
+p-eu+t p-eu+k
 g-a+a
 g-a+b
 g-a+d
-ny-j+i s-j+eu
+ny-j+i a-j+a
 g-a+g
-g-a+i
+g-a+i g-a+a
 g-a+j g-a+a
 g-a+k
 g-a+l
-g-a+m g-a+b
+g-a+m
 g-a+n
-eu-ng ng
+eu-ng u-ng
 g-a+p
 g-a+r
-g-a+s g-a+a
-g-a+t g-a+k
+g-a+s
+g-a+t
 g-a+u g-a+a
 g-a+y
-e-ng ng
+e-ng u-ng
 d-w+a u-w+a
 u-k+eu e-k+eu
 u-k+ny e-k+eu
 j-ny+a eu-ny+a
 g-u+ng
-i-d+eu d
+i-d+eu k-d+e
 g-u+ny
 d-y+a u-y+i
-i-d+ny d
-g-d+i d
-b-i+ng d-i+m
+i-d+ny k-d+e
+g-d+i k-d+e
+b-i+ng
 b-i+ny
-g-e+d
+g-e+d d-e+d
 g-e+e
-g-e+k
-g-e+l a-e+r
-g-e+m a-e+r
-g-e+n
-g-e+r a-e+r
-g-e+t a-e+k
+g-e+k d-e+k
+g-e+l d-e+l
+g-e+m d-e+l
+g-e+n d-e+n
+g-e+r d-e+r
+g-e+t d-e+k
 v+eu v
 ny-o+b
 t-a+a
@@ -872,25 +869,25 @@ t-a+m
 t-a+n
 t-a+p
 t-a+r
-t-a+s t-a+a
+t-a+s
 t-a+t t-a+k
 t-a+u t-a+a
 t-a+w
 t-a+y
-g-g+e eu-g+eu
-g-g+i eu-g+eu
-t-b+l
+g-g+e
+g-g+i g-g+e
+t-b+l k-b+a
 r-eu+b
-r-eu+d d-eu+h
-r-eu+g
-r-eu+k d-eu+g
-r-eu+l d-eu+r
-r-eu+m d-eu+g
-r-eu+n d-eu+h
-r-eu+p
-r-eu+s d-eu+h
-r-eu+t d-eu+h
-r-eu+z
+r-eu+d
+r-eu+g r-eu+b
+r-eu+k r-eu+b
+r-eu+l l-eu+l
+r-eu+m l-eu+m
+r-eu+n l-eu+n
+r-eu+p r-eu+b
+r-eu+s l-eu+s
+r-eu+t r-eu+d
+r-eu+z l-eu+n
 g-h+a k-h+a
 e-m+eu k-m+a
 e-m+ny k-m+a
@@ -900,131 +897,131 @@ g-i+h g-i+a
 g-i+k
 g-i+l
 g-i+m
-g-i+n g-i+m
-g-i+t g-i+k
+g-i+n
+g-i+t
 g-i+y
 l-ny+a b-ny+a
-b-eu+ng b-eu+b
-g-j+a s-j+eu
+b-eu+ng b-eu+c
+g-j+a a-j+a
 e-sy+a sy
 t-e+a
-t-e+b a-e+k
-t-e+e
-t-e+h
-t-e+i
-t-e+j
-t-e+k a-e+k
-t-e+l a-e+r
-t-e+m a-e+r
-t-e+n a-e+n
-t-e+p
-t-e+r a-e+r
-t-e+s
-t-e+u
-t-e+w a-e+n
-t-e+y
+t-e+b k-e+b
+t-e+e t-e+a
+t-e+h t-e+a
+t-e+i t-e+a
+t-e+j t-e+a
+t-e+k k-e+k
+t-e+l k-e+l
+t-e+m k-e+l
+t-e+n k-e+n
+t-e+p k-e+k
+t-e+r k-e+r
+t-e+s k-e+s
+t-e+u t-e+a
+t-e+w k-e+n
+t-e+y k-e+y
 d-i+eu d-i+a
-d-i+ng d-i+m
+d-i+ng
 d-i+ny d-i+a
-t-f+l
+t-f+l ay-f
 s-eu+ng
-ny-u+c
+ny-u+c a-u+h
 g-l+e k-l+a
-ny-u+k
+ny-u+k a-u+k
 g-l+i k-l+a
 ny-u+s a-u+s
 o-l+eu k-l+a
-o-l+ng a-l+g
+o-l+ng a-l+d
 o-l+ny k-l+a
 a-v+eu v
 c-e+ny
 s-t+eu
 g-n+a r-n+eu
 g-n+i r-n+eu
-g-n+y a-n+b
-t-i+a k-i+a
+g-n+y a-n+y
+t-i+a
 t-i+b
-t-i+c k-i+a
-t-i+d t-i+b
+t-i+c t-i+a
+t-i+d
 t-i+f
-t-i+g t-i+b
-t-i+h k-i+a
-t-i+i k-i+a
+t-i+g
+t-i+h t-i+a
+t-i+i t-i+a
 t-i+k
-t-i+l k-i+l
-t-i+m k-i+n
-t-i+n k-i+n
-t-i+p t-i+k
-t-i+r k-i+l
-t-i+s k-i+s
-t-i+t t-i+k
+t-i+l
+t-i+m
+t-i+n
+t-i+p
+t-i+r
+t-i+s
+t-i+t t-i+p
 t-i+v t-i+f
-t-i+w k-i+l
-t-i+y k-i+y
-ng-o+ng h-o+ng
-t-eu+b t-eu+ng
-t-eu+d f-eu+n
-t-eu+f t-eu+ng
-t-eu+g t-eu+ng
-t-eu+k
+t-i+w t-i+l
+t-i+y
+ng-o+ng
+t-eu+b
+t-eu+d p-eu+d
+t-eu+f
+t-eu+g p-eu+d
+t-eu+k p-eu+k
 t-eu+l
-t-eu+m t-eu+ng
+t-eu+m
 t-eu+n f-eu+n
 t-eu+o f-eu+n
-t-eu+p t-eu+ng
+t-eu+p
 t-eu+r t-eu+l
-t-eu+s
-t-eu+t f-eu+n
-g-o+a ny-o+b
-g-o+d n-o+n
-g-o+f ny-o+b
-g-o+j ny-o+b
-g-o+k ny-o+b
+t-eu+s f-eu+s
+t-eu+t p-eu+k
+g-o+a
+g-o+d
+g-o+f g-o+a
+g-o+j g-o+a
+g-o+k
 g-o+l
-g-o+m h-o+ng
-g-o+n n-o+n
-g-o+p ny-o+b
-g-o+r n-o+n
-g-o+s n-o+n
-g-o+t n-o+n
-g-o+y ny-o+b
+g-o+m
+g-o+n
+g-o+p g-o+k
+g-o+r g-o+l
+g-o+s g-o+n
+g-o+t g-o+k
+g-o+y g-o+m
 aw-k+ay e-k+eu
 b-a+ng
 b-a+ny
 r-p+eu k-p+e
-t-k+a n-k+a
-t-k+u n-k+a
-n-ny+a
+t-k+a e-k+eu
+t-k+u e-k+eu
+n-ny+a b-ny+a
 k-u+ny k-u+a
-eu-i+ng a-i+m
+eu-i+ng
 t-l+a k-l+a
 t-l+i k-l+a
 n+eu
-g-r+a u-r+a
-g-r+e u-r+a
-g-r+i u-r+a
-g-r+u u-r+a
+g-r+a k-r+a
+g-r+e k-r+a
+g-r+i k-r+a
+g-r+u k-r+a
 f-i+ng
 t-m+a k-m+a
 t-m+i k-m+a
 t-m+u k-m+a
-g-s+a u-s+a
+g-s+a k-s+a
 s-aw+d t-aw
-t-n+y a-n+b
-t-o+b k-o+l
+t-n+y a-n+y
+t-o+b
 t-o+d
-t-o+f k-o+l
-t-o+g k-o+l
-t-o+h
-t-o+k k-o+l
-t-o+l k-o+l
-t-o+m k-o+l
-t-o+n t-o+d
-t-o+p k-o+l
-t-o+r t-o+d
-t-o+s t-o+d
+t-o+f
+t-o+g t-o+d
+t-o+h t-o+f
+t-o+k t-o+d
+t-o+l
+t-o+m t-o+ng
+t-o+n
+t-o+p t-o+d
+t-o+r t-o+l
+t-o+s t-o+n
 t-o+t t-o+d
-t-o+y k-o+l
+t-o+y t-o+ng
 u-t+eu u-t+a
 g-u+a g-u+ny
 g-u+g
@@ -1035,17 +1032,17 @@ g-u+l
 g-u+m g-u+ng
 g-u+n
 g-u+p
-g-u+r g-u+ny
-g-u+s g-u+n
+g-u+r g-u+l
+g-u+s
 g-u+w
 u-t+ny u-t+a
 s-ay+i t-ay
 s-ay+k t-ay
 s-ay+n t-ay
-n-y+eu u-y+i
+n-y+eu n-y+a
 t-p+u k-p+e
 v-eu+l
-v-eu+n d-eu+h
+v-eu+n l-eu+n
 v-eu+r
 i-m+eu k-m+a
 j-a+a u-a+ny
@@ -1054,13 +1051,13 @@ j-a+d
 j-a+g
 j-a+h u-a+ny
 j-a+i u-a+ny
-j-a+j
-j-a+k a-a+t
+j-a+j u-a+ny
+j-a+k a-a+k
 j-a+l a-a+l
-j-a+m u-a+ng
+j-a+m ny-a+m
 j-a+n a-a+n
 j-a+r ny-a+r
-j-a+s u-a+ny
+j-a+s
 j-a+t a-a+t
 j-a+u u-a+ny
 j-a+w
@@ -1068,61 +1065,61 @@ j-a+y
 ay-k+ny e-k+eu
 i-m+ny k-m+a
 d-a+eu d-a+a
-d-a+ng d-a+b
+d-a+ng
 d-a+ny d-a+a
-t-r+a u-r+a
-t-r+e u-r+a
-t-r+i u-r+a
-t-r+o u-r+a
-t-r+u u-r+a
-p-ny+a b-ny+a
+t-r+a k-r+a
+t-r+e k-r+a
+t-r+i k-r+a
+t-r+o k-r+a
+t-r+u k-r+a
+p-ny+a eu-ny+a
 eu-z+eu z
 m-u+ng
-o-d+eu d
+o-d+eu k-d+e
 t-s+a u-s+a
 t-s+u u-s+a
 g-y+u u-y+i
-h-i+ng a-i+m
+h-i+ng eu-i+ng
 t-t+i s-t+eu
 t-t+u s-t+eu
 a-n+ny r-n+eu
 j-e+b
-j-e+k a-e+k
-j-e+l a-e+r
-j-e+m
-j-e+n a-e+n
-j-e+r
-j-e+s
-ng-g+eu eu-g+eu
+j-e+k k-e+k
+j-e+l k-e+l
+j-e+m k-e+l
+j-e+n k-e+n
+j-e+r k-e+r
+j-e+s k-e+s
+ng-g+eu
 t-u+a
 t-u+b
 t-u+d
-t-u+g t-u+b
+t-u+g
 t-u+h t-u+a
 t-u+i t-u+a
 t-u+j t-u+a
-t-u+k t-u+b
+t-u+k
 t-u+l
 t-u+m
-t-u+n
-t-u+p
+t-u+n t-u+l
+t-u+p t-u+k
 t-u+r t-u+l
-t-u+s t-u+n
-t-u+t t-u+d
-t-u+w t-u+a
-t-u+y
+t-u+s
+t-u+t
+t-u+w
+t-u+y t-u+a
 e-v+eu v
-w-a+a
-w-a+b w-a+ng
+w-a+a w-a+ny
+w-a+b
 w-a+d
 w-a+g
-w-a+h w-a+a
-w-a+i
+w-a+h w-a+ny
+w-a+i w-a+ny
 w-a+k
 w-a+l
 w-a+n
 w-a+r
-w-a+s w-a+a
+w-a+s
 w-a+t
 w-a+w
 w-a+y
@@ -1137,148 +1134,147 @@ j-i+a a-i+c
 j-i+d a-i+d
 j-i+k a-i+k
 j-i+m a-i+m
-j-i+n a-i+m
-j-i+t a-i+k
+j-i+n a-i+n
+j-i+t a-i+t
 j-i+w a-i+l
 j-i+y a-i+y
 t-y+o u-y+i
-r-ny+a eu-ny+a
+r-ny+a b-ny+a
 t-z+a z
 w-e+a
 w-e+b
-w-e+h
+w-e+h w-e+a
 w-e+k
 w-e+l
 w-e+r
 w-e+w
-w-e+y a-e+r
-j-i+ng a-i+m
+w-e+y
+j-i+ng eu-i+ng
 j-i+ny a-i+c
 u-l+aw a-l+aw
-u-l+ay l+ay
+u-l+ay k-l+a
 u-l+eu k-l+a
-u-l+ng a-l+g
+u-l+ng a-l+d
 u-l+ny k-l+a
-b-j+eu s-j+eu
-z-eu+k
-w-i+b d-i+b
-eu-r+ai u-r+a
-w-i+k d-i+k
-w-i+n d-i+m
+b-j+eu a-j+a
+z-eu+k l-eu+p
+w-i+b
+w-i+k
+w-i+n
 w-i+s
-w-i+t d-i+k
+w-i+t
 eu-r+ay u-r+a
 w-i+y
 eu-r+eu u-r+a
-j-o+g ny-o+b
-j-o+k ny-o+b
-j-o+n n-o+n
-j-o+r n-o+n
-j-o+s n-o+n
+j-o+g
+j-o+k j-o+g
+j-o+n
+j-o+r
+j-o+s j-o+n
 eu-r+ny u-r+a
 eu-r+sy u-r+a
 w+aw w
-ng-eu+b ng-eu+ng
-ng-eu+c
-ng-eu+d
-ng-eu+f
-ng-eu+g
-ng-eu+l ng-eu+d
-ng-eu+m ng-eu+ng
-ng-eu+n ng-eu+d
-ng-eu+r ng-eu+d
+ng-eu+b
+ng-eu+c ng-eu+ng
+ng-eu+d ng-eu+b
+ng-eu+f ng-eu+ng
+ng-eu+g ng-eu+b
+ng-eu+l
+ng-eu+m
+ng-eu+n ng-eu+ng
+ng-eu+r
 ng-eu+s
-ng-eu+t ng-eu+d
+ng-eu+t n-eu+k
 w+eu w
-h-a+ng
+h-a+ng u-a+ng
 h-a+ny u-a+ny
-t-ny+a b-ny+a
-ny-eu+ng d-eu+g
-w-aw
+t-ny+a eu-ny+a
+ny-eu+ng h-eu+n
+w-aw t-aw
 l-i+eu
 l-i+ng
 l-i+ny l-i+eu
 e-n+eu r-n+eu
 e-n+ny r-n+eu
-y-aw+d w-aw
+y-aw+d t-aw
 i-v+eu v
 ng-ng+o eu-ng+a
-k-e+ny
+k-e+ny k-e+e
 d-j+eu s-j+eu
-w-o+k ny-o+b
-w-o+l l-o+ng
-w-o+r n-o+n
-w-o+t n-o+n
-w-o+w ny-o+b
-w-o+y ny-o+b
+w-o+k g-o+k
+w-o+l
+w-o+r w-o+l
+w-o+t g-o+k
+w-o+w
+w-o+y w-o+w
 a+a
 a+b
-a+c
+a+c a+a
 a+d
 a+f
 a+g
-a+h a+c
-a+i
-a+j a+c
+a+h a+a
+a+i a+a
+a+j a+a
 a+k
 a+l
-a+m a+b
+a+m
 a+n
-a+p a+k
+a+p
 a+r
-a+s a+f
-a+t a+k
-a+u
+a+s
+a+t
+a+u a+a
 a+v
 a+w
 a+y
 a+z
-a-a
+a-a ay-a
 a-b k-b+a
-a-d d
-a-f a-f+e
-a-h h
-a-i i
+a-d k-d+e
+a-f ay-f
+a-h aw-h
+a-i
 a-k ay-k
-a-l l
-a-m a-m+b
+a-l ay-l
+a-m ay-m
 a-n aw-n
 a-o
-a-p k-p+e
-a-r r
-a-s s
-a-t t
+a-p
+a-r ay-r
+a-s
+a-t ay-t
 a-u
-a-w u-w+a
-a-y u-y+i
+a-w
+a-y
 j-u+a a-u+h
 j-u+d a-u+d
 j-u+g n-u+g
 j-u+h a-u+h
 j-u+j a-u+h
 j-u+k a-u+k
-j-u+l
-j-u+m c-u+ng
-j-u+n
-j-u+r
+j-u+l a-u+n
+j-u+m a-u+m
+j-u+n a-u+n
+j-u+r a-u+n
 j-u+s a-u+s
-j-u+t a-u+d
-y-ay+n t-ay
+j-u+t a-u+t
+y-ay+n
 j-u+w
-y-ay+t t-ay
-b+a
-b+e b+a
-b+i b+a
-b+l
-b+o b+a
-b+r b+a
-b+t
-b+u b+a
-b-a b-a+ny
+y-ay+t y-ay+n
+b+a b
+b+e b
+b+i b
+b+l b
+b+o b
+b+r b
+b+t b
+b+u b
+b-a
 b-e
 b-i
-b-o a-o
-b-s s
+b-o
+b-s a-s
 b-u
 o-m+eu k-m+a
 m-a+a
@@ -1297,7 +1293,7 @@ m-a+o m-a+a
 m-a+p
 m-a+r
 m-a+s
-m-a+t m-a+p
+m-a+t
 m-a+u m-a+a
 m-a+w
 m-a+y
@@ -1308,96 +1304,96 @@ c+i c
 c+o c
 c+u c
 c-a ay-a
-c-e b-e
-c-h h
-c-i i
+c-e
+c-h aw-h
+c-i a-i
 c-k ay-k
 c-o a-o
 c-u a-u
 a-w+eu u-w+a
 j-a+ng u-a+ng
-j-a+ny
+j-a+ny u-a+ny
 a-w+ny u-w+a
-m-b+a k-b+a
-m-b+e k-b+a
-m-b+i k-b+a
-m-b+l
-m-b+o k-b+a
-m-b+u k-b+a
-s-u+ay t-u+a
+m-b+a m-b+eu
+m-b+e m-b+eu
+m-b+i m-b+eu
+m-b+l m-b+eu
+m-b+o m-b+eu
+m-b+u m-b+eu
+s-u+ay
 d+a d
 d+e d
 d+i d
 d+o d
 d+r d
 d+u d
-d-a d-a+a
-d-e b-e
-d-i b-i
+d-a
+d-e
+d-i
 d-o
-d-s s
+d-s a-s
 d-u
-s-u+ng t-u+m
-u-d+ny d
+s-u+ng
+u-d+ny k-d+e
 e+b
-e+d
-e+f t-e+h
-e+h t-e+h
-e+k a-e+k
-e+l a-e+r
-e+m a-e+r
-e+n a-e+n
-e+p
+e+d e+b
+e+f
+e+h e+b
+e+k
+e+l
+e+m e+l
+e+n e+ng
+e+p e+k
 e+r
-e+s t-e+h
-e+t
-e+u
-n-i+ng n-i+a
+e+s
+e+t e+k
+e+u e+b
+n-i+ng
 e-a ay-a
-e-b
-e-d d
-e-e
-e-h h
-e-i i
-e-j s-j+eu
+e-b k-b+a
+e-d k-d+e
+e-e c-e
+e-h aw-h
+e-i a-i
+e-j a-j+a
 e-k ay-k
-e-l l
-e-m a-m+b
+e-l ay-l
+e-m ay-m
 e-n aw-n
 e-o a-o
-e-p k-p+e
-e-r r
-e-s s
-e-t t
-e-u
-e-w u-w+a
-e-y u-y+i
-m-d+i d
-m-d+u d
-f+a a-f+e
-f+e
-f+i a-f+e
-f+o a-f+e
-f+r a-f+e
-y-l+eu k-l+a
-f+u a-f+e
+e-p a-p
+e-r ay-r
+e-s a-s
+e-t ay-t
+e-u a-u
+e-w a-w
+e-y a-y
+m-d+i k-d+e
+m-d+u k-d+e
+f+a ay-f
+f+e ay-f
+f+i ay-f
+f+o ay-f
+f+r ay-f
+y-l+eu n-l+a
+f+u ay-f
 f-a
 f-e
 f-i
 f-o
-f-t t
-m-e+d n-e+b
-m-e+g
+f-t ay-t
+m-e+d
+m-e+g m-e+d
 m-e+i
-m-e+j
+m-e+j n-e+h
 m-e+k
-m-e+l a-e+r
-m-e+m a-e+r
+m-e+l n-e+l
+m-e+m n-e+l
 m-e+n n-e+n
-m-e+p n-e+b
-m-e+r a-e+r
-m-e+s n-e+h
-m-e+t n-e+b
+m-e+p m-e+k
+m-e+r n-e+r
+m-e+s n-e+s
+m-e+t m-e+k
 m-e+w n-e+n
 w-u+a
 w-u+d
@@ -1408,17 +1404,17 @@ g+a g
 g+e g
 g+i g
 g+o g
-g+r g
+g+r
 g+u g
-g-a g-a+a
+g-a
 g-e
 g-i
-g-o a-o
-g-u b-u
-m-f+e a-f+e
-m-f+i a-f+e
-m-e+ng
-m-e+ny
+g-o
+g-u
+m-f+e ay-f
+m-f+i ay-f
+m-e+ng n-e+n
+m-e+ny n-e+h
 h+a
 h+e h+a
 h+i h+a
@@ -1426,76 +1422,75 @@ h+m h+a
 h+o h+a
 h+u h+a
 h-a ay-a
-h-e b-e
-h-h h
-h-i i
-h-m a-m+b
+h-e c-e
+h-h aw-h
+h-i a-i
+h-m
 h-o a-o
 h-u a-u
 o+ng
 z-a+m
 z-a+r
 z-a+t
-ai-a+n
 i+a
-i+b a-i+d
-i+d a-i+d
+i+b
+i+d
 i+e i+a
 i+f
-i+g a-i+d
+i+g
 i+h i+a
 i+i i+a
 i+j i+a
-i+k a-i+k
+i+k
 i+l
 i+m
-i+n i+m
-i+r i+l
+i+n
+i+r
 i+s
-i+t a-i+k
+i+t
 i+v i+f
 i+y
 i+z i+f
 i-a ay-a
 i-b k-b+a
-i-d d
-i-f a-f+e
-i-h h
-i-j s-j+eu
+i-d k-d+e
+i-f ay-f
+i-h aw-h
+i-j a-j+a
 i-k ay-k
-i-l l
-i-m a-m+b
+i-l ay-l
+i-m ay-m
 i-n aw-n
 i-o a-o
-i-p k-p+e
-i-r r
-i-s s
-i-t t
-i-u
-i-w u-w+a
-i-y u-y+i
+i-p a-p
+i-r ay-r
+i-s a-s
+i-t ay-t
+i-u a-u
+i-w a-w
+i-y a-y
 j+a j
 j+e j
 j+i j
 j+o j
 j+u j
 j-a ay-a
-j-e b-e
-j-i i
+j-e c-e
+j-i a-i
 j-o a-o
 j-u a-u
-o-ng ng
+o-ng u-ng
 l-a+ng
 l-a+ny
-m-i+f
+m-i+f n-i+a
 m-i+g
 m-i+k
-m-i+l
-m-i+m m-i+f
-m-i+n m-i+f
-m-i+r m-i+l
-m-i+s
-m-i+t m-i+k
+m-i+l n-i+l
+m-i+m n-i+m
+m-i+n n-i+n
+m-i+r
+m-i+s n-i+s
+m-i+t
 eu-ng+eu eu-ng+a
 k+a
 k+e k+a
@@ -1506,35 +1501,35 @@ k+o k+a
 k+r k+a
 k+u k+a
 k+w k+a
-k-ay+ny t-ay
+k-ay+ny y-ay+n
 k-a
 k-e
 k-i
 k-n aw-n
-k-o f-o
-k-s s
+k-o k-o+d
+k-s
 k-u
-k-y u-y+i
+k-y a-y
 eu-ng+ny eu-ng+a
-m-j+a s-j+eu
-m-j+i s-j+eu
-l+a k-l+a
+m-j+a a-j+a
+m-j+i a-j+a
+l+a l+ay
 p-i+ng
-l+e k-l+a
-l+h k-l+a
-l+i k-l+a
-l+o k-l+a
-l+u k-l+a
+l+e l+ay
+l+h l+ay
+l+i l+ay
+l+o l+ay
+l+u l+ay
 p-i+ny
 l-a
-l-d d
+l-d k-d+e
 l-e
 l-i
 l-k ay-k
 l-l l
 l-m
-l-o d-o
-l-p k-p+e
+l-o
+l-p a-p
 l-u
 ay-l+eu k-l+a
 i-n+eu r-n+eu
@@ -1542,162 +1537,162 @@ i-n+ny r-n+eu
 m-k+a n-k+a
 m-k+u n-k+a
 i-n+sy r-n+eu
-m+a m+eu
-m+e m+eu
-m+i m+eu
-m+m m+eu
-m+o m+eu
-m+u m+eu
-m-a m-a+a
+m+a m+ay
+m+e m+ay
+m+i m+ay
+m+m m+ay
+m+o m+ay
+m+u m+ay
+m-a
 m-e
 m-i
 m-m ay-m
-m-o a-o
-m-s s
+m-o
+m-s a-s
 m-u
 n+a n+eu
 n+d
 n+e n+eu
 n+g n+d
 n+i n+eu
-n+l n+d
+n+l n+eu
 n+o n+eu
 n+t
 n+u n+eu
-n-a n-a+a
-n-g eu-g+eu
-n-i n-i+a
+n-a
+n-g n-g+a
+n-i
 n-j s-j+eu
 n-n aw-n
-n-o d-o
-n-s s
-n-t t
-n-u l-u
-n-y u-y+i
-m-m+a
-o+a o+ng
-o+b o+ng
-o+e o+ng
+n-o
+n-s a-s
+n-t ay-t
+n-u
+n-y
+m-m+a k-m+a
+o+a
+o+b
+o+e o+a
 o+f o+ng
-o+h o+ng
-o+i o+ng
-o+j o+ng
-o+k
+o+h o+a
+o+i
+o+j o+a
+o+k o+b
 o+l
 o+m o+ng
 o+n
-o+o o+ng
-o+p o+ng
-o+r o+n
+o+o o+a
+o+p o+b
+o+r o+l
 o+s o+n
-o+t o+n
-o+u o+ng
+o+t o+b
+o+u o+a
 o+v o+ng
-o+w o+ng
-o+y o+ng
-o-d d
-o-f a-f+e
+o+w
+o+y o+w
+o-d k-d+e
+o-f ay-f
 o-g eu-g+eu
-o-h h
+o-h aw-h
 o-k ay-k
-o-l l
-o-m a-m+b
+o-l ay-l
+o-m ay-m
 o-n aw-n
 o-o a-o
-o-p k-p+e
-o-r r
-o-s s
-o-t t
-o-w u-w+a
-o-y u-y+i
-p+a p
-p+e p
-p+i p
-p+l p
-p+o p
-p+r p
-p+u p
+o-p a-p
+o-r ay-r
+o-s a-s
+o-t ay-t
+o-w a-w
+o-y a-y
+p+a
+p+e p+a
+p+i p+a
+p+l p+a
+p+o p+a
+p+r p+a
+p+u p+a
 p-a
-p-e f-e
+p-e
 p-i
 p-o f-o
-p-s s
-p-u k-u
-p-y u-y+i
+p-s
+p-u
+p-y a-y
 z-i+n
 z-i+s
-m-o+b ny-o+b
-m-o+d n-o+n
-m-o+g ny-o+b
-m-o+l l-o+ng
-m-o+n n-o+n
-m-o+r n-o+n
-m-o+s n-o+n
-m-o+t n-o+n
-n-a+ng n-a+b
+m-o+b
+m-o+d
+m-o+g m-o+d
+m-o+l
+m-o+n
+m-o+r m-o+l
+m-o+s
+m-o+t m-o+d
+n-a+ng
 n-a+ny n-a+a
-m-p+a p
-m-p+e p
-m-p+i p
-m-p+l p
-m-p+o p
-m-p+r p
-m-p+u p
-r+a u-r+a
-r+e u-r+a
-r+i u-r+a
-r+o u-r+a
-r+u u-r+a
+m-p+a
+m-p+e m-p+a
+m-p+i m-p+a
+m-p+l m-p+a
+m-p+o m-p+a
+m-p+r m-p+a
+m-p+u m-p+a
+r+a k-r+a
+r+e k-r+a
+r+i k-r+a
+r+o k-r+a
+r+u k-r+a
 r-a
-r-d d
-r-e m-e
+r-d k-d+e
+r-e
 r-i
 r-j s-j+eu
 r-k ay-k
 r-n aw-n
-r-o d-o
-r-s s
-r-t t
-r-u a-u
-r-y u-y+i
-c-a+b u-a+ng
-c-a+c
-c-a+d
+r-o
+r-s a-s
+r-t ay-t
+r-u
+r-y n-y
+c-a+b j-a+b
+c-a+c u-a+ny
+c-a+d j-a+d
 c-a+h u-a+ny
-c-a+k a-a+t
-c-a+l
-c-a+m u-a+ng
+c-a+k a-a+k
+c-a+l a-a+l
+c-a+m ny-a+m
 c-a+n a-a+n
 c-a+p a-a+p
 c-a+r ny-a+r
-c-a+t
-c-a+y
-ng-ny+a eu-ny+a
+c-a+t a-a+t
+c-a+y j-a+y
+ng-ny+a b-ny+a
 r-i+eu
 r-i+ng
 r-i+ny r-i+eu
-s+a u-s+a
-s+c u-s+a
-s+e u-s+a
-s+h u-s+a
-s+i u-s+a
-s+k u-s+a
-s+m u-s+a
-s+n u-s+a
-s+o u-s+a
-s+p u-s+a
-s+t u-s+a
-s+u u-s+a
-s+w u-s+a
-s+y u-s+a
+s+a
+s+c s+a
+s+e s+a
+s+h s+a
+s+i s+a
+s+k
+s+m s+a
+s+n s+a
+s+o s+a
+s+p s+k
+s+t
+s+u s+a
+s+w s+a
+s+y s+a
 s-a
 s-e f-e
-s-h h
+s-h aw-h
 s-i
 s-o
-s-t t
+s-t ay-t
 s-u
-s-y u-y+i
+s-y n-y
 eu-b+eu k-b+a
 m-r+i u-r+a
 m-r+o u-r+a
@@ -1709,64 +1704,63 @@ t+r t+aw
 t+u t+aw
 g+eu g
 t-a
-t-e f-e
+t-e b-e
 t-i
-t-o
-t-s s
+t-o s-o
+t-s p-s
 t-u
-t-w u-w+a
-m-s+a u-s+a
-m-s+e u-s+a
+t-w a-w
+m-s+a k-s+a
+m-s+e k-s+a
 u+a
-u+c a-u+h
-u+d a-u+d
-u+e
+u+c u+a
+u+d
+u+e u+a
 u+g
-u+j a-u+h
+u+j u+a
 u+k
-u+l j-u+r
 sil
-u+m c-u+ng
-u+n j-u+n
-u+p a-u+k
-u+r
+u+l
+u+m
+u+n u+l
+u+p u+k
+u+r u+l
 u+s
 u+t
-u+w a-u+h
+u+w
 u-a ay-a
-u-d d
+u-d k-d+e
 u-e
-u-h h
-u-i i
+u-h aw-h
+u-i a-i
 u-k ay-k
-u-l l
-u-m a-m+b
+u-l ay-l
+u-m ay-m
 u-n aw-n
-u-p k-p+e
-u-r r
-u-s s
-u-t t
-u-y u-y+i
+u-p a-p
+u-r ay-r
+u-s a-s
+u-t ay-t
+u-y a-y
 z-n+i r-n+eu
-m-t+e t+aw
-ai-n+e r-n+eu
-g-ay t-ay
+m-t+e u-t+a
+g-ay g-ay+m
 v+a v
 v+i v
 v+o v
-v-e
-v-o a-o
-c-e+a
-c-e+c
-c-e+e t-e+h
-c-e+h
-c-e+i
-z-o+m l-o+ng
-c-e+k a-e+k
-c-e+n
-c-e+p
-c-e+t a-e+k
-c-e+w
+v-e f-e
+v-o
+c-e+a c-e+ny
+c-e+c c-e+ny
+c-e+e c-e+ny
+c-e+h c-e+ny
+c-e+i c-e+ny
+z-o+m g-o+m
+c-e+k k-e+k
+c-e+n k-e+n
+c-e+p k-e+k
+c-e+t k-e+k
+c-e+w k-e+n
 m-u+a
 m-u+d
 m-u+i m-u+a
@@ -1775,130 +1769,130 @@ m-u+l
 m-u+m m-u+ng
 m-u+n
 m-u+r m-u+l
-m-u+s m-u+n
+m-u+s
 m-u+t
-m-u+w m-u+a
+m-u+w
 i-ng+eu eu-ng+a
 w+a w
 w+e w
 w+i w
 w+o w
-w-a w-a+a
-w-e m-e
-w-i b-i
+w-a
+w-e
+w-i
 u-m+eu k-m+a
 i-ng+ny eu-ng+a
 w-n aw-n
-w-o a-o
-w-s s
-w-u b-u
+w-o v-o
+w-s a-s
+w-u
 u-m+ny k-m+a
-p-a+a p-a
+p-a+a
 p-a+b
-p-a+c p-a
+p-a+c p-a+a
 p-a+d
 p-a+g
-p-a+h p-a
-p-a+i p-a
-p-a+j
+p-a+h p-a+a
+p-a+i p-a+a
+p-a+j p-a+a
 p-a+k
 p-a+l
 p-a+m
 p-a+n
 p-a+p
 p-a+r
-p-a+s p-a
-p-a+t p-a+p
-p-a+u
+p-a+s
+p-a+t
+p-a+u p-a+a
 p-a+w
-p-a+y p-a+l
-p-a+ng p-a+m
-p-a+ny
-i-f+ny
-y+a y
-y+e y
-y+o y
-y+u y
+p-a+y
+p-a+ng
+p-a+ny p-a+a
+i-f+ny ay-f
+y+a
+y+e y+a
+y+o y+a
+y+u y+a
 y-a
-y-e
-y-i
+y-e r-e
+y-i l-i
 y-n aw-n
-y-o a-o
+y-o
 y-u
-y-u+ng g-u+ng
+y-u+ng
 c-h+a k-h+a
 c-h+e k-h+a
-t-i+ng k-i+n
+t-i+ng
 eu-s+ay u-s+a
-t-i+ny k-i+a
+t-i+ny t-i+a
 z+a z
 z+i z
 z+o z
 z-a
-z-i i
-z-o d-o
+z-i w-i
+z-o g-o
 eu-s+eu u-s+a
 c-i+a a-i+c
 c-i+c a-i+c
 c-i+i a-i+c
 c-i+k a-i+k
 c-i+l a-i+l
-c-i+n a-i+m
+c-i+n a-i+n
 c-i+s a-i+s
-c-i+t a-i+k
+c-i+t a-i+t
 c-i+u a-i+c
 c-i+w a-i+l
 eu-s+ny u-s+a
-p-d+e d
+p-d+e k-d+e
 a-g+ay eu-g+eu
 a-g+eu eu-g+eu
-p-e+a t-e+h
-p-e+c
-p-e+d a-e+k
-p-e+e t-e+h
-p-e+h
-p-e+i t-e+h
-p-e+k a-e+k
-p-e+l a-e+r
-p-e+m
-p-e+n a-e+n
-p-e+p a-e+k
-p-e+r a-e+r
-p-e+s
-p-e+t a-e+k
-p-e+v t-e+h
-p-e+y a-e+r
+p-e+a k-e+e
+p-e+c k-e+e
+p-e+d k-e+d
+p-e+e k-e+e
+p-e+h k-e+e
+p-e+i k-e+e
+p-e+k k-e+k
+p-e+l k-e+l
+p-e+m k-e+l
+p-e+n k-e+n
+p-e+p k-e+k
+p-e+r k-e+r
+p-e+s k-e+s
+p-e+t k-e+k
+p-e+v
+p-e+y k-e+y
 c-k+y e-k+eu
 s-e+ng
-p-f+u
+p-f+u ay-f
 c-l+a k-l+a
 c-l+u k-l+a
 eu+d
-eu+h
-eu+i
-eu+k eu+ng
+eu+h eu+ng
+eu+i eu+ng
+eu+k
 eu+l
-eu+m eu+ng
-eu+n eu+h
+eu+m
+eu+n
 eu+p
-eu+s
-eu+u
+eu+s eu+n
+eu+u eu+ng
 eu+y
 eu-b k-b+a
-eu-d d
-eu-f
+eu-d k-d+e
+eu-f ay-f
 eu-g eu-g+eu
-eu-h h
-eu-i i
+eu-h aw-h
+eu-i a-i
 eu-k ay-k
-eu-l l
-eu-m a-m+b
+eu-l ay-l
+eu-m ay-m
 eu-n aw-n
-eu-p k-p+e
-eu-r r
-eu-s s
-eu-t t
-eu-y u-y+i
+eu-p a-p
+eu-r ay-r
+eu-s a-s
+eu-t ay-t
+eu-y a-y
 r-a+kh
 r-a+ng
 r-a+ny r-a+kh
@@ -1908,23 +1902,23 @@ p-i+h p-i+ny
 p-i+j p-i+ny
 p-i+k
 p-i+l
-p-i+m p-i+ng
-p-i+n p-i+ng
-p-i+p p-i+k
-p-i+r p-i+l
+p-i+m
+p-i+n
+p-i+p
+p-i+r
 p-i+s
-p-i+t p-i+k
+p-i+t p-i+p
 p-i+y
 c-o+b ny-o+b
-c-o+c ny-o+b
-c-o+k ny-o+b
-c-o+n n-o+n
-c-o+p ny-o+b
-c-o+r n-o+n
-c-o+w ny-o+b
+c-o+c
+c-o+k j-o+g
+c-o+n j-o+n
+c-o+p j-o+g
+c-o+r j-o+r
+c-o+w
 o-n+eu r-n+eu
 o-n+ny r-n+eu
-p-k+a n-k+a
+p-k+a e-k+eu
 p-l+a k-l+a
 p-l+e k-l+a
 p-l+i k-l+a
@@ -1937,99 +1931,100 @@ ng+i ng+a
 ng+o ng+a
 ng+u ng+a
 ng-a
-ng-i
-n-j+ai s-j+eu
-ay-a+h
-ay-a+k
-ay-a+m u-a+ng
+ng-i m-i
+n-j+ay s-j+eu
+ay-a+h u-a+ny
+ay-a+k a-a+k
+ay-a+m ny-a+m
+ay-a+n a-a+n
 n-j+eu s-j+eu
 p-m+i k-m+a
 p-n+o r-n+eu
-a-eu+l d-eu+r
-a-eu+r d-eu+r
+a-eu+l j-eu+l
+a-eu+r j-eu+l
 p-o+i f-o+ny
-p-o+k f-o+ny
-p-o+l k-o+l
-p-o+n k-o+d
-p-o+p f-o+ny
-p-o+r k-o+d
-p-o+s k-o+d
-p-o+t k-o+d
-t-a+ng t-a+b
+p-o+k
+p-o+l
+p-o+n
+p-o+p p-o+k
+p-o+r p-o+l
+p-o+s p-o+n
+p-o+t p-o+k
+t-a+ng
 t-a+ny t-a+a
 eu-k+eu e-k+eu
 c-u+a a-u+h
-c-u+c
+c-u+c a-u+h
 c-u+k a-u+k
-c-u+l
-c-u+m c-u+ng
-c-u+n
-c-u+p
-c-u+r j-u+r
-c-u+w
-c-u+y a-u+h
-ay-d+e d
-p+ay p
-p+eu p
+c-u+l a-u+n
+c-u+m a-u+m
+c-u+n a-u+n
+c-u+p a-u+k
+c-u+r a-u+n
+c-u+w j-u+w
+c-u+y
+ay-d+e k-d+e
+p+ay p+a
+p+eu p+a
 y-sy+a sy
 f-a+d
-f-a+f f-a
-f-a+l
-f-a+n
-f-a+s f-a
+f-a+f
+f-a+l p-a+l
+f-a+n p-a+n
+f-a+s p-a+s
 f-a+v
-f-a+y
-ay-f+i a-f+e
+f-a+y p-a+y
+ay-f+i ay-f
 p-ay t-ay
-p-r+a u-r+a
-p-r+e u-r+a
-p-r+i u-r+a
-p-r+o u-r+a
+p-r+a k-r+a
+p-r+e k-r+a
+p-r+i k-r+a
+p-r+o k-r+a
 e-g+eu eu-g+eu
-p-s+i u-s+a
+p-s+i k-s+a
 a-ng+a eu-ng+a
 a-ng+b eu-ng+b
-a-ng+g eu-ng+b
+a-ng+g eu-ng+g
 a-ng+i eu-ng+a
 a-ng+j eu-ng+a
-a-ng+k eu-ng+b
+a-ng+k eu-ng+k
 a-ng+o eu-ng+a
-a-ng+s eu-ng+a
-a-ng+t eu-ng+b
+a-ng+s eu-ng+k
+a-ng+t eu-ng+k
 a-ng+u eu-ng+a
-p-t+e s-t+eu
-p-t+o s-t+eu
+p-t+e k-t+a
+p-t+o k-t+a
 f-e+b
-f-e+k a-e+k
-f-e+l a-e+r
-f-e+n a-e+n
-f-e+r
-f-e+s t-e+h
-f-e+t
-ay-i+n a-i+m
-ay-i+r a-i+l
-p-u+a
-p-u+h
-p-u+l k-u+a
+f-e+k
+f-e+l k-e+l
+f-e+n k-e+n
+f-e+r k-e+r
+f-e+s k-e+s
+f-e+t f-e+k
+ay-i+n a-i+n
+ay-i+r
+p-u+a k-u+a
+p-u+h k-u+a
+p-u+l k-u+l
 p-u+n k-u+n
-p-u+r k-u+a
-p-u+s k-u+n
+p-u+r k-u+l
+p-u+s k-u+s
 p-u+t k-u+t
 p-u+w
-t-r+ay u-r+a
-f-f+i a-f+e
+t-r+ay k-r+a
+f-f+i ay-f
 c-eu+c
 c-eu+k
-c-eu+l d-eu+r
-c-eu+m d-eu+g
-c-eu+n
-c-eu+p d-eu+g
-c-eu+r d-eu+r
-c-eu+t d-eu+h
-m-eu+ng eu+ng
-m-eu+ny eu+h
+c-eu+l j-eu+l
+c-eu+m h-eu+m
+c-eu+n h-eu+n
+c-eu+p j-eu+p
+c-eu+r j-eu+l
+c-eu+t d-eu+k
+m-eu+ng ng-eu+ng
+m-eu+ny ng-eu+ng
 s-a+a s-a+ny
-s-a+b s-a+ng
+s-a+b
 s-a+d
 s-a+h s-a+ny
 s-a+i s-a+ny
@@ -2040,17 +2035,17 @@ s-a+m
 s-a+n
 s-a+p
 s-a+r
-s-a+s s-a+ny
-s-a+t s-a+k
+s-a+s
+s-a+t
 s-a+w
 s-a+y
-o-f+eu a-f+e
+o-f+eu ay-f
 ay-k+a e-k+eu
 ay-k+b e-k+eu
 ay-k+u e-k+eu
-s-b+e
+s-b+e k-b+a
 a-p+ay k-p+e
-s-b+u
+s-b+u k-b+a
 a-p+eu k-p+e
 a-p+ny k-p+e
 s-c+a c
@@ -2060,47 +2055,47 @@ s-c+o c
 f-i+g
 f-i+k
 f-i+l
-f-i+n f-i+ng
+f-i+n
 f-i+s
-f-i+t f-i+k
+f-i+t
 f-i+u
-f-i+w f-i+l
-f-i+z f-i+ng
-ay-m+a m-m+a
-ay-m+s m-m+a
-ng-i+ng
-s-d+a d
-s-d+e d
+f-i+w
+f-i+z
+ay-m+a k-m+a
+ay-m+s k-m+a
+ng-i+ng n-i+ng
+s-d+a k-d+e
+s-d+e k-d+e
 eu-ny+eu eu-ny+a
 ay-n+k a-n+k
-s-e+b
+s-e+b j-e+b
 s-e+c
-s-e+g
-s-e+h t-e+h
-s-e+i t-e+h
-s-e+j
-s-e+k a-e+k
+s-e+g j-e+b
+s-e+h s-e+c
+s-e+i s-e+c
+s-e+j s-e+c
+s-e+k k-e+k
 s-e+l
-s-e+m a-e+r
-s-e+n a-e+n
-s-e+p a-e+k
-s-e+r
-s-e+s t-e+h
-s-e+t a-e+k
-s-e+v
-s-e+w
+s-e+m s-e+l
+s-e+n k-e+r
+s-e+p k-e+k
+s-e+r k-e+r
+s-e+s k-e+s
+s-e+t k-e+k
+s-e+v s-e+c
+s-e+w k-e+r
 r-j+ny s-j+eu
-o-ng+ng eu-ng+a
+o-ng+ng eu-ng+g
 o-ng+ny eu-ng+a
-s-f+o
+s-f+o ay-f
 eu-c+eu c
-k-o+ny f-o+ny
-f-l+i k-l+a
+k-o+ny k-o+c
+f-l+i n-l+a
 h+aw h+a
 h+ay h+a
 h+eu h+a
-b-ay+k t-ay
-b-ay+n t-ay
+b-ay+k d-ay
+b-ay+n d-ay
 s-g+a eu-g+eu
 s-h+a k-h+a
 s-h+i k-h+a
@@ -2112,50 +2107,50 @@ ny+i ny
 ny+o ny
 ny+u ny
 ny-a ay-a
-ny-i i
+ny-i a-i
 ny-o a-o
 s-i+a
 s-i+b
-s-i+d s-i+b
+s-i+d
 s-i+e s-i+a
 s-i+f
-s-i+g s-i+b
+s-i+g
 s-i+h s-i+a
 s-i+i s-i+a
 s-i+k
 s-i+l
-s-i+m s-i+f
-s-i+n s-i+f
+s-i+m
+s-i+n
 s-i+o s-i+a
-s-i+p s-i+k
-s-i+r s-i+l
+s-i+p
+s-i+r
 s-i+s
-s-i+t s-i+k
+s-i+t s-i+p
 s-i+y
-f-o+k f-o+ny
-f-o+n k-o+d
-f-o+r k-o+d
-f-o+t k-o+d
+f-o+k p-o+k
+f-o+n p-o+n
+f-o+r p-o+l
+f-o+t p-o+k
 ay-s+h u-s+a
 u-n+ny r-n+eu
 ay-t+u u-t+a
 n-s+ny u-s+a
-s-k+a n-k+a
-s-k+e n-k+a
-s-k+i n-k+a
-s-k+o n-k+a
-s-k+r n-k+a
-s-k+u n-k+a
+s-k+a e-k+eu
+s-k+e e-k+eu
+s-k+i e-k+eu
+s-k+o e-k+eu
+s-k+r e-k+eu
+s-k+u e-k+eu
 i-g+eu eu-g+eu
-s-l+a k-l+a
-s-l+i k-l+a
+s-l+a n-l+a
+s-l+i n-l+a
 e-ng+a eu-ng+a
 e-ng+c eu-ng+a
 e-ng+e eu-ng+a
-e-ng+g eu-ng+b
+e-ng+g eu-ng+g
 e-ng+i eu-ng+a
-e-ng+k eu-ng+b
-e-ng+l eu-ng+a
+e-ng+k eu-ng+k
+e-ng+l eu-ng+b
 e-ng+o eu-ng+a
 e-ng+u eu-ng+a
 f-r+o u-r+a
@@ -2165,50 +2160,50 @@ s-m+a k-m+a
 s-m+e k-m+a
 s-m+i k-m+a
 eu-t+ny u-t+a
-m-o+ng h-o+ng
-m-o+ny ny-o+b
-f-s+i u-s+a
-y+aw y
-y+ay y
-f-t+ny s-t+eu
-d-ay+f t-ay
+m-o+ng
+m-o+ny
+f-s+i k-s+a
+y+aw y+a
+y+ay y+a
+f-t+ny k-t+a
+d-ay+f d-ay
 s-n+e r-n+eu
 s-n+i r-n+eu
-s-n+y a-n+b
-ny-eu+b
-ny-eu+d
-ny-eu+l d-eu+r
-ny-eu+n d-eu+h
-ny-eu+r d-eu+r
+s-n+y a-n+y
+ny-eu+b j-eu+b
+ny-eu+d d-eu+b
+ny-eu+l j-eu+l
+ny-eu+n h-eu+n
+ny-eu+r j-eu+l
 ny-eu+s
-ny-eu+t
+ny-eu+t d-eu+k
 a-h+ay k-h+a
-g-eu+d d-eu+h
-g-eu+l v-eu+r
-g-eu+n
-g-eu+p d-eu+g
-g-eu+r v-eu+r
-g-eu+s d-eu+h
-g-eu+t d-eu+h
-f-t+a s-t+eu
-f-t+w s-t+eu
+g-eu+d
+g-eu+l
+g-eu+n d-eu+n
+g-eu+p d-eu+k
+g-eu+r
+g-eu+s d-eu+s
+g-eu+t d-eu+t
+f-t+a k-t+a
+f-t+w k-t+a
 a-h+ny k-h+a
 z-a+ny
-s-o+a t-o+h
-s-o+d k-o+d
-s-o+f k-o+l
-s-o+k k-o+l
-s-o+l k-o+l
-s-o+n k-o+d
-s-o+p k-o+l
-s-o+r k-o+d
-s-o+s k-o+d
-f-u+d
-f-u+l g-u+ny
-f-u+n
-f-u+r
-f-u+t
-l-k+eu n-k+a
+s-o+a
+s-o+d t-o+d
+s-o+f s-o+a
+s-o+k t-o+d
+s-o+l t-o+l
+s-o+n t-o+n
+s-o+p t-o+d
+s-o+r t-o+l
+s-o+s t-o+n
+f-u+d k-u+d
+f-u+l k-u+l
+f-u+n k-u+n
+f-u+r k-u+l
+f-u+t k-u+t
+l-k+eu e-k+eu
 ng-a+ng
 ng-a+ny
 s-p+e k-p+e
@@ -2219,29 +2214,28 @@ a-ny+a eu-ny+a
 a-ny+i eu-ny+a
 e-p+ny k-p+e
 i-a+c u-a+ny
-i-a+d
-i-a+g
+i-a+d j-a+d
+i-a+g j-a+g
 i-a+h u-a+ny
-i-a+i
+i-a+i u-a+ny
 i-a+j u-a+ny
-i-a+k a-a+t
+i-a+k a-a+k
 i-a+l a-a+l
-i-a+m u-a+ng
+i-a+m ny-a+m
 i-a+n a-a+n
 i-a+p a-a+p
 i-a+r ny-a+r
-i-a+s u-a+ny
+i-a+s j-a+s
 i-a+t a-a+t
 i-a+w j-a+w
-r-b+ay k-b+a
+r-b+ay k-b+ay
 r-b+eu k-b+a
 i-b+a k-b+a
 i-b+e k-b+a
 i-b+i k-b+a
-i-b+l
+i-b+l k-b+a
 i-b+u k-b+a
-d-l+ai k-l+a
-d-l+ay l+ay
+d-l+ay k-l+a
 i-c+a c
 i-c+e c
 i-c+h c
@@ -2252,12 +2246,12 @@ i-c+u c
 s-s+a u-s+a
 s-s+o u-s+a
 s-s+y u-s+a
-i-d+a d
-i-d+e d
-i-d+i d
-i-d+o d
-i-d+r d
-i-d+u d
+i-d+a k-d+e
+i-d+e k-d+e
+i-d+i k-d+e
+i-d+o k-d+e
+i-d+r k-d+e
+i-d+u k-d+e
 s-t+a s-t+eu
 s-t+e s-t+eu
 s-t+i s-t+eu
@@ -2265,41 +2259,41 @@ s-t+o s-t+eu
 s-t+r s-t+eu
 s-t+u s-t+eu
 i-e+f
-i-e+l
-i-e+s
+i-e+l k-e+l
+i-e+s k-e+s
 a-y+ay u-y+i
 a-y+eu u-y+i
-s-u+a t-u+a
-s-u+b t-u+b
-s-u+c
+s-u+a s-u+ay
+s-u+b
+s-u+c s-u+ay
 s-u+d
 s-u+g
-s-u+h t-u+a
-s-u+k t-u+b
+s-u+h s-u+ay
+s-u+k
 s-u+l
-s-u+m t-u+m
-s-u+p t-u+b
+s-u+m
+s-u+p s-u+k
 s-u+r s-u+l
 s-u+s
-s-u+t s-u+d
-s-u+w t-u+a
-i-eu+l
-i-eu+n
-i-eu+s d-eu+h
-i-f+a
-i-f+i a-f+e
+s-u+t
+s-u+w
+i-eu+l j-eu+l
+i-eu+n h-eu+n
+i-eu+s ny-eu+s
+i-f+a ay-f
+i-f+i ay-f
 v-a+l
 v-a+n
 v-a+r
 v-a+s
 n-k+eu n-k+a
-l-eu+ng d-eu+g
+l-eu+ng l-eu+f
 i-g+a eu-g+eu
 i-g+e eu-g+eu
 i-g+i eu-g+eu
 i-g+n eu-g+eu
 i-g+o eu-g+eu
-i-g+r eu-g+eu
+i-g+r a-g+r
 i-g+u eu-g+eu
 s-w+a u-w+a
 s-w+e u-w+a
@@ -2309,52 +2303,52 @@ r-s+aw u-s+a
 r-s+eu u-s+a
 i-i+l a-i+l
 i-i+m a-i+m
-i-i+n a-i+m
+i-i+n a-i+n
 i-i+o a-i+c
 i-i+s a-i+s
-i-i+t a-i+k
-eu-l+ay l+ay
-s-y+a u-y+i
-s-y+i u-y+i
+i-i+t a-i+t
+eu-l+ay k-l+a
+s-y+a
+s-y+i s-y+a
 eu-l+eu k-l+a
-s-y+o u-y+i
-s-y+u u-y+i
+s-y+o s-y+a
+s-y+u s-y+a
 eu-l+ny k-l+a
-i-j+a s-j+eu
-i-j+i s-j+eu
-i-j+o s-j+eu
-i-j+u s-j+eu
-h-aw+k t-aw
+i-j+a a-j+a
+i-j+i a-j+a
+i-j+o a-j+a
+i-j+u a-j+a
+h-aw+k
 i-ng+a eu-ng+a
-i-ng+g eu-ng+b
+i-ng+g eu-ng+g
 i-ng+i eu-ng+a
-i-ng+k eu-ng+b
-i-ng+m eu-ng+a
-i-ng+p eu-ng+b
+i-ng+k eu-ng+k
+i-ng+m eu-ng+b
+i-ng+p eu-ng+k
 i-ng+u eu-ng+a
-v-e+e
-v-e+j t-e+h
-v-e+l
-v-e+n
-v-e+r a-e+r
-v-e+s
-v-e+y
+v-e+e s-e+c
+v-e+j s-e+c
+v-e+l k-e+l
+v-e+n k-e+n
+v-e+r k-e+r
+v-e+s k-e+s
+v-e+y k-e+y
 i-k+a e-k+eu
 i-k+b e-k+eu
 i-k+e e-k+eu
 i-k+i e-k+eu
-i-k+k e-k+eu
+i-k+k a-k+s
 i-k+l e-k+eu
 i-k+m e-k+eu
 i-k+o e-k+eu
 i-k+r e-k+eu
-i-k+s e-k+eu
+i-k+s a-k+s
 i-k+u e-k+eu
 i-l+a k-l+a
 i-l+e k-l+a
 i-l+i k-l+a
-i-l+k a-l+g
-i-l+l l+ay
+i-l+k a-l+d
+i-l+l a-l+d
 i-l+m a-l+m
 i-l+o k-l+a
 i-l+u k-l+a
@@ -2362,60 +2356,60 @@ h-ay+a t-ay
 k-eu+a
 k-eu+b
 k-eu+c k-eu+a
-k-eu+d k-eu+a
-k-eu+f k-eu+b
-k-eu+g k-eu+b
+k-eu+d
+k-eu+f
+k-eu+g k-eu+d
 k-eu+h k-eu+a
-k-eu+i
+k-eu+i k-eu+a
 k-eu+j k-eu+a
-k-eu+k k-eu+b
+k-eu+k
 k-eu+l
-k-eu+m k-eu+b
-k-eu+n k-eu+a
-k-eu+p k-eu+b
-k-eu+r k-eu+l
-k-eu+s k-eu+a
-k-eu+t k-eu+a
+k-eu+m
+k-eu+n
+k-eu+p
+k-eu+r
+k-eu+s
+k-eu+t k-eu+k
 e-h+ny k-h+a
 i-m+a k-m+a
 i-m+b a-m+b
 i-m+e k-m+a
 i-m+i k-m+a
-i-m+p a-m+b
+i-m+p a-m+p
 i-m+u k-m+a
 i-n+a r-n+eu
 i-n+c r-n+eu
 i-n+d a-n+b
 i-n+e r-n+eu
-i-n+f r-n+eu
-i-n+g a-n+b
+i-n+f a-n+p
+i-n+g a-n+g
 i-n+i r-n+eu
 i-n+j r-n+eu
 i-n+k a-n+k
 i-n+o r-n+eu
-i-n+p a-n+k
-i-n+s r-n+eu
-i-n+t a-n+k
+i-n+p a-n+p
+i-n+s a-n+p
+i-n+t a-n+t
 i-n+u r-n+eu
-i-n+v r-n+eu
-i-n+y a-n+b
+i-n+v a-n+b
+i-n+y a-n+y
 i-p+eu k-p+e
 ay-n+ny r-n+eu
 e-ny+a eu-ny+a
 e-ny+e eu-ny+a
 e-ny+i eu-ny+a
 e-ny+j eu-ny+a
-v-i+h a-i+c
-v-i+l a-i+l
-v-i+n a-i+m
-v-i+s a-i+s
-v-i+u a-i+c
-i-o+l l-o+ng
+v-i+h l-i+eu
+v-i+l
+v-i+n w-i+n
+v-i+s w-i+s
+v-i+u l-i+eu
+i-o+l j-o+r
 i-o+m h-o+ng
-i-o+n n-o+n
-i-o+p ny-o+b
+i-o+n j-o+n
+i-o+p j-o+g
 b-u+ng g-u+ng
-b-u+ny
+b-u+ny g-u+ny
 i-p+a k-p+e
 i-p+e k-p+e
 i-p+i k-p+e
@@ -2426,35 +2420,35 @@ j-aw+h t-aw
 u-ng+ny eu-ng+a
 i-r+a u-r+a
 i-r+i u-r+a
-i-r+k r
-i-r+p r
-i-r+t r
+i-r+k u-r+p
+i-r+p u-r+p
+i-r+t u-r+p
 i-r+u u-r+a
-s-o+ng k-o+l
-l-t+eu t+aw
+s-o+ng t-o+ng
+l-t+eu
 i-s+a u-s+a
 i-s+c u-s+a
 i-s+e u-s+a
 i-s+h u-s+a
 i-s+i u-s+a
-i-s+k u-s+a
+i-s+k u-s+k
 i-s+m u-s+a
 i-s+n u-s+a
 i-s+o u-s+a
-i-s+t u-s+a
+i-s+t u-s+t
 i-s+u u-s+a
 i-s+w u-s+a
 n-c+eu c
 e-y+ny u-y+i
-m-eu+c eu+h
-m-eu+d eu+h
-m-eu+l
-m-eu+m eu+ng
-m-eu+n eu+h
-m-eu+r m-eu+l
-m-eu+s eu+h
-m-eu+t
-m-eu+w eu+ng
+m-eu+c ng-eu+ng
+m-eu+d ng-eu+b
+m-eu+l ng-eu+l
+m-eu+m ng-eu+m
+m-eu+n ng-eu+ng
+m-eu+r ng-eu+r
+m-eu+s ng-eu+s
+m-eu+t n-eu+k
+m-eu+w ng-eu+ng
 e-y+sy u-y+i
 i-t+a u-t+a
 i-t+e u-t+a
@@ -2465,64 +2459,64 @@ i-t+s u-t+a
 i-t+t u-t+a
 i-t+u u-t+a
 i-t+z u-t+a
-v-o+k ny-o+b
-v-o+l g-o+l
-v-o+r n-o+n
+v-o+k g-o+k
+v-o+l w-o+l
+v-o+r
 r-k+eu e-k+eu
-i-u+l
-i-u+m c-u+ng
-i-u+n
+i-u+l a-u+n
+i-u+m a-u+m
+i-u+n a-u+n
 i-u+s a-u+s
-eu-d+eu d
-g-ny+a eu-ny+a
+eu-d+eu k-d+e
+g-ny+a b-ny+a
 i-v+a v
 i-v+e v
-d-u+ng n-u+m
-l-a+b l-a+ng
+d-u+ng
+l-a+b
 l-a+d
-l-a+e
+l-a+e l-a+ny
 l-a+g
-l-a+h l-a+e
-l-a+i l-a+e
-l-a+j l-a+e
+l-a+h l-a+ny
+l-a+i l-a+ny
+l-a+j l-a+ny
 l-a+k
 l-a+l
-l-a+m l-a+ng
+l-a+m
 l-a+n
 l-a+p
 l-a+r
-l-a+s l-a+e
-l-a+t l-a+k
-l-a+u l-a+e
+l-a+s
+l-a+t
+l-a+u l-a+ny
 l-a+w
 l-a+y
-i+ng i+m
+i+ng
 i-w+a u-w+a
 i-w+i u-w+a
 i-w+o u-w+a
-ng-a+b ng-a+ng
+ng-a+b
 ng-a+d
-ng-a+h
-ng-a+j ng-a+h
+ng-a+h ng-a+ny
+ng-a+j ng-a+ny
 ng-a+l
-ng-a+m ng-a+ng
+ng-a+m
 ng-a+n
 ng-a+p
 ng-a+r
-ng-a+s ng-a+h
+ng-a+s
 ng-a+t
 ng-a+w
 ng-a+y
 l-aw+p t-aw
-ng-b+a k-b+a
-i-ng ng
+ng-b+a m-b+eu
+i-ng u-ng
 i-y+a u-y+i
 i-y+e u-y+i
 i-y+i u-y+i
 i-y+o u-y+i
 ng-c+i c
-l-d+i d
-l-d+o d
+l-d+i k-d+e
+l-d+o k-d+e
 n-t+ay n-t+a
 n-t+eu n-t+a
 p-c+ay c
@@ -2530,153 +2524,154 @@ i-z+a z
 i-z+i z
 i-z+n z
 i-z+o z
+l-ay+a t-ay
 l-ay+k t-ay
 l-ay+n t-ay
 l-ay+t t-ay
-ng-d+a d
+ng-d+a k-d+e
 l-e+a
 l-e+b
-l-e+e
-l-e+g
-l-e+h l-e+b
-l-e+i
-l-e+k l-e+b
+l-e+e l-e+a
+l-e+g l-e+b
+l-e+h l-e+a
+l-e+i l-e+a
+l-e+k
 l-e+l
-l-e+m a-e+r
+l-e+m l-e+l
 l-e+n
-l-e+p
+l-e+p l-e+k
 l-e+r
 l-e+s
-l-e+t l-e+b
+l-e+t l-e+k
 l-e+v
 l-e+w l-e+n
 l-e+y
 i-h+ny k-h+a
-l-f+a
-ng-e+f n-e+h
-l-f+e
+l-f+a ay-f
+ng-e+f m-e
+l-f+e ay-f
 ng-e+n n-e+n
-ng-e+r a-e+r
-y-a+a
+ng-e+r n-e+r
+y-a+a y-a+eu
 y-a+h y-a+eu
-y-a+i
+y-a+i y-a+eu
 y-a+k
 y-a+l
 y-a+m
 y-a+n
 y-a+p
 y-a+r
-y-a+s y-a+eu
+y-a+s
 y-a+t
 y-a+u y-a+eu
-m-p+ay p
-m-p+eu p
+m-p+ay m-p+a
+m-p+eu m-p+a
 l-g+i eu-g+eu
 i-ny+a eu-ny+a
 k-eu+ny k-eu+a
-b-aw+ny w-aw
-ng-g+a eu-g+eu
+b-aw+ny t-aw
+ng-g+a ng-g+eu
 l-h+a k-h+a
-ng-g+e eu-g+eu
-ng-g+i eu-g+eu
-ng-g+o eu-g+eu
+ng-g+e ng-g+eu
+ng-g+i ng-g+eu
+ng-g+o ng-g+eu
 l-h+o k-h+a
-ng-g+r eu-g+eu
-ng-g+u eu-g+eu
-a-i+ng a-i+m
+ng-g+r
+ng-g+u ng-g+eu
+a-i+ng eu-i+ng
 a-i+ny a-i+c
 ng-h+a k-h+a
 l-i+a l-i+eu
 l-i+b
 l-i+c l-i+eu
-l-i+d l-i+b
+l-i+d
 l-i+f
 l-i+h l-i+eu
 l-i+i l-i+eu
 l-i+k
 l-i+l
-l-i+m l-i+ng
-l-i+n l-i+ng
-l-i+r l-i+l
+l-i+m
+l-i+n
+l-i+r
 ng-h+u k-h+a
 l-i+s
-l-i+t l-i+k
+l-i+t
 l-i+v l-i+f
 l-i+y
 l-i+z l-i+f
-l-l+eu k-l+a
-y-d+e d
+l-l+eu n-l+a
+y-d+e k-d+e
 l-j+a s-j+eu
-ng-i+d n-i+g
+ng-i+d
 ng-i+k n-i+k
-ng-i+l
-ng-i+n ng-i+ng
-ng-i+r ng-i+l
-ng-i+s
-ng-i+t n-i+k
+ng-i+l n-i+l
+ng-i+n n-i+n
+ng-i+r m-i+r
+ng-i+s n-i+s
+ng-i+t n-i+t
 o-ng+a eu-ng+a
 o-ng+i eu-ng+a
-o-ng+k eu-ng+b
-o-ng+m eu-ng+a
+o-ng+k eu-ng+k
+o-ng+m eu-ng+b
 o-ng+o eu-ng+a
-o-ng+p eu-ng+b
-y-e+k n-e+b
-y-e+s
-y-e+y
-ng-j+a s-j+eu
-l-k+a n-k+a
-l-k+o n-k+a
-l-k+u n-k+a
-w-o+ng h-o+ng
+o-ng+p eu-ng+k
+y-e+k l-e+k
+y-e+s l-e+s
+y-e+y l-e+y
+ng-j+a a-j+a
+l-k+a e-k+eu
+l-k+o e-k+eu
+l-k+u e-k+eu
+w-o+ng w-o+w
 r-c+eu c
-y-f+a a-f+e
-y-f+o a-f+e
-ng-k+a e-k+eu
-l-l+a k-l+a
-ng-k+e e-k+eu
-l-l+e k-l+a
-ng-k+i e-k+eu
-ng-k+o e-k+eu
-l-l+o k-l+a
-ng-k+u e-k+eu
-r-eu+ng d-eu+g
-l-m+a m-m+a
-l-m+f m-m+a
-ng-l+i k-l+a
-l-m+k m-m+a
-l-m+u m-m+a
-a+kh a+c
-a+ng a+b
+y-f+a ay-f
+y-f+o ay-f
+ng-k+a n-k+a
+l-l+a n-l+a
+ng-k+e n-k+a
+l-l+e n-l+a
+ng-k+i n-k+a
+ng-k+o n-k+a
+l-l+o n-l+a
+ng-k+u n-k+a
+r-eu+ng l-eu+f
+l-m+a
+l-m+f l-m+a
+ng-l+i n-l+a
+l-m+k l-m+a
+l-m+u l-m+a
+a+kh a+a
+a+ng
 o-p+eu k-p+e
 ng-m+a k-m+a
 ng-m+u k-m+a
 k-ny+a eu-ny+a
 o-p+ny k-p+e
-y-i+b l-i+b
+y-i+b
 y-i+k l-i+k
-y-i+n l-i+ng
-y-i+t l-i+k
-h-u+ny
+y-i+n
+y-i+t
+h-u+ny a-u+h
 l-o+a
-l-o+g l-o+ng
+l-o+g
 l-o+h l-o+a
-l-o+k l-o+ng
+l-o+k l-o+g
 l-o+m l-o+ng
-l-o+n n-o+n
-l-o+r n-o+n
-l-o+s n-o+n
-l-o+t n-o+n
+l-o+n
+l-o+r
+l-o+s l-o+n
+l-o+t l-o+g
 l-o+w l-o+ng
-a-ng ng
-c-i+ng a-i+m
-ng-o+b ny-o+b
-ng-o+d n-o+n
-ng-o+k ny-o+b
-ng-o+l l-o+ng
-ng-o+m h-o+ng
-ng-o+n n-o+n
+a-ng u-ng
+c-i+ng eu-i+ng
+ng-o+b m-o+b
+ng-o+d m-o+d
+ng-o+k m-o+d
+ng-o+l n-o+l
+ng-o+m n-o+m
+ng-o+n
 l-p+o k-p+e
-ng-o+r n-o+n
+ng-o+r n-o+l
 u-g+eu eu-g+eu
 b-a+b
 b-a+c b-a+ny
@@ -2691,155 +2686,157 @@ b-a+m
 b-a+n
 b-a+p
 b-a+r
-b-a+s b-a+ny
-b-a+t b-a+p
+b-a+s
+b-a+t
 b-a+w
-b-a+y b-a+l
+b-a+y
 ng-p+i k-p+e
 ng-p+o k-p+e
 sy-a+a u-a+ny
 sy-a+r ny-a+r
-b-b+a
+b-b+a k-b+a
 b-e+ng
-r-t+eu u-t+a
+r-t+eu
 t-c+eu c
 p-ay+k t-ay
 p-ay+m t-ay
 p-ay+n t-ay
 eu-m+ay k-m+a
 eu-m+eu k-m+a
-s-eu+a
-s-eu+b s-eu+ng
-s-eu+c
-s-eu+d s-eu+c
-s-eu+e
+s-eu+a s-eu+ng
+s-eu+b
+s-eu+c s-eu+ng
+s-eu+d s-eu+b
+s-eu+e s-eu+ng
 s-eu+f s-eu+ng
-s-eu+g s-eu+ng
-s-eu+h s-eu+c
-s-eu+i s-eu+c
-s-eu+j s-eu+c
-s-eu+k s-eu+ng
+s-eu+g s-eu+b
+s-eu+h s-eu+ng
+s-eu+i s-eu+ng
+s-eu+j s-eu+ng
+s-eu+k
 s-eu+l
-s-eu+m s-eu+ng
-s-eu+n s-eu+c
-s-eu+o s-eu+c
-s-eu+p s-eu+ng
+s-eu+m
+s-eu+n
+s-eu+o s-eu+ng
+s-eu+p s-eu+k
 s-eu+r s-eu+l
-s-eu+s s-eu+c
-s-eu+t s-eu+c
-s-eu+u
-s-eu+w s-eu+ng
+s-eu+s
+s-eu+t s-eu+k
+s-eu+u s-eu+ng
+s-eu+w
 eu-m+ny k-m+a
-r+eu u-r+a
-l-t+e t+aw
-l-t+i t+aw
-ng-s+u u-s+a
-b-e+a t-e+h
-b-e+b a-e+k
-b-e+c
-b-e+d a-e+k
-y-o+g ny-o+b
-b-e+e
-y-o+k ny-o+b
-b-e+i
-b-e+k a-e+k
-y-o+n n-o+n
+y-n+e r-n+eu
+r+eu k-r+a
+l-t+e l-t+eu
+l-t+i l-t+eu
+ng-s+u k-s+a
+b-e+a
+b-e+b
+b-e+c b-e+a
+b-e+d
+b-e+e b-e+a
+y-o+g
+b-e+i b-e+a
+y-o+k y-o+g
+b-e+k
 b-e+l
-b-e+m
-b-e+n a-e+n
-y-o+r n-o+n
-y-o+s n-o+n
-y-o+t n-o+n
+y-o+n
+b-e+m b-e+l
+b-e+n b-e+ng
+y-o+r
+y-o+s y-o+n
+y-o+t y-o+g
 b-e+r
 b-e+s
-b-e+t a-e+k
-l-u+a n-u+h
+b-e+t b-e+k
+l-u+a
 l-u+b
-l-u+c n-u+h
+l-u+c l-u+a
 l-u+g n-u+g
-l-u+h n-u+h
-l-u+i n-u+h
-l-u+k d-u+k
+l-u+h l-u+a
+l-u+i l-u+a
+l-u+k
 l-u+l
-l-u+m n-u+m
-l-u+n n-u+n
-l-u+p d-u+k
-l-u+r n-u+r
+l-u+m
+l-u+n l-u+l
+l-u+p l-u+k
+l-u+r l-u+l
 ng-t+u u-t+a
-l-u+s n-u+s
-l-u+t d-u+d
-l-u+w n-u+h
+l-u+s
+l-u+t
+l-u+w
 m-ny+a b-ny+a
-r-ay t-ay
+r-ay y-ay+n
 j-u+ng c-u+ng
-j-u+ny
-ng-u+a g-u+ny
-ng-u+c g-u+ny
+j-u+ny a-u+h
+ng-u+a m-u+a
+ng-u+c m-u+a
 ng-u+k
-ng-u+m g-u+ng
-ng-u+n g-u+n
-ng-u+r g-u+ny
+ng-u+m m-u+ng
+ng-u+n m-u+n
+ng-u+r m-u+l
 o-a+d j-a+d
 o-a+i u-a+ny
 o-a+l a-a+l
 e-i+ny a-i+c
 l-w+a u-w+a
 o-b+a k-b+a
-o-b+e
+o-b+e k-b+a
 o-b+i k-b+a
-o-b+o
+o-b+o k-b+a
 o-b+r k-b+a
-p-l+ay l+ay
+p-l+ay k-l+a
 p-l+eu k-l+a
-r-aw+k t-aw
+r-aw+k h-aw+k
 o-c+a c
 o-c+o c
 b-i+a b-i+ny
-b-i+b d-i+b
+b-i+b
 b-i+c b-i+ny
-b-i+d d-i+b
+b-i+d
 b-i+h b-i+ny
 b-i+j b-i+ny
-b-i+k d-i+k
+b-i+k
 b-i+l
-b-i+m d-i+m
-b-i+n d-i+m
+b-i+m
+b-i+n
 b-i+o b-i+ny
-b-i+s w-i+s
-b-i+t d-i+k
-b-i+y w-i+y
-d-e+ny
+b-i+s
+b-i+t
+b-i+y
+d-e+ny d-e+a
 t-t+eu s-t+eu
-o-d+a d
-o-d+e d
-o-d+i d
-o-d+o d
-o-d+u d
-r-ay+l t-ay
-r-ay+n t-ay
-o-e+m
-o-e+s
+o-d+a k-d+e
+o-d+e k-d+e
+o-d+i k-d+e
+o-d+o k-d+e
+o-d+u k-d+e
+r-ay+f y-ay+n
+r-ay+l y-ay+n
+r-ay+n y-ay+n
+o-e+m k-e+l
+o-e+s k-e+s
 o-h+ny k-h+a
-y-u+a g-u+ny
-b-k+a n-k+a
+y-u+a
+b-k+a e-k+eu
 y-u+d
-y-u+e
-y-u+h g-u+ny
-y-u+k ng-u+k
+y-u+e y-u+a
+y-u+h y-u+a
+y-u+k
 y-u+n
 y-u+r
 ng+eu ng+a
 eu-a+d j-a+d
-eu-a+k a-a+t
+eu-a+k a-a+k
 a-r+aw u-r+a
 a-r+eu u-r+a
-o-f+a
-o-f+e
-o-f+f a-f+e
-o-f+i a-f+e
-o-f+o a-f+e
-o-f+t
-o-f+u
+o-f+a ay-f
+o-f+e ay-f
+o-f+f ay-f
+o-f+i ay-f
+o-f+o ay-f
+o-f+t ay-f
+o-f+u ay-f
 a-r+ny u-r+a
 b-l+a k-l+a
 b-l+i k-l+a
@@ -2847,7 +2844,7 @@ b-l+o k-l+a
 c-a+ng u-a+ng
 c-a+ny u-a+ny
 eu-b+a k-b+a
-eu-b+e
+eu-b+e k-b+a
 eu-b+i k-b+a
 eu-b+o k-b+a
 eu-b+u k-b+a
@@ -2859,10 +2856,10 @@ o-g+e eu-g+eu
 o-g+i eu-g+eu
 o-g+j eu-g+eu
 o-g+o eu-g+eu
-o-g+r eu-g+eu
-n-d+ay d
-n-d+eu d
-l-u+ny n-u+h
+o-g+r a-g+r
+n-d+ay n-d+a
+n-d+eu n-d+a
+l-u+ny l-u+a
 ng-eu
 eu-c+a c
 eu-c+e c
@@ -2871,77 +2868,78 @@ eu-c+u c
 o-h+h k-h+a
 o-h+n k-h+a
 o-h+o k-h+a
-g-i+ng g-i+m
+g-i+ng
 g-i+ny g-i+a
-j-eu+ng d-eu+g
-eu-d+a d
-eu-d+e d
-eu-d+i d
-eu-d+o d
-eu-d+u d
+j-eu+ng h-eu+n
+eu-d+a k-d+e
+eu-d+e k-d+e
+eu-d+i k-d+e
+eu-d+o k-d+e
+eu-d+u k-d+e
 o-i+l a-i+l
-o-i+n a-i+m
-o-i+y a-i+y
-r-l+eu
-b-o+b ny-o+b
-b-o+c ny-o+b
-b-o+d n-o+n
-b-o+g ny-o+b
-b-o+h ny-o+b
-b-o+k ny-o+b
-b-o+l g-o+l
-b-o+m h-o+ng
-b-o+n n-o+n
-b-o+r n-o+n
-b-o+s n-o+n
-b-o+t n-o+n
-b-o+y ny-o+b
+o-i+n a-i+n
+o-i+y
+r-l+eu n-l+a
+b-o+b
+b-o+c
+b-o+d p-o+k
+b-o+g p-o+k
+b-o+h b-o+c
+b-o+k p-o+k
+b-o+l
+b-o+m
+b-o+n
+b-o+r b-o+l
+b-o+s b-o+n
+b-o+t p-o+k
+b-o+y b-o+m
 t-aw+n t-aw
-eu-e+n
+eu-e+n k-e+n
 eu-e+t
 u-ng+a eu-ng+a
-u-ng+g eu-ng+b
+u-ng+g eu-ng+g
 u-ng+i eu-ng+a
-u-ng+k eu-ng+b
-sy-o+k ny-o+b
-o-j+e s-j+eu
+u-ng+k eu-ng+k
+sy-o+k j-o+g
+o-j+e a-j+a
 j+aw j
-eu-f+a a-f+e
-eu-f+i a-f+e
-eu-f+o
+eu-f+a ay-f
+eu-f+i ay-f
+eu-f+o ay-f
 j+eu j
 o-k+a e-k+eu
 o-k+c e-k+eu
 o-k+e e-k+eu
 o-k+i e-k+eu
-o-k+k e-k+eu
+o-k+k a-k+s
 o-k+l e-k+eu
 o-k+m e-k+eu
 o-k+n e-k+eu
 o-k+o e-k+eu
-o-k+t e-k+eu
+o-k+t ay-k
 o-k+u e-k+eu
 t-ay+l t-ay
 t-ay+m t-ay
 t-ay+n t-ay
 eu-g+a eu-g+eu
 eu-g+i eu-g+eu
-eu-g+r eu-g+eu
-w-eu+k d-eu+g
-w-eu+r
-w-eu+y
+eu-g+r a-g+r
+w-eu+k l-eu+p
+w-eu+r v-eu+r
+w-eu+y l-eu+f
 o-l+a k-l+a
 o-l+e k-l+a
 o-l+i k-l+a
-o-l+k a-l+g
+o-l+k a-l+d
 o-l+m a-l+m
 o-l+o k-l+a
-o-l+t k-l+a
+o-l+t a-l+d
 o-l+u k-l+a
-b-r+a u-r+a
-b-r+i u-r+a
-b-r+o u-r+a
-b-r+u u-r+a
+b-r+a k-r+a
+b-r+i k-r+a
+b-r+o k-r+a
+b-r+u k-r+a
+j-ay t-ay
 eu-h+a k-h+a
 eu-h+i k-h+a
 o-m+a k-m+a
@@ -2949,72 +2947,72 @@ o-m+b a-m+b
 o-m+e k-m+a
 o-m+i k-m+a
 o-m+o k-m+a
-o-m+p a-m+b
+o-m+p a-m+p
 o-m+s k-m+a
 o-m+u k-m+a
-b-s+a u-s+a
-eu-i+n a-i+m
+b-s+a k-s+a
+eu-i+n a-i+n
 eu-i+s a-i+s
 u-p+eu k-p+e
 u-p+ny k-p+e
 o-n+a r-n+eu
 o-n+d a-n+b
 o-n+e r-n+eu
-o-n+f r-n+eu
-o-n+g a-n+b
+o-n+f a-n+p
+o-n+g a-n+g
 o-n+i r-n+eu
-o-n+l a-n+b
-o-n+n a-n+b
+o-n+l a-n+l
+o-n+n a-n+m
 o-n+o r-n+eu
-o-n+s r-n+eu
-o-n+t a-n+k
-b-t+e t+aw
+o-n+s a-n+p
+o-n+t a-n+t
+b-t+e u-t+a
 n-u+ng n-u+m
-p-d+eu d
-b-t+u t+aw
-b-t+w t+aw
-eu-j+a s-j+eu
-eu-j+e s-j+eu
-o-o+h ny-o+b
-b-u+a b-u+ny
-b-u+b ng-u+k
-b-u+d w-u+t
-b-u+g ng-u+k
-b-u+h b-u+ny
-b-u+j
-b-u+k ng-u+k
-b-u+l g-u+ny
+p-d+eu k-d+e
+b-t+u u-t+a
+b-t+w u-t+a
+eu-j+a a-j+a
+eu-j+e a-j+a
+o-o+h c-o+c
+b-u+a g-u+ny
+b-u+b g-u+g
+b-u+d g-u
+b-u+g g-u+g
+b-u+h g-u+ny
+b-u+j g-u+ny
+b-u+k
+b-u+l g-u+l
 b-u+m g-u+ng
 b-u+n g-u+n
-b-u+r g-u+ny
-b-u+s g-u+n
-b-u+t w-u+t
+b-u+r g-u+l
+b-u+s
+b-u+t
 b-u+w g-u+w
 eu-k+a e-k+eu
 eu-k+i e-k+eu
 eu-k+o e-k+eu
-eu-k+s e-k+eu
-eu-k+t e-k+eu
+eu-k+s a-k+s
+eu-k+t ay-k
 eu-k+u e-k+eu
 sy-u+g n-u+g
 sy-u+k a-u+k
-sy-u+t
+sy-u+t a-u+t
 o-p+e k-p+e
 o-p+i k-p+e
 o-p+s k-p+e
 o-p+u k-p+e
-t-l+ay l+ay
+t-l+ay k-l+a
 o-p+y k-p+e
 eu-l+a k-l+a
 eu-l+e k-l+a
 eu-l+i k-l+a
 eu-l+o k-l+a
 eu-l+u k-l+a
-e-a+k
+e-a+k a-a+k
 e-a+l a-a+l
 e-a+n a-a+n
-e-a+r
-e-a+s u-a+ny
+e-a+r ny-a+r
+e-a+s j-a+s
 e-a+t a-a+t
 eu-m+a k-m+a
 eu-m+b a-m+b
@@ -3023,69 +3021,69 @@ eu-m+f k-m+a
 eu-m+i k-m+a
 eu-m+m k-m+a
 eu-m+o k-m+a
-eu-m+p a-m+b
+eu-m+p a-m+p
 eu-m+r k-m+a
 eu-m+u k-m+a
 e-b+a k-b+a
 e-b+e k-b+a
 e-b+i k-b+a
 e-b+o k-b+a
-e-b+r
-e-b+s
+e-b+r k-b+a
+e-b+s k-b+a
 e-b+u k-b+a
-h-e+ng a-e+n
+h-e+ng k-e+n
 o-r+a u-r+a
-o-r+b r
+o-r+b a-r+b
 o-r+c u-r+a
-o-r+d r
+o-r+d a-r+b
 o-r+e u-r+a
-o-r+g r
+o-r+g a-r+b
 o-r+i u-r+a
 o-r+j u-r+a
-o-r+k r
+o-r+k u-r+p
 o-r+m u-r+a
 o-r+n u-r+a
 o-r+o u-r+a
-o-r+s u-r+a
-o-r+t r
+o-r+s u-r+s
+o-r+t u-r+p
 o-r+u u-r+a
 o-r+w u-r+a
 o-r+y u-r+a
 eu-n+a r-n+eu
 eu-n+c r-n+eu
 eu-n+d a-n+b
-eu-n+g a-n+b
+eu-n+g a-n+g
 eu-n+i r-n+eu
 eu-n+j r-n+eu
 eu-n+k a-n+k
 eu-n+o r-n+eu
-eu-n+r a-n+b
-eu-n+s r-n+eu
-eu-n+t a-n+k
+eu-n+r r-n+eu
+eu-n+s a-n+p
+eu-n+t a-n+t
 eu-n+u r-n+eu
-eu-n+y a-n+b
+eu-n+y a-n+y
 e-c+a c
 e-c+e c
 e-c+i c
 y-eu+d
-y-eu+n
-y-eu+r
+y-eu+n l-eu+n
+y-eu+r v-eu+r
 o-s+a u-s+a
 o-s+e u-s+a
 o-s+i u-s+a
-o-s+k u-s+a
+o-s+k u-s+k
 o-s+o u-s+a
-o-s+p u-s+a
-o-s+t u-s+a
+o-s+p u-s+k
+o-s+t u-s+t
 o-s+w u-s+a
-l-m+eu m-m+a
-eu-o+r n-o+n
-l-m+ny m-m+a
-e-d+a d
-e-d+e d
-e-d+i d
-e-d+l d
-e-d+o d
+l-m+eu l-m+a
+eu-o+r j-o+r
+l-m+ny l-m+a
+e-d+a k-d+e
+e-d+e k-d+e
+e-d+i k-d+e
+e-d+l k-d+e
+e-d+o k-d+e
 e-r+eu u-r+a
 o-t+a u-t+a
 o-t+e u-t+a
@@ -3094,8 +3092,8 @@ o-t+k u-t+a
 o-t+o u-t+a
 e-r+ny u-r+a
 ny-a+ng u-a+ng
-ny-a+ny
-g-a+ng g-a+b
+ny-a+ny u-a+ny
+g-a+ng
 g-a+ny g-a+a
 eu-p+a k-p+e
 eu-p+e k-p+e
@@ -3104,79 +3102,79 @@ eu-p+l k-p+e
 eu-p+o k-p+e
 eu-p+r k-p+e
 eu-p+u k-p+e
-e-e+c
-e-e+f
-e-e+h
-e-e+l
-e-e+m
-e-e+n
-e-e+r a-e+r
-e-e+s t-e+h
-s-ny+a b-ny+a
-kh-a+n
-kh-a+s u-a+ny
+e-e+c c-e+ny
+e-e+f i-e+f
+e-e+h c-e+ny
+e-e+l k-e+l
+e-e+m k-e+l
+e-e+n k-e+n
+e-e+r k-e+r
+e-e+s k-e+s
+s-ny+a eu-ny+a
+kh-a+n a-a+n
+kh-a+s j-a+s
 kh-a+w j-a+w
-o-u+t a-u+d
+o-u+t a-u+t
 p-u+ng k-u+m
-r-d+eu d
-p-u+ny p-u+a
-e-f+e a-f+e
-e-f+i
-e-f+l
-e-f+s
+r-d+eu k-d+e
+p-u+ny k-u+a
+e-f+e ay-f
+e-f+i ay-f
+e-f+l ay-f
+e-f+s ay-f
 o-v+e v
 o-v+o v
-k-i+ng k-i+n
+k-i+ng
 k-i+ny k-i+a
-r-a+b r-a+ng
+r-a+b
 r-a+d
-r-a+e
-r-a+f r-a+kh
+r-a+e r-a+kh
+r-a+f
 r-a+g
 r-a+h r-a+kh
 r-a+i r-a+kh
 r-a+j r-a+kh
 r-a+k
 r-a+l
-r-a+m r-a+ng
+r-a+m
 r-a+n
 r-a+p
 r-a+r
-r-a+s r-a+kh
-r-a+t r-a+k
-r-a+u
+r-a+s
+r-a+t
+r-a+u r-a+kh
 r-a+v
 r-a+w
 r-a+y
 eu-r+a u-r+a
-eu-r+b r
+eu-r+b a-r+b
 eu-r+c u-r+a
-eu-r+d r
+eu-r+d a-r+b
 eu-r+e u-r+a
-eu-r+f u-r+a
-eu-r+g r
+eu-r+f u-r+s
+eu-r+g a-r+b
 eu-r+h u-r+a
 eu-r+i u-r+a
 eu-r+j u-r+a
-eu-r+k r
+eu-r+k u-r+p
 eu-r+l u-r+a
 eu-r+m u-r+a
 eu-r+n u-r+a
 eu-r+o u-r+a
-eu-r+p r
-eu-r+s u-r+a
-eu-r+t r
+eu-r+p u-r+p
+eu-r+s u-r+s
+eu-r+t u-r+p
 eu-r+u u-r+a
 eu-r+v u-r+a
 eu-r+w u-r+a
-b+aw b+a
-b+ay b+a
+b+aw b
+b+ay
 e-g+a eu-g+eu
 e-g+e eu-g+eu
 e-g+i eu-g+eu
-e-g+r eu-g+eu
+e-g+r a-g+r
 e-g+u eu-g+eu
-b+eu b+a
+b+eu b
 o-w+i u-w+a
 o-w+n u-w+a
 o-w+o u-w+a
@@ -3188,16 +3186,16 @@ r-b+u k-b+a
 eu-s+a u-s+a
 eu-s+e u-s+a
 eu-s+i u-s+a
-eu-s+k u-s+a
+eu-s+k u-s+k
 eu-s+m u-s+a
 eu-s+o u-s+a
 eu-s+s u-s+a
-eu-s+t u-s+a
+eu-s+t u-s+t
 eu-s+u u-s+a
 eu-s+y u-s+a
 e-h+a k-h+a
 e-h+e k-h+a
-e-h+k k-h+a
+e-h+k a-h+k
 e-h+o k-h+a
 r-c+a c
 r-c+e c
@@ -3210,78 +3208,78 @@ eu-t+m u-t+a
 eu-t+o u-t+a
 eu-t+r u-t+a
 eu-t+u u-t+a
-b-aw w-aw
-b-ay t-ay
-e-i+l a-i+l
-e-i+n a-i+m
-j-e+ng a-e+n
-j-e+ny
+b-aw t-aw
+b-ay d-ay
+e-i+l
+e-i+n a-i+n
+j-e+ng k-e+n
+j-e+ny c-e+ny
 o-y+a u-y+i
 o-y+e u-y+i
 o-y+o u-y+i
-r-d+a d
-r-d+i d
-r-d+u d
-eu-u+h
-eu-u+m
-e-j+a s-j+eu
-e-j+e s-j+eu
-e-j+i s-j+eu
-e-j+u s-j+eu
+r-d+a k-d+e
+r-d+i k-d+e
+r-d+u k-d+e
+eu-u+h a-u+h
+eu-u+m a-u+m
+e-j+a a-j+a
+e-j+e a-j+a
+e-j+i a-j+a
+e-j+u a-j+a
 u-h+ny k-h+a
-r-e+a n-e+h
-r-e+b
-r-e+c
-r-e+d
-r-e+f
-r-e+g
-r-e+h
-r-e+i
-r-e+j
-r-e+k n-e+b
-r-e+m a-e+r
-r-e+n n-e+n
-r-e+o n-e+h
-r-e+p n-e+b
-r-e+s n-e+h
-r-e+t n-e+b
-r-e+v
-r-e+y
+r-e+a l-e+y
+r-e+b l-e+b
+r-e+c l-e+y
+r-e+d l-e+b
+r-e+f l-e
+r-e+g l-e+b
+r-e+h l-e+y
+r-e+i l-e+y
+r-e+j l-e+y
+r-e+k l-e+k
+r-e+m l-e+l
+r-e+n l-e+a
+r-e+o l-e+y
+r-e+p l-e+k
+r-e+s l-e+s
+r-e+t l-e+k
+r-e+v l-e+v
+r-e+y l-e+y
 e-k+a e-k+eu
 e-k+b e-k+eu
 e-k+d e-k+eu
 e-k+e e-k+eu
 e-k+i e-k+eu
-e-k+k e-k+eu
+e-k+k a-k+s
 e-k+n e-k+eu
 e-k+o e-k+eu
-e-k+p e-k+eu
+e-k+p a-k+s
 e-k+r e-k+eu
-e-k+s e-k+eu
-e-k+t e-k+eu
+e-k+s a-k+s
+e-k+t ay-k
 e-k+u e-k+eu
-g-r+eu u-r+a
+g-r+eu k-r+a
 i-a+ng u-a+ng
-r-f+a a-f+e
-r-f+e a-f+e
-r-f+i
+r-f+a ay-f
+r-f+e ay-f
+r-f+i ay-f
 i-a+ny u-a+ny
-r-f+u
+r-f+u ay-f
 eu-w+a u-w+a
 e-l+a k-l+a
 e-l+e k-l+a
-e-l+f n-l+p
+e-l+f k-l+a
 u-ny+a eu-ny+a
 e-l+i k-l+a
-e-l+k a-l+g
-e-l+l l+ay
+e-l+k a-l+d
+e-l+l a-l+d
 u-ny+i eu-ny+a
 e-l+o k-l+a
-e-l+p n-l+p
+e-l+p a-l+d
 e-l+u k-l+a
 n-sy+a sy
-r-u+ng c-u+ng
-t-d+eu d
+r-u+ng
+t-d+eu k-d+e
 r-g+a eu-g+eu
 r-u+ny
 r-g+e eu-g+eu
@@ -3295,59 +3293,59 @@ e-m+e k-m+a
 e-m+i k-m+a
 e-m+j k-m+a
 e-m+o k-m+a
-e-m+p a-m+b
+e-m+p a-m+p
 e-m+s k-m+a
 e-m+t k-m+a
 e-m+u k-m+a
-kh-i+r a-i+l
+kh-i+r ay-i+r
 eu-n+eu r-n+eu
 eu-n+ny r-n+eu
-m-i+ng m-i+f
-m-i+ny
-s+aw u-s+a
+m-i+ng
+m-i+ny n-i+a
+s+aw s+a
 r-h+a k-h+a
 r-h+i k-h+a
 r-h+o k-h+a
 r-h+u k-h+a
-s+eu u-s+a
+s+eu s+a
 e-n+a r-n+eu
 e-n+c r-n+eu
 e-n+d a-n+b
 e-n+e r-n+eu
-e-n+g a-n+b
+e-n+g a-n+g
 e-n+i r-n+eu
 e-n+j r-n+eu
 e-n+k a-n+k
-e-n+m a-n+b
+e-n+m a-n+m
 e-n+o r-n+eu
-e-n+p a-n+k
-e-n+r a-n+b
-e-n+s r-n+eu
-e-n+t a-n+k
-e-n+y a-n+b
-a-b+eu
+e-n+p a-n+p
+e-n+r r-n+eu
+e-n+s a-n+p
+e-n+t a-n+t
+e-n+y a-n+y
+a-b+eu k-b+a
 r-i+a r-i+eu
 r-i+b
 r-i+c r-i+eu
-r-i+d r-i+b
+r-i+d
 r-i+f
-r-i+g r-i+b
+r-i+g
 r-i+h r-i+eu
 r-i+i r-i+eu
 r-i+k
 r-i+l
-r-i+m r-i+ng
-r-i+n r-i+ng
+r-i+m
+r-i+n
 r-i+o r-i+eu
-r-i+p r-i+k
+r-i+p
 r-i+s
-r-i+t
+r-i+t r-i+p
 r-i+u r-i+eu
 r-i+v r-i+f
 r-i+y
 eu-z+a z
-a-b+ny
-e-o+s n-o+n
+a-b+ny k-b+a
+e-o+s j-o+n
 s-ay t-ay
 r-j+a s-j+eu
 r-j+u s-j+eu
@@ -3361,32 +3359,32 @@ e-p+s k-p+e
 e-p+t k-p+e
 e-p+u k-p+e
 kh-l+u k-l+a
-e-j+eu s-j+eu
+e-j+eu a-j+a
 r-k+a e-k+eu
 r-k+e e-k+eu
 r-k+i e-k+eu
 r-k+o e-k+eu
 r-k+r e-k+eu
 r-k+u e-k+eu
-r-l+a r-l+eu
-r-l+d r-l+eu
-r-l+i r-l+eu
-r-l+u r-l+eu
+r-l+a n-l+a
+r-l+d n-l+p
+r-l+i n-l+a
+r-l+u n-l+a
 e-r+a u-r+a
 e-r+c u-r+a
-e-r+d r
+e-r+d a-r+b
 e-r+e u-r+a
-e-r+g r
+e-r+g a-r+b
 e-r+i u-r+a
 e-r+j u-r+a
-e-r+k r
+e-r+k u-r+p
 e-r+l u-r+a
 e-r+m u-r+a
 e-r+n u-r+a
 e-r+o u-r+a
-e-r+p r
-e-r+s u-r+a
-e-r+t r
+e-r+p u-r+p
+e-r+s u-r+s
+e-r+t u-r+p
 e-r+u u-r+a
 e-r+v u-r+a
 i-r+eu u-r+a
@@ -3400,16 +3398,16 @@ r-m+o k-m+a
 r-m+u k-m+a
 w-ny+a b-ny+a
 e-s+a u-s+a
-e-s+b u-s+a
+e-s+b u-s+k
 e-s+c u-s+a
-e-s+d u-s+a
+e-s+d u-s+t
 e-s+e u-s+a
 e-s+i u-s+a
-e-s+k u-s+a
+e-s+k u-s+k
 e-s+o u-s+a
-e-s+p u-s+a
+e-s+p u-s+k
 e-s+s u-s+a
-e-s+t u-s+a
+e-s+t u-s+t
 e-s+u u-s+a
 e-s+y u-s+a
 t-u+ng t-u+m
@@ -3417,9 +3415,9 @@ t-u+ny t-u+a
 r-n+a r-n+eu
 r-n+e r-n+eu
 r-n+i r-n+eu
-r-n+y a-n+b
-p-eu+ng t-eu+ng
-p-eu+ny
+r-n+y a-n+y
+p-eu+ng f-eu+n
+p-eu+ny f-eu+n
 e-t+a u-t+a
 e-t+b u-t+a
 e-t+e u-t+a
@@ -3430,21 +3428,21 @@ e-t+m u-t+a
 e-t+o u-t+a
 e-t+r u-t+a
 e-t+u u-t+a
-r-o+b l-o+ng
-r-o+d n-o+n
-r-o+f l-o+ng
-r-o+g l-o+ng
-r-o+h l-o+a
-r-o+k l-o+ng
-r-o+l l-o+ng
-r-o+m l-o+ng
-r-o+n n-o+n
-r-o+p l-o+ng
-r-o+r n-o+n
-r-o+s n-o+n
-r-o+t n-o+n
-r-o+w l-o+ng
-r-o+y l-o+ng
+r-o+b
+r-o+d
+r-o+f
+r-o+g r-o+d
+r-o+h r-o+f
+r-o+k r-o+d
+r-o+l n-o+l
+r-o+m
+r-o+n ng-o+n
+r-o+p r-o+d
+r-o+r n-o+l
+r-o+s ng-o+n
+r-o+t r-o+d
+r-o+w r-o+m
+r-o+y r-o+m
 a-s+ay u-s+a
 a-s+eu u-s+a
 a-s+ny u-s+a
@@ -3454,23 +3452,23 @@ r-p+i k-p+e
 r-p+u k-p+e
 e-v+e v
 e-v+i v
-h-a+a
-h-a+b u-a+ng
+h-a+a u-a+ny
+h-a+b j-a+b
 h-a+d j-a+d
-h-a+e
-h-a+g i-a+g
+h-a+e u-a+ny
+h-a+g j-a+g
 h-a+h u-a+ny
-h-a+i
-h-a+k a-a+t
+h-a+i u-a+ny
+h-a+k a-a+k
 h-a+l a-a+l
-h-a+m u-a+ng
+h-a+m ny-a+m
 h-a+n a-a+n
-h-a+p
+h-a+p a-a+p
 h-a+r ny-a+r
-h-a+s u-a+ny
+h-a+s j-a+s
 h-a+t a-a+t
-h-a+w
-h-a+y
+h-a+w j-a+w
+h-a+y j-a+y
 a-ng+eu eu-ng+a
 a-ng+ny eu-ng+a
 e-w+a u-w+a
@@ -3483,109 +3481,109 @@ r-s+a u-s+a
 r-s+e u-s+a
 r-s+i u-s+a
 r-s+o u-s+a
-r-s+p u-s+a
+r-s+p u-s+k
 r-s+u u-s+a
 r-m+ny k-m+a
 e-y+a u-y+i
 e-y+d u-y+i
 e-y+l u-y+i
-k-r+eu u-r+a
+k-r+eu k-r+a
 aw-ny+a eu-ny+a
-eu-f+eu a-f+e
+eu-f+eu ay-f
 m-a+kh m-a+a
-eu-f+ny
-m-a+ng m-a+a
+eu-f+ny ay-f
+m-a+ng
 m-a+ny m-a+a
-r-t+a u-t+a
-r-t+e u-t+a
-r-t+i u-t+a
-r-t+u u-t+a
+r-t+a r-t+eu
+r-t+e r-t+eu
+r-t+i r-t+eu
+r-t+u r-t+eu
 k+aw k+a
 m-a+sy m-a+a
 k+eu k+a
-y-ny+a eu-ny+a
-h-e+b a-e+k
-h-e+d a-e+k
-h-e+e
-h-e+h t-e+h
-h-e+i t-e+h
-h-e+k
-h-e+l a-e+r
-h-e+m a-e+r
-h-e+n
-h-e+r
-h-e+y
+y-ny+a b-ny+a
+h-e+b j-e+b
+h-e+d
+h-e+e c-e+ny
+h-e+h c-e+ny
+h-e+i c-e+ny
+h-e+k k-e+k
+h-e+l k-e+l
+h-e+m k-e+l
+h-e+n k-e+n
+h-e+r k-e+r
+h-e+y k-e+y
 r-sy+u sy
-r-u+a
-r-u+b a-u+k
-r-u+g
-r-u+h a-u+h
-r-u+i
-r-u+k a-u+k
+r-u+a r-u+ny
+r-u+b
+r-u+g n-u+g
+r-u+h r-u+ny
+r-u+i r-u+ny
+r-u+k
 r-u+l
-r-u+m c-u+ng
-r-u+n j-u+n
-r-u+p a-u+k
-r-u+s a-u+s
-r-u+t a-u+d
+r-u+m r-u+ng
+r-u+n r-u+l
+r-u+p r-u+k
+r-u+s
+r-u+t
 r-u+w
 r-u+y
 ny+ay ny
 ny+eu ny
 r-v+e v
 r-v+i v
-k-aw w-aw
-k-ay t-ay
+k-aw t-aw
+k-ay y-ay+n
 k-eu
 u-a+c u-a+ny
-u-a+d
-u-a+e
+u-a+d j-a+d
+u-a+e u-a+ny
 u-a+h u-a+ny
-u-a+i
-u-a+k
+u-a+i u-a+ny
+u-a+k a-a+k
 u-a+l a-a+l
-u-a+m u-a+ng
+u-a+m ny-a+m
 u-a+n a-a+n
 u-a+p a-a+p
 u-a+r ny-a+r
-u-a+s u-a+ny
+u-a+s j-a+s
 u-a+t a-a+t
-u-a+y
-e-b+eu
+u-a+y j-a+y
+e-b+eu k-b+a
 r-w+a u-w+a
 r-w+e u-w+a
 r-w+i u-w+a
-e-b+ny
+e-b+ny k-b+a
 u-b+a k-b+a
-u-b+b
+u-b+b k-b+a
 u-b+j k-b+a
 u-b+u k-b+a
 ny-ay t-ay
 u-c+a c
-p-e+ng a-e+n
+p-e+ng k-e+n
 u-c+e c
 u-c+i c
-p-e+ny
+p-e+ny k-e+e
 u-c+u c
 h-i+a a-i+c
 h-i+d a-i+d
 h-i+h a-i+c
 h-i+l a-i+l
 h-i+m a-i+m
-h-i+n a-i+m
-h-i+r a-i+l
-h-i+t a-i+k
-r-y+a u-y+i
-u-d+a d
-u-d+i d
-u-d+k d
-u-d+s d
-u-d+u d
-h-j+a s-j+eu
+h-i+n a-i+n
+h-i+r ay-i+r
+h-i+t a-i+t
+r-y+a s-y+a
+u-d+a k-d+e
+u-d+i k-d+e
+u-d+k k-d+e
+u-d+s k-d+e
+u-d+u k-d+e
+h-j+a a-j+a
 eu-w+eu u-w+a
-u-e+n
-u-e+r
-u-e+s
+u-e+n k-e+n
+u-e+r k-e+r
+u-e+s k-e+s
 ay-ny+a eu-ny+a
 h-k+a e-k+eu
 h-k+u e-k+eu
@@ -3602,53 +3600,52 @@ u-g+u eu-g+eu
 s-i+eu s-i+a
 h-m+a k-m+a
 h-m+u k-m+a
-s-i+ng s-i+f
+s-i+ng
 s-i+ny s-i+a
 u-h+a k-h+a
 u-h+i k-h+a
 u-h+j k-h+a
-u-h+k k-h+a
+u-h+k a-h+k
 u-h+n k-h+a
 e-s+eu u-s+a
-h-n+y a-n+b
+h-n+y a-n+y
 e-s+ny u-s+a
-u-i+n a-i+m
+u-i+n a-i+n
 u-i+s a-i+s
-u-i+t a-i+k
+u-i+t a-i+t
 u-i+z
-ai-f
 h-o+b ny-o+b
-h-o+f ny-o+b
-h-o+l l-o+ng
-h-o+o ny-o+b
-h-o+r n-o+n
-h-o+t n-o+n
-h-o+w ny-o+b
-r-e+ng
-u-j+a s-j+eu
-u-j+i s-j+eu
-u-j+u s-j+eu
+h-o+f c-o+c
+h-o+l j-o+r
+h-o+o c-o+c
+h-o+r j-o+r
+h-o+t j-o+g
+h-o+w c-o+w
+r-e+ng l-e+a
+u-j+a a-j+a
+u-j+i a-j+a
+u-j+u a-j+a
 u-k+a e-k+eu
 u-k+e e-k+eu
 u-k+i e-k+eu
-u-k+k e-k+eu
+u-k+k a-k+s
 u-k+m e-k+eu
-u-k+p e-k+eu
-u-k+s e-k+eu
-u-k+t e-k+eu
+u-k+p a-k+s
+u-k+s a-k+s
+u-k+t ay-k
 u-k+u e-k+eu
-d-o+ng d-o+k
+d-o+ng
 d-o+ny d-o+a
 c+eu c
 u-l+a k-l+a
 u-l+e k-l+a
-u-l+f n-l+p
+u-l+f k-l+a
 u-l+i k-l+a
 o-r+eu u-r+a
-u-l+l l+ay
-u-l+t k-l+a
+u-l+l a-l+d
+u-l+t a-l+d
 u-l+u k-l+a
-u-l+w n-l+p
+u-l+w a-l+d
 o-r+ny u-r+a
 h-r+a u-r+a
 c-aw t-aw
@@ -3657,7 +3654,7 @@ u-m+a k-m+a
 u-m+b a-m+b
 u-m+e k-m+a
 u-m+i k-m+a
-u-m+p a-m+b
+u-m+p a-m+p
 u-m+s k-m+a
 u-m+u k-m+a
 c-eu
@@ -3666,51 +3663,51 @@ h-s+i u-s+a
 u-n+a r-n+eu
 u-n+c r-n+eu
 u-n+d a-n+b
-u-n+g a-n+b
+u-n+g a-n+g
 u-n+i r-n+eu
 u-n+j r-n+eu
 u-n+k a-n+k
-u-n+m a-n+b
-u-n+s r-n+eu
-u-n+t a-n+k
+u-n+m a-n+m
+u-n+s a-n+p
+u-n+t a-n+t
 u-n+u r-n+eu
-u-n+y a-n+b
-ng-u+ng g-u+ng
+u-n+y a-n+y
+ng-u+ng m-u+ng
 n-n+eu r-n+eu
-u-o+t n-o+n
+u-o+t j-o+g
 h-u+b
-h-u+h
+h-u+h a-u+h
 h-u+i a-u+h
 h-u+j a-u+h
-h-u+l j-u+r
-h-u+n j-u+n
-h-u+s
-h-u+t
+h-u+l a-u+n
+h-u+n a-u+n
+h-u+s a-u+s
+h-u+t a-u+t
 i-b+eu k-b+a
-i-b+ny
+i-b+ny k-b+a
 u-p+a k-p+e
 u-p+i k-p+e
 u-p+l k-p+e
 u-p+u k-p+e
 k-a+a k-a+ny
-k-a+b k-a+ng
+k-a+b
 k-a+c k-a+ny
 k-a+d
-k-a+e
-k-a+f k-a+ny
+k-a+e k-a+ny
+k-a+f
 k-a+g
 k-a+h k-a+ny
 k-a+i k-a+ny
-k-a+j
+k-a+j k-a+ny
 k-a+k
 k-a+l
 k-a+m
-k-a+n k-a+ny
+k-a+n
 k-a+p
 k-a+r
-k-a+s k-a+ny
-k-a+t k-a+k
-k-a+u
+k-a+s
+k-a+t
+k-a+u k-a+ny
 k-a+v
 k-a+w
 k-a+y

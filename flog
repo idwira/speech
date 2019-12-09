@@ -3,8 +3,8 @@ WARNING: no script file dict_wsp.ded
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-    dict_wsp      3710       3710       4040       4040
-    dict-tri      3710       3710       4040       4015
+    dict_wsp      3710       3710       4039       4039
+    dict-tri      3710       3710       4039       4014
 
 3710 words required, 0 missing
 
@@ -12,10 +12,10 @@ New Phone Usage Counts
 ---------------------
   1. sil   :     2
   2. a     :  4391
-  3. sp    :  4013
+  3. sp    :  4012
   4. b     :   773
   5. e     :   909
-  6. t     :  1263
+  6. t     :  1262
   7. i     :  2079
   8. s     :  1242
   9. ny    :   540
@@ -33,17 +33,15 @@ New Phone Usage Counts
  21. m     :  1113
  22. p     :   779
  23. ng    :   599
- 24. ay    :    78
+ 24. ay    :    81
  25. j     :   266
- 26. y     :   234
+ 26. y     :   235
  27. kh    :     9
  28. f     :   154
- 29. ai    :     4
- 30. au    :     2
- 31. aw    :    23
- 32. v     :    39
- 33. w     :   184
- 34. z     :    15
- 35. sy    :    11
+ 29. aw    :    24
+ 30. v     :    39
+ 31. w     :   184
+ 32. z     :    15
+ 33. sy    :    11
 
 Dictionary dict-tri created

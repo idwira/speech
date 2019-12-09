@@ -1,4 +1,0 @@
-ERROR: m_chkparam: cannot access monophone1
-WARNING: m_chkparam: "-penalty1" only for grammar, ignored
-WARNING: m_chkparam: "-penalty2" only for grammar, ignored
-ERROR: m_chkparam: could not pass parameter check
