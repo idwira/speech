@@ -1,0 +1,742 @@
+<s> liburan semester ini kamu mau liburan kemana din </s>
+<s> sepertinya aku akan pergi ke rumah kakek di kampung </s>
+<s> kalau kamu nam </s>
+<s> berarti di kampung masih banyak kerbau dan juga sawah-sawah dong </s>
+<s> rencananya aku dan keluarga akan berlibur ke pulau lombok </s>
+<s> tau kan </s>
+<s> pulau yang dekat dengan pulau bali </s>
+<s> meskipun rumah kakek di kampung tapi sudah tidak ada kerbau kok </s>
+<s> sawah-sawah dibajak menggunakan alat pertanian yang lebih modern </s>
+<s> sekarang juga sawah-sawah di kampung kakek sudah banyak yang berkurang digantik digantikan dengan bangunan-bangunan rumah </s>
+<s> wah </s>
+<s> sayang sekali ya </s>
+<s> padahal di kampung akan lebih terasa suasana kampungnya kalau masih banyak sawah dan juga kerbaunya </s>
+<s> terus </s>
+<s> selama di kampung kakek kamu punya rencana apa </s>
+<s> seperti biasanya nam </s>
+<s> aku akan membantu kerjaan kakek </s>
+<s> misalnya misalnya saja menanam padi memanen padi dan lainnya </s>
+<s> terus kamu nanti di lombok mau kemana saja </s>
+<s> aku boleh minta oleh-oleh khas dari lombok ga </s>
+<s> di lombok nanti aku akan pergi ke pulau gili menyelam diving </s>
+<s> karna aku suka menyelam </s>
+<s> wah </s>
+<s> pasti seru ya </s>
+<s> aku boleh minta oleh-oleh khas dari lombok ga </s>
+<s> iya boleh kamu minta oleh-oleh apa </s>
+<s> bawakan aku pasir pantai dan karang laut </s>
+<s> hahaha </s>
+<s> iya nanti aku bawakan sekarung pasir dan karang laut </s>
+<s> hahaha </s>
+<s> benar ya </s>
+<s> aku tunggu </s>
+<s> semoga liburan kamu menyenangkan ya nam </s>
+<s> iya terima kasih ya din </s>
+<s> sama-sama nam </s>
+<s> zi </s>
+<s> pr matematik udah kamu kerjain apa belum </s>
+<s> belum nih </s>
+<s> kamu udah li </s>
+<s> sama aku juga belum nih </s>
+<s> kita kerjakn kita kerjakan prnya sama-sama yuk </s>
+<s> boleh </s>
+<s> nanti malam aja ya </s>
+<s> kita kerjakan di rumahku aja nanti </s>
+<s> iya </s>
+<s> nanti jam tujuh malam aku akan ke rumahmu </s>
+<s> aku tunggu kamu di rumah ya </s>
+<s> jen </s>
+<s> joni mana </s>
+<s> sepertinya anaknya tidak masuk sekolah hari ini </s>
+<s> kira-kira </s>
+<s> dia tidak masuk kenapa ya </s>
+<s> apa kamu tau jen </s>
+<s> kemaren katanya nana anak kelas sebelah dia lagi sakit mark </s>
+<s> mungkin sekarang masih sakit </s>
+<s> coba tanyakan ke nana saja </s>
+<s> kebetulan mereka berdua rumahnya berdekatan </s>
+<s> na </s>
+<s> kamu tau joni tidak masuk kenapa </s>
+<s> apa dia masih sakit </s>
+<s> kamu sudah berkunjung ke rumahnya </s>
+<s> iya </s>
+<s> kemaren mamanya joni ke rumahku untuk memberi tau kalau joni tidak masuk sekolah karna sakit </s>
+<s> dokter menyarankan untuk beristirahat selama tiga hari </s>
+<s> aku sih belum menjenguk joni </s>
+<s> rencananya nanti sepulang sekolah aku jika aku mau menjenguk joni </s>
+<s> kalian mau ikut </s>
+<s> wah boleh tuh aku ikut jenguk joni nanti ya </s>
+<s> bagaimana kamu mark </s>
+<s> mau ikut juga </s>
+<s> boleh nanti kita bawakan buah ya saja ya untuk joni </s>
+<s> na joni sakit apa </s>
+<s> boleh makan buah atau tidak </s>
+<s> kata mamanya joni </s>
+<s> dia sakit lambung </s>
+<s> jadi jangan dibawakan buah </s>
+<s> lebih baik kita bawakan roti saja </s>
+<s> ooh iya </s>
+<s> nanti sebelum ke rumahnya kita mampir ke toko bawa bawakan roti buat joni </s>
+<s> iya nanti kita kumpul sepulang sekolah </s>
+<s> aku balik ke kelas dulu ya </s>
+<s> iya kami tunggu di depan gerbang sekolah nanti </s>
+<s> kalian semua liburan semester nanti mau pergi liburan kemana </s>
+<s> kalau aku sih sepertinya pulang ke rumah ngabisin lib waktu libur di rumah membantu orang tua </s>
+<s> kalau kamu </s>
+<s> kalian ming kit </s>
+<s> kalian mau liburan kemana </s>
+<s> sepertinya aku juga akan liburan di rumah saja </s>
+<s> banyak belajar juga </s>
+<s> kan semester depan sudah mulai masuk semester akhir </s>
+<s> jadi banyak hal yang harus dipersiapkan </s>
+<s> ah iya juga sih ya </s>
+<s> semester depan kita masuk jadwal sibuk-sibuknya </s>
+<s> sibuk mengerjakan tugas akhir dan tugas lapangan </s>
+<s> kalau kamu kit </s>
+<s> kamu mau kemana liburan nanti </s>
+<s> apa kamu punya rencana </s>
+<s> apa ya </s>
+<s> sepertinya aku juga belum ada rencana apa-apa nih </s>
+<s> kalau kamu </s>
+<s> nah karna kalian tidak punya rencana apa-apa aku punya rencana </s>
+<s> bagaimana kalau liburan nanti kita pergi liburan bersama sama </s>
+<s> liburan bersama-sama </s>
+<s> boleh nih ide yang bagus </s>
+<s> mau liburan kemana nih </s>
+<s> iya aku juga mau ikut dong </s>
+<s> ini bisa jadi liburan semester yang terakhir buat kita nih sebelum kita masuk dunia kerja </s>
+<s> karna semua setuju </s>
+<s> aku akan membicarakan rencanaku kepada kalian </s>
+<s> rencananya kita akan pergi berlibur ke pulau bali selama bu satu minggu </s>
+<s> tapi kita liburan ala backpacker saja </s>
+<s> lebih hemat dan tidak perlu yang mewah </s>
+<s> bagaimana </s>
+<s> aku ikut kamu saja fa </s>
+<s> apapun rencana yang kamu buat pasti seru soalnya </s>
+<s> iya kita ikut kamu saja </s>
+<s> baiklah nanti aku atur semuanya </s>
+<s> kalau sudah siap kalian akan aku kabari se lagi </s>
+<s> oke kita tunggu kabar baiknya </s>
+<s> hei jo </s>
+<s> apa yang sedang kau lakukan </s>
+<s> eh kamu dan </s>
+<s> ban sepedaku sepertinya bocor dan perlu ditambal </s>
+<s> apakah kamu tau tempat dimana aku bisa menambal ban sepedaku </s>
+<s> di sekitar dizni jarang ada tempat tambal ban </s>
+<s> yang terdekat hanya ada di ujung jalan ini </s>
+<s> jaraknya sekitar satu kilometer </s>
+<s> wah sepertinya itu lumayan jauh ya </s>
+<s> ya cukup jauh </s>
+<s> oleh karna itu mustahil bagimu untuk sampai disana dengan mendorong sepeda itu </s>
+<s> ah jangan khawatir aku sudah terbiasa dengan itu </s>
+<s> sudahlah </s>
+<s> mari naikkan sepedamu di mobilku </s>
+<s> aku akan mengantarmu kesana </s>
+<s> wah </s>
+<s> makasih dan </s>
+<s> nasib baik aku bertemu kamu </s>
+<s> kalau tidak aku pasti sudah menuntun sepeda ini </s>
+<s> sepertinya hari ini aku ditakdirkan untuk jadi penolongmu </s>
+<s> memangnya kamu mau pergi kemana </s>
+<s> aku hanya ingin berkeliling kota dengan sepedaku ini </s>
+<s> aku bisa menebaknya </s>
+<s> pasti hobimu adalah jalan-jalan </s>
+<s> ya kan </s>
+<s> tebakanmu hampir benar </s>
+<s> tapi masih salah </s>
+<s> hobiku adalah bersepeda mengelilingi tempat-tempat yang indah </s>
+<s> hobimu bersepeda </s>
+<s> bukankah bersepeda itu melelahkan </s>
+<s> tentu saja melelahkan </s>
+<s> tapi ada perasaan bahagia di dalam hati yang dapat mengalahkan rasa lelah itu </s>
+<s> perasaan ketika kamu mengayuhkan sepedamu ke tempat yang belum pernah kamu kunjungi sebelumnya </s>
+<s> tidak hanya itu </s>
+<s> bersepeda juga membuat tubuh kita sehat </s>
+<s> ternyata kau ini memiliki jiwa petualang </s>
+<s> tapi bukankah akan lebih mudah dan cepat jika kamu mengendarai sepeda motor </s>
+<s> pasti akan sangat cepat </s>
+<s> tetapi kau tidak akan menemukan sebuah kepuasan karena mengendarai sepeda motor </s>
+<s> tidak ada tantangannya </s>
+<s> bahkan bisa menambah polusi udara yang telah terjadi saat ini </s>
+<s> ada benarnya juga sih </s>
+<s> memang sulit berargumen dengan hobi seseorang </s>
+<s> ah kita sudah sampai </s>
+<s> tunggu sebentar </s>
+<s> aku akan memarkirkan mobilku </s>
+<s> terima kasih banyak ya atas bantuannya </s>
+<s> terima kasih kembali </s>
+<s> kalau begitu aku akan melanjutkan perjalananku </s>
+<s> semoga kau bisa kembali melanjutkan hobimu itu </s>
+<s> sampai ketemu lagi ya </s>
+<s> baiklah </s>
+<s> sampai jumpa kembali </s>
+<s> nisa </s>
+<s> yuk kita ke kantin </s>
+<s> hmm </s>
+<s> aku tidak punya uang saku </s>
+<s> aku per ke perpustakaan aja deh </s>
+<s> ooh gapapa kok </s>
+<s> biar nanti aku yang bayar oke </s>
+<s> terima kasih </s>
+<s> tapi aku lebih pengen baca buku di perpustakaan aja </s>
+<s> oke tapi aku ikut kamu perpustakaan aja deh kalo gitu </s>
+<s> lin </s>
+<s> ratih mana </s>
+<s> kayanya ga berangkat deh </s>
+<s> kira-kira ga berangkat karna apa ya </s>
+<s> hmm </s>
+<s> kemaren aku tanya ratih katanya sakit za </s>
+<s> apa mungkin ya sekarang dia masih sakit </s>
+<s> wah bisa jadi itu </s>
+<s> gini aja </s>
+<s> nanti kita ke rumahnya yuk </s>
+<s> nengokin dia </s>
+<s> ayuk </s>
+<s> kapan batas akhir upload tugas vin </s>
+<s> sepertinya dua hari lagi kan </s>
+<s> iya benar </s>
+<s> apa yang harus dikerjakan </s>
+<s> kita harus membuat percakapan </s>
+<s> percakapan seperti apa </s>
+<s> percakapan antara dua orang atau lebih dengan tema bebas </s>
+<s> harus buat kelompok </s>
+<s> tentu saja </s>
+<s> bagaimana dengan kelompok lama </s>
+<s> nggak tau </s>
+<s> setiap anggota kelas sudah membuat kelompok baru </s>
+<s> ya sudah </s>
+<s> kau sudah ada kelompok </s>
+<s> belum </s>
+<s> kau sudah </s>
+<s> belum juga </s>
+<s> kenapa kita dam kenapa tidak kenapa kita tidak membuat kelompok saja </s>
+<s> baiklah kalau begitu </s>
+<s> ya sudah </s>
+<s> dengan begini kelompok sudah siap </s>
+<s> kita ingin membuat percakapan dengan tema apa </s>
+<s> bagaimana dengan tugas di dalam tugas </s>
+<s> apa itu </s>
+<s> kita membuat percakapan tentang kita yang sedang mengerjakan sebuah tugas </s>
+<s> maksudnya </s>
+<s> tolong jelaskan lebih rinci </s>
+<s> contohnya </s>
+<s> karna kita bertiga </s>
+<s> kita buat ada a b dan c </s>
+<s> pertama si a bertanya pada b </s>
+<s> ada tugas tidak </s>
+<s> dan si b menjawab </s>
+<s> ada tugas vin </s>
+<s> lalu si c ikut bergabung </s>
+<s> jangan lupa batas akhir upload dua hari lagi </s>
+<s> dan seterusnya </s>
+<s> ooh </s>
+<s> kalian ngerti </s>
+<s> aku sudah ngerti </s>
+<s> aku belum hahaha </s>
+<s> tolong jelaskan lagi </s>
+<s> nanti akan aku jelaskan ulang </s>
+<s> sekarang kita tentukan kapan dan dimana kita akan mengerjakan tugas ini </s>
+<s> a di kampus aja </s>
+<s> setelah mata kuliah terakhir </s>
+<s> bagaimana </s>
+<s> oke </s>
+<s> insyaallah </s>
+<s> baiklah nanti kita kerjakan tugasnya sehabis pulang mata kuliah terakhir ya </s>
+<s> hai din </s>
+<s> kamu udah nonton film bumi manusia belum </s>
+<s> ini film nasionalis banget sih  </s>
+<s> menceritakan tentang kehidupan pribumi indonesia saat zaman kolonialisme belanda dulu </s>
+<s> oh iya bener banget </s>
+<s> aku juga udah nonton kemarin sama kevin  </s>
+<s> gila sih filmnya campur aduk antara perjuangan romantisme dan na nasionalisme yang menyatu kuat </s>
+<s> ngomong-ngomong kamu baca bukunya apa langsung nonton filmnya din </s>
+<s> engga baca bukunya sih </s>
+<s> cuma baca ulasan orang-orang tentang bukunya </s>
+<s> jadi langsung ingin nonton aja </s>
+<s> kalo aku sih baca bukunya </s>
+<s> jadi udah tau alurnya gimana  </s>
+<s> tapi di film ini visualisasi apa yang di bukunya oke banget </s>
+<s> menurut kamu gimana nih ulasan filmnya dari sudut pandang orang yang gak baca bukunya </s>
+<s> bagus banget </s>
+<s> walaupun dura durasinya tiga jam tapi gak ngebosenin </s>
+<s> walaupun belar berlatar belakang kolonialisme tapi karena adanya adegan romansa dan sedikit disisipi komedi jadi seru </s>
+<s> kalau untuk karakter minke menurut kamu pemeran minke cocok ga sih </s>
+<s> ah iya  </s>
+<s> iqbal bagus kok </s>
+<s> walaupun sebelum film tayang banyak yang berspekulasi iqbal bakal gagal jadi minke </s>
+<s> tapi iqbal disini benar-benar menunjukkan kelasnya sebagai aktor </s>
+<s> dia bisa membawakan karakter minke yang cerdas dan berwibawa </s>
+<s> kutipan ucapan minke yang paling aku ingat nih yang saya hanya ingin menjadi manusia bebas tidak diperintah dan tidak memerintah </s>
+<s> wah iya bagian itu keren banget </s>
+<s> kuat banget karakter minke di sana </s>
+<s> annelies juga cantik banget </s>
+<s> hahaha iya </s>
+<s> apalagi pas minke bilang kasihan wanita belanda itu ann </s>
+<s> mereka iri akan kecantikanmu </s>
+<s> pas ini meleleh banget sih </s>
+<s> oh iya </s>
+<s> pastinya jangan lupa karakter nyai ontosoroh yang keren abis </s>
+<s> iya iya bener </s>
+<s> suka banget sama gaya dan cara nyai ontosoroh dalam menjalani kehidupan </s>
+<s> menurut aku nyai an nyai ontosoroh ini sangat keren </s>
+<s> dia bisa memainkan karakter wanita jawa yang sangat berani dalam menghadapi fase-fase sulit hidupnya </s>
+<s> keras namun terus berjuang demi hak-haknya sebagai seorang manusia dan wanita </s>
+<s> walaupun dia dianggap memiliki status sosial yang rendah atau dibilang gundik </s>
+<s> dia malah membuat kagum si minke </s>
+<s> eh film ini kan bisa pakai komunikasi tiga bahasa gitu </s>
+<s> kamu ada ngerasain kurang paham gitu gak sih selama nonton </s>
+<s> engga masalah sih </s>
+<s> karena semua pemeran bisa menguasai bahasa dengan baik </s>
+<s> bahasa jawa dan bahasa belanda mereka juga bagus  </s>
+<s> kalau desain atau set filmnya gimana menurut kamu din </s>
+<s> wah diluar ekspektasi sih </s>
+<s> semua kru kayanya detail yah </s>
+<s> mulai dari transportasi gedung rumah nama lokasi benar-benar kayak disesuaiin pas jaman dulu gitu </s>
+<s> kamu bisa ngeliat gak sih di filmnya itu kayak ada pergolakan antara pribumi juga gitu </s>
+<s> saat para belanda ini memaksa masuk ke rumah nyai </s>
+<s> itu pribumi anak buahnya belanda malah nembakin pribumi yang secara itu adalah saudara setanah air mereka sendiri </s>
+<s> iya sih itu kesel banget </s>
+<s> karena menurut aku mereka itu udah jadi nurut sama belanda  </s>
+<s> karena hanya pengen hidup enak </s>
+<s> jadinya mereka nurut walaupun harus memerangi saudara mereka sendiri </s>
+<s> kalo dari sisi annelies itu kamu liatnya gimana sih  </s>
+<s> kok aku kayak ngeliatnya annelies ini agak cengeng gitu ya di awal-awal mereka dapet masalah </s>
+<s> sama </s>
+<s> anak mama banget gak sih </s>
+<s> hahaha tapi karena keluguan annelies dan kebanggannya terhadap pribumi yang bikin dia punya daya tarik sendiri </s>
+<s> tapi dia juga kasihan ya </s>
+<s> harus pisah dari ibu dan suaminya karena gak diakui oleh pengadilan sah </s>
+<s> padahal mereka punya cukup bukti </s>
+<s> gak kebayang sih gimana jadi annelies </s>
+<s> kalo aku mikirnya malah pengadilan itu sama sekali ga sah  </s>
+<s> karena otomatis memenangkan kepentingan orang belanda </s>
+<s> aku setuju sama minke yang mereka adalah pernikahan yang sah di mahkamah agama </s>
+<s> bahkan para kulit putih itu tidak menganggap kehadiran agama </s>
+<s> iya bener </s>
+<s> kesel dan marah jadi satu </s>
+<s> eh kalo menurut kamu adegan paling berkesan yang mana sih </s>
+<s> wah kalo paling berkesan aku gak bisa milih satu </s>
+<s> banyak nih </s>
+<s> yang pertama kali yaitu pas minke ke rumah annelies </s>
+<s> surhof mau pamer ke minke </s>
+<s> eh malah annelies lebih tertarik ke minke </s>
+<s> yang kedua waktu annelies dibilang cantik </s>
+<s> dia langsung kaget manggil mamanya </s>
+<s> lucu ga sih </s>
+<s> hahaha si minke sampe kaget </s>
+<s> mamanya jadi ikut ketawa </s>
+<s> terus waktu minke cium annelies juga </s>
+<s> annelies langsung kabur </s>
+<s> adegan menarik yang ketiga waktu annelies pamit buat pergi </s>
+<s> itu sedih banget jadi mewek </s>
+<s> iya sama itu paling berkesan banget </s>
+<s> gimana kalo kita juga baca-baca review dari internet </s>
+<s> oh iya ya </s>
+<s> ada tuh dari bookmyshow biasanya selalu update bikin ulasan film-film </s>
+<s> nah ini nih dari bookmyshow   </s>
+<s> jika bicara alur cerita dan plot film ini baik-baik saja </s>
+<s> hanya saja untuk beberapa bagian terasa lambat dan mungkin akan memancing kamu untuk menguap dan terus menguap </s>
+<s> meskipun cukup baik dalam memaparkan cerita namun ada sudut pandang lain yang bisa dilihat dari film ini </s>
+<s> penggunaan bahasa akan menjadi bagian yang bisa dinikmati di dalam film ini </s>
+<s> dialog-dialog menggunakan bahasa jawa dan belanda diselingi dengan berbagai dialog-dialog romantis bak mengucapkan tulisan-tulisan pram menjadi sisi lain dari film ini </s>
+<s> mau tidak mau pengaruh iqbal ramadhan sebagai minke mampu menarik perhatian </s>
+<s> hanya saja kali ini ia tidak bergaya remaja ala sembilan puluhan </s>
+<s> namun seorang anak muda yang hidup di masa lalu </s>
+<s> berjuang melalui pikiran dan bukan lagi dengan rayuan-rayuan gombalnya </s>
+<s> meskipun begitu film ini masih relevan dengan kehidupan di masa kini </s>
+<s> jenjang status sosial yang begitu tinggi dengan terkurungnya pemikiran yang masih subjektif bisa jadi adalah sudut pandang lain yang diambil dari film ini </s>
+<s> oh iya bener banget </s>
+<s> ada lanjutannya nih </s>
+<s> hanung bramantyo sebagai sutradara patut diacungi jempol  </s>
+<s> jika mengarahkan energinya untuk membuat film dengan latar belakang sejarah </s>
+<s> salah satunya adalah bagaimana ia memvisualisasikan pikirannya pada tim produksi untuk menghasilkan set desain yang baik </s>
+<s> budaya tempat alat transportasi hingga detail seperti gestur tubuh menjadi pelengkap set desain yang sudah disiapkan untuk filmnya </s>
+<s> suasana kolonial begitu sangat kuat di dalam film ini </s>
+<s> penggunaan warna yang terkesan vintage juga menjadikan film ini menggambarkan bagaimana kehidupan masa lalu </s>
+<s> semuanya dikombinasikan dengan gaya sinematografi yang punya a hal baik pula </s>
+<s> komposisi demi komposisi hingga angle gambarnya yang ditampilkan membantu film ini tampil baik </s>
+<s> plus scoring musik yang memang membuat penonton berada dalam suasana masa lalu </s>
+<s> berdiri di tengah hiruk-pikuk kekalutan tata tatanan sosial masyarakat yang kasar dan perihnya mempertahankan sesuatu yang dicintai </s>
+<s> bumi manusia memang bukan film terbaik hanung bramantyo </s>
+<s> namun dari bumi manusia kamu bisa melihat banyak sudut pandang yang baru dalam dunia sebuah film </s>
+<s> iqbal yang tak lagi bermain sebagai seorang remaja berandalan dengan motornya </s>
+<s> atau mendapatkan narasi baru tentang bagaimana perjuangan seseorang untuk mendapatkan hak yang setara dengan manusia lainnya </s>
+<s> oh iya setuju setuju </s>
+<s> aku berharapnya di buku keduanya itu masih lanjutin cerita perjuangan minke dan anna annelies </s>
+<s> tapi ternyata engga </s>
+<s> di awal buku kedua itu diceritain si annelies meninggal di kapal dalam perjalanan ke belanda karena sakit </s>
+<s> oh iya sedih banget </s>
+<s> tapi perjuangan mereka jadi inspirasi banget gimana memperjuangkan keadilan di tanah kelahirannya sendiri </s>
+<s> iya kalo disuruh ngasih nilai film ini kamu bakal ngasih berapa </s>
+<s> kalo aku sih sepuluh per sepuluh karena sekeren itu </s>
+<s> dan di akhir film ada lagu ibu pertiwi jadi tambah nasionalis aja rasanya hahaha </s>
+<s> kalo aku sih sembilan per sepuluh </s>
+<s> karena aku baca buku aslinya yang jauh imajinasinya itu lebih luas dari apa yang difilmkan </s>
+<s> oh iya bener juga </s>
+<s> udah deh ganti topik lain yuk </s>
+<s> yuk  </s>
+<s> eh tapi aku laper nih </s>
+<s> pindah ke kafe sana yuk sambil pesen makanan </s>
+<s> ada martabak enak juga di sana </s>
+<s> sama kopinya juga mantap banget </s>
+<s> boleh tuh tapi pinjem duit kamu dulu ya </s>
+<s> belum narik duit nih </s>
+<s> santai kok </s>
+<s> jalan dulu aja </s>
+<s> oke tapi aku nebeng ya belum isi bensin juga </s>
+<s> oke santai </s>
+<s> yuk jalan </s>
+<s> pagi ton gimana nih kabarmu </s>
+<s> pagi bud baik nih kalau kamu gimana </s>
+<s> baik juga </s>
+<s> eh ngomong-ngomong gimana ujian pemrosesan suara kemarin </s>
+<s> kata orang-orang ujiannya susah banget ya </s>
+<s> ah iya nih susah banget </s>
+<s> aku sih kalau bisa enggak mau ingat-ingat lagi ujian kemaren </s>
+<s> bisa dapat lima puluh aja udah bersyukur banget </s>
+<s> ah kamu merendah banget sih </s>
+<s> banyak juga yang lebih enggak bisa daripada kamu </s>
+<s> paling nanti kamu juga dapat nilai a </s>
+<s> bukan begitu </s>
+<s> aku takut aja dapat jelek nih </s>
+<s> ah salah aku tanya ujian kemaren ke kamu </s>
+<s> kamu malah langsung merendah gitu </s>
+<s> ngomong-ngomong sore ini jalan bareng yuk sama harry </s>
+<s> dia ajak kita jalan-jalan ke mall dekat itb </s>
+<s> kamu bisa ikut enggak </s>
+<s> aku pingin sih cuman baru bisa jam empat sore </s>
+<s> soalnya aku ada kelas pengembangan aplikasi terdistribusi </s>
+<s> ga apa apa kok aku tau kamu ikut kelas itu </s>
+<s> aku kan juga peserta kelas pengembangan aplikasi terdistribusi </s>
+<s> memang rencana aku sama harry mau nungguin kamu nih </s>
+<s> oh iya aku lupa kamu ikut kelas pat juga </s>
+<s> maaf maaf hehe </s>
+<s> nanti ke mall mau ngapain aja nih </s>
+<s> rencana kita mau makan-makan ngerayain ujian tengah semester udah kelar </s>
+<s> aku dengar dari teman ada restoran yang enak banget </s>
+<s> kamu bisa makan sepuasnya di restoran itu </s>
+<s> tapi ya harganya cukup mahal sekitar dua ratus ribuan </s>
+<s> kamu mau enggak </s>
+<s> oh makan ya </s>
+<s> mau dong aku lagi pingin hedon juga nih </s>
+<s> cape dari kemaren belajar mulu </s>
+<s> oh ya kalau di restoran itu ada apa aja ya </s>
+<s> mantap </s>
+<s> eh jangan makan dulu ya supaya tidak kenyang langsung waktu baru makan nanti </s>
+<s> kalau di restoran itu sendiri sih kamu bisa pilih daging sapi apa aja </s>
+<s> ada juga ayam mi salad ikan dan tentunya ada es krim </s>
+<s> pokoknya enak banget deh </s>
+<s> kamu bisa panggang atau gak bisa bikin sup dan semacamnya </s>
+<s> wah aku jadi laper banget nih sekarang </s>
+<s> kamu bikin aku ngiler aja nih </s>
+<s> lah kan kamu yang nanya aku restorannya bagaimana </s>
+<s> gimana sih kamu hehe </s>
+<s> tapi aku juga jadi laper banget nih </s>
+<s> padahal masih ada enam jam lagi sebelum kita makan-makan </s>
+<s> ngomong-ngomong restoran itu perlu reservasi juga tidak </s>
+<s> takutnya kita udah datang tapi ternyata restorannya sudah full </s>
+<s> tenang tenang aku sudah reservasi kok tiga orang </s>
+<s> loh tapi kan kamu baru kasih tahu dan tanya aku kalau aku mau ikut makan-makan bareng kamu di restoran itu sekarang </s>
+<s> aku percaya kok kamu bakal ikut sama aku sama harry makan-makan </s>
+<s> aku tahu kamu orangnya pasti mau hedon habis ujian </s>
+<s> ah dasar kamu sok tahu beruntung aja kamu aku masih mau ikut hehe </s>
+<s> oh ya gimana kalau kita sekarang makan cemilan </s>
+<s> gara-gara aku ceritain restorannya ada apa aja aku jadi laper nih </s>
+<s> mau enggak </s>
+<s> boleh aja mumpung kelas belum dimulai nih </s>
+<s> kamu mau makan cemilan dimana memangnya </s>
+<s> ayo tebak dimana </s>
+<s> yah serius nih </s>
+<s> kamu kan yang tahu banyak makanan enak di sekitar kampus </s>
+<s> cepat ah kasih tahu aku </s>
+<s> sabar-sabar ada nih tempat yang jualan roti panggang paling enak di sekitar kampus </s>
+<s> baru buka sekitar jam sepuluh roti panggangnya enak banget ada banyak rasa sama tentunya murah banget </s>
+<s> tapi tempatnya cepat banget ramai </s>
+<s> jadi kita harus cepat-cepat kesana soalnya pasti ramai banget di sana </s>
+<s> tempatnya dekat enggak dari sini </s>
+<s> dekat kok kita tinggal jalan kaki sekitar sepuluh menit saja </s>
+<s> oke ayok pergi sekarang </s>
+<s> harus cepat-cepat nih sebelum ramai </s>
+<s> mantap </s>
+<s> eh bud nanti setelah makan malam kita langsung pulang saja </s>
+<s> kita makan malam berapa jam ya kira-kira </s>
+<s> oh iya aku lupa bilang kalau kita cuman bisa makan sekitar satu jam tiga puluh menit nih </s>
+<s> cukup sih buat kita makan super kenyang </s>
+<s> eh tapi abis itu jangan langsung pulang dong </s>
+<s> aku lagi pingin nonton film juga nih </s>
+<s> kemaren aku dengar dari teman ada film bagus </s>
+<s> ada tiga sih film yang bagus yang pertama joker terus ada terminator sama yang terakhir ada zombieland </s>
+<s> nonton yuk habis sama harry habis makan </s>
+<s> eh boleh sih nanti aku coba tanya harry ya </s>
+<s> kalau kamu mau nonton yang mana nih </s>
+<s> aku sih pingin nonton joker cuman film yang lain boleh kok selama masih tiga film itu hehe </s>
+<s> aku enggak pingin nonton joker sih katanya nyeremin banget sama bikin kamu langsung galau gitu </s>
+<s> gimana kalau terminator kan keren ya terminator sama banyak aksinya gitu </s>
+<s> boleh sih kalau harry gimana </s>
+<s> dia mah nanti ikut-ikut saja kita mau nonton apa </s>
+<s> jadi oke ya nonton terminator </s>
+<s> oke saja aku mah selama masih tiga film yang aku sebut tadi </s>
+<s> eh bud tempatnya masih jauh enggak nih </s>
+<s> kayaknya kita udah jalan cukup jauh nih </s>
+<s> lah ton kan kita baru aja nih jalan lima menit </s>
+<s> sebentar lagi sampai kok </s>
+<s> eh tapi kayaknya tempatnya bakal ramai ya </s>
+<s> aku satu jam lagi ada kelas nih </s>
+<s> ada tempat lain enggak misalkan udah ramai tempat itu </s>
+<s> ah kamu tinggal cabut kelas itu saja hehe </s>
+<s> eh enggak bisa </s>
+<s> dosennya galak bud </s>
+<s> seram aku sama itu dosen </s>
+<s> kayaknya aku tahu deh dosennya siapa </s>
+<s> yaudah deh kalau ramai aku ada alternatif tempat lain nih </s>
+<s> dekat tempat yang jual roti panggang itu ada tempat lain yang jualan roti es krim nih </s>
+<s> enak juga roti sama es krimnya </s>
+<s> kalau ramai pun paling cuman antri dua sampai tiga orang gitu </s>
+<s> gimana </s>
+<s> oke deh </s>
+<s> kalau cuman ngantri segitu sih aman ya tidak telat masuk kelas dosen seram itu </s>
+<s> eh ton itu sudah kelihatan tempat jualan roti panggangnya </s>
+<s> cuman sepertinya sudah ramai ya </s>
+<s> aku lihat ada sekitar sepuluh orang yang ngantri buat beli roti panggangnya </s>
+<s> yah sepertinya tidak bisa ya beli roti itu hari ini </s>
+<s> sedih aku </s>
+<s> eh iya ya ramai banget </s>
+<s> gimana kalau besok kita ke sini lagi </s>
+<s> kalau sekarang aku enggak bisa nih </s>
+<s> maaf ya </s>
+<s> kita ketempat yang satu lagi aja </s>
+<s> hehe aku cuman bercanda kok </s>
+<s> santai aja ton </s>
+<s> yok deh ke tempat yang jualan roti es krim </s>
+<s> dari sini seharusnya cuman butuh sekitar dua sampai tiga menit </s>
+<s> dasar kamu </s>
+<s> tapi dekat juga ya tempat jualan roti es krim itu dari sini </s>
+<s> iya dong </s>
+<s> kan sekitaran sini memang banyak yang jualan makanan ringan </s>
+<s> wah benar juga </s>
+<s> banyak yang jualan makanan di sini </s>
+<s> kok aku enggak tahu ya </s>
+<s> lah kamu jarang si ke sini </s>
+<s> kerjaan kamu cuman di kampus doang buat belajar </s>
+<s> makanya jalan-jalan sekitar kampus </s>
+<s> banyak yang jualan makanan ringan yang murah dan enak </s>
+<s> eh aku males </s>
+<s> maunya makan yang enak dan mahal aja deh biar sehat </s>
+<s> dasar kamu orang kaya </s>
+<s> berarti nanti kamu yang bayarin ya </s>
+<s> eh oke deh </s>
+<s> aku bayarin kamu kalau makanannya enak </s>
+<s> benar ya awas kalau bohong </s>
+<s> iya iya beneran nih aku </s>
+<s> nah itu tempatnya ada </s>
+<s> baru buka juga mantap </s>
+<s> kelihatannya masih sepi </s>
+<s> jadi sepertinya tempat itu baru buka </s>
+<s> tapi masih sedikit pengunjung </s>
+<s> mungkin karena lagi masa ujian jadi belum sempat beli makanan di sana </s>
+<s> tapi aku jamin ini makanannya enak banget </s>
+<s> siap-siap ya bayarin aku </s>
+<s> mungkin buat kamu enak tapi buat aku mungkin enggak hehe </s>
+<s> oyah rasa yang enak apa aja ya </s>
+<s> kalau aku sih suka rasa cokelat oreo </s>
+<s> ah aku ikut kamu saja deh dulu </s>
+<s> siapa tahu enak </s>
+<s> oke aku pesan itu ya </s>
+<s> mas kami pesan dua roti es krim rasa cokelat oreo ya </s>
+<s> oke mas </s>
+<s> totalnya jadi dua puluh ribu </s>
+<s> ton bayarin ya </s>
+<s> eh tapi kan aku belum coba enak atau enggak </s>
+<s> eh nanti aku tinggal aku bayar bagianku kalau buat kamu enggak enak </s>
+<s> meskipun ini aku jamin seratus persen enak dan bakal bikin kamu ketagihan </s>
+<s> oke nih dua puluh ribunya </s>
+<s> ahsiap </s>
+<s> wah enak juga ya </s>
+<s> benar kamu memang rasanya enak </s>
+<s> kayaknya aku bakal ketagihan deh ke sini buat cobain semua rasa es krimnya </s>
+<s> benar kan aku bilang apa </s>
+<s> tapi sepertinya enakan rasa durian deh </s>
+<s> aku ke sini lagi deh buat beli yang rasa durian </s>
+<s> oh iya aku lupa kalau kamu suka banget makan durian </s>
+<s> dasar kamu ton </s>
+<s> durian itu buah paling enak di dunia ini </s>
+<s> tidak ada yang bisa ngalahin rasa durian </s>
+<s> durian pokoknya paling top </s>
+<s> aku sih enggak setuju </s>
+<s> buat aku yang paling enak itu pisang </s>
+<s> rasanya manis sama gampang buat dikunyah </s>
+<s> kalau durian kan kadang bau gitu sama bijinya kegedean </s>
+<s> ah masa sih </s>
+<s> yang kau makan itu mungkin durian murah </s>
+<s> makan tuh yang jenisnya musang king </s>
+<s> enak banget itu </s>
+<s> tapi kan musang king mahal ton mending pisang </s>
+<s> udah murah enak semua orang juga suka </s>
+<s> kata siapa </s>
+<s> buat aku kurang ah apalagi rasanya kadang suka asem </s>
+<s> enakan mah durian </s>
+<s> lah yang kamu makan mungkin udah basi atau kamu salah pilih </s>
+<s> pilihnya yang jenisnya manis dong terus dibikin jus juga makin enak rasanya </s>
+<s> eh durian juga kalau dibikin jus enak kok </s>
+<s> es parut juga </s>
+<s> pisang kan enggak cocok kalau dibikin es parut hehe </s>
+<s> kata siapa cocok kok lagian durian itu baunya menyengat banget </s>
+<s> eh kok kita jadi berantem soal buah </s>
+<s> mending kita habisin dulu rotinya </s>
+<s> benar juga kamu sih yang mulai duluan bud </s>
+<s> loh kok aku  </s>
+<s> bukannya kamu </s>
+<s> eh sekarang jam berapa sih </s>
+<s> wah kayaknya udah mau jam sebelas nih </s>
+<s> aku harus ke kelas sekarang nih takut telat aku </s>
+<s> eh aku juga ada kelas nih </s>
+<s> yok bareng-bareng balik ke kampus </s>
+<s> oke ayok bud </s>
+<s> jangan lupa ya nanti malam </s>
+<s> eh rido sama josep udah selesai kelas belum ya </s>
+<s> kayaknya belum gi </s>
+<s> kelas mereka selesai jam 9 </s>
+<s> sekitar 50 menit lagi </s>
+<s> oalah mereka baru selesai jam 9 ya </s>
+<s> aku udah laper banget nih </s>
+<s> mau makan duluan atau kita tungguin dulu ya </s>
+<s> menurutku makan duluan aja tapi kita kasih tau ke mereka kita makan duluan </s>
+<s> oke kita kasih ta u aja mereka lewat line kalau kita makan duluan </s>
+<s> iya setuju aku chat di line ya </s>
+<s> mau pesen apa fis </s>
+<s> biar aku bayarin deh </s>
+<s> lagi baik nih hehe </s>
+<s> wah dalam rangka apa nih </s>
+<s> tumben baik banget </s>
+<s> hehe iya dong kan abis dapet gaji pertama </s>
+<s> harus inget temen lah </s>
+<s> oh gitu </s>
+<s> eh aku mau cumi dong sama udang deh </s>
+<s> oke aku pesenin ya </s>
+<s> sip </s>
+<s> ngomong-ngomong kamu udah nonton film avengers endgame belum </s>
+<s> gila seru banget loh itu </s>
+<s> udah dong </s>
+<s> iya emang seru banget tuh </s>
+<s> wah mantep </s>
+<s> berarti bisa kita bicarain tanpa takut spoiler nih ya haha </s>
+<s> iya lah </s>
+<s> jadi menurut kamu gimana filmnya gi </s>
+<s> menurutku filmnya secara keseluruhan bagus banget  </s>
+<s> alur cerita yang disuguhin bener-bener ga disangka-sangka sih sama penonton </s>
+<s> siapa coba yang ngira tony stark balik lagi ke bumi diselamatin sama kapten marvel </s>
+<s> kalau aku sih udah nyangka ya gi kan di trailer ada </s>
+<s> di trailer kan cuma memperlihatkan tony stark terombang-ambing di angkasa kan sama nebula </s>
+<s> keadaannya mirip kayak waktu tony stark terperangkap di gua teroris film iron man satu </s>
+<s> tony stark ga punya sumber daya teb apa-apa </s>
+<s> dia cuma punya sumber daya yang terbatas </s>
+<s> bener-bener ga kebayang kan apa yang harus dilakuin sama tony stark </s>
+<s> ku kira tony stark bakal ada penemuan canggih gitu lagi sih </s>
+<s> eh ternyata sampai sekarat hampir mati terus ditolongin sama kapten marvel hehe </s>
+<s> hem menarik juga analisa mu </s>
+<s> terus ya di awal-awal agak lucu tapi sedih gimana gitu sih </s>
+<s> kayak sebenernya digambarin kan bagaimana keadaan bumi setelah lima tahun kejadian snap itu </s>
+<s> ada baiknya juga ternyata seperti yang dikatain thanos </s>
+<s> bumi tuh jadi lebih rapih terus tertata karena sedikit orang yang berbuat kerusakan </s>
+<s> tapi dilain sisi banyak juga kesedihannya sih </s>
+<s> manusia itu kan makhluk yang berperasaan ya cia </s>
+<s> mereka sedih karena kehilangan suami istri anak pacar sahabat dan orang terdekat lainnya </s>
+<s> thanos kan ga punya perusaan gi perasaan gi </s>
+<s> dia ga mikir sampe situ sih haha </s>
+<s> iya juga sih </s>
+<s> eh tapi di beberapa tempat yang orangnya tersisa orang jahat kotanya jadi ancur banget tuh </s>
+<s> mereka menguasai tempat itu dengan kejahatan </s>
+<s> terus ada adegan ga disangka lagi nih </s>
+<s> ternyata si hawkeye jadi assasin gitu pendekar bersamurai </s>
+<s> yaelah ronin kali maksudnya </s>
+<s> oh iya ronin bener maksudnya </s>
+<s> intinya dia kayak semacam membasmi kejahatan di daerah jepang gitu kan </s>
+<s> iya sampe sini aku setuju sih gi </s>
+<s> nah salah satu adegan yang masih diga digambarin lima tahun pasca kejadian tuh ceritanya si antman </s>
+<s> agak lucu gitu sih </s>
+<s> pas kejadian snap lima tahun yang lalu ternyata antman lagi misi ngambil materi di quantum realm gitu dunia kuantum lah </s>
+<s> jadi dia ga kena tuh efek snapnya </s>
+<s> tapi sayangnya dia gabisa keluar dari dunia kuantum itu karena hank pymes sama orang-orang yang operasiin alatnya itu kena efek snap alias ngilang gitu </s>
+<s> dia bingung gitu kan kok dia ga keluar-keluar ini pada kemana ya temen-temennya </s>
+<s> nah beruntungnya lima tahun kemudian di dunia nyata ya ada tikus yang ga sengaja nyenggol alat kuantumnya itu </s>
+<s> jadi selamat deh si antman </s>
+<s> haha iya itu lucu banget dah </s>
+<s> hidup dia diselamatkan tikus cui </s>
+<s> kalau ga ada tikus udah kacau ini film haha </s>
+<s> jadi satu bagian kejadian diantara empat belas juta kemungkinan kejadian yang diramalin si sapa dokter strange itu adalah kejadian tikus nyenggol haha </s>
+<s> si antman ini emang salah satu yang paling lucu di film ini sih </s>
+<s> iya lucu banget emang apalagi kalau ada temen indianya itu tapi di film ini ga ada si </s>
+<s> oh iya lanjut lagi nih selain lucu si antman ini sebenernya jadi kunci juga loh di film ini </s>
+<s> meskipun antman ga sepinter tony stark ya tapi si antman ni paham bahwa dalam dunia kuantum itu waktu berjalan dengan berbeda </s>
+<s> lima tahun di dunia nyata ternyata hanya dirasakan satu jam dalam dunia kuantum </s>
+<s> jadi caranya tuh kayak di dunia kantu di dunia quantum kita bisa cari titik keluar ke dunia nyata pada waktu tertentu </s>
+<s> halah bingung kan bingung kan </s>
+<s> ya kayak semacam ada pintu ke waktu tertentu gitu sih </s>
+<s> wah yang dunia quantum gitu-gitu aku ga terlalu paham sih gi </s>
+<s> yang jelas dia emang inisiasi tuh e ngasih tau ke temen-temen avenger ada kesempatan itu </s>
+<s> nah dari ide itu tuh awalnya diimplementasiin sama si professor hulk kan </s>
+<s> oh ya professor hulk itu kombinasi antara dokter barnes sama hulk ya </s>
+<s> jadi badannya tuh gede ijo tapi otaknya pinter ga beringas lagi hahaha </s>
+<s> ha iya itu </s>
+<s> eh balik lagi ding eh balik lagi dong ke cerita tadi </s>
+<s> hehe maap maap jadi kemana-mana ya ceritanya </s>
+<s> lanjut nih ya </s>
+<s> nah alat perjalanan waktu pertama itu yang dibuat sama professor hulk ternyata ga terlalu berhasil fis </s>
+<s> waktu dicobain ke antman si antman malah jadi kakek-kakek terus anak kecil terus lagi malah jadi bayi </s>
+<s> waktu jadi normal lagi dia bingung </s>
+<s> kok celananya basah </s>
+<s> siapa yang pipis haha </s>
+<s> haha iya itu lucu banget </s>
+<s> padahal yang pipis kan diri dia sendiri waktu bayi haha </s>
+<s> meskipun gagal avenger yang dipimpin kapten amerika ga nyerah nih </s>
+<s> mereka akhirnya pergi ke rumah tony untuk minta bantuan karena dia yang paling jenius diantara avenger lainnya </s>
+<s> bukannya kapten amerika itu lagi musuhan ya sama tony </s>
+<s> iya fis tapi kapten amerika lebih ngedepanin kepentingan banyak orang dibanding kepentingan dia sendiri </s>
+<s> singkat cerita dengan berbagai drama yang terjadi tuh tony akhirnya mau  </s>
+<s> akhirnya dibuat deh alat perjalanan waktunya sama tony stark </s>
+<s> terus sukses kan alatnya tony </s>
+<s> sukses besar dong </s>
+<s> dari situ mereka rencanain perjalanan waktu untuk dapetin semua batu tak terhingga </s>
+<s> oh ya sampai sini aku inget </s>
+<s> rencananya dengan semua batu itu mereka mau ngembaliin semua makhluk hidup kan yang kena efek snap </s>
+<s> iya bener banget </s>
+<s> mereka akhirnya bagi-bagi tugas tuh </s>
+<s> ada yang ke tahun 2013 ada yang ke asgard ada yang ke vormir sama beberapa lagi aku lupa ya </s>
+<s> ah iya bener </s>
+<s> aku inget tuh yang tony stark ke tahun 2013 </s>
+<s> mereka sempat gagal disitu kan karena ulahnya loki </s>
+<s> terus mereka balik lagi tuh ke masa perang dunia dua  </s>
+<s> uniknya waktu perjalanan itu tony ketemu sama bapaknya sendiri </s>
+<s> kikuk gitu sih haha </s>
+<s> singkat cerita mereka berhasil nih dapet semua batu tak terhingga dan berhasil ngembaliin semua makhluk hidup yang kena efek snap </s>
+<s> sukses sih gi tapi kalau ga salah ternyata thanos dan kawan-kawannya itu mengetahui loh rencananya avenger </s>
+<s> thanos tau waktu nebula balik ke masa lalu </s>
+<s> otaknya nebula itu terkonn apa ya tersinkronisasi sama otaknya nebula yang masa lalu </s>
+<s> kok kaya komputil komputasi awan gitu ya tersinkronisasi haha </s>
+<s> singkat cerita mereka ngelakuin perjalanan waktu terus tarung sama avenger </s>
+<s> wah itu tuh yang seru banget tarungnya </s>
+<s> semua karakter keren-keren ada disitu </s>
+<s> ada kejadian ga terduga lain sih fis </s>
+<s> kapten amerika ternyata bisa ngangkat palunya thor </s>
+<s> padahal kan waktu dulu ga bisa ya </s>
+<s> eh iya kenapa kapten amerika bisa ngangkat ya </s>
+<s> menurut teori konspirasi yang aku baca sih ya ternyata kapten amerika udah jujur sama tony bahwa yang bunuh ayahnya tony adalah sahabatnya kapten amerika sendiri </s>
+<s> oh iya bener </s>
+<s> eh sorry sorry aku lanjut lagi nih ya ke ceritanya </s>
+<s> klimaks dari cerita ini wah itu sih yang paling ga terduga dari semua adegan yang ada </s>
+<s> tony berhasil snap lagi batu tak terhingga itu buat ngilangin semua pasukannya thanos </s>
+<s> dan sayangnya tony akhirnya mati juga karena tubuhnya ga kuat sama radiasi gamma </s>
+<s> wah iya itu sedih banget </s>
+<s> kenapa tony mati ya </s>
+<s> banyak yang nangis juga </s>
+<s> tapi aku engga sih </s>
+<s> cuma sedikit aja hehe </s>
+<s> eh kalian udah selese makan ya </s>
+<s> maap nih baru selesai kelas </s>
+<s> santai kita makannya lama kok </s>
+<s> kebanyakan bahas film endgame tadi </s>
+<s> wah pengen juga dong bahas film endgame </s>
+<s> haduh telat sih do </s>
+<s> udah selesai ceritanya hahahaha </s>
+<s> hem yaudah deh aku gabung makan aja ya </s>
+<s> ok </s>
